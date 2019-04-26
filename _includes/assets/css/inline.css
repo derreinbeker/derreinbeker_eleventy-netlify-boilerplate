@@ -113,6 +113,10 @@ article {
 	border-bottom: 1px solid var(--white);
 }
 
+img {
+	max-width: 100%;
+}
+
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;

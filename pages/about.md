@@ -11,8 +11,8 @@ Sandtner Werbung GbR
 Jahnstraße 18  
 21465 Reinbek
 
-**Telefon:**	040/727 30 117  
-**Fax:**	040/727 30 118  
+**Telefon:** (040) 727 30 117  
+**Fax:** (040) 727 30 118  
 **E-Mail:** <redaktion@derreinbeker.de>
 
 **USt-IdNr.:** DE 240 560 837

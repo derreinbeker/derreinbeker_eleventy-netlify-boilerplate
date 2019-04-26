@@ -1,27 +1,22 @@
 ---
-title: This is my first post
-summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2015-01-01
+title: Dies ist der erste Artikel
+date: 2019-04-25T22:00:00.000Z
+summary: >-
+  Eine kleine Zusammenfassung des Artikels kann man auch formulieren. Mal sehen,
+  wo die wie verwendet wird. Bin gespannt.
 tags:
-  - post
-  - tech
-  - environment
-  - politics
-  - sport
+  - Wentorf
+  - Stadt Reinbek
+  - Nix
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+![](/static/img/logo.png "Das Organisationsteam: Rolf Loose, Susann Pötter, Kurt Martens, Anke Conradi")
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Inzwischen ist die Veranstaltung mit bis zu 3000 Besuchern als eine feste Institution im Kreis und in der Umgebung bekannt. Und sie wird jedes Jahr größer und informativer: mittlerweile sind 49 Aussteller aus unterschiedlichen Bereichen vor Ort. Es geht von Seniorenheimen über Reiseveranstalter bis hin zu Tischlereien, Hörgeräteakustiker, Immobilienexperten, Speditionen und Rechtsanwälten. Auch die TSV Reinbek, ein Patientenombudsmann und eine Firma für Bettduschen sind mit dabei. Die Fahrtüchtigkeit lässt sich am Fahrsimulator prüfen, zudem gibt es Hör- und Sehtests sowie eine Fotobox für kostenlose Erinnerungsfotos. 19 Aussteller sind in diesem Jahr neu.
 
-## Section Header
+## Motto: "Spätlese"
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Rolf Loose: 
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+> Das Motto wechselt jedes Jahr, 'Spätlese' nimmt dabei einmal Bezug auf das Alter der Besucher, außerdem wollen wir damit auch auf die plattdeutsche Lesung des Geesthachters Günter Lemke zum Messeausklang am Sonnabend, 17 Uhr, hinweisen. Übrigens ist nur hier ein Eintritt von € 5,- (inklusive Glas Wein) zu bezahlen, die Messe an sich ist kostenlos.
+
+Wie schon in den vergangenen Jahren gibt es zahlreiche Vorträge von Experten mit vielen Fachthemen, die auch für die Angehörigen der Senioren interessant sind. Zum Beispiel von Jörg Wischermann, Fachmann für Hausautomation sowie Alarm- und Sicherheitstechnik. Polizist Tino Sdunek gibt Tipps zum Schutz vor Einbrechern, Olaf Hübner (Immobilien) referiert über die Leibrente. Weitere Themen sind Demenz, Betreuung und Vollmachten, die Testamentsgestaltung sowie der digitale Nachlass. Die Vorträge finden im Trauzimmer des Schlosses statt.

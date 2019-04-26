@@ -1,5 +1,5 @@
 ---
-title: Kontakt/Impressum
+title: Kontakt
 date: 2004-01-01
 permalink: /about/index.html
 navtitle: Kontakt

@@ -6,12 +6,14 @@ summary: >-
   wo die wie verwendet wird. Bin gespannt.
 tags:
   - Wentorf
-  - Stadt Reinbek
-  - Nix
+  - Politik
 ---
+
+Inzwischen ist die Veranstaltung mit bis zu 3000 Besuchern als eine feste Institution im Kreis und in der Umgebung bekannt. Und sie wird jedes Jahr größer und informativer: mittlerweile sind 49 Aussteller aus unterschiedlichen Bereichen vor Ort. 
+
 ![](/static/img/logo.png "Das Organisationsteam: Rolf Loose, Susann Pötter, Kurt Martens, Anke Conradi")
 
-Inzwischen ist die Veranstaltung mit bis zu 3000 Besuchern als eine feste Institution im Kreis und in der Umgebung bekannt. Und sie wird jedes Jahr größer und informativer: mittlerweile sind 49 Aussteller aus unterschiedlichen Bereichen vor Ort. Es geht von Seniorenheimen über Reiseveranstalter bis hin zu Tischlereien, Hörgeräteakustiker, Immobilienexperten, Speditionen und Rechtsanwälten. Auch die TSV Reinbek, ein Patientenombudsmann und eine Firma für Bettduschen sind mit dabei. Die Fahrtüchtigkeit lässt sich am Fahrsimulator prüfen, zudem gibt es Hör- und Sehtests sowie eine Fotobox für kostenlose Erinnerungsfotos. 19 Aussteller sind in diesem Jahr neu.
+Es geht von Seniorenheimen über Reiseveranstalter bis hin zu Tischlereien, Hörgeräteakustiker, Immobilienexperten, Speditionen und Rechtsanwälten. Auch die TSV Reinbek, ein Patientenombudsmann und eine Firma für Bettduschen sind mit dabei. Die Fahrtüchtigkeit lässt sich am Fahrsimulator prüfen, zudem gibt es Hör- und Sehtests sowie eine Fotobox für kostenlose Erinnerungsfotos. 19 Aussteller sind in diesem Jahr neu.
 
 ## Motto: "Spätlese"
 

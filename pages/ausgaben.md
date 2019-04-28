@@ -1,4 +1,5 @@
 ---
+layout: layouts/ausgabenlist.njk
 title: Ausgaben
 date: 2003-01-01
 permalink: /ausgaben/index.html

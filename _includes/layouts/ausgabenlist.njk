@@ -9,7 +9,7 @@ section: page
 
 <div class="ausgaben-liste">
 	<ul>
-	{% for filename in ausgaben | reverse %}
+	{% for filename in ausgaben %}
 	   <li><a href="https://derreinbeker.de/ausgaben/{{ filename }}">{{ filename }}</a></li>
 	{% endfor %}
 	<ul>

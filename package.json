@@ -23,6 +23,7 @@
   "homepage": "https://github.com/derreinbeker/derreinbeker_eleventy-netlify-boilerplate",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.2",
+    "full-icu": "^1.2.1",
     "luxon": "^1.12.1",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.0.2"

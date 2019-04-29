@@ -1,0 +1,18 @@
+---
+layout: layouts/page.njk
+title: Kategorien
+date: 2003-01-01
+permalink: /kategorien/
+navtitle: Kategorien
+tags:
+  - nav
+---
+
+<ul>
+{% for category in collections.categories | sort %}
+  {% set categoryUrl %}/kategorien/{{ category | slug }}/{% endset %}
+  <li>
+  <a href="{{ categoryUrl | url }}" class="cat">{{ category }}</a>
+  </li>
+{% endfor %}
+</ul>

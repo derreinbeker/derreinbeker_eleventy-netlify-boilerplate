@@ -4,6 +4,7 @@ date: 2019-04-25T22:00:00.000Z
 summary: >-
   Eine kleine Zusammenfassung des Artikels kann man auch formulieren. Mal sehen,
   wo die wie verwendet wird. Bin gespannt.
+category: Politik
 tags:
   - Wentorf
   - Politik

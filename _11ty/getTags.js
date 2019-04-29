@@ -10,7 +10,7 @@ module.exports = function(collection) {
         tags = [tags];
       }
 
-      tags = tags.filter( item => !item.startsWith('_'))
+      tags = tags.filter( item => !item.startsWith('_') && item !== '')
 
       for (const tag of tags) {
         tagSet.add(tag);

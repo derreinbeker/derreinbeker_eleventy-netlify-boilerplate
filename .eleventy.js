@@ -51,6 +51,7 @@ module.exports = function(eleventyConfig) {
     });
   });
   
+  eleventyConfig.addCollection("tagList",    require("./_11ty/getTags"))
   eleventyConfig.addCollection("categories",    require("./_11ty/getCategories"))
   eleventyConfig.addCollection("categoriesMap", require("./_11ty/makeCategoriesMap"))
 

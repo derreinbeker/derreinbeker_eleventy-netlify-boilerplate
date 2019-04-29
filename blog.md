@@ -2,7 +2,7 @@
 layout: layouts/blog.njk
 title: Artikel
 tags:
-  - nav
+  - _nav
 navtitle: Artikel
 date: 2002-01-01
 ---

@@ -4,7 +4,7 @@ date: 2004-01-01
 permalink: /kontakt/index.html
 navtitle: Kontakt
 tags:
-  - nav
+  - _nav
 ---
 
 Sandtner Werbung GbR  

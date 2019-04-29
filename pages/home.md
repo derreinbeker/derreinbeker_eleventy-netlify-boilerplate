@@ -5,7 +5,7 @@ date: 2001-01-01
 permalink: /
 navtitle: Home
 tags:
-  - nav
+  - _nav
 ---
 # Hallöle!
 

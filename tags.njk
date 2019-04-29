@@ -15,11 +15,11 @@ permalink: /tags/{{ tag | slug }}/
 layout: layouts/base.njk
 ---
 
-<h1>“{{ tag }}”</h1>
+<h1>Schlagwort “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/tags/' | url }}">← Alle Tags</a>
+  <a href="{{ '/tags/' | url }}">← Schlagwörter</a>
 </nav>

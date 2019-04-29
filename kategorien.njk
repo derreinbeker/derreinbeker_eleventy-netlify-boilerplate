@@ -8,7 +8,7 @@ pagination:
 permalink: kategorien/{{ articles[0].data.category | slug }}/
 ---
 
-<h1>{{articles[0].data.category }}</h1>
+<h1>Kategorie “{{articles[0].data.category }}”</h1>
 
 {% set postslist = articles %}
 {% include "components/postslist.njk" %}

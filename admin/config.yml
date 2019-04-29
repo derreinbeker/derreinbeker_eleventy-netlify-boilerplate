@@ -10,16 +10,17 @@ media_folder: "static/img" # Media files will be stored in the repo under images
 collections:
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
+    label: "Artikel" # Used in the UI
     folder: "posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Zusammenfassung", name: "summary", widget: "text" }
+      - { label: "Kategorie", name: "category", widget: "text"}
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
@@ -27,9 +28,9 @@ collections:
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Navigation Title", name: "navtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
+      - { label: "Navigations-Titel", name: "navtitle", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "hidden", default: "_nav" }
       - { label: "Body", name: "body", widget: "markdown" }

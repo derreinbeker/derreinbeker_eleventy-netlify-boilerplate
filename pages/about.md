@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 date: 2004-01-01
-permalink: /about/index.html
+permalink: /kontakt/index.html
 navtitle: Kontakt
 tags:
   - nav

@@ -5,5 +5,4 @@ tags:
   - nav
 navtitle: Artikel
 date: 2002-01-01
-permalink: /blog/index.html
 ---

@@ -202,6 +202,14 @@ button {
 	cursor: pointer;
 }
 
+.tag-list {
+	column-count: 3;
+}
+
+.category-list {
+	column-count: 1;
+}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;

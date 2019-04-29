@@ -9,7 +9,7 @@ layout: layouts/base.njk
            list-style-position: outside;
            padding-left: 0">
 {% for tag in collections.tagList | sort(false, true) %}
-  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <li><a href="{{ tagUrl | url }}" class="atag">{{ tag }}</a></li>
 {% endfor %}
 </ul>

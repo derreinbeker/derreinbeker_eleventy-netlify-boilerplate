@@ -7,7 +7,7 @@ summary: >-
 category: Politik
 tags:
   - Wentorf
-  - Politik
+  - Osterfeuer
 ---
 Inzwischen ist die Veranstaltung mit bis zu 3000 Besuchern als eine feste Institution im Kreis und in der Umgebung bekannt. Und sie wird jedes Jahr größer und informativer: mittlerweile sind 49 Aussteller aus unterschiedlichen Bereichen vor Ort. 
 

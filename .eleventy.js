@@ -51,12 +51,8 @@ module.exports = function(eleventyConfig) {
     });
   });
   
-  // all Categories
-  eleventyConfig.addCollection("categories", function(collection) {
-  	let catSet = new Set()
-	collection.getAllSorted().forEach(item => typeof item.data.category === "string" &&  catSet.add(item.data.category))
-  	return [...catSet]
-  });
+  eleventyConfig.addCollection("categories",    require("./_11ty/getCategories"))
+  eleventyConfig.addCollection("categoriesMap", require("./_11ty/makeCategoriesMap"))
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");

@@ -1,10 +1,18 @@
 ---
 layout: layouts/base.njk
 pagination:
-  data: collections.categories
+  data: collections.categoriesMap
+  resolve: values
   size: 1
-  alias: category
-permalink: kategorien/{{ category | slug }}/
+  alias: articles
+permalink: kategorien/{{ articles[0].data.category | slug }}/
 ---
 
-<h1>{{ category }}</h1>
+<h1>{{articles[0].data.category }}</h1>
+
+{% set postslist = articles %}
+{% include "components/postslist.njk" %}
+
+<nav>
+  <a href="{{ '/kategorien/' | url }}">← Kategorien</a>
+</nav>

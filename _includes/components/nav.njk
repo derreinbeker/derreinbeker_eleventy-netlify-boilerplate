@@ -2,7 +2,7 @@
   <ul>
   {%- for nav in navigationEntries -%}
     <li>
-      <a href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>{{ nav.title }}</a>
+      <a href="{{ nav.url | url }}"{% if nav.url in page.url %} data-current="current item"{% endif %}>{{ nav.title }}</a>
     </li>
   {%- endfor -%}
   </ul>

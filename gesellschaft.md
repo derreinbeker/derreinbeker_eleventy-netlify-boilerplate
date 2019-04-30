@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/artikelliste.njk
 title: Gesellschaft
 tags: _nav
 navtitle: Gesellschaft

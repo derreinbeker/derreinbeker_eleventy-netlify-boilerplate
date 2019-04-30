@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/artikelliste.njk
 title: Home
 tags: _nav
 navtitle: Home

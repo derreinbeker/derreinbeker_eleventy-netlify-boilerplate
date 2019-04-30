@@ -2,7 +2,7 @@
 title: Erster Artikel über Netlify
 date: 2019-04-29T21:41:59.094Z
 summary: 'Dies ist der erste Artikel, der aus dem Netlify-CMS heraus erstellt wurde.'
-category: Leserbriefe
+category: Gesellschaft
 tags:
   - ''
 ---

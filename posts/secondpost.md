@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00.000Z
 summary: >-
   Why contemplating our mortality can be a powerful catalyst for change. Und so
   weiter.
-category: Bananen
+category: Politik
 tags:
   - Reinbek
   - Schloss Reinbek

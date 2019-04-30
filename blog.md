@@ -1,7 +1,8 @@
 ---
 layout: layouts/blog.njk
-title: Artikel
+title: Home
 tags: _nav
-navtitle: Artikel
-date: 2002-01-01 # Hiernach werden die Items für die Navigation (tag "_nav") sortiert
+navtitle: Home
+date: 2001-01-01 # Hiernach werden die Items für die Navigation (tag "_nav") sortiert
+permalink: /
 ---

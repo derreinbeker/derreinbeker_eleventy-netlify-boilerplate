@@ -1,6 +1,7 @@
 ---
 title: This is my third post which has a rather long title
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: >-
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea tak.
 date: 2017-01-01
 category: Kultur
 tags:

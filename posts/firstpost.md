@@ -2,8 +2,7 @@
 title: Dies ist der erste Artikel
 date: 2019-04-25T22:00:00.000Z
 summary: >-
-  Eine kleine Zusammenfassung des Artikels kann man auch formulieren. Mal sehen,
-  wo die wie verwendet wird. Bin gespannt.
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea tak.
 category: Gesellschaft
 tags:
   - Wentorf

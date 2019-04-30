@@ -5,7 +5,7 @@ pagination:
   resolve: values
   size: 1
   alias: articles
-permalink: kategorien/{{ articles[0].data.category | slug }}/
+permalink: /{{ articles[0].data.category | slug }}/
 ---
 
 <h1>Kategorie “{{articles[0].data.category }}”</h1>

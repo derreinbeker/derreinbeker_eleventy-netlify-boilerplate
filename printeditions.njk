@@ -6,9 +6,9 @@ navtitle: Ausgaben
 tags:
   - _nav
 printeditions:
-  - {filename: 2019-04-29.pdf, name: 29.04.2019}
-  - {filename: 2019-04-08.pdf, name: 08.04.2019}
-  - {filename: 2019-03-25.pdf, name: 25.03.2019}
+  - {filename: 2019-04-29.pdf, title: 29.04.2019}
+  - {filename: 2019-04-08.pdf, title: 08.04.2019}
+  - {filename: 2019-03-25.pdf, title: 25.03.2019}
 ---
 
 <p>Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
@@ -17,7 +17,7 @@ printeditions:
 <div class="printeditions">
 	<ul>
 	{% for edition in printeditions %}
-	   <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.name }}</a></li>
+	   <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
 	{% endfor %}
 	<ul>
 </div>

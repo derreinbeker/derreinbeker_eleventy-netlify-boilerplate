@@ -1,10 +1,9 @@
 ---
 title: Kontakt
-date: 2004-01-01
-permalink: /kontakt/index.html
 navtitle: Kontakt
-tags:
-  - _nav
+tags: _nav
+date: 2004-01-01 # Hiernach werden die Items für die Navigation (tag "_nav") sortiert
+permalink: /kontakt/index.html
 ---
 
 Sandtner Werbung GbR  

@@ -1,8 +1,8 @@
 <nav>
   <ul>
-  {%- for nav in collections._nav | sort(attribute="date") -%}
+  {%- for nav in navigationEntries -%}
     <li>
-      <a href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>{{ nav.data.navtitle }}</a>
+      <a href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>{{ nav.title }}</a>
     </li>
   {%- endfor -%}
   </ul>

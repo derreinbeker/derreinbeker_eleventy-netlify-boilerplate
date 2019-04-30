@@ -1,8 +1,6 @@
 ---
-title: Kontakt
-navtitle: Kontakt
-tags: _nav
-date: 2004-01-01 # Hiernach werden die Items für die Navigation (tag "_nav") sortiert
+layouts: layouts/base.njk
+title: Kontakt/Impressum
 permalink: /kontakt/index.html
 ---
 

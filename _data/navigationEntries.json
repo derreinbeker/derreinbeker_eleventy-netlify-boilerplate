@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Politik",
+		"url": "/politik/"
+	},
+	{
+		"title": "Gesellschaft",
+		"url": "/gesellschaft/"
+	},
+	{
+		"title": "Kultur",
+		"url": "/kultur/"
+	},
+	{
+		"title": "Meinung",
+		"url": "/meinung/"
+	},
+	{
+		"title": "Ausgaben",
+		"url": "/ausgaben/"
+	},
+	{
+		"title": "Kontakt",
+		"url": "/kontakt/"
+	}
+]

@@ -10,7 +10,7 @@ layout: layouts/base.njk
     </small>
   </p>
 
-  {{ layoutContent | safe }}
+  {{ content | safe }}
 
   {% if tags %}
     <p>
@@ -24,7 +24,3 @@ layout: layouts/base.njk
   {% endif %}
 
 </article>
-
-<nav>
-  <a href="{{ '/artikel/' | url }}">← Alle Artikel</a>
-</nav>

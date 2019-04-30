@@ -32,5 +32,5 @@ collections:
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Navigations-Titel", name: "navtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "_nav" }
+      - { label: "Tags", name: "tags", widget: "hidden" }
       - { label: "Body", name: "body", widget: "markdown" }

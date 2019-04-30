@@ -1,12 +1,12 @@
 ---
-permalink: /tags/
+permalink: /thema/
 layout: layouts/base.njk
 ---
-<h1>Schlagwörter</h1>
+<h1>Themen</h1>
 
 <ul class="tag-list">
 {% for tag in collections.tagList | sort(false, true) %}
-  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  {% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
 {% endfor %}
 </ul>

@@ -11,15 +11,15 @@ pagination:
     - post
     - posts
     - ''
-permalink: /tags/{{ tag | slug }}/
+permalink: /thema/{{ tag | slug }}/
 layout: layouts/base.njk
 ---
 
-<h1>Schlagwort “{{ tag }}”</h1>
+<h1>{{ tag }}</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/tags/' | url }}">← Schlagwörter</a>
+  <a href="{{ '/thema/' | url }}">← Themen</a>
 </nav>

@@ -15,9 +15,7 @@ body {
 }
 
 body {
-	display: grid;
 	height: 100vh;
-	grid-template-rows: auto 1fr auto;
 	background-color: var(--white);
 }
 
@@ -98,42 +96,64 @@ header > em {
 	font-style: normal;
 }
 
-/* Header Nav */
-/* siehe hierzu auch "The Flexbox Method" unter https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6 */
-header nav {
-	display: flex;
-	flex-wrap: nowrap;
-	overflow-x: auto;
-	margin-bottom: 20px;
-	width: 100%;
-	-webkit-overflow-scrolling: touch;
+/* Navigation */ 
+#firstNavigationWrapper {
+    margin-top:2px;
+    padding-bottom:10px;
+    height:40px;
+    line-height:28px;
+    overflow:hidden;
+    position:relative
 }
 
-header nav::-webkit-scrollbar {
-	display: none;
+#secondNavigationWrapper {
+    -webkit-user-select:none;
+    display:block;
+    height:51px;
+    overflow-y:hidden;
+    padding:0;
+    position:relative;
+    -webkit-overflow-scrolling:touch;
+    overflow-x:scroll;
+    box-shadow:0 7px 6px -5px #dfe1e5;
+    height:40px;
+    margin-right:-3px
 }
 
-header nav ul {
-	flex: 0 0 auto;
-	margin-right: 3px;
+#secondNavigationWrapper::-webkit-scrollbar {
+    display:none
 }
 
-header nav ul :first-child {
-	margin-left: 0;
+#navigationContainer {
+    display:inline-block;
+    white-space:nowrap;
+    overflow:hidden
 }
 
-header nav li {
-	display: inline-block;
-	margin: 0 .5em;
+.navigationItem {
+    display:inline-block;
+    line-height:27px;
+    height:32px;
+    margin-top:8px;
+    padding-right: 16px;
+    text-align:center
 }
 
-header nav li a[href]:not(:hover) {
-	text-decoration: none;
-}
-
-header nav li a[data-current="current item"] {
+.navigationItem a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
+}
+
+#rightAlignedNavGradient {
+    background:-webkit-gradient(linear,left top,right top,color-stop(0,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,1)));
+    border-bottom-right-radius:8px;
+    height:40px;
+    position:absolute;
+    pointer-events:none;
+    right:0;
+    top:0;
+    width:24px;
+    z-index:2
 }
 
 /* Posts List */

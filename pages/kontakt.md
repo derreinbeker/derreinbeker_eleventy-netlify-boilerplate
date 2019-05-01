@@ -1,6 +1,6 @@
 ---
 layouts: layouts/base.njk
-title: Kontakt/Impressum
+title: Kontakt
 permalink: /kontakt/index.html
 disableFormatDetection: true
 ---

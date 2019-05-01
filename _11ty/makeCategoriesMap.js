@@ -26,4 +26,3 @@ module.exports = function(collection) {
   debug(categories)
   return categories
 }
- 

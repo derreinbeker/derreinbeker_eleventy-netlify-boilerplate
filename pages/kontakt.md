@@ -2,13 +2,14 @@
 layouts: layouts/base.njk
 title: Kontakt/Impressum
 permalink: /kontakt/index.html
+disableFormatDetection: true
 ---
 
 Sandtner Werbung GbR  
 Jahnstraße 18  
 21465 Reinbek
 
-**Telefon:** (040) 727 30 117  
+**Telefon:** [(040) 727 30 117](tel:+494072730117)  
 **Fax:** (040) 727 30 118  
 **E-Mail:** <redaktion@derreinbeker.de>
 

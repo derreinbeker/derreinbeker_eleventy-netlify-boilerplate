@@ -7,7 +7,7 @@ layout: layouts/base.njk
 	<h1>{{ title }}</h1>
 	<p>
 	  <small>
-	    <time datetime="{{ date | machineDate }}" pubdate="pubdate">{{ date | readableDate }}</time> {{ metadata.author.name }}
+	    <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> {{ metadata.author.name }}
 	  </small>
 	</p>
   </header>

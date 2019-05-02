@@ -10,7 +10,7 @@ summary: >-
   velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat
   cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est
   laborum.
-category: Gesellschaft
+category: Panorama
 tags:
   - Kirchen
   - Reinbek

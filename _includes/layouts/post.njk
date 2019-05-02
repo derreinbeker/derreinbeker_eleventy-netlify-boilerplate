@@ -3,24 +3,26 @@ layout: layouts/base.njk
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>, {{ metadata.author.name }}
-    </small>
-  </p>
-
-  {{ content | safe }}
-
-  {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </p>
-  {% endif %}
+  <header>
+	<h1>{{ title }}</h1>
+	<p>
+	  <small>
+	    <time datetime="{{ date | machineDate }}" pubdate="pubdate">{{ date | readableDate }}</time> {{ metadata.author.name }}
+	  </small>
+	</p>
+  </header>
+  
+	{{ content | safe }}
+	
+	{% if tags %}
+	  <p>
+	  {% for tag in tags %}
+	    {%- if tag != "post" -%}
+	      {% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
+	      <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+	    {%- endif -%}
+	  {% endfor %}
+	  </p>
+	{% endif %}
 
 </article>

@@ -52,7 +52,7 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
+body > header,
 main,
 footer {
 	padding: 1em;
@@ -90,7 +90,7 @@ ul {
 }
 
 /* Header Logo (style as h2) */
-header > em {
+body > header > em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
@@ -100,7 +100,7 @@ header > em {
 
 /* Header Nav */
 /* siehe hierzu auch "The Flexbox Method" unter https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6 */
-header nav {
+body > header nav {
 	display: flex;
 	flex-wrap: nowrap;
 	overflow-x: auto;
@@ -109,29 +109,29 @@ header nav {
 	-webkit-overflow-scrolling: touch;
 }
 
-header nav::-webkit-scrollbar {
+body > header nav::-webkit-scrollbar {
 	display: none;
 }
 
-header nav ul {
+body > header nav ul {
 	flex: 0 0 auto;
 	margin-right: 3px;
 }
 
-header nav ul :first-child {
+body > header nav ul :first-child {
 	margin-left: 0;
 }
 
-header nav li {
+body > header nav li {
 	display: inline-block;
 	margin: 0 .5em;
 }
 
-header nav li a[href]:not(:hover) {
+body > header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
+body > header nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
 }

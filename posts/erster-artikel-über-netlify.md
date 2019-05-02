@@ -1,5 +1,5 @@
 ---
-title: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz
+title: Dies ist der erste Netlify-Artikel
 date: 2019-04-29T21:41:59.094Z
 summary: >-
   Dies ist der erste Artikel, der aus dem Netlify-CMS heraus erstellt wurde.

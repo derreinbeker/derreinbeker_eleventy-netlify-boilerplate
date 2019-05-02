@@ -1,10 +1,9 @@
-<div id="firstNavigationWrapper">
-	<div id="rightAlignedNavGradient"></div>
-	<div id="secondNavigationWrapper">
-		<div id="navigationContainer">
-		{%- for nav in navigationEntries -%}
-			<div class="navigationItem"><a href="{{ nav.url | url }}"{% if page.url.startsWith(nav.url) %} data-current="current item"{% endif %}>{{ nav.title }}</a></div>
-		{%- endfor -%}
-		</div>
-	</div>
-</div>
+<nav>
+  <ul>
+  {%- for nav in navigationEntries -%}
+    <li>
+      <a href="{{ nav.url | url }}"{% if page.url.startsWith(nav.url) %} data-current="current item"{% endif %}>{{ nav.title }}</a>
+    </li>
+  {%- endfor -%}
+  </ul>
+</nav>

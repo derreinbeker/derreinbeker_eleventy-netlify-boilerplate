@@ -194,6 +194,7 @@ a[rel="tag"]:visited {
 	border-radius: .25em;
 	text-decoration: none;
 	margin: 0 .5em .5em 0;
+	white-space: nowrap;
 }
 
 a[rel="tag"]:hover {

@@ -3,6 +3,7 @@ title: >-
   Flüchtlingsinitiative: »Unterkunft am Senefelder Ring ist
   menschenunwürdig«Verwaltung sucht händeringend Wohnungen für Flüchtlinge
 date: 2019-04-08T15:09:37.881Z
+authorname: Kerstin Völling
 summary: Verwaltung sucht händeringend Wohnungen für Flüchtlinge
 category: Politik
 tags:
@@ -25,4 +26,3 @@ Ziehm hatte vorab die Lokalpolitik eingeladen, sich die Unterkunft vor Ort anzus
 
 Unglaube sieht die Forderung der Flüchtlingsinitiative kritisch: »Wir brauchen die Unterkunft am Senefelder Ring als Puffer, auch für die Flüchtlinge, die der Stadt Reinbek künftig kurzfristig zugewiesen werden«, sagte er. Auf dem Wohnungsmarkt würde man nicht so schnell Unterkünfte bekommen. Das Thema werde auf seine Initiative hin im kommenden Sozial- und Schulausschuss ausführlich behandelt. Insbesondere soll dann diskutiert werden, was an der Flüchtlingsunterkunft am Senefelder Ring und der Betreuung in der Unterkunft verbessert werden müsse. 
 
-Kerstin Völling

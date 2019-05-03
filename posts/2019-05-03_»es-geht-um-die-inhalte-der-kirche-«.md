@@ -1,7 +1,6 @@
 ---
 title: »Es geht um die Inhalte der Kirche.«
 date: 2019-04-08T14:19:43.688Z
-summary: Den Kirchengemeinden in Norddeutschland steht ein Strukturwandel bevor.
 category: Kultur
 tags:
   - Kirchen

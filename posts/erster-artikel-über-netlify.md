@@ -4,12 +4,13 @@ date: 2019-04-29T21:41:59.094Z
 summary: >-
   Dies ist der erste Artikel, der aus dem Netlify-CMS heraus erstellt wurde.
   Hier kann man auch mehr schreiben. Lorem ipsum dolor sit amet, consectetur
-  adipisici elit, Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz eiusmod tempor incidunt ut labore et dolore magna aliqua.
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-  aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate
-  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat
-  cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est
-  laborum.
+  adipisici elit,
+  Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz eiusmod tempor
+  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.
+  Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat
+  nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa
+  qui officia deserunt mollit anim id est laborum. Test
 category: Panorama
 tags:
   - Kirchen

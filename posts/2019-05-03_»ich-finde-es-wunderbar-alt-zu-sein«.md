@@ -1,8 +1,7 @@
 ---
 title: '»Ich finde es wunderbar, alt zu sein«'
 titleintro: Gisela Gräfin von der Goltz
-author:
-  name: Denise Ariaane Funke
+authorname: Denise Ariaane Funke
 date: 2019-05-03T14:13:58.362Z
 summary: Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück.
 category: Panorama

@@ -5,7 +5,7 @@
     "tasks": [
         {
             "type": "npm",
-            "script": "develop",
+            "script": "serve",
             "group": {
                 "kind": "build",
                 "isDefault": true

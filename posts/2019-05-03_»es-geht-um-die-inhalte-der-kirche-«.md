@@ -4,7 +4,8 @@ date: 2019-04-08T14:19:43.688Z
 summary: Den Kirchengemeinden in Norddeutschland steht ein Strukturwandel bevor.
 category: Kultur
 tags:
-  - Kirchen Wohltorf
+  - Kirchen
+  - Wohltorf
 ---
 Wohltorf – Den Kirchengemeinden in Norddeutschland steht ein Strukturwandel bevor. Er beginnt  in der Spitze der Landeskirche und setzt sich fort über die Kirchenkreise bis hin zu den örtlichen Kirchengemeinden. Um sich dieser Herausforderung zu stellen, hat die Kirchengemeinde Wohltorf ihre 1.500 Mitglieder aus Wohltorf und dem Reinbeker Ortsteil Krabbenkamp zu einer Gemeindeversammlung eingeladen.
 

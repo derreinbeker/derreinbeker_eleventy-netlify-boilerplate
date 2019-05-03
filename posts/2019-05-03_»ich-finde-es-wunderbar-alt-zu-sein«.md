@@ -1,6 +1,8 @@
 ---
 title: '»Ich finde es wunderbar, alt zu sein«'
 titleintro: Gisela Gräfin von der Goltz
+author:
+  name: Denise Ariaane Funke
 date: 2019-05-03T14:13:58.362Z
 summary: Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück.
 category: Panorama
@@ -26,5 +28,3 @@ Mit 17 Jahren verliebte sie sich in Heinrich Graf von der Goltz. »Ohne den Krie
 Gleich mehrere Jahrzehnte war sie ehrenamtlich aktiv. Ab 1974 hat sie sich für die Arbeiterwohlfahrt (AWO) engagiert. »Seit 2006 habe ich mich aus der ehrenamtlichen Arbeit der AWO zurückgezogen. Es gab Zeiten, da war ich 60 Stunden die Woche für das Ehrenamt aktiv«, berichtet sie, die 15 Jahre das Amt der Vorsitzenden innehatte. 18 Jahre war sie für die SPD aktiv, vier Jahre im Kreistag und zwei Jahre als Stadtverordnete in Reinbek.
 
 »Vieles habe ich während meiner verschiedenen ehrenamtlichen Tätigkeiten gelernt. Dafür bin ich sehr dankbar«, sagt die Gräfin.
-
-Denise Ariaane Funke

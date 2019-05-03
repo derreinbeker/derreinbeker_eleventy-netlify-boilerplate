@@ -12,7 +12,7 @@ const Post = createClass({
       <main>
         <article>
           <header>
-            <h2>${entry.getIn(["data", "titleintro"], "")}<h2/>
+            <h2>${entry.getIn(["data", "titleintro"], null)}<h2/>
             <h1>${entry.getIn(["data", "title"], null)}</h1>
             <p>
               <small>

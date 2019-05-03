@@ -1,9 +1,6 @@
 ---
 title: Kennen Sie das auch?
 date: 2019-04-08T14:35:49.261Z
-summary: >-
-  Die derzeitige Unterbringung der Flüchtlinge am Senefelder Ring ist mit der
-  Reinbeker Identität nicht vereinbar!
 category: Meinung
 tags:
   - Reinbek

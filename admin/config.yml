@@ -19,7 +19,7 @@ collections:
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Zusammenfassung", name: "summary", widget: "text" }
       - { label: 'Kategorie', name: 'category', required: true, widget: 'select', options: ['Panorama', 'Kultur', 'Politik', 'Meinung'] }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Themen", name: "tags", widget: "list" }
       - { label: "Inhalt", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"

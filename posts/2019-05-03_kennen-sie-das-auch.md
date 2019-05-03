@@ -6,7 +6,8 @@ summary: >-
   Reinbeker Identität nicht vereinbar!
 category: Meinung
 tags:
-  - Reinbek Flüchtlinge
+  - Reinbek
+  - Flüchtlinge
 ---
 Von Flüchtlingen im Zusammenhang mit Problemen hatte ich schon länger nichts mehr gelesen. Themen wie Recyclinghof, Ufermauer, ContainerCampus oder Kunstrasenplatz hießen die Schlagzeilen. So ging es mir, als ich Mittwoch in der Redaktion den Bericht von Seite 1 von Frau Völling zu lesen bekam. Da steht auf einmal der Satz vor Ihnen: »Ein junger Mann ist gerade an seinem 18. Geburtstag aus einem wohlbehüteten Bereich eines Jugendheimes, in dem er ein Einzelzimmer hatte, mit drei älteren Männern im Senefelder Ring zusammengesteckt worden«. 
 <!--more-->

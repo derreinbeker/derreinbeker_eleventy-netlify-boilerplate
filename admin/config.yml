@@ -17,9 +17,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Titelintro", name: "titleintro", widget: "string" }
       - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Autor", name: "authorname", widget: "string" }
+      - { label: "Autor", name: "authorname", widget: "string", default: "Hartmuth Sandtner"}
       - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Zusammenfassung", name: "summary", widget: "text" }
       - { label: 'Kategorie', name: 'category', required: true, widget: 'select', options: ['Panorama', 'Kultur', 'Politik', 'Meinung'] }
       - { label: "Themen", name: "tags", widget: "list" }
       - { label: "Inhalt", name: "body", widget: "markdown" }

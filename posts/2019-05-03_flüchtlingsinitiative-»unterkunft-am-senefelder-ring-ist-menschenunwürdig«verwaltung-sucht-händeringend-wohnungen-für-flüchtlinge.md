@@ -4,7 +4,6 @@ title: >-
   menschenunwürdig«Verwaltung sucht händeringend Wohnungen für Flüchtlinge
 date: 2019-04-08T15:09:37.881Z
 authorname: Kerstin Völling
-summary: Verwaltung sucht händeringend Wohnungen für Flüchtlinge
 category: Politik
 tags:
   - Reinbek

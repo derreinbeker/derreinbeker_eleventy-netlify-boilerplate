@@ -1,15 +1,14 @@
 ---
-title: >-
-  Flüchtlingsinitiative: »Unterkunft am Senefelder Ring ist
-  menschenunwürdig«Verwaltung sucht händeringend Wohnungen für Flüchtlinge
-date: 2019-04-08T15:09:37.881Z
+titleintro: »Unterkunft am Senefelder Ring menschenunwürdig«
+title: Verwaltung sucht händeringend Wohnungen für Flüchtlinge
 authorname: Kerstin Völling
+date: 2019-04-08T15:09:37.881Z
 category: Politik
 tags:
   - Reinbek
-  - Fluechtlinge
+  - Flüchtlinge
 ---
-Reinbek – Die Flüchtlingsinitiative Reinbek fordert die sofortige Auflösung der Flüchtlingsunterkunft am Senefelder Ring. »Diese Unterkunft ist einfach menschenunwürdig«, kritisierte Initiativen-Sprecher Roderich Ziehm in der jüngsten Stadtverordnetenversammlung. Es gebe in der Unterkunft kein Rückzugsgebiet zum Lernen und keinen Aufenthaltsraum. Ferner seien die Schlafräume überbelegt. Trotzdem zahle ein Mann für ein Bett 400 Euro. Das sei nicht nachvollziehbar, sondern Mietwucher.  
+Die Flüchtlingsinitiative Reinbek fordert die sofortige Auflösung der Flüchtlingsunterkunft am Senefelder Ring. »Diese Unterkunft ist einfach menschenunwürdig«, kritisierte Initiativen-Sprecher Roderich Ziehm in der jüngsten Stadtverordnetenversammlung. Es gebe in der Unterkunft kein Rückzugsgebiet zum Lernen und keinen Aufenthaltsraum. Ferner seien die Schlafräume überbelegt. Trotzdem zahle ein Mann für ein Bett 400 Euro. Das sei nicht nachvollziehbar, sondern Mietwucher.  
 
 »Ein junger Mann ist gerade an seinem 18. Geburtstag aus einem wohlbehüteten Bereich eines Jugendheimes, in dem er ein Einzelzimmer hatte, mit drei älteren Männer im Senefelder Ring zusammengesteckt worden«, berichtete Ziehm. Von diesen drei Männern sei einer sehr stark alkoholgefährdet. »Da liegen Dosen in einer nicht unerheblichen Menge unterm Bett herum«, so Ziehm. Es könne nicht angehen, dass man junge Menschen so unterbringe. »Wenn der da nicht schnellstens rauskommt, ist der junge Mann für die Ewigkeit verloren«, befürchtet Ziehm.
 
@@ -24,4 +23,3 @@ Bürgeramtsleiter Torsten Christ hatte bereits im zuständigen Ausschuss erwähn
 Ziehm hatte vorab die Lokalpolitik eingeladen, sich die Unterkunft vor Ort anzusehen. Lediglich Tomas Unglaube (SPD ) war zur Begehung gekommen. Christoph Kölsch (CDU) merkte an, dass ihm die Einladung nicht bekannt gewesen sei. Weitere Politiker bestätigten die Erfahrung von Kölsch.
 
 Unglaube sieht die Forderung der Flüchtlingsinitiative kritisch: »Wir brauchen die Unterkunft am Senefelder Ring als Puffer, auch für die Flüchtlinge, die der Stadt Reinbek künftig kurzfristig zugewiesen werden«, sagte er. Auf dem Wohnungsmarkt würde man nicht so schnell Unterkünfte bekommen. Das Thema werde auf seine Initiative hin im kommenden Sozial- und Schulausschuss ausführlich behandelt. Insbesondere soll dann diskutiert werden, was an der Flüchtlingsunterkunft am Senefelder Ring und der Betreuung in der Unterkunft verbessert werden müsse. 
-

@@ -11,20 +11,22 @@ const Post = createClass({
     return html`
       <main>
         <article>
-          <h1>${entry.getIn(["data", "title"], null)}</h1>
-          <p>
-            <small>
-              <time
-                >${
-                  format(
-                    entry.getIn(["data", "date"], new Date()),
-                    "DD MMM, yyyy"
-                  )
-                }</time
-              >
-              ${" by Author"}
-            </small>
-          </p>
+          <header>
+            <h1>${entry.getIn(["data", "title"], null)}</h1>
+            <p>
+              <small>
+                <time
+                  >${
+                    format(
+                      entry.getIn(["data", "date"], new Date()),
+                      "DD MMM, yyyy"
+                    )
+                  }</time
+                >
+                ${" by Author"}
+              </small>
+            </p>
+          </header>
 
           ${this.props.widgetFor("body")}
           <p>

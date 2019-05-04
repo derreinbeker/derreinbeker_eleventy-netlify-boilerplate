@@ -30,7 +30,6 @@ module.exports = {
 
     excerpt: function(content) {
         const excerptMinimumLength = 80
-        const excerptSeparator = '<!--more-->'
         const findExcerptEnd = content => {
             if (content === '') {
                 return 0
@@ -54,9 +53,7 @@ module.exports = {
             return
         }
 
-        if (content.includes(excerptSeparator)) {
-            return content.substring(0, content.indexOf(excerptSeparator))
-        } else if (content.length <= excerptMinimumLength) {
+        if (content.length <= excerptMinimumLength) {
             return content
         }
 

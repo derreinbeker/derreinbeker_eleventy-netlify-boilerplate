@@ -2,7 +2,7 @@
 titleintro: Hier kommt was Kurzes
 title: Hier geht es dann zur Sache
 authorname: Hartmuth Sandtner
-date: 2019-05-04T17:57:14.509Z
+date: 2019-05-02T17:57:14.509Z
 category: Kultur
 tags:
   - Gurke

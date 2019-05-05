@@ -10,7 +10,7 @@ layout: layouts/base.njk
 	<h1>{{ title }}</h1>
 	<p>
 	  <small>
-	    <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>, von {% if authorname %}{{ authorname }}{% else %}{{ metadata.author.name }}{% endif %}
+			<time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>, von {% if authorname %}{{ authorname }}{% else %}{{ metadata.author.name }}{% endif %}
 	  </small>
 	</p>
   </header>

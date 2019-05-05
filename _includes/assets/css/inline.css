@@ -119,7 +119,6 @@ body > header nav::-webkit-scrollbar {
 
 body > header nav ul {
 	flex: 0 0 auto;
-	margin-right: 3px;
 }
 
 body > header nav ul :first-child {

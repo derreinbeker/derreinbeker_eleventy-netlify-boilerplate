@@ -1,6 +1,10 @@
 ---
 titleintro: Flüchtlinge am Senefelder Ring
 title: Kennen Sie das auch?
+description: >-
+
+  Die Flüchtlingsinitiative fordert in Reinbek die Auflösung einer
+  Flüchtlingsunterkunft in einer Gewerbehalle. Ein Kommentar.
 authorname: Hartmuth Sandtner
 date: 2019-04-08T14:35:49.261Z
 category: Meinung

@@ -8,5 +8,4 @@ pagination:
 permalink: /{{ articles[0].data.category | slug }}/
 ---
 {% set postslist = articles %}
-{% set postslistheader = articles[0].data.category %}
 {% include "components/postslist.njk" %}

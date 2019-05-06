@@ -1,7 +1,4 @@
 <section class="articlelist">
-	{% if postslistheader %}
-		<h1>{{ postslistheader }}</h1>
-	{% endif %}
 	{% for post in postslist | reverse %}
 		<article>
 			{% if post.data.titleintro %}

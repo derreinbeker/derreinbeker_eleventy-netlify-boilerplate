@@ -151,7 +151,10 @@ article {
 	word-break: break-word;
 }
 
-article h2 {
+h1 {
+	font-size: 1.5em;
+}
+h2 {
 	font-size: 1em;
 }
 
@@ -159,15 +162,15 @@ article>h2 {
 	margin-top: 40px;
 }
 
-article header>h2+h1 {
+article header > h2 + h1 {
 	margin-top: 0px;
 }
 
-article header>h2 {
+article header > h2 {
 	margin-bottom: 6px;
 }
 
-main>section>article>h4 {
+.articlelist > article > h2 {
 	margin-bottom: 2px;
 }
 
@@ -175,9 +178,13 @@ img {
 	max-width: 100%;
 }
 
-main > section > article > * {
+.articlelist > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
+}
+
+.articlelist > article h1 {
+	font-size: 1.17em;;
 }
 
 /* Post Tags */

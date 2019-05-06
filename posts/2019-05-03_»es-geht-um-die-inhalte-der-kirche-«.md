@@ -1,6 +1,9 @@
 ---
-titleintro: Kircheninhalte
+titleintro: Zukunft der Kirchengemeinde Wohltorf
 title: »Es geht um die Inhalte der Kirche.«
+description: >-
+  Die Kirchengemeinden Norddeutschlands setzen sich mit den von Landeskirche und
+  Synode vorgegebenen Eckpunkten auseinander.
 authorname: Lothar Neinass
 date: 2019-04-08T14:19:43.688Z
 category: Kultur

@@ -265,6 +265,10 @@ button {
 	column-count: 1;
 }
 
+.__cms_description {
+	color: gray;
+}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;

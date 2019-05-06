@@ -29,7 +29,7 @@ const Post = createClass({
             </p>
           </header>
 
-          <p>${entry.getIn(["data", "description"], "")}</p>
+          <p class="__cms_description">${entry.getIn(["data", "description"], "")}</p>
 
           ${this.props.widgetFor("body")}
 

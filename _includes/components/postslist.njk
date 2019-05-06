@@ -17,8 +17,8 @@
 				</a>
 			</h2>
 			<p>
-				{% if post.data.summary %}
-					{{ post.data.summary }}
+				{% if post.data.description %}
+					{{ post.data.description }}
 				{% else %}
 					{{ post.templateContent | excerpt | striptags }}
 				{% endif %}

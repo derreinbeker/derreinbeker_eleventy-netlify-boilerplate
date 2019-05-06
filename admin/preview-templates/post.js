@@ -29,17 +29,23 @@ const Post = createClass({
             </p>
           </header>
 
+          <p>${entry.getIn(["data", "description"], "")}</p>
+
           ${this.props.widgetFor("body")}
-          <p>
-            ${
-              entry.getIn(["data", "tags"], []).map(
-                tag =>
-                  html`
-                    <a href="#" rel="tag">${tag}</a>
-                  `
-              )
-            }
-          </p>
+
+          <div class="tags">
+            <h3>Schlagwörter</h3>
+            <p>
+              ${
+                entry.getIn(["data", "tags"], []).map(
+                  tag =>
+                    html`
+                      <a href="#" rel="tag">${tag}</a>
+                    `
+                )
+              }
+            </p>
+          </div>
         </article>
       </main>
     `;

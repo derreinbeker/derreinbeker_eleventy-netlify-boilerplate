@@ -170,6 +170,14 @@ article header > h2 {
 	margin-bottom: 6px;
 }
 
+article>.tags {
+	margin-top: 3em;
+}
+
+article>.tags>h3 {
+	font-size: .83em;
+}
+
 .articlelist > article > h2 {
 	margin-bottom: 2px;
 }

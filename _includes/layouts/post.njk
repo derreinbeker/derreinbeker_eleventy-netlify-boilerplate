@@ -18,14 +18,17 @@ layout: layouts/base.njk
 	{{ content | safe }}
 	
 	{% if tags %}
-	  <p>
-	  {% for tag in tags %}
-	    {%- if tag != "post" -%}
-	      {% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
-	      <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-	    {%- endif -%}
-	  {% endfor %}
-	  </p>
+		<div class="tags">
+			<h3>Schlagwörter</h3>
+			<p>
+			{% for tag in tags %}
+				{%- if tag != "post" -%}
+					{% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
+					<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+				{%- endif -%}
+			{% endfor %}
+			</p>
+		</div>
 	{% endif %}
 
 </article>

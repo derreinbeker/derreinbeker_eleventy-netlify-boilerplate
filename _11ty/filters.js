@@ -22,6 +22,7 @@ module.exports = {
     jsmin: function(code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
+        // eslint-disable-next-line no-console
         console.log("UglifyJS error: ", minified.error);
         return code;
     }

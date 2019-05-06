@@ -5,28 +5,28 @@ const UglifyJS = require("uglify-es");
 module.exports = {
     // Date formatting (human readable)
     readableDate: function(dateObj) {
-    return DateTime.fromJSDate(dateObj).setLocale('de').toFormat("d. L. yyyy");
+        return DateTime.fromJSDate(dateObj).setLocale('de').toFormat("d. L. yyyy");
     },
 
     // Date formatting (machine readable)
     machineDate: function(dateObj) {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
+        return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
     },
 
     // Minify CSS
     cssmin: function(code) {
-    return new CleanCSS({}).minify(code).styles;
+            return new CleanCSS({}).minify(code).styles;
     },
 
     // Minify JS
     jsmin: function(code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-        // eslint-disable-next-line no-console
-        console.log("UglifyJS error: ", minified.error);
-        return code;
-    }
-    return minified.code;
+        let minified = UglifyJS.minify(code);
+        if (minified.error) {
+            // eslint-disable-next-line no-console
+            console.log("UglifyJS error: ", minified.error);
+            return code;
+        }
+        return minified.code;
     },
 
     excerpt: function(content) {

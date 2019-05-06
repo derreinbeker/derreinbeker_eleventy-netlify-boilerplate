@@ -2,10 +2,9 @@
 titleintro: Gisela Gräfin von der Goltz
 title: '»Ich finde es wunderbar, alt zu sein«'
 description: >-
-  Menschen, die unsere heimatliche Welt lebens- und liebenswerter machen.
-
-  Heute geht es um Gisela Gräfin von der Goltz, seit Jahrzehnten ehrenamtlich
-  aktiv für die Arbeiterwohlfahrt (AWO).
+  Menschen, die unsere heimatliche Welt lebens- und liebenswerter machen. Heute
+  geht es um Gisela Gräfin von der Goltz, seit Jahrzehnten ehrenamtlich aktiv
+  für die Arbeiterwohlfahrt (AWO).
 authorname: Denise Ariaane Funke
 date: 2019-05-03T14:13:58.362Z
 category: Panorama

@@ -4,7 +4,11 @@
   {% if disableFormatDetection %}
   <meta name="format-detection" content="telephone=no">
   {% endif %}
+  {% if title %}
   <title>{{ metadata.title }}: {{ title }}</title>
+  {% else %}
+  <title>{{ metadata.title }}</title>
+  {% endif %}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}

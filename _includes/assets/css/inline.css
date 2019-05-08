@@ -21,10 +21,6 @@ body {
 	background-color: var(--white);
 }
 
-main {
-	max-width: 37.5em;
-}
-
 h1,
 h2,
 h3,
@@ -59,6 +55,7 @@ footer {
 
 main {
 	padding-bottom: 2em;
+	max-width: 37.5em;
 }
 
 main :first-child,

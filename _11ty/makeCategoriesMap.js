@@ -7,10 +7,7 @@ const debug = require("debug")("makeCategories");
 //  of articles in that category
 
 module.exports = function(collection) {
-  let decycled = JSON.stringify(decycle(collection), null, 2)
   let categories = {}
-
-  debug(decycled)
 
   collection.getAllSorted().forEach(item => {
     let category = item.data.category
@@ -23,6 +20,5 @@ module.exports = function(collection) {
       categories[category] = [item]
   })
 
-  debug(categories)
   return categories
 }

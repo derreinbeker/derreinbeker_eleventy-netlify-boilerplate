@@ -85,18 +85,18 @@ ul {
 	list-style: none;
 }
 
-body > header {
-	margin-top: 1em;
+#Banner {
+	overflow-x: hidden;
+	width: 100vw;
+	height: 70px;
+	padding-top: 1em;
+	padding-left: 7px;
 }
 
-/* Header Logo (style as h2) */
-body > header > em {
-	display: block;
-	font-size: 2em;
-	font-weight: bold;
-	font-style: normal;
-	padding: 0.5em;
+#Banner img {
+	height: 40px;
 }
+
 
 /* Header Nav */
 /* siehe hierzu auch "The Flexbox Method" unter https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6 */
@@ -191,7 +191,7 @@ article>.tags>h3 {
 	border-bottom-width: 0px;
 }
 
-img {
+article img {
 	max-width: 100%;
 }
 

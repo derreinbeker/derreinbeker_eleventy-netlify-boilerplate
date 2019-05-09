@@ -6,10 +6,12 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+		<div id="Banner">
+			<a href="{{ '/' }}">
+				<img src="/static/DerReinbekerLogo.svg" alt="Der Reinbeker">
+			</a>
+		</div>
+		{% include "components/nav.njk" %}
 		</header>
 
 		<main>

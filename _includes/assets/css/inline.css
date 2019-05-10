@@ -242,6 +242,19 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
+
+article figure {
+	margin-left: 0px;
+	margin-right: 0px;
+	display: table;
+}
+
+article figure>figcaption {
+	display: table-caption;
+	caption-side: bottom ;
+	font-size: smaller;
+}
+
 /* Contact Form */
 form {
 	display: grid;

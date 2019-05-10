@@ -94,7 +94,7 @@ ul {
 }
 
 #Banner img {
-	height: 40px;
+	height: 2.5em;
 }
 
 
@@ -306,6 +306,9 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+@media screen and (min-width:37.5em) {
 	article img {
 		max-width: 100%;
 		margin-left: inherit;

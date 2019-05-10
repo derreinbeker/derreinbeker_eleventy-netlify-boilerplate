@@ -192,7 +192,9 @@ article>.tags>h3 {
 }
 
 article img {
-	max-width: 100%;
+	width: 100vw;
+	margin-left: -1em;
+	margin-right: -1em;
 }
 
 .articlelist > article > * {
@@ -247,6 +249,7 @@ article figure {
 	margin-left: 0px;
 	margin-right: 0px;
 	display: table;
+	width: 100%;
 }
 
 article figure>figcaption {
@@ -303,4 +306,10 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+	article img {
+		max-width: 100%;
+		margin-left: inherit;
+		margin-right: inherit;
+	}	
 }
+

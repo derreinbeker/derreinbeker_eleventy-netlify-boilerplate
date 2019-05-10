@@ -34,7 +34,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("categoriesMap", require("./_11ty/makeCategoriesMap"))
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/");
+  eleventyConfig.addPassthroughCopy("static");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 

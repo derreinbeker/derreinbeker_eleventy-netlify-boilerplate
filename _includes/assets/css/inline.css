@@ -298,6 +298,10 @@ button {
 	column-count: 1;
 }
 
+.printeditions li {
+	margin-bottom: .2em;
+}
+
 .__cms_description {
 	color: gray;
 }

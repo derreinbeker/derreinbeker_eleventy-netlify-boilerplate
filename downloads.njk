@@ -14,11 +14,14 @@ printeditions:
 ---
 
 <h2>Gedruckte Ausgabe</h2>
-
 <p>Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
 <ul class="printeditions">
 {% for edition in printeditions | reverse %}
     <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
 {% endfor %}
-<ul>
+</ul>
+
+<h2>Verteilungstermine für Austräger</h2>
+<p><a href="/static/downloads/DerReinbeker-Austraeger.ics">Zeitungs-Anlieferung</a> im iCalendar-/ics-Format.</p>
+

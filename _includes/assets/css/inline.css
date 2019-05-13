@@ -151,6 +151,11 @@ h1 {
 }
 h2 {
 	font-size: 1em;
+	margin-bottom: .3em;
+}
+
+h2 + p {
+	margin-top: 0;
 }
 
 article>h2 {
@@ -298,6 +303,10 @@ button {
 	column-count: 1;
 }
 
+.printeditions {
+	column-count: 3;
+}
+
 .printeditions li {
 	margin-bottom: .2em;
 }
@@ -326,18 +335,6 @@ html[data-current="home"] #Banner {
 	animation-fill-mode: both;
 	-webkit-animation-name: fadeInUp;
 	animation-name: fadeInUp;	
-}
-
-
-
-@keyframes fadeIn {
-	from {
-		opacity: 0;
-	}
-
-	to {
-		opacity: 1;
-	}
 }
 
 @keyframes fadeInUp {

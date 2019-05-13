@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Gedruckte Ausgaben
+title: Downloads
 printeditions:
   - {filename: 2019-01-14.pdf, title: 14.01.2019}
   - {filename: 2019-01-28.pdf, title: 28.01.2019}
@@ -13,13 +13,12 @@ printeditions:
   - {filename: 2019-05-13.pdf, title: 13.05.2019}
 ---
 
+<h2>Gedruckte Ausgabe</h2>
+
 <p>Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
-
-<div class="printeditions">
-	<ul>
-	{% for edition in printeditions | reverse %}
-	   <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
-	{% endfor %}
-	<ul>
-</div>
+<ul class="printeditions">
+{% for edition in printeditions | reverse %}
+    <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
+{% endfor %}
+<ul>

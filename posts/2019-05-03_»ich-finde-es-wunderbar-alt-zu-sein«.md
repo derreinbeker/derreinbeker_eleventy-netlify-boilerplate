@@ -17,7 +17,7 @@ tags:
 Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. 
 
 <figure>
-  <a href="http://www.kapstadt.info/media/wildblumen-blume/blumen-6g.jpg" title="Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück.">
+  <a href="http://www.kapstadt.info/media/wildblumen-blume/blumen-6g.jpg">
     <img src="https://picsum.photos/id/823/820/461">
   </a>
   <figcaption>Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück.</figcaption>

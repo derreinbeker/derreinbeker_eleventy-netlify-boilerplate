@@ -12,16 +12,17 @@ tags:
   - Menschen
 ---
 <figure>
-    <img src="/static/media/2019-goltz.jpg">
-  </a>
-  <figcaption>»Das Lernen hört für mich nie auf. Man kann immer etwas dazulernen« sagt Gisela Gräfin von der Goltz.</figcaption>
+    <img src="/static/media/2019-goltz.jpg"></a>
+  <figcaption>
+    »Das Lernen hört für mich nie auf. Man kann immer etwas dazulernen« sagt Gisela Gräfin von der Goltz.
+  </figcaption>
 </figure>
 
-Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. 
+Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. Ich kann mich noch gut daran erinnern, dass sie nur zwei Sommerkleider besaß, ein Dirndl und ein anderes. Im Sommer 1945 verschenkte sie das Kleid an eine Flüchtlingsfrau. Meine Mutter trug dann nur noch das Dirndl. Ebenso war es mit einem letzten Stück Seife, das meine Mutter ebenfalls verschenkte«, erinnert sich die heute 85-Jährige. »Das Gute kommt aber immer zurück. Zu Weihnachten bekam meine Mutter dann zwei Seifenstücke – das war damals eine kleine Kostbarkeit.«
 
-Ich kann mich noch gut daran erinnern, dass sie nur zwei Sommerkleider besaß, ein Dirndl und ein anderes. Im Sommer 1945 verschenkte sie das Kleid an eine Flüchtlingsfrau. Meine Mutter trug dann nur noch das Dirndl. Ebenso war es mit einem letzten Stück Seife, das meine Mutter ebenfalls verschenkte«, erinnert sich die heute 85-Jährige. »Das Gute kommt aber immer zurück. Zu Weihnachten bekam meine Mutter dann zwei Seifenstücke – das war damals eine kleine Kostbarkeit.«
+Mit dem damaligen Regime tat sich die Mutter schwer. Sie schickte die Töchter beispielsweise an den Sonntagen nicht zum Antreten. Stattdessen waren die Mädchen im Kindergottesdienst. »Ebenso selbstverständlich war es, dass bei uns zu Mittag alle an einem Tisch saßen – auch diejenigen, die es unter dem Nazi Regime nicht gedurft hätten. Das kam bei dem Nachbarn nicht sonderlich gut an, meine Mutter wurde denunziert, weil unsere ukrainische Haushilfe zusammen mit uns am Tisch saß. Meine Mutter musste zur Gestapo, dort musste sie einen Nachmittag lang Kartoffeln schälen«. 
 
-Mit dem damaligen Regime tat sich die Mutter schwer. Sie schickte die Töchter beispielsweise an den Sonntagen nicht zum Antreten. Stattdessen waren die Mädchen im Kindergottesdienst. »Ebenso selbstverständlich war es, dass bei uns zu Mittag alle an einem Tisch saßen – auch diejenigen, die es unter dem Nazi Regime nicht gedurft hätten. Das kam bei dem Nachbarn nicht sonderlich gut an, meine Mutter wurde denunziert, weil unsere ukrainische Haushilfe zusammen mit uns am Tisch saß. Meine Mutter musste zur Gestapo, dort musste sie einen Nachmittag lang Kartoffeln schälen«. Gern erinnert sich die Wahlreinbekerin an ihre Schulzeit zurück. Ich wurde drei Jahre von den sogenannten Englischen Fräulein unterrichtet, einem Frauenorden, der durch die Britin Maria Ward gegründet wurde. »Das waren wunderschöne Zeiten, die Nonnen hatten Zeit für uns, und das in einer Zeit, in der jeder mit anderen Dingen beschäftigt war. Hier musste niemand selbst die Käfer aus den Linsen puhlen. Das erledigten die Hausschwestern, die sich um all diese Alltagsdinge kümmerten, die damals sehr viel Zeit kosteten.« 
+Gern erinnert sich die Wahlreinbekerin an ihre Schulzeit zurück. Ich wurde drei Jahre von den sogenannten Englischen Fräulein unterrichtet, einem Frauenorden, der durch die Britin Maria Ward gegründet wurde. »Das waren wunderschöne Zeiten, die Nonnen hatten Zeit für uns, und das in einer Zeit, in der jeder mit anderen Dingen beschäftigt war. Hier musste niemand selbst die Käfer aus den Linsen puhlen. Das erledigten die Hausschwestern, die sich um all diese Alltagsdinge kümmerten, die damals sehr viel Zeit kosteten.« 
 
 1948 zog die Familie von Mainz nach Stuttgart. Der Vater hatte dort eine neue Anstellung gefunden. »Ich hätte gern Abitur gemacht. Das war aber leider nicht möglich, da uns dazu das Schulgeld fehlte. Ich habe damals bitterlich geweint. Stattdessen besuchte ich die Handelsschule. Nach einem Jahr war ich staatlich geprüfte Stenotypistin und Kontoristin. So nannte sich das damals – heute sagt mal wohl Bürokauffrau«, schmunzelt sie. 
 

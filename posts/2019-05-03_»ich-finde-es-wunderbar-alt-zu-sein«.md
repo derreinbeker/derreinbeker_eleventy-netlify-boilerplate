@@ -12,16 +12,13 @@ tags:
   - Menschen
 ---
 
-![Tux, the Linux mascot](https://picsum.photos/id/845/820/461 "Tux, the Linux mascot")
-
-Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. 
-
 <figure>
-  <a href="http://www.kapstadt.info/media/wildblumen-blume/blumen-6g.jpg">
-    <img src="https://picsum.photos/id/823/820/461">
+    <img src="/static/media/2019-goltz.jpg">
   </a>
   <figcaption>Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück.</figcaption>
 </figure>
+
+Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. 
 
 Ich kann mich noch gut daran erinnern, dass sie nur zwei Sommerkleider besaß, ein Dirndl und ein anderes. Im Sommer 1945 verschenkte sie das Kleid an eine Flüchtlingsfrau. Meine Mutter trug dann nur noch das Dirndl. Ebenso war es mit einem letzten Stück Seife, das meine Mutter ebenfalls verschenkte«, erinnert sich die heute 85-Jährige. »Das Gute kommt aber immer zurück. Zu Weihnachten bekam meine Mutter dann zwei Seifenstücke – das war damals eine kleine Kostbarkeit.«
 

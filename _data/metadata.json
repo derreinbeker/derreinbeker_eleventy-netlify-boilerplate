@@ -1,6 +1,8 @@
 {
   "title": "Der Reinbeker",
-  "url": "https://derreinbeker.netlify.com",
+  "url": "http://neu.derreinbeker.de",
+  "host": "neu.derreinbeker.de",
+  "downloadshost": "downloads.derreinbeker.de",
   "author": {
     "name": "Hartmuth Sandtner",
     "email": "redaktion@derreinbeker.de"

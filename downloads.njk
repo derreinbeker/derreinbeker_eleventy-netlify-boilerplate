@@ -18,10 +18,17 @@ printeditions:
 
 <ul class="printeditions">
 {% for edition in printeditions | reverse %}
-    <li><a href="https://derreinbeker.de/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
 {% endfor %}
 </ul>
 
 <h2>Verteilungstermine für Austräger</h2>
-<p><a href="/static/downloads/DerReinbeker-Austraeger.ics">Zeitungs-Anlieferung</a> im iCalendar-/ics-Format.</p>
+<p>
+  {% if project.environment == "development" %}
+    {% set host = "localhost:8080" %}
+  {% else %}
+    {% set host = metadata.downloadshost %}
+  {% endif %}
+  <a href="https://{{ host }}/downloads/DerReinbeker-Austraeger.ics">Zeitungs-Anlieferung</a> im iCalendar-/ics-Format.
+</p>
 

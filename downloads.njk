@@ -1,26 +1,17 @@
 ---
 layout: layouts/page.njk
 title: Downloads
-printeditions:
-  - {filename: 2019-01-14.pdf, title: 14.01.2019}
-  - {filename: 2019-01-28.pdf, title: 28.01.2019}
-  - {filename: 2019-02-11.pdf, title: 11.02.2019}
-  - {filename: 2019-02-25.pdf, title: 25.02.2019}
-  - {filename: 2019-03-11.pdf, title: 11.03.2019}
-  - {filename: 2019-03-25.pdf, title: 25.03.2019}
-  - {filename: 2019-04-08.pdf, title: 08.04.2019}
-  - {filename: 2019-04-29.pdf, title: 29.04.2019}
-  - {filename: 2019-05-13.pdf, title: 13.05.2019}
 ---
 
 <h2>Gedruckte Ausgabe</h2>
 <p>Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
 <ul class="printeditions">
-{% for edition in printeditions | reverse %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ edition.filename }}">{{ edition.title }}</a></li>
+{% for edition in downloadablePrintEditions | sort | reverse %}
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ edition }}">{{ edition | descriptionOfPrintEditionFilename }}</a></li>
 {% endfor %}
 </ul>
+
 
 <h2>Verteilungstermine</h2>
 <p>

@@ -1,8 +1,14 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
+const path = require('path');
 
 module.exports = {
+    descriptionOfPrintEditionFilename: function(printeditionFileName) {
+        var filename = path.parse(printeditionFileName).name;
+        return DateTime.fromISO(filename).setLocale('de').toFormat("dd.LL.yyyy");
+    },
+
     // Date formatting (human readable)
     readableDate: function(dateObj) {
         return DateTime.fromJSDate(dateObj).setLocale('de').toFormat("d. L. yyyy");

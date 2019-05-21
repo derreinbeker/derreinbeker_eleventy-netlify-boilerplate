@@ -7,5 +7,5 @@ pagination:
   alias: articles
 permalink: /{{ articles[0].data.category | slug }}/
 ---
-{% set postslist = articles %}
+{% set postslist = articles | reverse %}
 {% include "components/postslist.njk" %}

@@ -34,6 +34,19 @@ h6 {
 	hyphens: auto;
 }
 
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1em;
+	margin-bottom: .3em;
+}
+
+h2 + p {
+	margin-top: 0;
+}
+
 p,
 pre,
 code {
@@ -146,24 +159,8 @@ article {
 	word-break: break-word;
 }
 
-h1 {
-	font-size: 1.5em;
-}
-h2 {
-	font-size: 1em;
-	margin-bottom: .3em;
-}
-
-h2 + p {
-	margin-top: 0;
-}
-
 article>h2 {
 	margin-top: 40px;
-}
-
-article header > h1 {
-	font-size: 1.5em;
 }
 
 article header > h2 + h1 {
@@ -182,6 +179,33 @@ article>.tags>h3 {
 	font-size: .83em;
 }
 
+article img {
+	width: 100vw;
+	margin-left: -1em;
+	margin-right: -1em;
+}
+
+article figure {
+	margin-left: 0px;
+	margin-right: 0px;
+	display: table;
+	width: 100%;
+}
+
+article figure>figcaption {
+	display: table-caption;
+	caption-side: bottom ;
+	font-size: smaller;
+}
+
+article > *:last-child {
+	margin-bottom: 0;
+}
+
+* > article:first-of-type {
+	padding-top: 0;
+}
+
 .articlelist > article > h2 {
 	margin-bottom: 2px;
 }
@@ -196,23 +220,9 @@ article>.tags>h3 {
 	border-bottom-width: 0px;
 }
 
-article img {
-	width: 100vw;
-	margin-left: -1em;
-	margin-right: -1em;
-}
-
 .articlelist > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
-}
-
-article > *:last-child {
-	margin-bottom: 0;
-}
-
-* > article:first-of-type {
-	padding-top: 0;
 }
 
 .articlelist > article h1 {
@@ -247,20 +257,6 @@ a[rel="tag"]:hover {
 
 a[rel="tag"]:last-child {
 	margin-right: 0;
-}
-
-
-article figure {
-	margin-left: 0px;
-	margin-right: 0px;
-	display: table;
-	width: 100%;
-}
-
-article figure>figcaption {
-	display: table-caption;
-	caption-side: bottom ;
-	font-size: smaller;
 }
 
 /* Contact Form */

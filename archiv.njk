@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.posts
+  size: 2
+  alias: posts
+  reverse: true
+---
+{% set postslist = posts %}
+{% include "components/postslist.njk" %}
+
+<nav>
+  {% if pagination.previousPageLink %}
+    <a rel="prev" href="{{ pagination.previousPageLink }}">← Neuere</a>
+    <span>/ </span>
+  {% endif %}
+
+  <span>{{collections.posts.length }} Artikel</span>
+
+  {% if pagination.nextPageLink %}
+    <span> /</span>
+    <a rel="next" href="{{ pagination.nextPageLink }}">Ältere →</a>
+  {% endif %}
+</nav>

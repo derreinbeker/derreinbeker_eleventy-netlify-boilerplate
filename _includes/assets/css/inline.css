@@ -107,7 +107,7 @@ ul {
 }
 
 #Banner img {
-	height: 1.8em;
+	height: 2em;
 }
 
 
@@ -207,7 +207,7 @@ article > *:last-child {
 }
 
 .articlelist > article > h2 {
-	margin-bottom: 2px;
+	margin-bottom: 4px;
 }
 
 .articlelist > article {
@@ -227,6 +227,7 @@ article > *:last-child {
 
 .articlelist > article h1 {
 	font-size: 1.25em;
+	line-height: 1.3em;
 }
 
 /* Post Tags */

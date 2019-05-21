@@ -225,6 +225,10 @@ article > *:last-child {
 	margin-bottom: .5em;
 }
 
+.articlelist > article > *:last-child {
+	margin-bottom: 0em;
+}
+
 .articlelist > article h1 {
 	font-size: 1.25em;
 	line-height: 1.3em;

@@ -274,28 +274,6 @@ form label {
   display: none;
 }
 
-input,
-textarea,
-button {
-	width: 100%;
-	padding: 1em;
-	margin-bottom: 1em;
-	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
-}
-
-input,
-textarea {
-	border: 1px solid black;
-}
-
-button {
-	border: 1px solid var(--red);
-	background-color: var(--red);
-	color: var(--lightred);
-	cursor: pointer;
-}
-
 .tag-list {
 	column-count: 2;
 }

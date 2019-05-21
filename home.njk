@@ -1,5 +1,9 @@
 ---
 layout: layouts/base.njk
+title: Aktuelles
+permalink: /
+section: home
 ---
+
 {% set postslist = collections.posts | reverse %}
 {% include "components/postslist.njk" %}

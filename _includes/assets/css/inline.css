@@ -1,6 +1,7 @@
 :root {
 	--white: white;
 	--red: #B8082F;
+	--lightred: rgb(253, 237, 240);
 }
 
 *, *:before, *:after {
@@ -229,8 +230,8 @@ a[rel="tag"]:visited {
 	padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-	border: 1px solid var(--white);
-	background-color: var(--white);
+	border: 1px solid var(--lightred);
+	background-color: var(--lightred);
 	color: var(--red);
 	border-radius: .25em;
 	text-decoration: none;
@@ -290,7 +291,7 @@ textarea {
 button {
 	border: 1px solid var(--red);
 	background-color: var(--red);
-	color: var(--white);
+	color: var(--lightred);
 	cursor: pointer;
 }
 

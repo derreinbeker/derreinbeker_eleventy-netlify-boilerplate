@@ -15,11 +15,6 @@ title: Downloads
 
 <h2>Verteilungstermine</h2>
 <p>
-  {% if project.environment == "development" %}
-    {% set host = "localhost:8080" %}
-  {% else %}
-    {% set host = metadata.downloadshost %}
-  {% endif %}
-  <a href="https://{{ host }}/termine/DerReinbeker-Austraeger.ics">Zeitungs-Anlieferung</a> im iCalendar-/ics-Format.
+  Zeitungs-Anlieferung im iCalendar-/ics-Format: <a href="https://{{ metadata.downloadshost }}/termine/DerReinbeker-Austraeger.ics">Downloaden</a> oder <a href="webcal://{{ metadata.downloadshost }}/termine/DerReinbeker-Austraeger.ics">abbonieren</a>. 
 </p>
 

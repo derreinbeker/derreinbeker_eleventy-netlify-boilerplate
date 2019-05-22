@@ -1,21 +1,12 @@
-const request = require('request');
+const fetch = require("node-fetch");
 
-function getRemoteData () {
-    return new Promise((resolve, reject) => {
-        const options = {  
-            url: 'https://downloads.derreinbeker.de/ausgaben.json',
-            json: true
-        };
-        request(options, (err, res, body) => {
-            if (err) {
-                reject(err); return;
-            }
-                resolve(body);
-            });
-        });
-}
-   
 module.exports = async function() {
-    let json = await getRemoteData();
-    return json;
+  console.log( "Fetching Print-Ausgaben..." );
+
+  return fetch("https://downloads.derreinbeker.de/ausgaben.json")
+    .then(res => res.json()) // node-fetch option to transform to json
+    .then(json => {
+      // prune the data to return only what we want
+      return json;
+    });
 };

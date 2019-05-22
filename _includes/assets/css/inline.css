@@ -264,16 +264,6 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
-/* Contact Form */
-form {
-	display: grid;
-	padding: 2em 0;
-}
-
-form label {
-  display: none;
-}
-
 .tag-list {
 	column-count: 2;
 }

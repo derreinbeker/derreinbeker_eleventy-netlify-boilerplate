@@ -278,6 +278,7 @@ a[rel="tag"]:last-child {
 
 .printeditions li {
 	margin-bottom: .2em;
+	display: inline-block;
 }
 
 .__cms_description {

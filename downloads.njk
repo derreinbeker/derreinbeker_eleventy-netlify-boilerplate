@@ -7,8 +7,8 @@ title: Downloads
 <p>Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
 <ul class="printeditions">
-{% for edition in downloadablePrintEditions | sort | reverse %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ edition }}">{{ edition | descriptionOfPrintEditionFilename }}</a></li>
+{% for editionFilename in downloadablePrintEditions | sort | reverse %}
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
 {% endfor %}
 </ul>
 

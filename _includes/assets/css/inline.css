@@ -276,8 +276,8 @@ a[rel="tag"]:last-child {
 }
 
 .printeditions li {
-	margin-bottom: .2em;
-	display: inline-block;
+	line-height: 1.6em;
+	white-space: nowrap;
 }
 
 .__cms_description {

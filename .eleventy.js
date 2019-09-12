@@ -1,3 +1,4 @@
+const pluginRss = require('@11ty/eleventy-plugin-rss')
 const htmlmin = require("html-minifier");
 const filters = require('./_11ty/filters.js')
 
@@ -38,6 +39,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_redirects");
+
+  // eleventy-plugins-rss
+  eleventyConfig.addPlugin(pluginRss)
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

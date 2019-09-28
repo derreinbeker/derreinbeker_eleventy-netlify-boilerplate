@@ -1,0 +1,25 @@
+---
+titleintro: Kein Verkauf städtischer  Grundstücke an die TSV Reinbek
+title: >-
+  Deutliche Mehrheit der Politiker im Ausschuss  erteilt Plänen des Sportvereins
+  abermals eine Absage
+description: >-
+  Zukunftspläne der TSV Reinbek finden kein Gehör bei Reinbeks
+  Kommunalpolitikern
+authorname: Kerstin Völling
+date: 2019-09-28T10:11:38.857Z
+category: Politik
+tags:
+  - TSV REINBEK
+---
+Reinbek – Bei Unstimmigkeiten miteinander zu reden, ist grundsätzlich gut. Manchmal kann das aber auch nach hinten losgehen. Letzteres dokumentierte der jüngste Jugend-, Sport- und Kulturausschuss. Eigentlich, so betonten alle Beteiligten, wolle man unbefangen »bei Null anfangen und auf der Sachebene bleiben.« Doch als es dann um die Zukunftspläne der TSV Reinbek ging, keimten immer wieder Animositäten zwischen einigen Politikern und Vereinsvertretern auf. Bürgermeister Björn Warmer sah sich genötigt, eine Art »Ordnungsruf« loszuwerden: »Ich finde, es gibt glücklichere Momente, als wenn man hier, in dieser öffentlichen Sitzung, gewisse Punkte so konkret austauscht.«  
+
+Keine Überraschung also, dass am Ende alles beim Alten blieb: Bis auf Forum21 lehnten alle Fraktionen Verhandlungen der Stadt über den Erwerb von Grundstücken durch die TSV auf dem TSV-Gelände ab. 
+
+Zur Erinnerung:  Die TSV Reinbek möchte den Tennisplatz und die Mehrzweckhalle (mit Geschäftsstelle) am Mühlenredder erwerben. Beide Gebäude stehen noch im Eigentum der Stadt, ebenso wie die Grundstücke, auf denen sie stehen. Würde die Stadt die Grundstücke an die TSV verkaufen, so gingen auch die Eigentumsrechte der Tennisanlage und der Mehrzweckhalle an den Verein über, da die beiden Gebäude und die Grundstücke im Sinne des Gesetzes eine Einheit bilden. Die TSV wollte nach dem Kauf unter anderem Platz für kleinteilige Angebote wie Reha- und Herzsport schaffen. Diesen Platz hätte sie dann auch nach eigenem Gusto nutzen können. Hintergrund: Es gibt immer wieder Ärger mit den Hallenzeiten. Denn die Sporthallen in Reinbek sind mehr als ausgebucht. Ferner dachte die TSV darüber nach, einen kleinen Teil des Südteils der Sportanlage eventuell für eine Bebauung zu nutzen, beispielsweise für eine Sport-Kindertagesstätte. Als Sicherheit für eine Kreditaufnahme für diese selbstfinanzierten Projekte wollte die TSV die Grundstücke haben. Bereits im Mai war dieses Thema im Ausschuss (nichtöffentlicher Teil) abgestimmt und mit 9 zu eins Stimmen abgelehnt worden. Sowohl die TSV als auch alle Parteien signalisierten hinterher jedoch Gesprächsbereitschaft (dR berichtete).
+
+Diethard Joppich (FDP) vertrat nun im jüngsten Ausschuss die Meinung, dass die Stadt seit 2004 für die TSV schon eine Menge getan habe. Jetzt müsse es »auch einmal gut« sein.  »Wir haben auf dem Gelände die modernste C-Kampfanlage. Außerdem haben wir mit der Sanierung der Halle (Dach. Außendämmung) angefangen, der Kabinentrakt folgt«, sagte er. »Wir sind noch nicht fertig damit. Bevor man etwas Neues anfängt, bringt man Altes erst einmal zu Ende.« Die Politiker müssten an das Wohl der ganzen Stadt denken. »Wir sind strikt gegen den Verkauf der Grundstücke, denn wir haben schon zu viel Tafelsilber aus der Hand gegeben«, fügte Joppich hinzu. »Und nach einem Verkauf würden sofort die Diskussionen losgehen, wer welche Halle wann nutzen darf.« Über eine Erbpacht hingegen würde die FDP mit sich reden lassen. Mit seinem Statement fand Joppich voll und ganz die Zustimmung der Sozialdemokraten. Markus Linden (Grüne) sagte im Namen seiner Fraktion, dass immer noch nicht klar sei, was der Verein wirklich wolle. Mit einem Verkauf des städtischen Eigentums würde man zudem auf  Handlungsoptionen für die Zukunft verzichten. Die Skepsis gegenüber dem Verkauf teilte auch die CDU. 
+
+Der parteiunabhängige Klaus-Peter Puls sah und sieht für die Stadt im Falle von Grundstücks- oder Gebäudeveräußerungen auf dem TSV-Gelände kein finanzielles Risiko: »Die Vereinssatzung sieht im §22 bei Auflösung der TSV vor, dass sämtliches TSV-Vermögen an die Stadt Reinbek fällt«, sagte er. Zu Irritationen hätte wohl die Verwechslung der beiden TSV-Projekte geführt: »Zum einen die Umgestaltung des Tennisplatzes und der Mehrzweckhalle – beide Gebäude hat der Verein selbst finanziert –  zum anderen angedachte Projekte auf dem Südteil der Sportanlage.« Letztere hätten aber nichts mit dem vorliegenden Antrag der Verwaltung zu tun, der sich nur um die Verhandlungsaufnahme bezüglich des Verkaufs der Grundstücke drehe.
+
+Sowohl Rüdiger Höhne als auch Norbert Schlachtberger von der TSV Reinbek betonten, dass es sich bei der möglichen Bebauung des Südteils der Sportanlage nur um »Hirngespinste« und um ein »Brainstorming« gehandelt habe. Höhne: »Da ist überhaupt nichts Konkretes geplant. Heute geht es ausschließlich um die Tennisanlage und die Mehrzweckhalle.« Norbert Schlachtberger kommentierte schließlich den Beschluss: »Die TSV wird nicht untergehen. Aber wir kommen auch nicht vorwärts.« Dabei habe man die Stadt mit der Eigeninitiative ja gerade entlasten und nicht belasten wollen.

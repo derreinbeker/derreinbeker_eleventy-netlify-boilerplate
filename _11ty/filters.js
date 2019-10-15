@@ -12,6 +12,10 @@ module.exports = {
         return array.slice(0, n);
     },
 
+    cleanupCharactersNotAllowedInXML: function(code) {
+        return code.replace("\u0008" , "");
+    },
+
     descriptionOfPrintEditionFilename: function(printeditionFileName) {
         var filename = path.parse(printeditionFileName).name;
         return DateTime.fromISO(filename).setLocale('de').toFormat("dd.LL.yyyy");

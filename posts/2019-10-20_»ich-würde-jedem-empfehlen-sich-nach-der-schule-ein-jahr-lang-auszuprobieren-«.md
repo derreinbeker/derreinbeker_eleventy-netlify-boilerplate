@@ -6,7 +6,7 @@ title: >-
 description: The Voice of Germany Kandidatin Fidi Steinbeck
 authorname: Denise Ariaane Funke
 date: 2019-10-20T07:05:02.342Z
-category: Politik
+category: Panorama
 tags:
   - Menschen
 ---
@@ -40,6 +40,6 @@ Aber auch dieser Studiengang war nicht das Richtige. Es folgte eine Ausbildung z
 
 Die Liebe zum Handwerk hat sie dem Papa zu verdanken. Der leidenschaftliche Hobbyhandwerker hat alles im Haus selbst gemacht.Wenn Fidi eigene Texte schreibt, dann vergisst sie schon mal dabei zu essen oder zu trinken. »Ich kann mich stundenlang damit beschäftigen«. Lampenfieber hat sie nicht. »Ich habe den Vorteil, dass ich weiß, was passiert, wenn die rote Lampe an der Studiokamera angeht«, sagt sie. Schließlich hat sie als 15-jährige gemeinsam mit ihren zwei- und drei Jahre älteren Schwestern in den TV-Sendungen »Die Goldene 1« und »Die aktuelle Schaubude« als Backgroundmusikerin Cello gespielt. »Wenn ich eines gelernt habe, ist es die Ruhe zu bewahren«, lacht die junge Frau.
 
-Bei «The Voice of Germany« hat sie es bis in die »Sing-offs« geschafft, die am 27. und 31.10. im Fernsehen übertraggen werden. Ihr Leben hat sich aber trotzdem schon stark verändert. Täglich trudeln hunderte Nachrichten über ihren Facebook- und Instagram-Account ein. »Darunter viele Bookinganfragen. Bevor die Sendung ausgestrahlt wurde, musste ich mich selbst um Auftritte kümmern, nun kommen die Auftritte zu mir«, freut sich die Musikerin, die in den vielen Nachrichten aber auch immer wieder mal einen Heiratsantrag findet und mittlerweile auch schon ab und zu auf der Straße erkannt wird. 
+Bei »The Voice of Germany« hat sie es bis in die »Sing-offs« geschafft, die am 27. und 31.10. im Fernsehen übertraggen werden. Ihr Leben hat sich aber trotzdem schon stark verändert. Täglich trudeln hunderte Nachrichten über ihren Facebook- und Instagram-Account ein. »Darunter viele Bookinganfragen. Bevor die Sendung ausgestrahlt wurde, musste ich mich selbst um Auftritte kümmern, nun kommen die Auftritte zu mir«, freut sich die Musikerin, die in den vielen Nachrichten aber auch immer wieder mal einen Heiratsantrag findet und mittlerweile auch schon ab und zu auf der Straße erkannt wird. 
 
 PS: Anschauen kann man sich die Auftritte von Fidi auf dem Youtube-Kanal von »Voice of Germany« unter https://bit.ly/32sCxMS

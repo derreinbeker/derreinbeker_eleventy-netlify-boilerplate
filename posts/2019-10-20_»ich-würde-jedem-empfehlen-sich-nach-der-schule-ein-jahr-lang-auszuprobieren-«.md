@@ -4,14 +4,12 @@ title: >-
   »Ich würde jedem empfehlen sich nach der Schule  ein Jahr lang
   auszuprobieren.«
 description: The Voice of Germany Kandidatin Fidi Steinbeck
-authorname: 'Denise Ariaane Funke '
+authorname: Denise Ariaane Funke
 date: 2019-10-20T07:05:02.342Z
 category: Politik
 tags:
   - Menschen
 ---
-![]()
-
 <figure>
 
   <img src="/static/media/fidivoice.jpg">
@@ -44,4 +42,4 @@ Die Liebe zum Handwerk hat sie dem Papa zu verdanken. Der leidenschaftliche Hobb
 
 Bei «The Voice of Germany« hat sie es bis in die »Sing-offs« geschafft, die am 27. und 31.10. im Fernsehen übertraggen werden. Ihr Leben hat sich aber trotzdem schon stark verändert. Täglich trudeln hunderte Nachrichten über ihren Facebook- und Instagram-Account ein. »Darunter viele Bookinganfragen. Bevor die Sendung ausgestrahlt wurde, musste ich mich selbst um Auftritte kümmern, nun kommen die Auftritte zu mir«, freut sich die Musikerin, die in den vielen Nachrichten aber auch immer wieder mal einen Heiratsantrag findet und mittlerweile auch schon ab und zu auf der Straße erkannt wird. 
 
- PS: Anschauen kann man sich die Auftritte von Fidi auf dem Youtube-Kanal von »Voice of Germany« unter https://bit.ly/32sCxMS
+PS: Anschauen kann man sich die Auftritte von Fidi auf dem Youtube-Kanal von »Voice of Germany« unter https://bit.ly/32sCxMS

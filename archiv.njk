@@ -11,7 +11,7 @@ pagination:
 
 <nav>
   {% if pagination.previousPageLink %}
-    <a rel="prev" href="{{ pagination.previousPageLink }}">← Neuere</a>
+    <a rel="prev" href="{{ pagination.previousPageHref }}">← Neuere</a>
     <span>/ </span>
   {% endif %}
 
@@ -19,6 +19,6 @@ pagination:
 
   {% if pagination.nextPageLink %}
     <span> /</span>
-    <a rel="next" href="{{ pagination.nextPageLink }}">Ältere →</a>
+    <a rel="next" href="{{ pagination.nextPageHref }}">Ältere →</a>
   {% endif %}
 </nav>

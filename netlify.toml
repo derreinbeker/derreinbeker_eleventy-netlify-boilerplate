@@ -10,6 +10,12 @@
 #[[redirects]]
 #  from = "/*"
 #  to = "/blog/:splat"
+[[redirects]]
+  from = "/unpkg/*"
+  to = "https://unpkg.com/:splat"
+  status = 200
+  force = true
+  headers = {Access-Control-Allow-Origin = "*"}
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302

@@ -1,4 +1,4 @@
-import htm from "https://unpkg.com/htm?module";
+import htm from "/admin/preview-templates/htm.js";
 import format from "https://unpkg.com/date-fns@2.0.0-alpha.2/esm/format/index.js?module";
 
 const html = htm.bind(h);

@@ -1,4 +1,4 @@
-import htm from "https://unpkg.com/htm?module";
+import htm from "/admin/preview-templates/htm.js";
 
 const html = htm.bind(h);
 

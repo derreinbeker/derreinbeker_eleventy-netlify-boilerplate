@@ -1,9 +1,9 @@
 ---
 titleintro: 'Ein Novum für Wentorfs Gemeindebücherei:'
 title: Vivien Wollweber ist die erste Auszubildende der Gemeindebücherei.
-description: |-
-  Erstmals Auszubildende 
-  in der Wentorfer Gemeindebücherei
+description: >-
+  Büchereileiterin Bärbel Nicolaisen sieht die Bücherei in der Entwicklung zum
+  dritten Ort zwischen eigenem Zuhause und der Arbeitswelt
 authorname: Christa Möller
 date: 2019-11-16T12:21:44.253Z
 category: Panorama

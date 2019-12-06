@@ -13,7 +13,7 @@ tags:
 <figure>
   <img src="/static/media/2019wasserstofffroeba.jpg">
   <figcaption>
-Prof. Michael Fröba, Diplom-Chemiker und Energieforscher an der Universität Hamburg. FOTO: U.Behnck   
+Prof. Michael Fröba, Diplom-Chemiker und Energieforscher an der Universität Hamburg. FOTO: U. Behnck   
   </figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Ein anderes, häufig eingesetztes Strom-Speichermedium, auch im Bereich der Elek
 
 Für unsere Mobilität sind sowohl Batterie-basierte PKW, als auch Brennstoffzellen-basierte Modelle am Markt verfügbar. Ein Batterie-betriebenes Auto hat nach einer Ladedauer von einer halben Stunde an der Schnellladesäule (bzw. bis zu 14 Stunden an der Haushaltssteckdose) eine Reichweite von ca. 300 km, ein Brennstoffzellen-Auto dagegen hat nach einer Betankungsdauer von 3-5 min an der Wasserstoffzapfsäule eine Reichweite von ca. 500 km. Das Wasserstofftankstellennetz in Deutschland ist allerdings erst im Aufbau. »Zukünftig wird es für verschiedene Anwendungsbereiche unterschiedliche Antriebe geben«, so die Prognose von Prof. Fröba. »Für die Mobilität werden Batterien für die Kurzstrecke und Brennstoffzellen für die Langstrecke sowie für den Schwertransport parallel benötigt.«
 
-In seinem Vortrag zeigte Prof. Fröba Vor- und Nachteile sowie Grenzen unterschiedlicher Energiesysteme und Antriebsarten der Mobilität auf und machte deutlich, dass Wasserstoff ein idealer Energieträger ist. Leider hat die deutsche Automobilindustrie die Vorteile bisher ignoriert. In asiatischen Ländern ist man da schon sehr viel weiter. Schätzungsweise in zwei Jahren wird man auch bei uns vermehrt mit Wasserstoff betriebene Autos kaufen können.Ausführliche und zahlreiche Fragen und Diskussionsbeiträge aus dem sehr interessierten und teilweise fachlich gut informierten Publikum trugen zu einer rundum gelungenen Veranstaltung bei.
+In seinem Vortrag zeigte Prof. Fröba Vor- und Nachteile sowie Grenzen unterschiedlicher Energiesysteme und Antriebsarten der Mobilität auf und machte deutlich, dass Wasserstoff ein idealer Energieträger ist. Leider hat die deutsche Automobilindustrie die Vorteile bisher ignoriert. In asiatischen Ländern ist man da schon sehr viel weiter. Schätzungsweise in zwei Jahren wird man auch bei uns vermehrt mit Wasserstoff betriebene Autos kaufen können. Ausführliche und zahlreiche Fragen und Diskussionsbeiträge aus dem sehr interessierten und teilweise fachlich gut informierten Publikum trugen zu einer rundum gelungenen Veranstaltung bei.

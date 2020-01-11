@@ -1,0 +1,23 @@
+---
+titleintro: Im April ist Halbzeit
+title: 'Personalmangel im Rathaus,  Straßensanierungen,  Gebühr für Regenwasser…'
+description: Wentorfs Bürgermeister Dirk Petersen will die Verwaltung neu aufstellen
+authorname: Christa Möller
+date: 2020-01-11T13:42:57.673Z
+category: Politik
+tags:
+  - Wentorf
+---
+
+
+Wentorf – Im Rathaus herrscht Personalnot, der Haushalt ist noch nicht beschlossen und es gilt, umfangreiche Straßensanierungen zu bewältigen. Wentorfs Bürgermeister Dirk Petersen blickt dennoch zuversichtlich auf die anstehenden Aufgaben. »Seit 20 Jahren hat sich der Personalstand nicht verändert, aber aufgrund der Entwicklung Wentorfs und der anstehenden Aufgaben muss im Personalbereich etwas geschehen«, sagt Petersen. Die Verwaltung der knapp 14.000 Einwohner zählenden Gemeinde sei mit nur zwei Ämtern straff organisiert. »Andere Gemeinden mit ähnlicher Struktur haben vier oder fünf Ämter«, weiß der Verwaltungschef. Mit professioneller Unterstützung eines Personalentwicklers soll sich die Verwaltung neu aufstellen, wenn die Politik die Mittel bewilligt. 
+
+Dass die Gemeinde noch keinen Haushalt für das laufende Jahr hat, liege nicht nur daran, dass die Haushaltsberatungen nicht so flüssig vorangegangen sind, sondern sei hauptsächlich darauf zurückzuführen, dass es einen langfristigen krankheitsbedingten Engpass in der Kämmerei gibt. Der Haushalt 2020 könne frühestens in der März-Sitzung der Gemeindevertretung beschlossen werden, sagt Petersen, der im April diesen Jahres »Halbzeit« hat: Dann ist die Hälfte seiner sechsjährigen Amtszeit herum. 
+
+Die größten Herausforderungen lagen für ihn im Bereich der umfangreichen Straßenbaumaßnahmen. »Für die Einwohner bedeutete das massive Einschnitte«, sagt er und hat dabei insbesondere die langwierigen Sperrungen im Bereich des Reinbeker Weges im Blick. Viele langwierige Diskussionen gab es bezüglich des Straßenbaus: »Die Widerstände in der Einwohnerschaft kamen in erster Linie dadurch zustande, dass die Anwohner zahlen sollten«, betont er. Das ist Vergangenheit, die Straßenbaubeitragssatzung wurde abgeschafft, die Kosten werden nun über den Gemeindehaushalt finanziert. Das ist ganz im Sinne des Verwaltungschefs: »Die Straßen werden von allen genutzt – also müssen die Sanierungen auch von allen bezahlt werden.« In diesem Jahr stehen die Planungen für den Straßenbau und die Entwässerung des Bergedorfer Weges an. Angedacht sind drei Bauabschnitte. »Wir werden mit den Anwohnern im Dialog sein«, verspricht Petersen. 2021 soll die Sanierung starten. Bezüglich der Regenentwässerung wird die geplante Gebühr für Regenwasser ein großes Thema im Rathaus sein. »Das wird uns noch massiv beschäftigen.«
+
+Wirtschaftlich geht es aufwärts, die Leerstände im Casinopark sollen bald der Vergangenheit angehören. »Die Entwicklung im Casinopark sieht positiv aus. Es entwickelt sich was«, freut sich Dirk Petersen. Das ehemalige Tedi-Gebäude soll durch Gastronomie belebt werden. Eine Eisdiele ist ebenfalls geplant und neben Budnikowsky wird demnächst ein Döner-Laden eröffnen. Im Rewe-Neubau, der 2021/22 fertig gestellt sein soll, ist unter anderem ebenfalls Gastronomie geplant. Dass der Platz attraktiver gestaltet wird, sei auch Sache der Gemeinde als Eigentümer. Diesbezüglich sind Gespräche mit Concept Immobilien geplant. Der Firma gehört der größte Teil der anliegenden Gebäude.
+
+Dass Wentorf eine neue Feuerwache auf dem Gelände der alten Hauptschule bekommt, hat Folgen für die Nutzer des Schulgebäudes nebst Turnhalle: Für sie muss eine Ausweichfläche gefunden werden. Das betrifft neben der Kreismusikschule und der Volkshochschule auch die angrenzende Gemeinschaftsschule, für die gerade ein Raumkonzept erarbeitet wird. »Andere Standorte für die Feuerwache ließen sich nicht realisieren«, betont Dirk Petersen. Aufgrund der Interessen von Dritten konnte dieses Thema nicht öffentlich behandelt werden. »Bei allen Abwägungen haben wir die richtige Wahl getroffen«, ist er überzeugt. Die alte Hauptschule soll im Frühjahr abgerissen werden, die Fertigstellung des Feuerwehr-Neubaus ist für 2022 avisiert. Neu gebaut werden soll auch für die aus allen Nähten platzende Offene Ganztagsschule. Wo genau, verrät Petersen noch nicht, der Standort sei aber »in unmittelbarer Nähe«.
+
+Ein besonderes Highlight für den Bürgermeister ist das neue Woods Art Institute an der Golfstraße, das in diesem Jahr offiziell eröffnete werden soll. »Das freut mich sehr, es wird über Wentorf hinaus an Bedeutung gewinnen.«Hat der Bürgermeister einen Vorsatz für das neue Jahr? »Bezüglich des Umganges miteinander noch gelassener zu werden«, sagt er spontan.

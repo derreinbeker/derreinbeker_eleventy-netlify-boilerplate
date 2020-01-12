@@ -9,6 +9,13 @@ tags:
   - Menschen
 ---
 
+<figure>
+  <img src="/static/media/2020-wittichwolf.jpg">
+  <figcaption>
+Wittich Wolf und Mr. Sunday freuen sich, wenn sie Kindern etwas beibringen können.   FOTO: Christa Möller   
+  </figcaption>
+</figure>
+
 Wentorf – Dieser Künstlername ist gar keiner: Wittich Wolf heißt wirklich so. »Der Vorname kommt aus den deutschen Heldensagen«, erläutert der Wentorfer. Seine historisch interessierten Eltern wollten ihren Kindern Namen geben, die nicht jeder hat. Sohn Wittich Wolf hat seit vielen Jahren auch einen Beruf, der etwas außergewöhnlich ist: Er verdient sein Geld als Zauberer und Bewegungskünstler. Dabei hatte der gebürtige Kieler, der seine Kindheit und Jugend in Osterode im Harz verbrachte, nach dem Abitur zunächst einen ganz anderen Berufsweg eingeschlagen. Schon in der Schule hatte er festgestellt, dass er anderen komplexe Sachverhalte gut und häufig verständlicher erklären kann als die Lehrer. »Mathe ist nur eine Form der Beschreibung unserer Umwelt«, erläutert der 45-Jährige, der seit zehn Jahren mit seiner Familie in Wentorf wohnt. »Ich habe Freude daran, den Erfolg anderer mitzuerleben.« 
 
 Folglich wollte er Lehrer werden, er studierte in Lüneburg Musik, evangelische Religion und Deutsch. Doch während des Studiums stellte er fest, »dass mich die Tätigkeit sehr interessiert, aber nicht, wie sie umgesetzt wird.« Die Bewertung von Schülern müsste mehr an der persönlichen Entwicklung gemessen werden«, ist er überzeugt. Es gebe Kinder, die vielleicht nur ein Mittelmaß erreichten, aber soviel mehr Entwicklung gemacht hätten als andere, die Top-Leistung brächten. »Es ist nicht wichtig, was es für eine Schule ist, sondern wer unterrichtet«, sagt Wittich Wolf. Einige Kinder seien in Mathe schlecht, hätten jedoch eine tolle soziale Kompetenz. »Dafür müsste es auch eine Bewertung geben«, meint der Wentorfer, der außerdem findet, Schule bereite zu wenig aufs Leben vor. Dabei hat er ganz praktische Dinge wie Steuererklärung oder Haushaltsbuch im Blick. Und »wenn Kinder lernen, gesund zu kochen und gesund zu essen, zu haushalten, dann verspreche ich mir davon weniger Menschen mit Schulden, weniger Gesundheitsprobleme.«

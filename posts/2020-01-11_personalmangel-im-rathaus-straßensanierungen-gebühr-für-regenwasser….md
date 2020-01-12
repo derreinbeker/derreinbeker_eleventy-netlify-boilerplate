@@ -8,7 +8,12 @@ category: Politik
 tags:
   - Wentorf
 ---
-
+<figure>
+  <img src="/static/media/2020-dirkpetersen.jpg">
+  <figcaption>
+Bürgermeister Dirk Petersen blickt entspannt auf die im neuen Jahr anstehenden Aufgaben.  FOTO: Christa Möller   
+  </figcaption>
+</figure>
 
 Wentorf – Im Rathaus herrscht Personalnot, der Haushalt ist noch nicht beschlossen und es gilt, umfangreiche Straßensanierungen zu bewältigen. Wentorfs Bürgermeister Dirk Petersen blickt dennoch zuversichtlich auf die anstehenden Aufgaben. »Seit 20 Jahren hat sich der Personalstand nicht verändert, aber aufgrund der Entwicklung Wentorfs und der anstehenden Aufgaben muss im Personalbereich etwas geschehen«, sagt Petersen. Die Verwaltung der knapp 14.000 Einwohner zählenden Gemeinde sei mit nur zwei Ämtern straff organisiert. »Andere Gemeinden mit ähnlicher Struktur haben vier oder fünf Ämter«, weiß der Verwaltungschef. Mit professioneller Unterstützung eines Personalentwicklers soll sich die Verwaltung neu aufstellen, wenn die Politik die Mittel bewilligt. 
 

@@ -31,6 +31,6 @@ Sie werden im fairen und unterhaltsamen Wettstreit klären: Was ist hier der ech
 
 Musikalisch umrahmt wird der Abend von Ofield, Singer/Songwriter aus Hamburg mit irischen Wurzeln. Stets im Hemd, begleitet von seiner Gitarre und mit einem Lächeln auf dem Gesicht, singt der gebürtige Mannheimer Songs über Momente, die das Leben ausmachen.
 
-Der Eintritt beträgt € 7,-, Tickets gibt es an der KulturKasse in der Stadtbibliothek, Hamburger Straße 8 in Reinbek,  040-72750800 sowie eine Stunde vor Beginn an der Kasse im Schloss Reinbek oder online unter www.kultur-reinbek.de
+Der Eintritt beträgt € 7,-, Tickets gibt es an der KulturKasse in der Stadtbibliothek, Hamburger Straße 8 in Reinbek, Telefon 040-72750800 sowie eine Stunde vor Beginn an der Kasse im Schloss Reinbek oder online unter www.kultur-reinbek.de
 
 Weitere Termine des Sachsenwald-Slam im Schloss Reinbek sind am 5. Mai, 25. August als Open Air-Event (bei Regen im Schloss) und am 24. November 2020. 

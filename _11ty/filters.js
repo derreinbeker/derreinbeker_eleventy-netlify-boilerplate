@@ -13,7 +13,10 @@ module.exports = {
     },
 
     cleanupCharactersNotAllowedInXML: function(code) {
-        return code.replace("\u0008" , "");
+        // eslint-disable-next-line no-control-regex
+        var replacementExpression = /\u0008/g;
+        var replacedCode = code.replace(replacementExpression, "");
+        return replacedCode;
     },
 
     descriptionOfPrintEditionFilename: function(printeditionFileName) {

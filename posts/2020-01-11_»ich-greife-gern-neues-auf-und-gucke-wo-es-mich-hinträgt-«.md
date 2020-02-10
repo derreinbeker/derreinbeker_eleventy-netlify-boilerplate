@@ -1,7 +1,9 @@
 ---
 titleintro: Menschen bei uns
 title: '»Ich greife gern Neues auf und gucke, wo es mich hinträgt.«'
-description: Wittich Wolf hat sein Hobby zum Beruf gemacht
+description: >-
+  Der Zauberer und Bewegungskünstler Wittich Wolf hat sein Hobby zum Beruf
+  gemacht
 authorname: Christa Möller
 date: 2020-01-11T13:17:53.051Z
 category: Panorama

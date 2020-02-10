@@ -1,7 +1,9 @@
 ---
 titleintro: Menschen bei uns
 title: »You can. Follow your dreams. Just do it.«
-description: Amin Rahimifard ist ein großes Volleyballtalent
+description: >-
+  Amin Rahimifard konvertierte im Iran, als einziger in seiner Familie, vom
+  Islam zum Christentum, und folgte damit seinem Volleyball-Trainer
 authorname: Christa Möller
 date: 2020-02-10T08:56:46.773Z
 category: Panorama

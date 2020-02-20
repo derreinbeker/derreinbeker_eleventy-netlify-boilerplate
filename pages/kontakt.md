@@ -19,5 +19,5 @@ Jahnstraße 18
 Vertretungsberechtigte Gesellschafter:  
 Hartmuth Sandtner und Leif Sandtner
 
-Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:  
+Inhaltlich Verantwortlicher gemäß § 55 RStV:  
 Hartmuth Sandtner (Anschrift wie oben)

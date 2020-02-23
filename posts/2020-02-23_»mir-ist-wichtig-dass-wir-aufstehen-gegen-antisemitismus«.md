@@ -1,0 +1,37 @@
+---
+titleintro: Menschen bei uns
+title: '»Mir ist wichtig, dass wir aufstehen gegen Antisemitismus«'
+description: >-
+  Gabriele Hannemann gründete vor über 25 Jahren den Verein Yad Ruth, der sich
+  für Holocaust-Überlebende einsetzt. Die Realschullehrerin und Sonderpädagogin
+  sieht sich in der historischen Verantwortung und vermittelt Grundschülern die
+  Inhalte des Judentums.
+authorname: Christa Möller
+date: 2020-02-23T10:10:57.516Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2020-gabriele-hannemann.jpg">
+  <figcaption>
+Gabriele Hannemann reist bis zu drei Mal jährlich nach Israel. FOTO: Christa Möller     
+  </figcaption>
+</figure>
+
+
+Reinbek – Ihre erste (Studien-)Reise nach Israel im Mai 1987 wird die Lübecker Lehrerin Gabriele Hannemann nie vergessen. Das dort Erlebte hat Einfluss auf ihr ganzes Leben. In Jerusalem lernte sie damals zufällig 13 Holocaust-Überlebende kennen. »Alle haben mir ihre Lebensgeschichte erzählt, Einzelheiten, die nicht mal ihre Familien kannten – es war das erste Mal, dass sie darüber gesprochen haben.« Zurück in Deutschland ließen sie diese Begegnungen nicht mehr los. »Der Holocaust ist mein Thema geworden«, sagt sie. Der Begriff basiere auf dem griechischen Wort holokauston, das bedeutet vollständig verbrannt. Das hebräische Wort Shoa steht für die Katastrophe.« Gemeinsam mit ihrem ersten Mann, Michael Hannemann, beschloss sie, Überlebenden zu helfen: »Wir sehen uns in der historischen Verantwortung.« Die beiden gründeten 1994 den Verein Yad Ruth, dessen Vorsitzende sie seither ist. Geschäftsführer ist der Wentorfer Michael Hannemann. Im vergangenen Jahr konnte der Verein sein 25-jähriges Bestehen feiern. 
+
+»Jeder vierte Holocaust-Überlebende in Israel und Osteuropa lebt unter dem Existenzminimum«, erzählt Gabriele Hannemann. Das erste Projekt von Yad Ruth galt der Hilfe für arme traumatisierte Überlebende der Shoa in Jerusalem. »Die Menschen haben echte Lebensqualität dadurch.« Mit einer warmen Mahlzeit täglich versorgt der Verein seit 2005 im Rahmen eines weiteren Projekts 40 Überlebende der Shoah in Moldawien, dem ärmsten europäischen Land. Zusätzlich gibt es ein häusliches Betreuungsprojekt. Ein weiteres Projekt ist in Thessaloniki/Griechenland angedacht. In Äthiopien werden im Rahmen eines Getreideprojekts seit 1999 bis heute rund 200 jüdische Familien unterstützt. »Ohne unsere Hilfe hätten sie kaum eine Überlebenschance«, weiß Gabriele Hannemann. Im Baltikum läuft das Projekt »…ein Überraschungspaket im Jahr«. Schüler der Stadtteilschule Bergedorf sorgen für den Einkauf von Lebensmitteln, packen anschließend Chanukka-Pakete – auch mit Hygieneartikeln und warmen Wintersocken – die von den Hamburger Johannitern und Maltesern an die Bedürftigen weitergeleitet werden. 
+
+Gabriele Hannemann unterrichtet an drei Wochentagen an einer Lübecker Schule Deutsch, Englisch und Religion. Für zwei Tage ist die Realschullehrerin und Sonderpädagogin seit 2002 im Rahmen eines Lehrauftrags zum Thema »Leben mit dem gelben Stern« freigestellt. Eine jährliche Begegnungswoche mit den über 80-jährigen Zeitzeugen aus Deutschland, Europa und Israel bildet einen weiteren Schwerpunkt. »Das sind Leute, die sich als Botschafter sehen.« Aber nicht jeder, der die Shoah erlebt hat, könne darüber auch erzählen. Und die Überlebenden werden weniger, in zehn Jahren können wahrscheinlich nur noch ihre Kinder und Enkel über das Thema berichten. Auch die Folgegenerationen leiden unter dem Trauma ihrer Eltern und Großeltern. 
+
+In Kooperation mit dem Möllner Verein Open Mind läuft das Unterrichtsprojekt zum Thema »Kinder mit dem gelben Stern« von Klasse 4 bis 13«. Bereits seit acht Jahren arbeitet Gabriele Hannemann im Rahmen des Präventionsprojekts »Frühe Prävention – Erstbegegnung mit dem Judentum und der Shoah in der Grundschule« unter anderem mit der Schule Mühlenredder in Reinbek (Lesen Sie dazu auch auf Seite 22 »Gegen das Vergessen«) und der Fürstin Ann-Mari-von Bismarck-Schule in Aumühle zusammen. »Es geht darum, den Grundschülern die Inhalte des Judentums zu vermitteln und sie in pädagogischer Begleitung sanft auf das Thema hinzuweisen«, erläutert die Lehrerin, die entsprechende Unterrichtsmaterialien mitbringt. Die Lübeckerin hat ein Kinderbuch zum Thema geschrieben, das auf wahren Erlebnissen basiert: »Marisha, das Mädchen aus dem Fass« für Schüler der vierten bis sechsten Klasse. »Das Mädchen hat eineinhalb Jahre in einem Fass versteckt überlebt.« 
+
+Außerdem bietet die Vereinsvorsitzende seit sieben Jahren Seminarreisen für Lehrkräfte aus Schleswig-Holstein an, sie leitet fünftägige Seminare zum Holocaust in der Gedenkstätte Yad Vashem. »Mir ist es wichtig, dass wir aufstehen gegen Antisemitismus.« Drei Jahre lang hat sie in einem entsprechenden Bundesmodellprojekt gearbeitet. Sie ist gut vernetzt, steht in Kontakt mit den Verbänden der Ghetto- und Lagerüberlebenden. Ein neues Projekt läuft gerade an mit der Joseph Carlebach-Schule in Hamburg, die die Integration im Curriculum für Klasse 4 erarbeiten will. »In dem Alter werden Moral und Werte gelegt«, betont sie die Wichtigkeit. Auf ihr Vereinsteam kann sie zählen, alle 25 aktiven Mitglieder arbeiten ehrenamtlich. »Ich würde mir noch mehr Mitarbeiter wünschen. Das muss man aber als Aufgabe sehen und sich aus dem Herzen heraus engagieren, denn es gibt für die Projekte keine Bezahlung.« Yadruth finanziert sich ausschließlich aus Spenden und / oder praktische Mithilfe. 
+
+»Jeder hat unterschiedliche Aufgaben im Leben. Der Einsatz frisst viel Zeit, aber ich habe die Energie dafür und die Freude daran. Das erfüllt mich sehr, ich bekomme sehr viel zurück«, sagt die Mutter zweier erwachsener Kinder, die gern ins Theater oder Kino geht und sich für Literatur interessiert. Mit ihrem Mann reist sie gern nach Kanada, beide reizen dort die Menschen und die Natur. »Diese Weite, diese Natur finde ich einzigartig.« 
+
+Für ihren ehrenamtlichen Einsatz ist Gabriele Hannemann 2003 mit dem Olof Palme Friedenspreis ausgezeichnet worden. Mit dem Preisgeld hat sie das Moldawienprojekt finanziert. 2013 hat sie das Bundesverdienstkreuz erhalten. Sie betont: »Es gibt Vorbehalte und Anfeindungen. Aber es ist ganz wichtig, nicht zu schweigen, sondern sich zu positionieren, seine Meinung zu äußern und sich aktiv einzubringen.«
+
+Weitere Informationen gibt es unter www.yadruth.de oder unter Tel. 040-727 85 20 sowie per E-Mail an yadruth@gmx.de. Spendenkonto: Yad Ruth e.V., Commerzbank Reinbek, IBAN DE84 2004 0000 0262 6570 00, BIC COBADEFFXXX.

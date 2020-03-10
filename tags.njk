@@ -15,8 +15,8 @@ permalink: /thema/{{ tag | slug }}/
 layout: layouts/base.njk
 ---
 
-<h4>Alle Artikel zum Thema</h4>
 <h1>{{ tag }}</h1>
+<h4>Alle Beiträge</h4>
 
 {% set postslist = collections[ tag ] | reverse %}
 {% include "components/postslist.njk" %}

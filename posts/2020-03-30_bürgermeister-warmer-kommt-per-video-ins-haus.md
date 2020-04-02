@@ -8,7 +8,7 @@ authorname: Susanne Nowacki
 date: 2020-03-30T08:47:43.102Z
 category: Politik
 tags:
-  - Coronapandemie Reinbek
+  - Coronapandemie
 ---
 Reinbek – Es sind bewegte Zeiten, in denen fast im Minutentakt neue Informationen über die Ausbreitung des Corona-Virus' und dessen Folgen für Gesellschaft, Wirtschaft und jeden Einzelnen durch das Internet rauschen. »Ich wollte gerne einmal zusammentragen, was von dieser Informationsflut aus Reinbeker Sicht interessant ist und habe mich deshalb entschlossen, einen möglichst schnellen und mit wenigen Mitteln umsetzbaren Weg zu wählen. So erreiche ich schnell möglichst viele Menschen«, berichtet Reinbeks Bürgermeister Björn Warmer zum Start seiner Internet-Videos. 
 

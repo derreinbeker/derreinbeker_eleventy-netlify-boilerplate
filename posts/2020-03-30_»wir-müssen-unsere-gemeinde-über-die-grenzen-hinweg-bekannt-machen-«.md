@@ -1,15 +1,15 @@
 ---
 titleintro: Menschen bei uns
 title: »Wir müssen unsere Gemeinde über die Grenzen  hinweg bekannt machen.«
-description: >-
-  Wolfgang Snijders liebt die Metal-Musik, aber auch die Bremer Stadtmusikanten,
-  ist Geschäftsführer eines Edeka-Marktes und Vorstandsmitglied in der
-  Wirtschaftsinitiative Wentorf.
+description: Wolfgang Snijders liebt die Metal-Musik, aber auch die Bremer
+  Stadtmusikanten, ist Geschäftsführer eines Edeka-Marktes und Vorstandsmitglied
+  in der Wirtschaftsinitiative Wentorf.
 authorname: Imke Kuhlmann
 date: 2020-03-30T07:56:52.295Z
 category: Panorama
 tags:
-  - Menschen  Wentorf
+  - Menschen
+  - Wentorf
 ---
 
 <figure>

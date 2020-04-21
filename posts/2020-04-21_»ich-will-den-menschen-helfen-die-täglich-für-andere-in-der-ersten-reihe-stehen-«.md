@@ -10,7 +10,7 @@ date: 2020-04-21T09:53:15.512Z
 category: Panorama
 tags:
   - Menschen
-  - Corona
+  - Coronapandemie
 ---
 
 <figure>

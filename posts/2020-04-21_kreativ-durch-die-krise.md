@@ -7,7 +7,7 @@ authorname: Imke Kuhlmann
 date: 2020-04-21T10:11:49.063Z
 category: Panorama
 tags:
-  - Corona
+  - Coronapandemie
 ---
 
 <figure>

@@ -8,7 +8,8 @@ authorname: Christa Möller
 date: 2020-05-03T15:04:28.317Z
 category: Panorama
 tags:
-  - Menschen Tinnitus
+  - Menschen
+  - Tinnitus
 ---
 Reinbek – Reinhardt Jennerjahn wurde in Ostdeutschland geboren, in Rostock. Trotzdem hat er viel von der Welt gesehen: Als Koch fuhr er für die Hochseefischerei der DDR über die Weltmeere, hat von Finnland über Kanada bis Mosambik, Panama und Brasilien viele Länder bereist. In Lübeck zur Familie seiner Mutter allerdings war er zuletzt als Kind 1952 mit dem Interzonenzug gefahren – es herrschte Kontaktverbot. Dass die Grenze gefallen ist, erfuhr Jennerjahn auf hoher See auf dem Weg nach Glasgow – und konnte es gar nicht glauben. Zurück zu Hause fuhr er per Zug mit Frau und Kindern nach Westdeutschland, um seine Lieblingstante in Lübeck zu besuchen. Dort wartete ein besonderer Überraschungsgast auf ihn: »Meine Großmutter war auch da«, erzählt Jennerjahn mit feuchten Augen. »Ich wusste gar nicht, dass sie noch lebt. Das war meine persönliche Wiedervereinigung.« Vier Wochen später starb die Großmutter. 
 

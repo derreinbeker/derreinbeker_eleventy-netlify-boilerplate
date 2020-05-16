@@ -8,7 +8,7 @@ authorname: Imke Kuhlmann
 date: 2020-05-16T10:25:58.532Z
 category: Panorama
 tags:
-  - KLIMAWECHSEL
+  - Klimawandel
 ---
 
 <figure>
@@ -28,4 +28,4 @@ Reinbek – »Ich kann nicht in die Glaskugel gucken, um zu sagen, wie das Wette
 
 Mit drei bis vier Grad Erwärmung sei bis zum Jahr 2100 zu rechnen. Vorbeugend werden seit Jahrzenten Monokulturen wie beispielsweise mit Fichten in Mischkulturen umgewandelt. »Die Forstwirtschaft hat hier nichts verschlafen. Doch die Bäume brauchen ihre Zeit, bis sie gewachsen sind, das dauert Generationen«, sagt Wolter. Dadurch würden die Wälder langfristig stabiler.« Die empfindliche Fichte komme mit den extremen Wetterwechseln und langen Trockenperioden nicht so gut zurecht wie die weniger stressempfindliche Eiche, Douglasie, Küstentanne oder Roteiche. Sie seien auch toleranter als die Buchen. 
 
-Wolter freut sich, wenn die Menschen im Wald ihn ansprechen und sich erkundigen, was der Förster tut und warum. »Wie ziehen einen Zaun beispiels-weise nicht, um Menschen fern zu halten, sondern junge Bäume davor zu schützen, dass Tiere die Jungpflanzen auffressen«, erklärt er. Die Chance Fritz Ole Wolter im Wald zu treffen ist groß, denn täglich ist er hier an seinem Arbeitsplatz. Neben der Organisation der Holzernte kümmert er sich ebenso um die Wegeunterhaltung, die Verkehrs-sicherung, den Waldschutz und darum, Menschen vor möglichen Gefahren im Wald zu schützen.
+Wolter freut sich, wenn die Menschen im Wald ihn ansprechen und sich erkundigen, was der Förster tut und warum. »Wie ziehen einen Zaun beispielsweise nicht, um Menschen fern zu halten, sondern junge Bäume davor zu schützen, dass Tiere die Jungpflanzen auffressen«, erklärt er. Die Chance Fritz Ole Wolter im Wald zu treffen ist groß, denn täglich ist er hier an seinem Arbeitsplatz. Neben der Organisation der Holzernte kümmert er sich ebenso um die Wegeunterhaltung, die Verkehrssicherung, den Waldschutz und darum, Menschen vor möglichen Gefahren im Wald zu schützen.

@@ -1,6 +1,6 @@
 ---
 titleintro: Menschen bei uns
-title: » Nur gemeinsam sind wir wirklich stark!«
+title: »Nur gemeinsam sind wir wirklich stark!«
 description: "Seit 1979 ist Nevenka Erdmann Mitglied im Ensemble der Wentorfer
   Bühne. Ohne Theater sie sich  ihr Leben nicht vorstellen "
 authorname: Imke Kuhlmann

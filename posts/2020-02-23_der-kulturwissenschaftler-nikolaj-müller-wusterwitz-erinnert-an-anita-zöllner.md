@@ -1,16 +1,15 @@
 ---
 titleintro: Jüdische Mitbürger in Aumühle
 title: Der Kulturwissenschaftler Nikolaj Müller-Wusterwitz erinnert an Anita Zöllner
-description: >-
-  Die Reihe »75 Jahre Kriegsende – Frieden« erinnert in Aumühle von Februar bis
-  Oktober 2020 mit diversen Veranstaltungen an das Ende des Zweiten Weltkrieges.
-  Dazu gehört die Recherche über das tragische Schicksal der Familie Zoellner
-  kurz vor Kriegsende in Aumühle.
+description: Die Reihe »75 Jahre Kriegsende – Frieden« erinnert in Aumühle von
+  Februar bis Oktober 2020 mit diversen Veranstaltungen an das Ende des Zweiten
+  Weltkrieges. Dazu gehört die Recherche über das tragische Schicksal der
+  Familie Zoellner kurz vor Kriegsende in Aumühle.
 authorname: Stephanie Rutke
 date: 2020-02-23T10:34:54.127Z
 category: Panorama
 tags:
-  - Antisemitismus
+  - Gesellschaft
 ---
 
 <figure>

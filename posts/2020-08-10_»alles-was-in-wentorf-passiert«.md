@@ -37,4 +37,4 @@ Die meisten Redaktionsmitglieder sind schon seit Jahrzehnten in der Gemeinde ans
 
 Verstärkt wird das Team durch Alexa Binnewies, die seit über zehn Jahren für das Layout zuständig ist, und Sören Kuhrt, der sich um die Administration der Homepage kümmert. Seit drei Jahren ist das Heft auch online zu finden. Es gebe zwei- bis dreitausend Zugriffe und der wöchentliche Newsletter habe 180 Abonnenten, sagt Jan Christiani stolz.
 
-Mehr Informationen über WiB sind zu finden unter www.wentorf-im-blick.deChrista Möller
+Mehr Informationen über WiB sind zu finden unter www.wentorf-im-blick.de

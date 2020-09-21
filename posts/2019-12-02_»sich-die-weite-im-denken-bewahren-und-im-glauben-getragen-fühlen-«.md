@@ -1,12 +1,13 @@
 ---
 titleintro: Menschen bei uns
 title: »Sich die Weite im Denken bewahren  und im Glauben getragen fühlen.«
-description: 'Bente Küster, neue Pastorin in Reinbek-West, lässt sich gern überraschen.'
+description: Bente Küster, neue Pastorin in Reinbek-West, lässt sich gern überraschen.
 authorname: Christa Möller
 date: 2019-12-02T17:10:23.108Z
 category: Panorama
 tags:
   - Menschen
+  - Kirchen
 ---
 <figure>
 

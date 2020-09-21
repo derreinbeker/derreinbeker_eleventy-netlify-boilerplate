@@ -1,14 +1,14 @@
 ---
 titleintro: Menschen bei uns
 title: »Ich bin für mein Leben gern Priester«
-description: >-
-  Kaplan Ferdinand Moskopf möchte sich nicht an einen Menschen binden – er
-  möchte für viele Menschen da sein.
+description: Kaplan Ferdinand Moskopf möchte sich nicht an einen Menschen binden
+  – er möchte für viele Menschen da sein.
 authorname: Imke Kuhlmann
 date: 2020-01-27T08:53:09.626Z
 category: Panorama
 tags:
   - Menschen
+  - Kirchen
 ---
 <figure>
   <img src="/static/media/2020-F-Moskopf.jpg">

@@ -1,0 +1,39 @@
+---
+titleintro: Menschen bei uns
+title: "»Ich finde es sehr ermutigend,  Worte aus der Bibel zu hören.« "
+description: Johannes Heiderich (19) ist im Umweltschutz aktiv und gründete in
+  Reinbek – zusammen mit anderen – die Jugendgruppe der Klimaschutz-Initiative
+  Sachsenwald.
+authorname: Christa Möller
+date: 2020-10-17T13:22:57.146Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2020-10-Heiderich-Johannes.jpg">
+  <figcaption>
+Johannes Heiderich plant über die Organisation »Freunde der Erziehungskunst« ein »Weltwärts-Jahr« in Kolumbien. FOTO: Christa Möller  
+   
+  </figcaption>
+</figure>
+
+
+
+**Wentorf/Reinbek –** Gemeinsam mit der Reinbekerin Rebecca Lekebusch (16) gründete Johannes Heiderich (19) aus Wentorf im November vergangenen Jahres die Jugendgruppe der Klimaschutz-Initiative Sachsenwald. Kinder und Jugendliche zwischen zehn und zwölf Jahren treffen sich seit kurzem wieder regelmäßig an jedem zweiten und vierten Donnerstag im Monat um 17 Uhr im Courvoisier-Haus an der Reinbeker Schulstraße 15, um aktuelle Aktionen zu besprechen. Derzeit geht es um das Thema Plastikmüll. Dazu wollen die Jugendlichen mit Pastorin Bente Küster einen Schaukasten vor der Nathan-Söderblom-Kirche am Täbyplatz gestalten und Alternativen zu Plastikartikeln präsentieren. Und schon mehrfach hat die Gruppe eine Müllsammelaktion gestartet. Unterstützung gibt es von der Reinbeker Klimaschutz-Initiative, deren Teilnehmer die Gründung der Jugendgruppe angeregt hatten. Die Dinkel-Schoko-Kekse, die bei den Gruppentreffen auf dem Tisch stehen, hat übrigens »Onkel Dieters Bioladen« gesponsert. »Außerdem machen wir als Spaßfaktor auch immer ein Spielchen«, erzählt Johannes Heiderich.
+
+15 Teilnehmer hat die WhatsApp-Gruppe, durchschnittlich kommen vier Gruppenmitglieder zu den Treffen. Gern dürfen weitere Kinder und Jugendliche bis 18 Jahren sich an den ein- bis eineinhalbstündigen Zusammenkünften beteiligen, sie können ganz unverbindlich vorbeischnuppern, wie Johannes Heiderich betont. »Unser erster Slogan war der plastikfreie Markt.« Gespräche mit dem Marktleiter hätten jedoch ergeben, dass die Menschen auf dem Wochenmarkt sehr umweltbewusst einkauften und ihre Stoffbeutel mitbringen würden. Die Aktion mit dem Schaukasten richte sich daher insbesondere an Supermarktkunden.
+
+Demnächst steht außerdem eine Baumpflanzaktion in Büchsenschinken an, dort haben die Mitglieder eine Pflanzfläche gefunden, was in Reinbek schwierig sei, so Heiderich. »Die Bäume stammen von einem Bekannten aus den Vier- und Marschlanden.« Die Eichen, Birken und Kastanien hätten sich auf dessen Grundstück selbst ausgesät. »Er mag die Bäume nicht wegtun, deshalb pflanzt er sie in Töpfe.«
+
+Einige der Gruppe engagieren sich bei der Jugend-Umwelt-Organisation »Plant for the Planet«, wo Johannes Heiderich seit 2013 Mitglied ist. Seit seiner Kindheit ist er gern im elterlichen Garten aktiv. »Ich veredele Bäume«, verrät der 19-Jährige, der zuhause außerdem Kräuter und Gemüse kultiviert. Seitdem er sich in der Waldorf-Schule im Rahmen einer Jahresarbeit mit der Baum-Veredelung befasst hat, fasziniert ihn dieses Thema. »Das hat mir Spaß gemacht, deswegen mache ich das weiter«, erklärt er. So kam er auch mit dem Vierländer in Kontakt. Den Bereich Umweltschutz fand er schon an der Schule interessant, hatte dort gemeinsam mit zwei Klassenkameraden eine Umweltgruppe gegründet.
+
+Nach seinem Abitur im Mai wollte Heiderich über die Organisation »Freunde der Erziehungskunst« ein »Weltwärts-Jahr« in Kolumbien starten – doch die Corona-Pandemie kam dazwischen. Die Organisation unterstützt und koordiniert soziale Projekte für Kinder und Jugendliche in aller Welt. Das vom Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung geförderte »Weltwärts-Programm« ermöglicht ein Auslandsjahr für Jugendliche bis zum 27. Lebensjahr. Nun ist der Wentorfer noch zuhause, hat bereits einen Spanisch-Intensiv-Kursus absolviert und macht stattdessen jeweils vierwöchige Praktika beispielsweise im sozialen, ökologischen oder entwicklungspolitischen Bereich in Deutschland, die aufgrund der Pandemie für das Weltwärts-Jahr anerkannt werden. Im September hat Heiderich ein vierwöchiges Praktikum im Klimaschutzmanagement in Wentorf absolviert. Bürgermeister Dirk Petersen habe ihm bei der Gelegenheit angeboten, dass sich die Klimaschutzgruppe auch in Wentorf treffen könne. Für November ist dort die erste Zusammenkunft geplant, die Termine in Reinbek sollen parallel weiter stattfinden. Weitere Infos unter www.klimaschutz-sachsenwald.de/wir-über-uns/jugendgruppe/
+
+Jetzt im Oktober wird Johannes Heiderich einen Monat lang die Arbeit einer ökologischen Zimmerei in Mechtersen kennenlernen, wo er währenddessen wohnen wird. Danach ist ein vierwöchiges Praktikum in einer spanisch-sprachigen Kindertagesstätte geplant.
+
+Als Vorbild nennt er spontan Greta Thunberg. Die schwedische Umweltaktivistin sei »richtig inspirierend und sehr mutig, weil sie das Thema mit viel Konsequenz und viel Energie angeht«. Aber auch Felix Finkbeiner zählt er dazu, den Gründer von »Plant for the Planet«. Und »Jesus ist noch ein Vorbild. Ich gehe gern zum Gottesdienst in die Kirche«, sagt Johannes Heiderich, der in der Christengemeinschaft in Bergedorf beim Gottesdienst Cello spielt. »Ich finde es sehr ermutigend, Worte aus der Bibel zu hören, dass man gerecht miteinander umgeht. Mir gibt das so richtig Energie. Gott schenkt uns Liebe, Mut und lässt uns die Schönheit seiner Schöpfung genießen. Dadurch weist er uns zum wesentlichen im Leben hin und zeigt uns, dass wir für ein gutes Leben nicht viel Geld brauchen. Das ist sogar klimafreundlich, denn die Klimakrise gibt es quasi nur, weil wir viel zu viel Geld verdienen und ausgeben wollen. Na ja, wegen übertriebenen Konsums, Tourismus‘ und dem Schnickschnack.«
+
+Weiteren Ansporn für seinen ökologischen Einsatz findet Johannes Heiderich durch gemeinschaftliche Aktionen und die Berichterstattung darüber. Oft werde ihm erst beim Lesen der Artikel klar, was bereits bewirkt wurde. So seien bei einer Pflanzaktion in Wentorf in zwei Stunden 120 Euro für »Plant for the Planet« zusammengekommen. »Dafür werden 120 Bäume in anderen Ländern gepflanzt!«.
+
+Noch hat er die Hoffnung, im Januar nach Kolumbien fliegen zu können. Wenn das nicht klappt, wird er sich ein weiteres, dann sechsmonatiges Praktikum, vorzugsweise bei einer NGO, einer privaten, unabhängigen und nicht gewinnorientierten Organisation, suchen. Bis dahin wird er auf alle Fälle weiter dafür sorgen, dass DER REINBEKER in seinem Umfeld zeitnah in die Briefkästen kommt. »Ich mag die Bewegung an der frischen Luft«. Nach dem »Weltwärts-Jahr« plant er ein Studium an der Hochschule für Nachhaltige Entwicklung in Eberswalde, etwa im Bereich Forst- oder Landwirtschaft oder Klimaschutzmanagement.

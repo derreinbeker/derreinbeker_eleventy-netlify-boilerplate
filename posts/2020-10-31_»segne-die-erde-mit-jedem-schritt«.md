@@ -1,0 +1,35 @@
+---
+titleintro: Menschen bei uns
+title: "»Segne die Erde mit jedem Schritt« "
+description: Die Musik- und Rhythmikpädagogin Karin Berger-Petersen hat in Ghana
+  gemerkt, dass vieles von unserem Konsum und Luxus nicht nötig ist zum
+  Glücklichsein.
+authorname: "Christa Möller "
+date: 2020-10-31T12:00:37.704Z
+category: Panorama
+tags:
+  - Wentorf
+---
+
+
+<figure>
+  <img src="/static/media/2020-berger-petersen-Karin.jpg">
+  <figcaption>
+Karin Berger-Petersen gibt in Wentorf Gitarrenunterricht für Kinder und Kurse in Musikalischer Früherziehung und lädt ein zu Spirituellem Singen in der Kirche. FOTO: Christa Möller  
+   
+  </figcaption>
+</figure>
+
+
+
+**Wentorf –** Ihr Tag ist ausgefüllt, freie Zeit hat Karin Berger-Petersen nicht häufig. Trotzdem ist die Erzieherin und Musikpädagogin nicht gestresst – ganz im Gegenteil: »Bei mir vermischen sich Beruf und Hobby«, sagt sie. Die Wentorferin hat ebenso viel Freude an ihrer Arbeit im Waldkindergarten, wo sie seit zwei Jahren arbeitet und den sie gemeinsam mit anderen Eltern vor circa 17 Jahren mitgegründet hat, wie beim Musikunterricht. Karin Berger-Petersen ist im bayrischen Moosburg aufgewachsen. Nach dem Abitur hat sie vier Monate in Ghana bei verschiedenen sozialen Workcamps mitgearbeitet, ein paar Jahre darauf erneut sechs Monate lang bei einem studentischen Dorfentwicklungsprojekt. »Das war eine gute und herausfordernde Zeit für mich«, sagt sie rückblickend. »Ich habe gemerkt, dass vieles von unserem Konsum und Luxus nicht nötig ist zum Glücklichsein.« Ohne Elektrizität und Wasserleitung zu leben, sich mit einem Eimer Wasser aus dem Fluss zu waschen, die Wäsche per Hand zu schrubben und ab 18 Uhr nur mit Petroleumlampe oder Kerze zusammen zu sitzen – was zunächst anstrengend und unbequem erschien, entpuppte sich immer mehr als Freude und Freiheit. »Insgesamt erlebte ich mit den Menschen in Ghana einen langsameren Lebensrhythmus, eine tiefe Verbundenheit mit der Natur und Lebensfreude, die aus dem Herzen kommt«, so Karin Berger-Petersen. 
+
+Die positive Erfahrung der Begegnung mit einer anderen Kultur wollte sie gerne vertiefen und auch anderen Menschen zugänglich machen. So entschied sie sich für ein Ethnologiestudium in Hamburg und wählte als Nebenfächer Journalismus und Pädagogik. Vor dem Studium machte sie zur Orientierung Praktika bei einer Zeitung und bei einer Werbeagentur, später auch noch beim Fernsehen. Die pädagogische Arbeit konnte sie durch studienbegleitende Jobs bei einem Spielmobil und in einem Jugendzentrum kennenlernen. Als kurz nach Abschluss des Studiums ihr erstes Kind geboren wurde, verzichtete sie der Familie zuliebe auf das geplante Auslandsprojekt und machte eine zweijährige Ausbildung als Rhythmikpädagogin. Seither gibt die musikalische 49-Jährige, die seit ihrem achten Lebensjahr Gitarre spielt, Gitarrenunterricht für Kinder und Kurse in Musikalischer Früherziehung. Letztere pausieren Corona bedingt jedoch derzeit. 
+
+Ihr Ehemann ist Klavierlehrer und Mathematiker und die drei Söhne des Ehepaares, 13, 19 und 21 Jahre alt, sind ebenfalls sehr musikalisch: Der jüngste spielt Cello, der mittlere Klavier und der älteste Klarinette. Seit 16 Jahren lebt die Familie in Wentorf, die älteren Söhne studieren in London und Hannover. Karin Berger-Petersen schätzt ihr soziales Netzwerk, aber auch die Nähe zum Wald und zur Lohe, wo sie gern joggen geht. In Wentorf lasse sich ein Zusammenleben im Einklang mit der Natur verwirklichen. Ihr ist es wichtig, nachhaltig, respektvoll und achtsam miteinander und mit den Ressourcen der Erde umzugehen. Gern unterstützt sie von Zeit zu Zeit Aktionen des Vereins »Wentorf gestalten«. Ihr Anliegen ist es, Menschen anzuregen, ihre eigene Kraft und ihr eigentliches Potential zu entdecken und zu leben. »Ich glaube, jeder hat seine besonderen Talente. Wir leben besser, wenn jeder an seinem Platz ist und das verwirklicht, was in ihm steckt.« Regelmäßig bietet die christlich geprägte Wentorferin Heilsames Singen an. »Gesungen werden Lieder, die gut tun, aus verschiedenen Religionen und verschiedenen Kulturen, etwa aus Indien, Deutschland, Hawaii und Afrika.« Das sei eine Kraftquelle für die Teilnehmenden, Gemeinschaft zu erleben. »Über den Klang verbindet man sich auch, ohne sich an den Händen zu fassen«, ergänzt sie mit Blick auf die derzeit ausfallenden Kreistänze. »Durch die Liedauswahl nähre ich Vertrauen ins Leben – das ist mir gerade in der jetzigen angstgeprägten Zeit wichtig.«  
+
+Bei ihrer Arbeit sowohl mit den Waldkindern als auch beim Singen und Musizieren könne sie etwas Positives bewirken, so Karin Berger-Petersen. »Offenheit, Toleranz und Lebensfreude schwingt überall mit. Und wenn ich merke, die Leute gehen aus meinen Kursen lächelnd, gestärkt und zufrieden raus, dann bin ich glücklich.« Ihrem katholischen Elternhaus verdanke sie »den Glauben an eine göttliche Kraft, die uns trägt«. Ihren Lebensweg stark beeinflusst habe die Ausbildung zur Rhythmikpädagogin: »Das hat richtig viel Spaß gemacht und mich einen ganzheitlichen Ansatz gelehrt, Kinder mit Musik und Bewegung bei ihrer Entwicklung zu begleiten.« Davon profitiert nun auch ihre Arbeit im Waldkindergarten. Auch ihre Bachblütenausbilderin und die Weiterbildung als Singleiterin bei den »Singenden Krankenhäusern« haben sie geprägt. 
+
+Ihr Leitsatz fürs Leben ist ebenso klar wie kurz: »Segne die Erde mit jedem Schritt«. Ihr Wunsch ist es, mit all ihrem Tun und Sein mehr Liebe, Freude und Schönheit in die Welt zu bringen. Gerade hat Karin Berger-Petersen noch ein neues Berufsfeld für sich entdeckt: Die heilende Tätigkeit mit Klang-Codes. »Das sind gesungene kleine Melodiefolgen, die auf der körperlichen und seelischen Ebene wirken«, erläutert sie. Das könne hilfreich sein bei Wirbelsäulenproblemen mit dem obersten Halswirbel, aber auch, wenn das innere Gleichgewicht nicht stimme und bei Kindern mit ADHS. 
+
+Ehrenamtlich steht Karin Berger-Petersen außerdem von Zeit zu Zeit mit der Band »Shalom« auf der Bühne wie kürzlich beim Projekt CoWorkLand im Casinopark. Singen und Gitarre spielen schätzt sie auch in ihrer Freizeit, ebenso wie Spaziergänge und ihre Teilnahme an einer Bergedorfer Trommelgruppe. Gern würde sie öfter töpfern, malen und lesen wie zuletzt ein Buch des buddhistischen Mönchs Thich Nhat Hanh. Im Urlaub locken die Familie Berge oder Meer in Deutschland und Österreich, der Besuch bei Freunden in Ungarn oder bei den Verwandten in Bayern – derzeit allerdings Corona bedingt lieber in Schleswig-Holstein.

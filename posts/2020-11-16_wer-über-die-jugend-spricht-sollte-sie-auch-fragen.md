@@ -9,6 +9,18 @@ tags:
   - Menschen
   - Jugendbeirat
 ---
+<figure>
+  <img src="/static/media/2020-nov-juz-hess-rothschuh.jpg">
+  <figcaption>
+Jakob Hess (16) und Emma Rothschuh (18) gehören zum Vorstand des seit März 2020 amtierenden Jugendbeirats. (Maximilian Gaedke fehlt auf dem Foto).   
+   
+  </figcaption>
+</figure>
+
+
+
+
+
 **Reinbek –** Emma Rothschuh (18) und Jakob Hess (16) bilden zusammen mit Maximilian Gaedke (16) den Vorstand des frisch gewählten Jugendbeirats in Reinbek. Im März dieses Jahres wurden 15 Jugendliche gewählt. Seitdem treffen sie sich regelmäßig, nicht nur miteinander, sondern auch mit Vertretern der Parteien. Das JUZ (Jugendzentrum) ist ihre Schaltzentrale.
 
 »Zum einen möchten wir uns bei der Politik vorstellen aber ebenso Themen beleuchten«, so Emma Rothschuh. Sie ist die Vorsitzende des Jugendbeirats. Die 18-jährige absolviert eine Ausbildung zur Gesundheits- und Krankenpflegerin. Die junge Frau ist vielfältig interessiert und engagiert. Neben ihren musischen Interessen, sie spielt Cello und nimmt Gesangsunterricht, ist sie auch als Küsterin in der Nathan-Söderblom Kirche aktiv. »Ehrenamtliches Engagement ist für mich eine Selbstverständlichkeit. Ich könnte mir gar nicht vorstellen, nichts für die Gemeinschaft zu tun«, sagt die Vorsitzende des Jugendbeirats.

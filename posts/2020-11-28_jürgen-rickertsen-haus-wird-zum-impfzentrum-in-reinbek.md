@@ -13,8 +13,6 @@ tags:
   - Corona-Pandemie
   - Reinbek
 ---
-
-
 <figure>
   <img src="/static/media/2020-juergen-rickertsen-haus.jpg">
   <figcaption>
@@ -31,17 +29,15 @@ Ab dem 14. Dezember bis zum 30. Juni 2021 bezieht der Kreis Stormarn das moderne
 
 **Verständnis und Perspektive für Reinbeker Seniorinnen und Senioren**
 
-Ein wichtiges Kriterium für ein Impfzentrum stellen die zentrale Lage sowie Barrierefreiheit dar. Diese Vorzüge wissen auch der Club 60**+**, das DRK, der Senioren- als auch Behindertenbeirat, die Rentenberatung, AWO sowie der SoVD zu schätzen. Die Verwaltung agiert Hand-in-Hand mit den Verbänden und Vereinen, um ihnen adäquate Alternativen anzubieten. Für die Zeit dazwischen, ziehen Verbände und Vereine samt Mobiliar und Ausstattung in die Räumlichkeiten der Villa Tesch (neben dem Rathaus) als auch in das ehemalige Museum Rade. Daneben stehen den Akteuren auch der Sitzungssaal sowie die Kantine im Rathaus zur Verfügung.
+Ein wichtiges Kriterium für ein Impfzentrum stellen die zentrale Lage sowie Barrierefreiheit dar. Diese Vorzüge wissen auch der Club 60+, das DRK, der Senioren- als auch Behindertenbeirat, die Rentenberatung, AWO sowie der SoVD zu schätzen. Die Verwaltung agiert Hand-in-Hand mit den Verbänden und Vereinen, um ihnen adäquate Alternativen anzubieten. Für die Zeit dazwischen, ziehen Verbände und Vereine samt Mobiliar und Ausstattung in die Räumlichkeiten der Villa Tesch (neben dem Rathaus) als auch in das ehemalige Museum Rade. Daneben stehen den Akteuren auch der Sitzungssaal sowie die Kantine im Rathaus zur Verfügung.
 
 »Für uns hat die Seniorenarbeit einen hohen Stellenwert. Wir wissen um die Bedürfnisse dieser vulnerablen Gruppe«, sagt der städtische Seniorenbeauftragte Christoph Biedenweg. »Gerade weil uns die Arbeit mit den Seniorinnen und Senioren so am Herzen liegt, sehen wir im Impfzentrum eine Chance. Je früher diese Gruppe geimpft ist, desto früher können diese auch wieder zurück ins alltägliche Leben. Als Seniorenbeauftragter weiß ich, dass gerade diese Einschränkungen Senioren noch mehr vereinsamen lässt. Außerdem habe ich viele Projekte, die ich endlich wieder beginnen möchte wie Tanz und Kaffee oder andere gesellschaftliche Aktivitäten«, führt Biedenweg aus.
 
 Im Kreis Stormarn werden außerdem zwei weitere  Impfzentren eingerichtet:
 
-Impfzentrum Nord: Bad Oldesloe  - Jugendherberge, Konrad-Adenauer-Ring 2, \
-23843 Bad Oldesloe
+**Impfzentrum Nord**: Bad Oldesloe – Jugendherberge, Konrad-Adenauer-Ring 2, 23843 Bad Oldesloe
 
-Impfzentrum Mitte:  Großhansdorf – auf dem Gelände der Lungenklinik, \
-Wöhrendamm 80, 22927 Großhansdorf
+**Impfzentrum Mitte**: Großhansdorf – auf dem Gelände der Lungenklinik, Wöhrendamm 80, 22927 Großhansdorf
 
 Zum Impfverfahren: Die Impfung ist freiwillig. U.a. aufgrund der begrenzten Verfügbarkeit zu Beginn wird eine Priorisierung der Impfungen erfolgen. Diese wird durch die im Einzelnen noch festzulegenden Kriterien der ständigen Impfkommission (StiKo) in Abstimmung mit dem Ethikrat erfolgen. Eine Regelung hierzu wird dann das Bundesgesundheitsministerium im Rahmen einer Verordnung (nach § 20i Absatz 3 Ziffer 1 a) SGB V treffen. 
 

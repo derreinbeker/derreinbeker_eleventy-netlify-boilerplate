@@ -10,6 +10,16 @@ tags:
   - Menschen
   - Wentorf
 ---
+<figure>
+  <img src="/static/media/2021-narr-patrick-golf-wentorf.jpg">
+  <figcaption>
+Patrick Narr, Vorsitzender des Wentorf-Reinbeker Golf-Clubs, fasziniert die taktische Seite seines Sports.    
+   
+  </figcaption>
+</figure>
+
+
+
 **Wentorf –** Elitäre Angelegenheit, nur für ältere Herrschaften, gar kein richtiger Sport: Mit diesen Vorurteilen gegenüber seiner Lieblingsfreizeitbeschäftigung will Patrick Narr aufräumen. Der 47-Jährige ist seit Juli 2018 Vorsitzender des Wentorf-Reinbeker Golf-Clubs. Das ist ein Verein mit Geschichte, wurde er doch schon 1901, also vor rund 120 Jahren, gegründet – als erster Hamburger Golfclub und viertältester Golfclub in Deutschland. Noch in den 1950er Jahren durften nur Hanseaten Mitglied werden, man wollte »unter sich bleiben«, wie in der Broschüre zum 111-jährigen Bestehen nachzulesen ist. Deutschlands erfolgreichster Amateurgolfer Erik Sellschop war dort Mitglied.
 
 Patrick Narr hat mal Fußball und dann Tennis und Hockey gespielt. Als er Letzteres aufgrund von Knieproblemen 1993 zunächst einschränken musste, wollte er mit dem Golfsport in Wentorf anfangen. »Das war damals gar nicht einfach, weil dieser Club sehr elitär war und keine Jugendlichen ohne Eltern aufgenommen hat«, erinnert er sich zurück. Doch er ließ sich nicht abschrecken und schaffte es. Zahlten Erwachsene damals noch eine Aufnahmegebühr von 10.000 D-Mark, ist heute nur der Jahresbeitrag von 1.200 Euro zu entrichten. Auch weitaus ältere Mitglieder, die seit Jahren erfolgreich Hockey spielten, erzählen noch heute, dass sie in den 1960er Jahren vergeblich versucht hätten, in diesen Club zu kommen. Im Laufe der Zeit gab es Lockerungen – nicht zuletzt mit Blick auf den 1985 gegründeten Golf Club in Dassendorf. 

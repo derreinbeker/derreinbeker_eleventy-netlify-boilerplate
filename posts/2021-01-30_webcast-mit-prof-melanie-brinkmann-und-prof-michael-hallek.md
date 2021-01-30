@@ -8,7 +8,7 @@ category: Politik
 tags:
   - Corona-Pandemie
 ---
-Die No-Covid Strategie ist eine neue proaktive Zielsetzung für Deutschland zur Bekämpfung von SARS-CoV-2. Das [Stratagie-Papier](https://www.zeit.de/wissen/gesundheit/2021-01/no-covid-strategie.pdf) zeigt einen nachhaltigen Weg zur Bewältigung der Pandemie auf. Sie zielt darauf ab, Neuinfektionen, Todesfälle und weitere bundesweite Lockdowns zu vermeiden.
+Die No-Covid Strategie ist eine neue proaktive Zielsetzung für Deutschland zur Bekämpfung von SARS-CoV-2. Das [Strategie-Papier](https://www.zeit.de/wissen/gesundheit/2021-01/no-covid-strategie.pdf) zeigt einen nachhaltigen Weg zur Bewältigung der Pandemie auf. Sie zielt darauf ab, Neuinfektionen, Todesfälle und weitere bundesweite Lockdowns zu vermeiden.
 
 **Die drei Kernelemente sind:**
 

@@ -12,4 +12,4 @@ tags:
 ---
 Wissenschaftler aus mehreren europäischen Ländern fordern einen einheitlichen EU-Aktionsplan gegen das Coronavirus. Im Hörfunkprogramm von NDR Info erläutert Elvira Rosert, Juniorprofessorin für Politikwissenschaft an der Uni Hamburg, die von ihr mitentwickelten Pläne genauer.
 
-<iframe width="100%" height="100%" frameborder="0" src="https://www.ndr.de/nachrichten/info/audio822132-player_image-8ff24876-4ad2-4bea-9b6d-2180f207aa4a_theme-ndrde.html"></iframe>
+<iframe src="https://www.ndr.de/nachrichten/info/audio822132-player_image-8ff24876-4ad2-4bea-9b6d-2180f207aa4a_theme-ndrde.html"></iframe>

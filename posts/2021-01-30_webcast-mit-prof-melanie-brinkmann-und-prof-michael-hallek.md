@@ -19,8 +19,7 @@ Die No-Covid Strategie ist eine neue proaktive Zielsetzung für Deutschland zur 
 Damit dies gelingt, bedarf es eines konkreten und bundesweit einheitlichen Gesamtziels sowie einer konsequenten Strategie für die Aufhebung des Lockdowns und die Zeit danach. Das No-Covid-Ziel und die Green-Zone-Strategie, für die die Wissenschaftler plädieren, haben mehrere Länder bereits erfolgreich angewendet und ihren Bevölkerungen dadurch eine weitestgehende Rückkehr zur Normalität ermöglicht. Dieser Weg wäre auch für die Bundesrepublik Deutschland und andere europäische Länder möglich und richtig.
 
 <div class="videocontainer">
-<iframe src="https://www.youtube-nocookie.com/embed/DsCFfi_oVoY" 
-frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/DsCFfi_oVoY" allowfullscreen class="video"></iframe>
 </div>
 
 

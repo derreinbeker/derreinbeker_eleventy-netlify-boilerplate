@@ -24,6 +24,10 @@ module.exports = {
         return DateTime.fromISO(filename).setLocale('de').toFormat("dd.LL.yyyy");
     },
 
+    includesString: function(array, otherString) {
+        return array.filter(string => string.includes(otherString));
+    },
+
     // Date formatting (human readable)
     readableDate: function(dateObj) {
         return DateTime.fromJSDate(dateObj).setLocale('de').toFormat("d. L. yyyy");

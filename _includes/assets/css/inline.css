@@ -43,6 +43,10 @@ h2 {
 	margin-bottom: .3em;
 }
 
+h3 {
+	font-size: .83em;
+}
+
 h2 + p {
 	margin-top: 0;
 }
@@ -174,10 +178,6 @@ article>.tags {
 	margin-top: 3em;
 }
 
-article>.tags>h3 {
-	font-size: .83em;
-}
-
 article img {
 	width: 100vw;
 	margin-left: -1em;
@@ -296,11 +296,21 @@ a[rel="tag"]:last-child {
 
 .printeditions {
 	column-count: 3;
+	margin: 0;
 }
 
 .printeditions li {
 	line-height: 1.6em;
 	white-space: nowrap;
+}
+
+html[data-current="downloads"] h2 {
+	margin-top: 2em;
+}
+
+html[data-current="downloads"] h3 {
+	margin-top: 2em;
+	margin-bottom: .3em;
 }
 
 .__cms_description {

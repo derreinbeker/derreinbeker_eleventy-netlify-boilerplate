@@ -1,18 +1,39 @@
 ---
 layout: layouts/page.njk
 title: Downloads
+section: downloads
 ---
 
 {% set sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
+{% set sortedDownloadablePrintEditionsOf2021 = sortedDownloadablePrintEditions | includesString("2021") %}
+{% set sortedDownloadablePrintEditionsOf2020 = sortedDownloadablePrintEditions | includesString("2020") %}
+{% set sortedDownloadablePrintEditionsOf2019 = sortedDownloadablePrintEditions | includesString("2019") %}
+
 
 <h2>Gedruckte Ausgabe</h2>
 <p>Hier finden Sie die <a href="https://{{ metadata.downloadshost }}/ausgaben/{{ sortedDownloadablePrintEditions | first }}">aktuelle</a> und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
+<h3>2021</h3>
 <ul class="printeditions">
-{% for editionFilename in sortedDownloadablePrintEditions %}
+{% for editionFilename in sortedDownloadablePrintEditionsOf2021 %}
     <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
 {% endfor %}
 </ul>
+
+<h3>2020</h3>
+<ul class="printeditions">
+{% for editionFilename in sortedDownloadablePrintEditionsOf2020 %}
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
+{% endfor %}
+</ul>
+
+<h3>2019</h3>
+<ul class="printeditions">
+{% for editionFilename in sortedDownloadablePrintEditionsOf2019 %}
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
+{% endfor %}
+</ul>
+
 
 
 <h2>Mediadaten</h2>

@@ -21,7 +21,7 @@ module.exports = {
 
     descriptionOfPrintEditionFilename: function(printeditionFileName) {
         var filename = path.parse(printeditionFileName).name;
-        return DateTime.fromISO(filename).setLocale('de').toLocaleString({ month: '2-digit', day: '2-digit' });
+        return DateTime.fromISO(filename).setLocale('de').toFormat("dd.LL");
     },
 
     includesString: function(array, otherString) {

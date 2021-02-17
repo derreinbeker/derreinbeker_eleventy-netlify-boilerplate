@@ -16,21 +16,21 @@ section: downloads
 <h3>2021</h3>
 <ul class="printeditions">
 {% for editionFilename in sortedDownloadablePrintEditionsOf2021 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
 {% endfor %}
 </ul>
 
 <h3>2020</h3>
 <ul class="printeditions">
 {% for editionFilename in sortedDownloadablePrintEditionsOf2020 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
 {% endfor %}
 </ul>
 
 <h3>2019</h3>
 <ul class="printeditions">
 {% for editionFilename in sortedDownloadablePrintEditionsOf2019 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</a></li>
+    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
 {% endfor %}
 </ul>
 

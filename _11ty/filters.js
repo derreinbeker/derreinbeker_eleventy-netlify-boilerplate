@@ -20,8 +20,13 @@ module.exports = {
     },
 
     descriptionOfPrintEditionFilename: function(printeditionFileName) {
-        var filename = path.parse(printeditionFileName).name;
-        return DateTime.fromISO(filename).setLocale('de').toFormat("dd.LL.");
+        var filenameWithoutExtension = path.parse(printeditionFileName).name;
+        return DateTime.fromISO(filenameWithoutExtension).setLocale('de').toFormat("dd.LL.");
+    },
+
+    validDateStringOfPrintEditionFilename: function(printeditionFileName) {
+        var filenameWithoutExtension = path.parse(printeditionFileName).name;
+        return module.exports.machineDate(new Date(filenameWithoutExtension));
     },
 
     includesString: function(array, otherString) {

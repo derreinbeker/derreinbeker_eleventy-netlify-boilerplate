@@ -8,7 +8,7 @@ category: Meinung
 tags:
   - Kolumne
 ---
-. . . streicht der Konzern Unilever, von dem wir Marken wie axe oder Rexona im Supermarktangebot finden, das Wort »normal« von seinen Verkaufsverpackungen. Es gibt jetzt also nichts mehr für *normale* Haut oder für *normales* Haar. Dafür hat das Unternehmen 10.000 Leute befragt und festgestellt, dass eine deutliche Mehrheit von uns Menschen den Begriff »normal« eher negativ interpretiert. 
+… streicht der Konzern Unilever, von dem wir Marken wie axe oder Rexona im Supermarktangebot finden, das Wort »normal« von seinen Verkaufsverpackungen. Es gibt jetzt also nichts mehr für *normale* Haut oder für *normales* Haar. Dafür hat das Unternehmen 10.000 Leute befragt und festgestellt, dass eine deutliche Mehrheit von uns Menschen den Begriff »normal« eher negativ interpretiert. 
 
 Und das, obwohl man in diesen Tagen von vielen Menschen hört und liest, dass sie sich *normale* Zeiten, ein *normales* Leben zurückwünschen. Manche meinen, dass die Zeiten normal waren, sei lange her. Das war nicht vor Corona, das war ungefähr damals, als es nur einmal in der Woche Fleisch gab. Da gab es noch ein normales Telefon, Musikcassetten und Bandsalat, normales Bier, normales Wetter, normale Ehepaare und Uwe Seeler schoss noch Tore. 
 
@@ -20,6 +20,6 @@ Das klingt bedenklich. Aber Richard Sennett meint in seinem Buch »Respekt im Ze
 
 Andererseits: Die Normalität, das *Mittelmaß*, etabliert die Norm. Gibt sie normalen Menschen normalerweise vor. Aber jetzt? Welchen Maßstäben, welcher Ordnung, welchen Pflichten muss oder sollte ich folgen? Kann und will ich überkommene Werte leben, überfordern sie mich oder fordern sie mich sogar heraus, dagegen vorzugehen? 
 
-Und da ist der Gedanke ganz nah: Will ich überhaupt normal sein? Ich bin doch einzigartig! Zudem – um noch einmal Robert Habeck zu erwähnen: »Was früher normal war, ist heute unterdurchschnittlich.«  Aber – wann war »früher«? Denn schon George Bernard Shaw (1856 - 1950) war der Meinung: »Was wir brauchen, sind ein paar verrückte Leute; seht euch an, wohin uns die Normalen gebracht haben.« 
+Und da ist der Gedanke ganz nah: Will ich überhaupt normal sein? Ich bin doch einzigartig! Zudem – um noch einmal Robert Habeck zu erwähnen: »Was früher normal war, ist heute unterdurchschnittlich.«  Aber – wann war »früher«? Denn schon George Bernard Shaw (1856 – 1950) war der Meinung: »Was wir brauchen, sind ein paar verrückte Leute; seht euch an, wohin uns die Normalen gebracht haben.« 
 
 Da ist man in seinem Haarstyle doch lieber Boris Johnson. Oder Billie Eilish mit grünem Touch. Oder auch quer – wenigstens im Denken – wenn auch ohne Geist.

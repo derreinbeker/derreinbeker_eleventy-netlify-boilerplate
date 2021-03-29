@@ -18,7 +18,7 @@ Aber, sich normal verhalten – was ist darunter zu verstehen?  Robert Habeck h
 
 Das klingt bedenklich. Aber Richard Sennett meint in seinem Buch »Respekt im Zeitalter der Ungleichheit«: »Erst wenn das *normale Leben* nicht mehr normal erscheint beginnen wir uns zu engagieren.« – War das die Quelle für »Fridays for Future«?
 
-Andererseits: Die Normalität*,* das *Mittelmaß*, etabliert die Norm. Gibt sie normalen Menschen normalerweise vor. Aber jetzt? Welchen Maßstäben, welcher Ordnung, welchen Pflichten muss oder sollte ich folgen? Kann und will ich überkommene Werte leben, überfordern sie mich oder fordern sie mich sogar heraus, dagegen vorzugehen? 
+Andererseits: Die Normalität, das *Mittelmaß*, etabliert die Norm. Gibt sie normalen Menschen normalerweise vor. Aber jetzt? Welchen Maßstäben, welcher Ordnung, welchen Pflichten muss oder sollte ich folgen? Kann und will ich überkommene Werte leben, überfordern sie mich oder fordern sie mich sogar heraus, dagegen vorzugehen? 
 
 Und da ist der Gedanke ganz nah: Will ich überhaupt normal sein? Ich bin doch einzigartig! Zudem – um noch einmal Robert Habeck zu erwähnen: »Was früher normal war, ist heute unterdurchschnittlich.«  Aber – wann war »früher«? Denn schon George Bernard Shaw (1856 - 1950) war der Meinung: »Was wir brauchen, sind ein paar verrückte Leute; seht euch an, wohin uns die Normalen gebracht haben.« 
 

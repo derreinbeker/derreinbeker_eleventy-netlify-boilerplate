@@ -14,12 +14,10 @@ tags:
 <figure>
   <img src="/static/media/2021-03-19-klimastreik-in-reinbek.jpg">
   <figcaption>
-Yunes Yaqob: Der Klima-Demonstrationszug führte von der Sophienstraße aus durch Alt-Reinbek zur Abschlusskundgebung an der Böge   
+Der Klima-Demonstrationszug führte von der Sophienstraße aus durch Alt-Reinbek zur Abschlusskundgebung an der Böge   
    
   </figcaption>
 </figure>
-
-
 
 **Reinbek –** »Wir haben nur noch 8 Jahre Zeit, um klimaneutral zu werden, sonst ist das 1,5-Grad-Ziel durch«, war eine der zentralen Aussagen von Jürgen Rieger von der Klimaschutz-Initiative Sachsenwald, die am 19. März zur ersten Klima-Demonstration im Rahmen des globalen Klimastreiks von *Fridays for Future* aufgerufen hatte. Gut 100 Teilnehmende waren dem Aufruf gefolgt und hatten sich am Reinbeker Bahnhof eingefunden. »Die große Beteiligung zeigt, dass wir eine ganz lebendige Zivilgesellschaft hier haben in Reinbek«, freute sich Rieger über die große Teilnehmerzahl.
 

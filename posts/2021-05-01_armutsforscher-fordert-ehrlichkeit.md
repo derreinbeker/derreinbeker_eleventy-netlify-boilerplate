@@ -9,6 +9,16 @@ category: Meinung
 tags:
   - Armut in Deutschland
 ---
+<figure>
+  <img src="/static/media/2021-04-SozMarkt.jpg">
+  <figcaption>
+Anzeige von insm.de in der Süddeutschen Zeitung vom 21. April 2021 auf Seite 5   
+   
+  </figcaption>
+</figure>
+
+
+
 »Ungleichheit wird unerträglich, wenn sie maßlos ist«, sagte schon Jakob Augstein 2013 in seinem Buch »Sabotage«, mit dem Untertitel, »Warum wir uns zwischen Demokratie und Kapitalismus entscheiden müssen«. Inzwischen »ist die Vermögensungleichheit hierzulande fast genauso hoch wie in den USA«, so Armutsforscher Christoph Butterwegge von der Universität Köln. In seinem Beitrag in der Süddeutschen »Die Armut frisst sich in die Mitte« (bit.ly/3es6VOR) fordert er: »Wir müssen endlich ehrlich über Ungleichheit sprechen«. 
 
 2001 wurde von der Bundesregierung der erste Armuts- und Reichtumsbericht präsentiert. Bis dahin war Armut immer geleugnet worden, beschreibt Butterwegge. Schon der damalige wie auch der aktuelle Bericht vom 22. März 2021 bedient – so der Politikwissenschaftler – »ein neoliberales Narrativ, das Armut verharmlost und Reichtum verschleiert.« Laut Statistischem Bundesamt verfügen 13,2 Millionen Menschen in Deutschland über weniger als 1074 € im Monat. Demgegenüber gehören den reichsten 10 % der Bevölkerung inzwischen mehr als 67 % des Nettogesamtvermögens.

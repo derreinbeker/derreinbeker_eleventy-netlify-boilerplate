@@ -2,7 +2,7 @@
 titleintro: Rund um das Leben im Alter
 title: Messe »Viva Seniores« öffnet  am 7. und 8. August ihre Pforten
 description: 26 Aussteller werden mit ausreichenden Abständen zum Nachbarn vor
-  dem Schloß, im Innenhof mit den malerischen Arkaden und im gut belüfteten
+  dem Schloss, im Innenhof mit den malerischen Arkaden und im gut belüfteten
   Erdgeschoss des Schlosses für interessante Angebote bereitstehen. 5 Plätze
   sind noch zu vergeben.
 authorname: "Susanne Nowacki "
@@ -11,7 +11,13 @@ category: Panorama
 tags:
   - Messe »Viva Seniores«
 ---
-
+<figure>
+  <img src="/static/media/2021-08-02-viva-seniores-orgateam.jpg">
+  <figcaption>
+Susann Pötter, Kurt Martens und Anke Conradi freuen sich, dass endlich wieder Messen möglich sind. Susanne Pötter: »Auch Familien sind willkommen, denn Älterwerden ist ein Thema für klein und groß!«   
+   
+  </figcaption>
+</figure>
 
 
 

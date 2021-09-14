@@ -1,0 +1,26 @@
+---
+titleintro: Menschen bei uns
+title: Glück muss man sich selber erarbeiten
+description: Für Lydia Berhane, gebürtige Eritreerin, ist Deutschland zur Heimat
+  geworden. Sie hat viel dafür getan.
+authorname: "Imke Kuhlmann "
+date: 2021-09-14T10:41:36.162Z
+category: Panorama
+tags:
+  - Menschen
+---
+
+
+**Neuschönningstedt –** Seit dem September 2015 lebt Lydia Berhane (26) in Deutschland. Die gebürtige Eritreerin hat den Weg über den Sudan nach Deutschland genommen. Sie startete die Reise allein. Im Sudan war sie mit ihrem späteren Mann Robel Bereket (28) verabredet. Zusammen machten sie sich von dort auf den Weg nach Hamburg. »Ich bin sehr glücklich hier«, sagt die 26-jährige heute.
+
+Dieses Glück hat sie sich selber erarbeitet. Von Hamburg ging es über Neumünster und Kiel nach Reinbek. »Ich dachte, wenn ich nach Deutschland komme, werde ich sofort arbeiten und richte mir mein neues Leben ein«, sagt sie. Doch sie musste sich eines Besseren belehren lassen. »Ich merkte schnell, wenn ich die Sprache nicht beherrsche, komme ich nicht voran.« Dass sie dafür noch mal die Schulbank drücken müsse, überraschte sie. Ihre Erwartungen seien anders gewesen. Heute weiß sie, es war genau der richtige Weg. Als ihr bewusst wurde, wir wichtig die Sprache ist, bekam sie Angst. Anfangs sei sie noch zögerlich gewesen Deutsch zu sprechen, zu groß war die Sorge, nicht gut genug zu sein. Doch inzwischen rede sie einfach drauf los. Das scheint sich auszuzahlen, denn ihr Deutsch ist richtig gut. 
+
+Auch wenn sie auf dem Weg nach Deutschland ihren Mann an der Seite hatte, so war es für das Paar nicht immer einfach. Letztendlich hatten sie nur sich auf dem schwierigen Weg in ein neues Leben. »Es waren manchmal schwierige Zeiten in einer besonderen Situation zu zweit, aber wir haben es gemeistert«, sagt die junge Mutter. Ihre Tochter Kabi-Her ist die Krönung ihres gemeinsamen Glücks. Zusammen kümmern sich die Eltern um die Fünfjährige, die in Neuschönningstedt in den Kindergarten geht. Ein selbstbewusstes kleines Mädchen voller Lebensfreude. 
+
+In Eritrea arbeitete Lydia Berhane als Friseurin und Kosmetikerin. Auch ihr Mann war Friseur, doch in Deutschland haben sie sich neu orientiert. Beide hatten keine Ausbildung in der Tasche. Lydia hat hier eine Weiterbildung zur Altenbetreuerin absolviert, Robel steht im dritten Ausbildungsjahr zum Bodenleger. Lydia Berhane und ihr Mann wissen genau, wie sie sich eine Zukunft aufbauen können. Alles soll eine solide Grundlage haben, dazu gehört genauso ein Beruf mit Zukunftschancen. Auch für ihre Tochter ist ihnen eine solide Zukunft wichtig. »Ich wünsche mir, dass sie Abitur macht und ihr alle Wege offen stehen«, so die Altenbetreuerin. Doch letztendlich sei es die Entscheidung ihrer Tochter, welchen Weg sie gehen möchte. Ein Vorbild sind die Eltern auf jeden Fall. 
+
+Lydia Berhane ist sich bewusst, dass Frauen in Deutschland viele Chancen haben. »Es fällt mir schwer zu verstehen, wenn geflüchtete Frauen diese nicht nutzten, sie die Sprache nicht lernen und mit ihren Kindern nur zuhause sitzen«, sagt sie. Von Beginn an hat sich die junge Mutter mit anderen Deutschen ausgetauscht. Viele sind Freunde geworden. »Wenn ich nur mit Eritreern zusammen wäre, würden wir nicht Deutsch sprechen. Von den Deutschen Freunden lernen wir auch deren Kultur«, sagt sie. Einmal in der Woche telefoniert sie mit ihren Eltern. Gesehen hat sie die beiden seit der Flucht nicht mehr. Doch schon lange hat sie deutsche Ersatzeltern gefunden. »Ohne sie stünde ich nicht da, wo ich jetzt bin«, sagt sie. Sie ist ihnen für alles überaus dankbar. Über die Flüchtlingshilfe lernte sie das Reinbeker Ehepaar kennen, das die kleine Familie in ihr Leben aufgenommen hat. Gemeinsam wird eritreisch gespeist, im Garten gearbeitet und einfach Zeit miteinander verbracht. »Die beiden haben uns bei allem so sehr geholfen. Auch unsere schöne Wohnung haben wir ihnen zu verdanken«, sagt sie. Und ebenso das Frauencafé böte ihr viele Möglichkeiten und vor allem Kontakte und den Austausch. Lydia Berhane weiß Hilfsbereitschaft zu schätzen, die ihrer deutschen *Eltern*, wie sie sie nennt, einer Nachbarin, die sich um ihr Kind kümmert, wenn sie länger arbeiten muss und die der  vielen deutschen Freunde, die sie inzwischen gefunden hat. 
+
+Besonders ihren Beruf liebt die Eritreerin. »Ich mag ältere Menschen und bin gern für sie da.« Nicht verstehen kann sie, wenn Menschen ihre Chancen nicht nutzen, ältere wie auch jüngere. »Im Sudan haben viele Geflüchtete gesagt, in Deutschland sei es hart. Doch sie sieht in Deutschland viele Chancen, die sich ihr böten. »Wer den ganzen Tag verschläft und sich nicht um seine Möglichkeiten kümmert, für den ist es hart«, sagt sie. Doch wer sich kümmere, für den böte das Land viel. Lydia Berhane und ihr Mann wissen diese Chancen zu nutzen und geben den Menschen viel zurück, auch wenn es nur die Aufmerksamkeit gegenüber älteren Nachbarn auf dem Weg zum Spielplatz ist. Die junge Mutter hat immer ein freundliches Wort.
+
+Nur den Winter mag sie nicht so gern. In Eritrea wird es selten kälter als 25 Grad, den Schnee kannte sie nur von den Gipfeln der Berge. Aber ihre Tochter liebt die weiße Pracht. »Ich bin glücklich in Deutschland und ich möchte hier nicht mehr weg«, so Lydia Berhane, die gerade ihren Führerschein macht und hier für sich und ihre Familie noch viele neue Wege sieht.

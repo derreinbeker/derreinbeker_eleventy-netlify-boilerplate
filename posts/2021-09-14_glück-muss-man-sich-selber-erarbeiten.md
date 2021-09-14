@@ -11,6 +11,14 @@ tags:
 ---
 
 
+<figure>
+  <img src="/static/media/2021-08-30-Berhane-Lydia.jpg">
+  <figcaption>
+Lydia Berhane hat hier eine Weiterbildung zur Altenbetreuerin absolviert   
+   
+  </figcaption>
+</figure>
+
 **Neuschönningstedt –** Seit dem September 2015 lebt Lydia Berhane (26) in Deutschland. Die gebürtige Eritreerin hat den Weg über den Sudan nach Deutschland genommen. Sie startete die Reise allein. Im Sudan war sie mit ihrem späteren Mann Robel Bereket (28) verabredet. Zusammen machten sie sich von dort auf den Weg nach Hamburg. »Ich bin sehr glücklich hier«, sagt die 26-jährige heute.
 
 Dieses Glück hat sie sich selber erarbeitet. Von Hamburg ging es über Neumünster und Kiel nach Reinbek. »Ich dachte, wenn ich nach Deutschland komme, werde ich sofort arbeiten und richte mir mein neues Leben ein«, sagt sie. Doch sie musste sich eines Besseren belehren lassen. »Ich merkte schnell, wenn ich die Sprache nicht beherrsche, komme ich nicht voran.« Dass sie dafür noch mal die Schulbank drücken müsse, überraschte sie. Ihre Erwartungen seien anders gewesen. Heute weiß sie, es war genau der richtige Weg. Als ihr bewusst wurde, wir wichtig die Sprache ist, bekam sie Angst. Anfangs sei sie noch zögerlich gewesen Deutsch zu sprechen, zu groß war die Sorge, nicht gut genug zu sein. Doch inzwischen rede sie einfach drauf los. Das scheint sich auszuzahlen, denn ihr Deutsch ist richtig gut. 

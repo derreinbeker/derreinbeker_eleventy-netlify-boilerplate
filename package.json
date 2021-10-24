@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "11ty based website for derreinbeker.de",
   "scripts": {
-    "build": "npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy",
-    "serve": "ELEVENTY_ENV=development npx eleventy --serve"
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "debug": "DEBUG=* npx @11ty/eleventy",
+    "serve": "ELEVENTY_ENV=development npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",

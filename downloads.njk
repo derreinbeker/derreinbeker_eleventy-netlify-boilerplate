@@ -5,6 +5,8 @@ section: downloads
 ---
 
 {% set sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
+{% set sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | includesString("2023") %}
+{% set sortedDownloadablePrintEditionsOf2022 = sortedDownloadablePrintEditions | includesString("2022") %}
 {% set sortedDownloadablePrintEditionsOf2021 = sortedDownloadablePrintEditions | includesString("2021") %}
 {% set sortedDownloadablePrintEditionsOf2020 = sortedDownloadablePrintEditions | includesString("2020") %}
 {% set sortedDownloadablePrintEditionsOf2019 = sortedDownloadablePrintEditions | includesString("2019") %}
@@ -13,27 +15,33 @@ section: downloads
 <h2>Gedruckte Ausgabe</h2>
 <p>Hier finden Sie die <a href="https://{{ metadata.downloadshost }}/ausgaben/{{ sortedDownloadablePrintEditions | first }}">aktuelle</a> und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
-<h3>2021</h3>
-<ul class="printeditions">
-{% for editionFilename in sortedDownloadablePrintEditionsOf2021 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
-{% endfor %}
-</ul>
 
-<h3>2020</h3>
-<ul class="printeditions">
-{% for editionFilename in sortedDownloadablePrintEditionsOf2020 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
-{% endfor %}
-</ul>
+{% if sortedDownloadablePrintEditionsOf2023|length %}
+  <h3>2023</h3>
+  <ul class="printeditions">
+  {% for editionFilename in sortedDownloadablePrintEditionsOf2023 %}
+      <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
 
-<h3>2019</h3>
-<ul class="printeditions">
-{% for editionFilename in sortedDownloadablePrintEditionsOf2019 %}
-    <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
-{% endfor %}
-</ul>
+{% if sortedDownloadablePrintEditionsOf2022|length %}
+  <h3>2022</h3>
+  <ul class="printeditions">
+  {% for editionFilename in sortedDownloadablePrintEditionsOf2022 %}
+      <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
 
+{% if sortedDownloadablePrintEditionsOf2021|length %}
+  <h3>2021</h3>
+  <ul class="printeditions">
+  {% for editionFilename in sortedDownloadablePrintEditionsOf2021 %}
+      <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
 
 
 <h2>Mediadaten</h2>

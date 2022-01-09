@@ -1,5 +1,5 @@
 ---
-titleintro: Re-Tweet
+titleintro: re-tweet
 title: Armutsforscher  fordert Ehrlichkeit
 description: Beitrag von Christoph Butterwegge in der Süddeutschen vom 23. April
   2021 »Die Armut frisst sich in die Mitte« (bit.ly/3es6VOR)
@@ -8,6 +8,7 @@ date: 2021-05-01T10:15:35.497Z
 category: Meinung
 tags:
   - Armut in Deutschland
+  - re-tweet
 ---
 <figure>
   <img src="/static/media/2021-04-SozMarkt.jpg">

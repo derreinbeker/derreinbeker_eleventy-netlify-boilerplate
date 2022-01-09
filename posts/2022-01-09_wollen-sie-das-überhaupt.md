@@ -8,7 +8,7 @@ authorname: Hartmuth Sandtner
 date: 2022-01-09T07:07:34.024Z
 category: Politik
 tags:
-  - retweet
+  - retweet Meinung
 ---
 »Stellen Sie sich einen grassierenden Waldbrand vor, und eine Schar von Menschen, die vor der Feuersbrunst davonläuft. ...Schließlich gelangen sie an einen breiten, reißenden Fluss. Niemand weiß so recht, was sie auf der anderen Seite erwartet. Da sind keine Wege, Brücken oder Boote, um ans andere Ufer zu gelangen. Doch irgendetwas müssen sie tun, so viel ist klar. Das Feuer ist schon so nah; hier stehen zu bleiben bedeutet den sicheren Tod. Sie müssen einen Weg finden, um an das andere Ufer zu gelangen, auch wenn es im Augenblick unmöglich und riskant erscheint. Sie haben schlicht keine andere Wahl. Genau da steht die Menschheit heute im Kontext des Klimawandels.«
 

@@ -3,10 +3,10 @@ titleintro: re-tweet
 title: »An den Mauern  der Untätigkeit staut sich der Wahnsinn.«
 description: Klimakatastrophe und Bürgerräte
 authorname: Hartmuth Sandtner
-date: 2022-01-09T06:59:14.835Z
+date: 2021-11-29T06:59:14.835Z
 category: Politik
 tags:
-  - retweet Meinung
+  - re-tweet
 ---
 Beim Weltklimagipfel in Glasgow haben sich täglich 14 Tage lang im Messezentrum zwischen 30’000 und 40’000 Menschen durch die Hallen geschoben. Und was war das Ergebnis? Ein »Greenwash- und Bla-bla-bla-Festival«, um es mit Greta Thunberg zu sagen und ein weinender COP26-Präsident Alok Sharma. Wir wissen, dass Jutebeutel und Pappstrohhalm uns nicht retten, wie Guardian Journalist und Klimaaktivist George Mobiot in einem doppelseitigen – sehr lesenswerten – Beitrag im *der freitag* vom 11.11.21 beschreibt (bit.ly/3CE49QH; leider Paywall).  Mobiot: »Wir reden uns ein, das Ganze sei nicht so schlimm oder passiere gar nicht. Wir verdoppeln unsere Zerstörungswut, tauschen normale Autos gegen SUVs, jetten mit einem Langstreckenflug ins Land des Vergessens und verbrennen alles in einem letzten großen Rausch.« Dabei wissen wir, dass – egal, ob es sich um ein Bankennetzwerk oder um das Lebensnetz des Planeten oder um Corona handelt – sich ein komplexes System nach bestimmten mathematischen Regeln verhält. Aber was passiert? ZEIT-Chef Bernd Ulrich fasste es im Interview mit Jakob Augstein im *der freitag* vom 4.11.21 (bit.ly/3qWDMDl) in einem Satz zusammen: »An den Mauern der Untätigkeit staut sich der Wahnsinn«. 
 

@@ -30,6 +30,4 @@ Und er gibt ein Beispiel und benennt 15 Themen. Er beginnt mit dem Wunsch, in se
 
 Welzer gibt zum Schluss des Buches den Lesern ein paar Merksätze an die Hand, »denn aufhören zu können braucht Können«: »Die Zeit der Veränderung ist die Gegenwart, nicht die Zukunft. Ziele sind keine Handlungen. Der Raum der Veränderung ist innerhalb, nicht außerhalb unserer Grenzen.«
 
-»Wenn wir nicht aufhören können«, so Welzers Fazit, »können wir mit Endlichkeitsproblemen wie dem Klimawandel oder dem Artensterben auch nicht fertigwerden.«  
-
-*Hartmuth Sandtner*
+»Wenn wir nicht aufhören können«, so Welzers Fazit, »können wir mit Endlichkeitsproblemen wie dem Klimawandel oder dem Artensterben auch nicht fertigwerden.«

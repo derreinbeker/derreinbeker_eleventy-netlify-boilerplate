@@ -5,10 +5,10 @@ description: »Wenn wir nicht aufhören können, können wir mit
   Endlichkeitsproblemen wie dem Klimawandel oder dem Artensterben auch nicht
   fertigwerden.«
 authorname: Hartmuth Sandtner
-date: 2022-01-09T07:03:30.479Z
-category: Politik
+date: 2021-11-15T07:03:30.479Z
+category: Meinung
 tags:
-  - retweet meinung
+  - re-tweet
 ---
 Über die Schlagzeile »Nichts muss sich verändern – das ist unsere Lebenslüge«, fiel ich beim Lesen im der Freitag vom 28.10.21 über ein Interview mit Harald Welzer, Leiter der Stiftung Futurzwei (futurzwei.org). Der Soziologe und Sozialpsychologe an der Europa-Universität in Flensburg hat ein Buch über das Aufhören geschrieben. Für Welzer ist der Klimawandel ein Endlichkeitsproblem: »Wenn wir eine bestimmte Spanne einer überlebenstauglichen Temperatur verlassen, dann kommt die menschliche Lebensform an ihr Ende… Aber unsere Kultur blendet Endlichkeit systematisch aus: Wir haben kein Konzept von Endlichkeit, wir lernen nicht aufzuhören, sondern wir optimieren«, so Welzers Diagnose. 
 

@@ -4,8 +4,8 @@ title: Elisabeth Machel genießt Freiheit
 description: Ein gutes Buch und ihr Motorrad machen die gelernte Erzieherin und
   studierte Diplom-Sozialpädagogin glücklich. Bei einem Unternehmen der
   Mineralölbranche übernahm sie in leitender Funktion im Bereich Personal
-  vielfältige Aufgaben, bis sie 2017 in den Ruhestand ging. Dann hat noch die
-  alte Website der Bücherfreunde Wentorf auf Vordermann gebracht . . .
+  vielfältige Aufgaben, bis sie 2017 in den Ruhestand ging. Dann hat sie noch
+  die alte Website der Bücherfreunde Wentorf auf Vordermann gebracht . . .
 authorname: Imke Kuhlmann
 date: 2022-01-06T18:08:00.351Z
 category: Panorama

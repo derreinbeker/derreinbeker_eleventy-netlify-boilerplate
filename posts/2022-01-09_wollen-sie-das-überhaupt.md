@@ -2,7 +2,7 @@
 titleintro: re-tweet
 title: Wollen Sie das überhaupt?
 description: >-2
-   Wir leben in einer Gesellschaft leben, die einen als »individuelle Freiheit getarnten Egoismus« vor das Wohlergehen anderer stellt.
+   Wir leben in einer Gesellschaft, die einen als »individuelle Freiheit getarnten Egoismus« vor das Wohlergehen anderer stellt.
   Erforderlich ist darum ein »Systemwandel statt Klimawandel«
 authorname: Hartmuth Sandtner
 date: 2021-11-01T07:07:34.024Z

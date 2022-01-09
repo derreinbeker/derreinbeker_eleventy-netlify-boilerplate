@@ -4,7 +4,7 @@ title: »An den Mauern  der Untätigkeit staut sich der Wahnsinn.«
 description: Klimakatastrophe und Bürgerräte
 authorname: Hartmuth Sandtner
 date: 2021-11-29T06:59:14.835Z
-category: Politik
+category: Meinung
 tags:
   - re-tweet
 ---

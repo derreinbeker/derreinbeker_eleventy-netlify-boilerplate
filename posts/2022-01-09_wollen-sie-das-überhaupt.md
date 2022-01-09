@@ -5,10 +5,10 @@ description: >-2
    Wir leben in einer Gesellschaft leben, die einen als »individuelle Freiheit getarnten Egoismus« vor das Wohlergehen anderer stellt.
   Erforderlich ist darum ein »Systemwandel statt Klimawandel«
 authorname: Hartmuth Sandtner
-date: 2022-01-09T07:07:34.024Z
-category: Politik
+date: 2021-11-01T07:07:34.024Z
+category: Meinung
 tags:
-  - retweet Meinung
+  - re-tweet
 ---
 »Stellen Sie sich einen grassierenden Waldbrand vor, und eine Schar von Menschen, die vor der Feuersbrunst davonläuft. ...Schließlich gelangen sie an einen breiten, reißenden Fluss. Niemand weiß so recht, was sie auf der anderen Seite erwartet. Da sind keine Wege, Brücken oder Boote, um ans andere Ufer zu gelangen. Doch irgendetwas müssen sie tun, so viel ist klar. Das Feuer ist schon so nah; hier stehen zu bleiben bedeutet den sicheren Tod. Sie müssen einen Weg finden, um an das andere Ufer zu gelangen, auch wenn es im Augenblick unmöglich und riskant erscheint. Sie haben schlicht keine andere Wahl. Genau da steht die Menschheit heute im Kontext des Klimawandels.«
 

@@ -1,12 +1,12 @@
 ---
-titleintro: re - tweet
+titleintro: re-tweet
 title: Wenn nicht jetzt, wann dann?
 description: Über Demokratie und Macht
 authorname: Hartmuth Sandtner
 date: 2022-01-09T06:52:46.389Z
-category: Politik
+category: Meinung
 tags:
-  - retweet Meinung
+  - re-tweet
 ---
 Einige von Ihnen, liebe Leserinnen und Leser,  freuen sich in diesen ersten Tagen des neuen Jahres besonders über die länger und heller werdenden Tage. Andere von Ihnen sind mit der Omikron-Welle beschäftigt, mit Boostern und Impffragen, während andere sorgenvoll bei Twitter lesen, dass durch das Abschmelzen des Thwaites-Gletschers in der Antarktis eine Welle ganz anderen Ausmaßes auf uns zurollt\
 (bit.ly/3mM1QFZ), auf die wir keinen Einfluss mehr haben.

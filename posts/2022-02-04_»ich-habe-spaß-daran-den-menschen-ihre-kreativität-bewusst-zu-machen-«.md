@@ -1,0 +1,33 @@
+---
+titleintro: Menschen bei uns
+title: »Ich habe Spaß daran, den Menschen ihre Kreativität bewusst zu machen.«
+description: Der »Werkzeugdoktor« Jens Michaelsen hat das Repair-Café in Sasel
+  mitgegründet, auch das in Reinbek und Wentorf
+authorname: Christa Möller
+date: 2022-02-04T15:15:25.730Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2022-02-07-michaelsen-jens-repair.jpg">
+  <figcaption>
+Jens Michaelsen hat ein Ohr für Geräte, die aus dem Takt gekommen sind.   
+   
+  </figcaption>
+</figure>
+
+**Wentorf –** Jens Michaelsen hat ein Faible für betagte Werkzeuge, vom nur drei Zentimeter kleinen Geigenbauhobel bis zur etwa 1,20 Meter hohen Raubank. »Ich habe Handwerkzeuge aller Art aus aller Welt.« Seine Vorliebe gehört allerdings antiquarischen Bohrern. Das älteste Stück: Eine so genannte Brustleier von 1820. »Vom Keller bis zum Boden« hat sich da im Laufe der Jahre in seinem Haus so einiges angesammelt. Wie viele Teile es insgesamt sind, kann der 77-jährige Wentorfer nicht sagen. Seit 1987 präsentiert er seine Sammlung von Werkzeug einst und heute auf Messen, um sie Werkzeugfans zu zeigen. Gern würde er seine Schätze an einem festen Stützpunkt etablieren, doch bislang hat sich keine geeignete Räumlichkeit gefunden. Da könnte dann vielleicht auch ein Buch von 1908 gezeigt werden, dessen Thema schon vor über einhundert Jahren das Heimwerken war: Die vorzüglichen Beschäftigungen des Dilettanten. 
+
+Michaelsen hat ein Ohr für Geräte, die aus dem Takt gekommen sind. Mit seinem Stethos-\
+kop kommt er Fehlern im Getriebe auf die Schliche »bei allem, was sich dreht und Geräusche macht, jedem Zahn im Getriebe, jeder Kugel im Kugellager, die klappert und klötert«. So kam der Werkzeugdoktor zu seinem Spitznamen. Doch mit dem Hören allein ist es nicht getan. Schon als Kind hat der gebürtige Hamburger sich fürs Reparieren interessiert. »Wir sind ausgebombt, das war eine schlimme Zeit mit vielen Entbehrungen«, erinnert er sich an die Kindheit ohne Vater. Knapp war auch Spielzeug für Kinder. »Dadurch bin ich schon früh zum Basteln gekommen. Als Sechsjähriger habe ich am ersten Bergedorfer Seifenkistenrennen im Billtalstadion teilgenommen«, erzählt der Werkzeugfan, der damals fleißig geholfen hat, seine Seifenkiste umzubauen. 
+
+Nach der Schulzeit in Bergedorf machte er, mittlerweile ganz auf sich allein gestellt, eine Lehre als Elektrotechniker. Ein weiteres Ereignis, das sein Leben geprägt hat, war sein Einsatz beim Technischen Hilfswerk während der Sturmflut 1962. »Da habe ich zum ersten Mal gespürt, dass die Natur stärker ist als der Mensch.« Als er 1974 nach Wentorf zog und den Dachboden seines Hauses ausbauen wollte, gab die Stichsäge den Dienst auf. Der findige Heimwerker besorgte sich Ersatzteile und reparierte das Gerät selbst. So entstand die Idee, einen Hilfsdienst aufzubauen. Er gründete den »Arbeitskreis funktionelles Heimwerken«, kreierte später Energiesparleitfäden für Selbermacher und hielt Seminare zum Thema an Fach- und Volkshochschulen. Energiesparen ist bei ihm zuhause natürlich auch angesagt, seit Jahrzehnten hat er mobile Solarmodule im Einsatz. In Baumärkten unterstützte er bundesweit die Promotion für Energiesparprodukte und übernahm einen Lehrauftrag an der Fachhochschule Hamburg zum Energiesparen. Seit 1993 war er bundesweit mit der »mobilen WerkzeugDiagnose« in Baumärkten zu Gast, aber auch 1994 im Rahmen der Flutopferhilfe an Rhein und Mosel. 
+
+So manches Gerät konnte er trotz Schlamm im Getriebe noch retten. Auf einer Studienreise in die USA lernte er die dortigen Baumärkte und Arbeitsweisen kennen. Bis nach St. Petersburg führte ihn der Beruf, dort übernahm er ebenfalls Verkäuferschulungen in Baumärkten. »In Russland hat mich der große Kontrast zwischen arm und reich erschüttert.« In seinem Hotel machte die Heizung einen Dauerlauf, weshalb das Fenster trotz großer Kälte geöffnet war – Energiesparen Fehlanzeige, erinnert sich Michaelsen, der bis zur Corona-Pandemie in Baumärkten Workshops für Frauen leitete. 
+
+Teilweise sei die Reparatur sehr einfach. »Manchmal ist es nur ein Kabelbruch oder irgendeine kleine Sache, die ich mit Bordmitteln wieder hinbekomme. Das versuche ich auch in den Repair-Cafés zu vermitteln. Das Reparieren macht mir großen Spaß und man kann Technik erhalten, die sonst verloren ginge. Wenn etwas wieder funktioniert, ist das ein kleines Erfolgserlebnis«, verrät der Vater zweier Söhne, der inzwischen drei Enkelkinder hat und gern Fachlektüre über Forschung, Energie und Technik liest. Ansonsten fährt er gern Fahrrad oder ist mit seinem Elektroauto unterwegs. Bei Urlaubsreisen bevorzugt er Deutschland als Ziel. Sein Bett hat er dann immer mit dabei: Im Wohnmobil.
+
+Seit jeher setzt sich Jens Michaelsen für den Erhalt von Geräten ein. Der begeisterte Mechaniker bedauert den steten Wandel zur Wegwerfgesellschaft. Das erste Hamburger Repair-Café in Sasel hat er mitgegründet, auch das in Reinbek und kürzlich das Wentorfer Repair-Café. »Ich engagiere mich ehrenamtlich auf dem Sektor, weil ich darin eine gute Entwicklung sehe«, stellt er klar und ergänzt: »Ich habe Spaß daran, den Menschen ihre eigene Kreativität bewusst zu machen.« Das gilt besonders in Repair-Cafés für Schüler. »Zu sehen, wie sie mit großen Augen und herausgestreckter Zunge zugucken und teilweise ganz forsch an die Sache herangehen. Das gibt den Kindern sehr viel Selbstvertrauen. Es wäre schön, wenn die Schulen das verstärkt aufgreifen.«
+
+Damit nicht alles als nutzlos aussortiert wird und auf den Müll kommt, fertigt Jens Michaelsen außerdem neue Geräte aus alten Werkzeugen. »Deutschland ist ein rohstoffarmes Land. Je mehr man aufarbeiten kann, umso sinnvoller ist das – auch für unsere Nachkommen.«

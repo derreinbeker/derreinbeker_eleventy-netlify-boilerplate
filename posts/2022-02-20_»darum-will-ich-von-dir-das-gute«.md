@@ -1,8 +1,8 @@
 ---
 titleintro: re-tweet
 title: »Darum will ich von dir das Gute«.
-description: Was hat es auf sich mit dem sogenannten »Bösen«, das manchen von
-  uns entgegen springt, auf sich?
+description: Was hat es mit dem sogenannten »Bösen«, das manchen von uns
+  entgegen springt, auf sich?
 authorname: Hartmuth Sandtner
 date: 2022-02-20T07:11:41.741Z
 category: Politik

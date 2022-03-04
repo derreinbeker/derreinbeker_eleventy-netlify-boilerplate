@@ -8,7 +8,7 @@ category: Meinung
 tags:
   - Ukraine
 ---
-»Eine der schönsten Huldigungen für die Ukraine«, schreibt Alfred Anton Jensen (bit.ly/3M2k694) 1916 in seiner im Internet verfügbaren Abhandlung »Ein ukrainisches Dichterleben«, hat der Dichter Taras Schewtschenko (1814-1861) im Gedicht »Die Muse« (bit.ly/35xwHjG) niedergelegt, das er 1858 in Niznij Nowgorod verfasste. Auch Anne Applebaum, mehrfach ausgezeichnete amerikanische Journalistin und Historikerin, seit 2006 in Polen lebend, wendet sich am 25.2.2022 im Online-Magazin *republik.ch (*bit.ly/3plkxSj*)* inihrem Beitrag über die Ukraine mit einem Gedicht des in der Ukraine unvergessenen Dichters Taras Schewtschenko aus dem Jahre 1859 an ihre Leserinnen und Leser: 
+»Eine der schönsten Huldigungen für die Ukraine«, schreibt Alfred Anton Jensen (bit.ly/3M2k694) 1916 in seiner im Internet verfügbaren Abhandlung »Ein ukrainisches Dichterleben«, hat der Dichter Taras Schewtschenko (1814-1861) im Gedicht »Die Muse« (bit.ly/35xwHjG) niedergelegt, das er 1858 in Niznij Nowgorod verfasste. Auch Anne Applebaum, mehrfach ausgezeichnete amerikanische Journalistin und Historikerin, seit 2006 in Polen lebend, wendet sich am 25.2.2022 im Online-Magazin *republik.ch (*bit.ly/3plkxSj*)* in ihrem Beitrag über die Ukraine mit einem Gedicht des in der Ukraine unvergessenen Dichters Taras Schewtschenko aus dem Jahre 1859 an ihre Leserinnen und Leser: 
 
 Erneutes Unheil
 

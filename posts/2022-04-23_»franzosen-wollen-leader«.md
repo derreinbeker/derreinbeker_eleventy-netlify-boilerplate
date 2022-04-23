@@ -4,7 +4,7 @@ title: »Franzosen wollen Leader«
 description: >-
   Wir leben in Hierarchien und machen damit die Potentialentfaltung
 
-  des Menschen so gut wie unmöglich. Statt immer mehr Analyse brauch wir mehr Synthese
+  des Menschen so gut wie unmöglich. Statt immer mehr Analyse brauchen wir mehr Synthese
 authorname: Hartmuth Sandtner
 date: 2022-04-23T10:35:25.393Z
 category: Meinung

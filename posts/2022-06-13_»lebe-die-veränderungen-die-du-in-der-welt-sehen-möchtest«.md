@@ -1,0 +1,32 @@
+---
+titleintro: Menschen bei uns
+title: »Lebe die Veränderungen, die du in der Welt sehen möchtest«
+description: Claudia Reinke plädiert für die Bildung von Energiegenossenschaften
+authorname: Christa Möller
+date: 2022-06-13T08:56:37.275Z
+category: Panorama
+tags:
+  - Menschen
+---
+
+
+<figure>
+  <img src="/static/media/2022-06-13-Menschen-reinke-claudia.jpg">
+  <figcaption>
+Claudia Reineke lebte zwei Jahre in China. »Man wird sensibel für verschiedene Kulturen. Es gibt viele Unterschiede, aber auch erstaunlich viele Gemeinsamkeiten.«     
+   
+  </figcaption>
+</figure>
+
+**Wentorf –** Claudia Reinke hat sich für ihren beruflichen Aufstieg etwas Zeit gelassen. Nach dem Realschulabschluss machte die Hamburgerin zunächst eine Ausbildung zur Apothekenhelferin und dann eine zweite zur Pharmazeutisch-Technischen Assistentin. Es folgte das Fachabitur auf dem zweiten Bildungsweg, danach absolvierte sie Fernstudium im Bereich Energiemanagement, während sie mit ihrer Familie im chinesischen Chongqing lebte. Dort war ihr Mann aus beruflichen Gründen zwei Jahre lang tätig. Die Kinder besuchten eine internationale Schule – eine Zeit, die besonders die heute 19jährige Tochter geprägt hat. Sie will Sinologie studieren. »Sie ist tief eingetaucht in die chinesische Kultur und Sprache«, sagt die Mutter. Die Familie hält noch immer Kontakt zu Familien im internationalen Umfeld, die Tochter auch noch direkt nach China. 
+
+»Man wird sensibel für verschiedene Kulturen«, sagt die 53-Jährige mit Blick auf das Leben in einer internationalen Gemeinschaft. Auch ihre beiden Söhne hätten von dem Auslandsaufenthalt profitiert, nicht zuletzt dank der Englisch-Kenntnisse. Ihre Familie sei in China schon sehr aufgefallen: »Wir sind groß, die Kinder haben blonde Haare.« Es gebe viele Unterschiede, aber auch erstaunlich viele Gemeinsamkeiten zwischen Chinesen und Europäern. Mit ihrer Chinesisch-Lehrerin konnte sie über die gleichen Dinge lachen. »Wir haben beide eine Grundtoleranz gegenüber anderen Kulturen, haben uns beide als Feministin verstanden und auch als selbstbewusste Frau, die ihren Weg geht.« Viele Unterschiede seien systemisch bedingt, die Menschen würden zu ihrer Regierung halten und manches sehr unkritisch sehen. Erschreckend war für sie die Verschmutzung der Umwelt und wie viele Menschen auf sehr kleinem Raum leben. »Das hat mir klar gemacht, wie gigantisch unser Klimaproblem ist.« 
+
+Claudia Reinke hat nach dem Studium in der Pharmazie gearbeitet, wo sie sich mit der Zulassung von Arzneimitteln beschäftigte und ist heute in der Energiebranche tätig. »Ich lerne gerade Betriebsführung für Windkraftanlagen«, erzählt die 53-Jährige lächelnd. Seit 18 Jahren lebt sie mit ihrer Familie in Wentorf. »Ich mag, dass man hier schnell im Grünen ist und auch die Anbindung an Hamburg.« In China war sie nie wieder, aus Umweltschutzgründen will sie nicht fliegen. Stattdessen machte die Familie Urlaub auf dem Bauernhof oder reiste mit Bahn und Fahrrad in die Niederlande ans Meer. Dieses Jahr soll es mit dem Zug nach Italien gehen. 
+
+Familie Reinke teilt sich seit zwei Jahren ein Auto mit ihren Nachbarn, die Abstimmung klappt problemlos. In ihrer Freizeit liest die Wentorferin gern Romane, aber auch politische Bücher, und schätzt Treffen mit Freunden und Familie. Außerdem setzt sie sich bei Wentorf gestalten für die Blühwiesen ein und ist seit zwölf Jahren Mitglied bei den Grünen, war auch drei Jahre lang im Kreistag, ist aber inzwischen nicht mehr parteipolitisch aktiv. 
+
+Viel mehr Menschen müssten bezüglich der politischen Gestaltung mitreden«, ist sie überzeugt und blickt dabei auch auf den Anteil der Nicht-Wählerschaft. Ein Workshop des Vereins »Mehr Demokratie« mit Bundesvorstandssprecherin Claudine Nierth hat sie für das Thema *Bürgerräte* sensibilisiert. »Mittels Losver-\
+fahren sollen mehr Menschen in demokratische Prozesse eingebunden werden«, erklärt sie das Prinzip, das beispielsweise die Reinigungskraft mit dem Professor oder das *Fridays for Future-*Mitglied mit dem »*weißen alten Herrn*« zwecks Problemlösung an einen Tisch bringt. »Das finde ich absolut spannend.« 
+
+Wichtig ist ihr, die Klimakrise, die Bedrohung der Artenvielfalt und soziale Ungerechtigkeit zu überwinden, »dass wir als Gesellschaft unsere Demokratie ausbauen, uns wertschätzen, mitgestalten, friedlich zusammenleben«. In der Klimaschutzinitiative Sachsenwald unterstützt sie die Energiewende, sie plädiert für die Einrichtung von *Energiegenossenschaften*, die auch im Rahmen der *Wentorfer Kulturwoche* auf der Solarparty im Garten der Familie Dreyer / Binnewies vorgestellt werden. Ihr Motto: »Lebe die Veränderungen, die du in der Welt sehen möchtest.« Energiegenossenschaften seien ein sehr guter Weg, die Energiewende voranzubringen. Dadurch habe jeder die Möglichkeit, daran zu partizipieren, »auch wenn er ein kleines Einkommen hat und Mieter ist. Die Klimakrise nimmt Fahrt auf, und dass wir unsere Energie selbst produzieren können, ist unsere große Chance.« Die Energiegenossenschaften könnten noch viel mehr bewegen: »Auch Kommunen können Genossen werden.«

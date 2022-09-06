@@ -1,0 +1,40 @@
+---
+titleintro: Menschen bei uns
+title: »Erkennen, was wirklich im Leben wichtig ist.«
+description: NDR-Moderatorin Heike Götz ist »die Frau mit dem roten Fahrrad« in
+  der Sendung »Landpartie«
+authorname: Imke Kuhlmann
+date: 2022-06-27T07:25:36.566Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2022-06-27-Goetz-Heike .jpg">
+  <figcaption>
+Heike Götz liebt die Natur und Norddeutschland und macht seit 23 Jahren die Sendung »Landpartie« auf NDR.     
+   
+  </figcaption>
+</figure>
+
+**Wentorf –** Über 200 Sendungen wurden bereits gedreht, alle mit dem Gesicht Norddeutschlands, wie Heike Götz auch genannt wird. Bekannt ist die Moderatorin durch die Sendung »Landpartie« auf NDR. Dort radelt sie mit einem roten Fahrrad durch die Lande. Von Frühjahr bis Herbst ist die Moderatorin mit ihrem Fernsehteam auf Tour, um die schönsten Flecken Norddeutschlands zu entdecken. Besonderen Reiz machen für sie die Menschen und ihre Natürlichkeit aus, die der von Heike Götz entspricht. 
+
+»Bei der allerersten Sendung der Landpartie, gab es noch gar kein Fahrrad. Die Idee wurde nebenbei geboren, um zu den Interviews die schöne Landschaft zu zeigen«, erzählt sie. Sie drehten in ihrer alten Heimat, auf dem Darß. Der Aufnahmeleiter hatte sein eigenes Fahrrad dabei, um nach Drehschluss die Gegend zu erkunden und dann habe sie dieses Fahrrad bekommen. »Wir haben es seitdem immer wieder eingesetzt und es wurde zum Markenzeichen«, berichtet sie. 
+
+Heike Götz ist ein neugieriger Mensch. »Das habe ich von meinem Vater. Wenn er unterwegs war, hat er immer die Menschen auf der Straße angesprochen, um mehr über die Orte, die Region und Begebenheiten zu erfahren.« Heike Götz hat genau das zu ihrem Beruf gemacht. Und so liebt sie die Begegnungen mit den Menschen, sucht nach außergewöhnlichen Geschichten und packt gern mit an. 
+
+Aber auch zu Fuß ist sie gern unterwegs. Dann eher privat. Sie pilgert. 2008 hat sie zusammen mit ihrem Ehemann Detlef Lafrentz den Jakobsweg in Spanien, den Camino Francés erlaufen. Sogar in Japan ist sie mit ihrem Mann auf dem »Kumano Kodo« gepilgert. Eine Strecke, die genauso wie der Jakobsweg zum Welterbe gehört. Aber mit Vorliebe ist sie in Deutschland und ganz besonders natürlich in Norddeutschland unterwegs. Im Sommer letzten Jahres wanderte sie die »Via Baltica« entlang, 600 Kilometer von Usedom bis Bremen ganz ohne Kameras. Wieder an ihrer Seite, ihr Ehemann. Jeden Kilometer ist sie gelaufen und hat alle Höhen und Tiefen eines Pilgerweges bezwungen wie beispielsweise heftige Regenfälle. »Das waren intensive und sehr erlebnisreiche vier Wochen zu Fuß, quasi direkt vor unserer Haustür«, sagt sie. Bereits vor ein paar Jahren ist sie mit einer kleinen Gruppe schon einmal für die NDR-Sendung »Pilgern im Norden« diesen Pilgerweg gegangen. Nun hat sie sich noch einmal aufgemacht mit der Idee in der Tasche, darüber ein Buch zu schreiben. »Einfach losgehen – Pilgern auf der Via Baltica«, heißt das Werk, das im Cadmos-Verlag erschienen ist und 19,99 Euro kostet. Am 29. Juni, kommt Heike Götz in die Stadtbibliothek Reinbek (Lesen Sie mehr darüber auf Seite ???),  um dort ihr neues Buch vorzustellen. 
+
+Die 56-jährige wurde in Grimmen bei Stralsund geboren. Dort ist sie aufgewachsen, hat ihr Abitur abgelegt und wurde Lehrerin. »So richtig konnte ich mich mit dem Beruf nicht anfreunden«, erzählt sie. In der Konsequenz schmiss sie im Sommer 1989 den Job. Für die damalige Zeit in der DDR ein mutiger Schritt. Heike Götz wollte nun endlich ihren langgehegten Berufswunsch verfolgen. Journalismus interessierte sie schon lange. Sie bewarb sich bei ihrem Lieblingssender, *Jugendradio »DT 64«* – mit Erfolg. »Es war ein großartiges Team mit vielen jungen Reportern und Moderatoren«, erinnert sie. Heike Götz sprach hier die Nachrichten, später für *Antenne Brandenburg*. Doch sie wollte nicht nur Texte lesen und so beschloss sie, ein Volontariat zu absolvieren. Während der Ausbildung saß sie nicht nur vor dem Mikrofon, sondern stand auch vor der Kamera. Uli Koglin und Achim Tacke, ihre späteren Produzenten, entdeckten das junge Talent. Im Winter 1999 drehten sie mit ihr die erste *Landpartie*. Das ist nun 23 Jahre her. Die Sendung hat seit dem nicht an Beliebtheit verloren. Immer wieder entdeckt Heike Götz neue Ecken in Norddeutschland. Dabei radelt sie über Deiche, Wiesen und kleine Wege vorbei an Bächen, Seen und den norddeutschen Meeren. 
+
+Und wie bei ihren *Landpartien*, lässt sich Heike Götz auch beim Pilgern einfach darauf ein. »Losgehen ist auch ein Loslassen«, sagt sie. Vertrautes, Gewohntes aber genauso ein Stück Sicherheit ließe sie hinter sich. Übernachtet hat das Ehepaar meist in Gemeindehäusern. »Wir haben so eine besondere Gastfreundschaft erfahren«, schwärmt sie. Der Weg habe sie durch wunderschöne Landschaften geführt, über lange Strecken haben sie keine Menschenseele getroffen. Sogar in ihrer alten Heimatstadt Grimmen machten sie Station. Die Wochen seien eine Zeit des Verzichts gewesen. »Alles was wir brauchten, haben wir in unserem Rucksack getragen«. Diesen Verzicht habe sie als Gewinn empfunden. Zu erkennen, was wirklich im Leben wichtig ist. 
+
+Durch *Feldenkrais* und Meditation findet sie neben der turbulenten Fernsehwelt zudem Ruhe. »In einer Welt mit so vielen verschiedenen Einflüssen ist es für mich hilfreich, immer wieder zu mir selbst zu kommen«, sagt sie. In der Meditationsgruppe engagiert sie sich ehrenamtlich. Sie schreibt den Newsletter und dreht kleine Filme über diese Meditationslehre. Ebenso findet Heike Götz es selbstverständlich, die jungen engagierten Menschen bei »Fridays for Future« zu unterstützen. »Zur Klimademo zu gehen, finde ich das Mindeste, was wir tun können. Wenn ich mir vorstelle, was die Klimakrise in den nächsten Jahren für Auswirkungen auf uns alle haben wird, müssen wir spätestens jetzt wirklich umdenken in unserem Konsumverhalten. Das kann jeder.«
+
+*Imke Kuhlmann*
+
+**Verlosung**
+
+Der Reinbeker verlost drei handsignierte Exemplare des neuen Buchs »Einfach losgehen – Pilgern auf der Via Baltica« von Heike Götz. Schreiben Sie uns bis Mittwoch, 29. Juni 2022 (18 Uhr) eine eMail an redaktion@derreinbeker.de oder rufen Sie an unter 040-72730117 (Mo.-Fr. 8-17 Uhr) und beantworten Sie uns folgende Frage: »Auf welchem berühmten Pilgerweg war Heike Götz in Japan unterwegs?« 
+
+Der Rechtsweg ist ausgeschlossen.

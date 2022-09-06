@@ -1,0 +1,35 @@
+---
+titleintro: Menschen bei uns
+title: »Ohne Rast und Rost – aktiv und  beweglich sein in Körper und Geist«
+description: Birte Hildebrandt hat sich 18 Jahre lang ehrenamtlich für das Thema
+  Gleichstellung in Wentorf engagiert. Nun hört sie auf. Für eine hauptamtliche
+  Stelle gibt es in Wentorf keine politische Mehrheit
+authorname: Christa Möller
+date: 2022-09-05T08:05:02.413Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2022-09-05-hildebrandt-birte.jpg">
+  <figcaption>
+Birte Hildebrandt ist Teil eines »Literarischen Trios« und Mitbegründerin der ADFC-Ortsgruppe Wentorf-Börnsen     
+   
+  </figcaption>
+</figure>
+
+
+
+**Wentorf –** Birte Hildebrandt hat definitiv aufs richtige Pferd gesetzt: Ihr »Dressur-Isländer« bietet ihr den idealen Ausgleich zum Beruf, nimmt allerdings auch einen großen Teil ihrer Freizeit ein. Die kann sie inzwischen allerdings flexibler gestalten, denn nach 18 Jahren als ehrenamtliche Gleichstellungsbeauftragte der Gemeinde hat sie jetzt gekündigt. Nach dem Ausscheiden ihrer Vorgängerin war die Stelle zwei Jahre vakant gewesen. Birte Hildebrandt startete während der Elternzeit. »Damals war das Hauptthema die Kinderbetreuung. Es gab nur wenige Ganztags-Kitagruppen in Wentorf. Ein weiteres Aufgabenfeld, das die Frauen beschäftigte, war das – gescheiterte – Projekt Frauennachttaxi. 
+
+Die Wentorferin hat sich intensiv in ihre Aufgabe eingearbeitet und übte das Amt neben dem beruflichen Teilzeit-Wiedereinstieg aus. »Es gibt keine Vorgabe, was eine Gleichstellungsbeauftragte machen muss und es ist niemand weisungsberechtigt. Aber in den 18 Jahren wurde mir immer klarer, was ich alles nicht machen kann im Ehrenamt.« Es sei von Vorteil, sich mit Kolleginnen auszutauschen und Aktionen gemeinsam zu planen. Doch mit dem Ausscheiden der ehrenamtlichen Gleichstellungsbeauftragten in Aumühle – auch für den Bereich des Amtes Hohe Elbgeest ist inzwischen eine hauptamtliche Kraft im Einsatz – war sie die letzte ehrenamtliche Gleichstellungsbeauftragte in der Umgebung und die Stelle soll wieder ehrenamtlich vergeben werden. Zwar gibt es eine Aufwandsentschädigung. Aber nicht zuletzt standen der Ehrenamtlerin deutlich weniger finanzielle Ressourcen etwa für Aktionen zur Verfügung. In Reinbek und Glinde ist die Stelle hauptamtlich besetzt. Dafür jedoch fand sich in Wentorf keine politische Mehrheit. 
+
+Birte Hildebrandt engagierte sich zusätzlich im Vorstand der Landesarbeitsgemeinschaft (LAG) der kommunalen Gleichstellungsbeauftragten. »Es ist ein sehr wichtiges Ehrenamt, das ausgeschrieben werden müsste«, betont sie eine Forderung der LAG. Durch ihren Einsatz dort sei ihr vermehrt klar geworden, was sie alles hätte leisten müssen, im Ehrenamt aber nicht umsetzen konnte. Durch ihre Berufstätigkeit in Hamburg war sie tagsüber nicht als Ansprechpartnerin beispielsweise für die Mitarbeiterinnen des Rathauses vor Ort und konnte auch nicht an Bewerbungsgesprächen teilnehmen. Somit beschränkte sich ihre Tätigkeit hauptsächlich auf die hinweisende Beratung, außerdem nahm sie an den Sitzungen von Bürgerausschuss, Hauptausschuss und Gemeindevertretung teil. Fünf, sechs Wochenstunden wendete sie für das Amt auf. Aber im Bereich der LAG gebe es Kolleginnen, die ehrenamtlich 20, 30 Wochenstunden im Einsatz seien. 
+
+Seit zwei Jahren arbeitet sie wieder in Vollzeit. »Ich habe gesehen, dass ich der Sache mit meinen Ressourcen nicht mehr gerecht werde«, begründet sie ihr Ausscheiden. In Wentorf sei die Gleichstellung längst noch nicht in allen Bereichen umgesetzt. »Auch in jungen Familien wird der überwiegende Teil der Sorgearbeit von Frauen erledigt, Frauen wählen eher schlechter bezahlte Berufe.« Und sie ergänzt: »Die 50:50-Quote in Aufsichtsräten ist immer noch nicht umgesetzt.« Ein weiteres Thema: Die gender-gerechte Sprache, etwa in öffentlichen Dokumenten. »Es gibt definitiv etwas zu tun.« 
+
+Birte Hildebrandt hat auf dem Gymnasium Russisch als zweite Fremdsprache gelernt, aus reiner Neugierde, »weil ich etwas lernen wollte, das zuhause niemand kann.« Die Sprache hat sie fasziniert und das Interesse für Land und Leute vertiefte sich durch eine Klassenfahrt nach Moskau und Leningrad. Nach dem Abitur in Hittfeld hat sie ihre Sprachkenntnisse auf der Staatlichen Fremdsprachenschule erweitert, dann in Hamburg Slawistik und Germanistik studiert und schließlich ein Jahr lang in Lublin ihre Polnisch-Kenntnisse vertieft. Für ihren Job als Schifffahrtskauffrau (»den Beruf habe ich nie gelernt«) qualifizierte sie sich durch ihre Russisch-Kenntnisse und erlangte später die Berechtigung auszubilden. Sie schätzt den Kontakt zu jungen Menschen. »Wir müssen ausbilden. Es ist absolute Pflicht, dass jede Fachkraft ihre Kenntnisse an die nächste Generation weitergibt. Die jungen Leute lernen das Fachliche und viel über den Umgang in der Erwachsenenwelt. Sie werden selbstbewusster. Wir lernen von ihnen manchmal eine andere Sicht auf die Dinge und in Computerfragen sind sie oft fitter.« 
+
+Birte Hildebrandt lebt seit 1998 in Wentorf, sie hat zwei Töchter, 24 und 21 Jahre alt – die jüngere setzt sich ebenfalls für Gleichberechtigung ein – und einen 19-jährigen Sohn. Gelegentlich unternimmt sie Städtetouren, etwa nach Kopenhagen oder London. Ansonsten heißt Urlaub für sie eine Reise gemeinsam mit ihrem Island-Pony und dem Husky-Collie-Mischling ins Wendland oder in die Altmark, wo wunderschöne Reitwege warten. Stillsitzen dagegen ist ihre Sache nicht: »Ich sehe überall ganz viele Dinge, die gemacht werden müssten.« Dazu passt ihr Lebensmotto: »Ohne Rast und Rost – aktiv und beweglich sein in Körper und Geist.« Seit zwei Jahren fährt sie die 25 Kilometer zu ihrer Arbeitsstelle mit dem Fahrrad und längst hat sie sich ein neues Ehrenamt gesucht: Im März 2021 war sie Mitbegründerin der ADFC-Ortsgruppe Wentorf-Börnsen, wo sie im Vorstand aktiv ist und hofft, die Verkehrswende mit voranbringen zu können. Kürzlich war sie mit einer ADFC-Gruppe in den Niederlanden, um sich über die dortige Situation für Radfahrende zu informieren. Auch für das Engagement im ADFC wendet sie einige Zeit auf, allerdings im Team – »und das passt mir im Moment besser«.
+
+Ansonsten liest sie gern, sie ist Teil eines »Literarischen Trios«. »Wir sind drei Personen, die sich aus dem beruflichen Umfeld kennen, wir vereinbaren, welches Buch wir lesen wollen und diskutieren dann über das jeweilige Buch. Das ist sehr spannend, weil die Rezeption oft sehr variiert, verlangt aber auch die Disziplin, jeweils zu einem festgelegten Termin ein bestimmtes Buch gelesen zu haben. Ohne das Trio würde ich mir vermutlich seltener die Zeit nehmen, Bücher zu lesen.«

@@ -10,7 +10,7 @@ tags:
   - Menschen
 ---
 <figure>
-  <img src="/static/media/2022-06-27-Goetz-Heike .jpg">
+  <img src="/static/media/2022-06-27-Goetz-Heike-.jpg">
   <figcaption>
 Heike Götz liebt die Natur und Norddeutschland und macht seit 23 Jahren die Sendung »Landpartie« auf NDR.     
    

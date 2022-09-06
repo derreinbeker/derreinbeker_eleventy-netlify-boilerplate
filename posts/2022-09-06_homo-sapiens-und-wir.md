@@ -1,0 +1,29 @@
+---
+titleintro: re-tweet
+title: Homo sapiens und wir
+description: Über-)Leben der menschlichen Spezies und die deutsche Politik
+authorname: Hartmuth Sandtner
+date: 2022-09-06T07:58:39.506Z
+category: Meinung
+tags:
+  - Klimakatastrophe
+---
+Jonas Lüscher, mehrfach ausgezeichneter schweizerisch-deutscher Schriftsteller und Essayist, stellte am 14. Juli 2022 in seiner Preisrede »Der Mensch verschwindet im Anthropozän« (republik.ch: bit.ly/3JhFgyQ) zum Erhalt des Max Frisch Preises 2022 der Stadt Zürich zwei Zitate ins Zentrum. Beide haben mit dem (Über-)Leben der menschlichen Spezies zu tun. Das erste, eine Frage, stammt von Max Frisch (1911-1991): »Sind Sie sicher, dass Sie die Erhaltung des Menschengeschlechts, wenn Sie und alle Ihre Bekannten nicht mehr sind, wirklich interessiert?«. Das zweite stammt von Olaf Scholz, der während seiner Rede auf dem Katholikentag am 29. Mai 2022 von Klimaschutzengagierten gestört wurde: »Ich sage mal ganz ehrlich, diese schwarz gekleideten Inszenierungen bei verschiedenen Veranstaltungen von immer den gleichen Leuten erinnern mich an eine Zeit, die lange zurückliegt, und Gott sei Dank.« – wofür er riesigen Beifall des Publikums bekam.
+
+Lüscher geht es in seiner Rede um das »drohende Ende der Menschheit durch Selbst-vernichtung«. Er sieht die Menschheit in doppelter Weise bedroht: Seit Hiroshima durch die gegenseitig zugesicherte Vernichtung MAD (mutual assured destruction) und durch die drohende Klimakatastrophe. Er fürchtet, »es wird unsere Unfähigkeit sein, uns auf zwei Dinge gleichzeitig zu fokussieren \[...], die unser Ende besiegeln werden – sind es doch gerade diese neuesten Ereignisse, die in den Hinter-grund drängen, dass sich zur Bedrohung der atomaren Selbst-auslöschung längst eine zweite gesellt hat.«
+
+Er fordert »eine neue Form der Rationalität« und fragt: »Was bedeutet das für das Leben?« Und hat auch gleich eine Antwort parat: »Es bedeutet, erstens, dass die Frage der Lebens-führung (er nennt Ernährungsgewohnheiten, Ferien-flüge, Raum-temperatur, Konsum-verhalten, Arbeitswege) zu einer Frage des Überlebens wird« (auch wenn damit nicht unbedingt das eigene Überleben gemeint ist). Und er erwartet dazu von seiner schreibenden Zunft, »Geschichten zu erzählen, von der Möglichkeit eines gelingenden Lebens.«
+
+Aber »schreiben« wir nicht alle mit an der Erzählung? Auch beispielsweise Toby Ord (42), ein australischer Philosoph, der an der Universität Oxford unterrichtet und von dem im vergangenen Dezember in der ZEIT zu lesen war, dass er gut ein Viertel seines Einkommens – langfristig soll es sogar die Hälfte werden – spendet. Sein Argument: Das Geld nutzt anderen mehr als ihm selbst. Sein Motiv: Effizienz – nicht Empathie (bit.ly/3P4Lh3a). Er sagt: »Meine große Leidenschaft ist die Fotografie, und ich würde gerne ausprobieren, was ich mit einer professionellen Ausrüstung alles machen könnte. Aber dieses Geld bewirkt an anderer Stelle hundertmal mehr.« Bisher hat er rund 150.000 Euro gespendet. Die Organisation (www.givingwhatwecan.org), die er gegründet hat, spendete bisher 200 Millionen Dollar für eine bessere Zukunft.
+
+ Wer Zukunft verspricht, so Jonas Lüscher, »verspricht unter den gegenwärtigen Bedingungen Hoffnung.« Für Frisch ist ein Aufruf zur Hoffnung ein Aufruf zum Widerstand. Und der ist für Lüscher – neben der Lebensführung – die zweite Bedingung für das Überleben der Menschheit. Auch wenn Bundeskanzler Scholz es anders zu sehen scheint, der sich nicht zu schade war, die Klimademonstranten auf dem Katholikentag – im Originalton aus Lüschers Preisrede – »in unerträglicher Infamie mit Braunhemden zu vergleichen und ihre Sorge als inszenierte, eingeübte Haltung zu diffamieren. Weniger Anlass zur Hoffnung hat schon lange kein deutscher Politiker gegeben.«
+
+In ihrem Beitrag »Wer sagt‘s ihnen?«, in der Süddeutschen vom 29.7.22, sagt Hedwig Richter, Professori-n für Neuere und Neueste Geschichte an der Universitä-t der Bundeswehr in München: »Für diese Verdrängung hat sich Deutschland den idealen Mann an die Spitze gesetzt, Olaf Scholz.« »Und«, so fährt sie fort: »die Deutschen haben sich mit diesem Politiker auch die Partei ausgesucht, die noch nie die schlichte Wahrheit auszusprechen vermochte.« Und wie sieht es bei der zweiten Partei der Ampel-Regierung aus, den Liberalen? Hedwig Richter: »Bei der Lindner-Hochzeit war die Welt so sehr in Ordnung. Die Reichen, die Liberalen, die da oben feiern schamlos, anstatt zu tun, was ein anständiger Mensch im Angesicht von Krieg und Krisen tun müsste: verantwortungsvoll den Gürtel enger schnallen.  \[…] verglichen mit der Millionärsparty auf Sylt fühlt sich der Grillabend an wie ein Beitrag zum Klimaschutz.« 
+
+Preisträger Lüscher setzt darum bei seiner Hoffnung auf die Zukunft auf die »folgenden Generationen, ihre Wut und ihren Widerstandsgeist.« Fridays for Future-Aktivistin Luisa Neubauer twitterte auf den Ausspruch von Scholz beim Katholikentag: »Seine Reaktion macht sprachlos. Denn das spricht Bände über das, was wir vom Kanzler in der Klimakatastrophe erwarten müssen«.
+
+Mit der Regierung können wir also nicht rechnen, wenn es um den Kampf gegen die Klimakatastrophe geht. Sie identifiziert sich mit der Ukraine und interpretiert die von Lüscher geforderte »neue Form der Rationalität« mit deren »Primat des militärischen Denkens«. Dabei ist »Deutschland nicht die Ukraine und ihr Krieg ist nicht unser Krieg«. (Jakob Augstein, *der Freitag*, 21.7.).
+
+Was bleibt? – 
+
+Der Mensch ein Witz der Erdgeschichte? Wie er sich im  *Streiflicht* der Süddeutschen vom 6.8.22 abbildet?  »Treffen sich die Erde und ein Komet. »Wie geht‘s dir, Erde?«, fragt der Komet. »Gar nicht gut«, antwortet die Erde, »ich habe homo sapiens«. Drauf der Komet: »Das geht vorbei.«

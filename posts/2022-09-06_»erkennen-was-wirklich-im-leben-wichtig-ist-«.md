@@ -30,11 +30,3 @@ Die 56-jährige wurde in Grimmen bei Stralsund geboren. Dort ist sie aufgewachse
 Und wie bei ihren *Landpartien*, lässt sich Heike Götz auch beim Pilgern einfach darauf ein. »Losgehen ist auch ein Loslassen«, sagt sie. Vertrautes, Gewohntes aber genauso ein Stück Sicherheit ließe sie hinter sich. Übernachtet hat das Ehepaar meist in Gemeindehäusern. »Wir haben so eine besondere Gastfreundschaft erfahren«, schwärmt sie. Der Weg habe sie durch wunderschöne Landschaften geführt, über lange Strecken haben sie keine Menschenseele getroffen. Sogar in ihrer alten Heimatstadt Grimmen machten sie Station. Die Wochen seien eine Zeit des Verzichts gewesen. »Alles was wir brauchten, haben wir in unserem Rucksack getragen«. Diesen Verzicht habe sie als Gewinn empfunden. Zu erkennen, was wirklich im Leben wichtig ist. 
 
 Durch *Feldenkrais* und Meditation findet sie neben der turbulenten Fernsehwelt zudem Ruhe. »In einer Welt mit so vielen verschiedenen Einflüssen ist es für mich hilfreich, immer wieder zu mir selbst zu kommen«, sagt sie. In der Meditationsgruppe engagiert sie sich ehrenamtlich. Sie schreibt den Newsletter und dreht kleine Filme über diese Meditationslehre. Ebenso findet Heike Götz es selbstverständlich, die jungen engagierten Menschen bei »Fridays for Future« zu unterstützen. »Zur Klimademo zu gehen, finde ich das Mindeste, was wir tun können. Wenn ich mir vorstelle, was die Klimakrise in den nächsten Jahren für Auswirkungen auf uns alle haben wird, müssen wir spätestens jetzt wirklich umdenken in unserem Konsumverhalten. Das kann jeder.«
-
-*Imke Kuhlmann*
-
-**Verlosung**
-
-Der Reinbeker verlost drei handsignierte Exemplare des neuen Buchs »Einfach losgehen – Pilgern auf der Via Baltica« von Heike Götz. Schreiben Sie uns bis Mittwoch, 29. Juni 2022 (18 Uhr) eine eMail an redaktion@derreinbeker.de oder rufen Sie an unter 040-72730117 (Mo.-Fr. 8-17 Uhr) und beantworten Sie uns folgende Frage: »Auf welchem berühmten Pilgerweg war Heike Götz in Japan unterwegs?« 
-
-Der Rechtsweg ist ausgeschlossen.

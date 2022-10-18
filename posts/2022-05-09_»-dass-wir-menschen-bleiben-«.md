@@ -1,6 +1,6 @@
 ---
 titleintro: re-tweet
-title: »...dass wir MENSCHEN bleiben.«
+title: »… dass wir MENSCHEN bleiben.«
 description: Die Lesekompetenz sinkt in Deutschland. »Angesichts der Bedeutung
   dieser Kulturtechnik für den Einzelnen und die Gesellschaft ist das
   besorgniserregend«. Denn Sprache ist der menschliche Zugang zur Welt, weil sie

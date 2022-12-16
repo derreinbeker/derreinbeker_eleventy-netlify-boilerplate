@@ -7,9 +7,6 @@ section: downloads
 {% set sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
 {% set sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | includesString("2023") %}
 {% set sortedDownloadablePrintEditionsOf2022 = sortedDownloadablePrintEditions | includesString("2022") %}
-{% set sortedDownloadablePrintEditionsOf2021 = sortedDownloadablePrintEditions | includesString("2021") %}
-{% set sortedDownloadablePrintEditionsOf2020 = sortedDownloadablePrintEditions | includesString("2020") %}
-{% set sortedDownloadablePrintEditionsOf2019 = sortedDownloadablePrintEditions | includesString("2019") %}
 
 
 <h2>Gedruckte Ausgabe</h2>
@@ -29,15 +26,6 @@ section: downloads
   <h3>2022</h3>
   <ul class="printeditions">
   {% for editionFilename in sortedDownloadablePrintEditionsOf2022 %}
-      <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
-  {% endfor %}
-  </ul>
-{% endif %}
-
-{% if sortedDownloadablePrintEditionsOf2021|length %}
-  <h3>2021</h3>
-  <ul class="printeditions">
-  {% for editionFilename in sortedDownloadablePrintEditionsOf2021 %}
       <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
   {% endfor %}
   </ul>

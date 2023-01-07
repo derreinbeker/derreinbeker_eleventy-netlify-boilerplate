@@ -1,0 +1,32 @@
+---
+titleintro: Menschen bei uns
+title: »Was ich nicht sehe, denke ich.«
+description: Antoinette Wagschal, Vorsitzende des Reinbeker Behindertenbeirates
+  hat sich mit ihrer Sehbehinderung arrangiert
+authorname: Imke Kuhlmann
+date: 2022-11-21T13:49:20.548Z
+category: Panorama
+tags:
+  - Menschen
+---
+
+
+<figure>
+  <img src="/static/media/2022-11-21-Wagschal-Antoinette.jpg">
+  <figcaption>
+Antoinette Wagschal setzt sich für die Interessen von Menschen mit Einschränkungen ein und will deren Bedürfnisse stärker in den Mittelpunkt rücken.       
+   
+  </figcaption>
+</figure>
+
+**Reinbek –** Seit März dieses Jahres ist Antoinette Wagschal die Vorsitzende des Reinbeker Behindertenbeirates. Sie kann die Belange von Betroffenen gut verstehen, denn sie selbst ist in ihrem Leben eingeschränkt. Vor knapp zehn Jahren spürte sie ein leichtes Flackern im rechten Auge. Wagschal hatte von Kind an kein gutes Sehvermögen, doch das beeinträchtigte ihren Alltag nicht. 2013 wurde eine Zyste unter der Netzhaut des rechten Auges entdeckt. Mehrere Operationen folgten, doch sie verlor ihre Sehkraft auf diesem Auge. Am anderen Auge leidet sie unter dem grünen Star. Mit Brille hat sie noch eine Sehkraft von 30 Prozent. Doch die gelernte Bürokauffrau lässt sich nicht unterkriegen. »Gib niemals auf«, ist ihre Devise. Das hat sie sich nach der letzten Operation auf den rechten Unterarm tätowieren lassen. 
+
+Das Leben habe sich verändert, doch Wagschal blickt jeden Tag positiv in die Zukunft auch im Hinblick auf ihre Krankheit. »Die Medizin entwickelt sich immer weiter. Wer weiß, was noch passiert«, sagt sie. Obwohl sie nicht mehr Auto fährt, hat sie ihren Führerschein nicht abgegeben. »Es kann ja sein, dass es mir irgendwann wieder möglich ist«, sagt sie zuversichtlich. Diese Energie ist ihr Motor. 
+
+Sie treibt besonders gern Sport. Vor einem Jahr hat sie das *Drums alive* für sich entdeckt. *Drums alive* kombiniert Sport und Musik auf besondere Weise. Mit Trommelsticks wird auf einen Gymnastikball im Takt der Musik geschlagen. Das führe zu einer besonderen Ausgeglichenheit. Da Antoinette Wagschal ab und an unter Gleichgewichtsstörungen leidet – die Folge der verminderten Sehkraft – hat sie ein *Personal Training*. Zudem walkt sie regelmäßig mit einer Freundin. Doch damit noch nicht genug. Sie singt in einem Popchor und liebt das Motorradfahren. Mit ihrem Ehemann Helge ist sie mit Vorliebe »auf Tour«. »Ich liebe das Motorengeräusch, den Geruch, den Wind um die Nase«, sagt sie. Ihr Ehemann sei ihre große Stütze. »Er hilft mir den Alltag zu bewältigen.« Das bedeutet Organisation, denn er ist berufstätig. Auch wenn sie für vieles im Alltag Lösungen gefunden hat, so ist doch nicht alles allein zu meistern. So könne sie beispielsweise nicht mit heißem Wasser umgehen, da sie Wasser einfach nicht sieht und somit die Gefahr besteht, dass sie sich verbrüht. Im Dunkeln geht sie nicht auf die Straße – sie sieht die Wege und die Unebenheiten oder Bordsteine nicht. Dann begleitet ihr Mann sie dorthin, wo ihre Termine sind. Und sie ist ihm sehr dankbar dafür, auch wenn er ihr nie ein schlechtes Gewissen mache. 
+
+Antoinette Wagschal sieht das Leben heute anders. »Die Weihnachtsbeleuchtung ist für mich besonders schön, durch die vielen Lichter nehme ich sie wahr«, sagt sie. Aber auch einen Marienkäfer kann sie identifizieren. »Ich sehe zwar nur einen roten Punkt, der sich bewegt, aber dann denke ich mir, dass dies ein Marienkäfer sein muss und habe Bilder im Kopf.«
+
+2013, als das Problem mit dem linken Auge auftrat, musste sie schweren Herzens ihren Beruf in der Versicherungsbranche aufgeben. Auf der Suche nach Unterstützung traf sie auf den Verein Blickpunkt Auge, der zu der Zeit noch in Reinbek war. Sie wollte wissen, wie sie an Hilfsmittel für den Alltag kommt und welche Angebote es für Menschen mit Sehbehinderung gibt. Aus der Frage wurde ein Ehrenamt. »Ich wollte Menschen helfen, die dieselben Fragen haben, wie ich«, so Wagschal. Doch als Blickpunkt Auge den Standort in Reinbek aufgab, endete diese Aufgabe. Zeitgleich wurden Ehrenamtliche für den Behindertenbeirat gesucht. Sie bewarb sich und wurde mit den meisten Stimmen gewählt. So rutschte sie in das Amt der Vorsitzenden, das sie inzwischen mit Leidenschaft ausfüllt. »Wir sind ein großartiges Team«, sagt sie. Da sie selbst mit ihrem Augenlicht eingeschränkt ist, weiß sie genau, wovon sie spricht, wenn es darum geht, die Stadt barrierefrei zu gestalten. Zudem ist sie keine Frau, die die Hände in den Schoß legt. »Ich brauchte etwas, das mich erfüllt«, sagt sie. Und das scheint sie gefunden zu haben. »Wenn ich nur einem Menschen mit Einschränkungen beispielsweise das Busfahren leichter machen kann, habe ich schon etwas erreicht«, so Wagschal. Auch beim Telefondienst spüre sie immer wieder die Dankbarkeit der Menschen. »Besonders Frauen freuen sich, wenn sie mit einer Frau sprechen können«, stellt sie fest. 
+
+Antoinette Wagschal setzt sich für die Interessen von Menschen mit Einschränkungen ein und will deren Bedürfnisse stärker in den Mittelpunkt rücken. »Vieles wäre einfach umzusetzen, wie beispielsweise farbliche Markierungen auf Treppenstufen«, sagt sie. Ob es darum geht, Überwege rollstuhlfahrergerecht zu gestalten, mehr Behindertenparkplätze zu schaffen oder ausreichend öffentliche Toiletten zur Verfügung zu stellen – Antoinette Wagschal hat mit dem Behindertenbeirat noch viel vor. Gerade fährt der Beirat die Bushaltestellen ab und prüft diese auf Barrierefreiheit.

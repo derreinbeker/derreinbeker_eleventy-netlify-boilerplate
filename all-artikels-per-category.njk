@@ -5,7 +5,7 @@ pagination:
   resolve: values
   size: 1
   alias: articles
-permalink: /{{ articles[0].data.category | slug }}/
+permalink: /{{ articles[0].data.category | slugify }}/
 description: "Alle Artikel"
 ---
 {% set postslist = articles | reverse %}

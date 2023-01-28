@@ -11,7 +11,7 @@ permalink: /kategorien/
 
 <ul class="category-list">
 {% for category in collections.categories | sort %}
-  {% set categoryUrl %}/{{ category | slug }}/{% endset %}
+  {% set categoryUrl %}/{{ category | slugify }}/{% endset %}
   <li>
   <a href="{{ categoryUrl | url }}" class="cat">{{ category }}</a>
   </li>

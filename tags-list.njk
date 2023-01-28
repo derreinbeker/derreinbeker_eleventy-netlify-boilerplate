@@ -7,7 +7,7 @@ description: "Alle Themen"
 
 <ul class="tag-list">
 {% for tag in collections.tagList | sort(false, true) %}
-  {% set tagUrl %}/thema/{{ tag | slug }}/{% endset %}
+  {% set tagUrl %}/thema/{{ tag | slugify }}/{% endset %}
   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
 {% endfor %}
 </ul>

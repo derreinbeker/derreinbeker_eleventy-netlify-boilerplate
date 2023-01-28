@@ -10,7 +10,7 @@ authorname: Kerstin Völling
 date: 2019-09-28T10:11:38.857Z
 category: Politik
 tags:
-  - TSV REINBEK
+  - TSV Reinbek
 ---
 Reinbek – Bei Unstimmigkeiten miteinander zu reden, ist grundsätzlich gut. Manchmal kann das aber auch nach hinten losgehen. Letzteres dokumentierte der jüngste Jugend-, Sport- und Kulturausschuss. Eigentlich, so betonten alle Beteiligten, wolle man unbefangen »bei Null anfangen und auf der Sachebene bleiben.« Doch als es dann um die Zukunftspläne der TSV Reinbek ging, keimten immer wieder Animositäten zwischen einigen Politikern und Vereinsvertretern auf. Bürgermeister Björn Warmer sah sich genötigt, eine Art »Ordnungsruf« loszuwerden: »Ich finde, es gibt glücklichere Momente, als wenn man hier, in dieser öffentlichen Sitzung, gewisse Punkte so konkret austauscht.«  
 

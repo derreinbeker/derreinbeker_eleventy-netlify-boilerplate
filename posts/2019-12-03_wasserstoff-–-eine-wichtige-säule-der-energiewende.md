@@ -8,7 +8,7 @@ authorname: Renate Sturm
 date: 2019-12-03T07:56:45.527Z
 category: Politik
 tags:
-  - Klimawandel
+  - Klimakatastrophe
 ---
 <figure>
   <img src="/static/media/2019wasserstofffroeba.jpg">

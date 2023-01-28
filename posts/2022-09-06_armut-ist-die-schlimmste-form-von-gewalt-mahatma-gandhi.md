@@ -8,7 +8,7 @@ date: 2022-09-06T08:09:49.056Z
 category: Meinung
 tags:
   - Earth for All
-  - Klimakrise
+  - Klimakatastrophe
   - Soziale Krise
 ---
 »In unserer Gesellschaft gibt es nicht nur Rassismus und Sexismus, es herrscht auch eine Art Klassismus. Menschen aus den unteren Schichten werden systematisch benachteiligt. Manche werden entscheiden müssen: Friere ich und esse genug? Oder friere ich nicht und verzichte auf Essen?« Zu dieser Einschätzung kommt Gerhard Trabert (66), Notfallmediziner und Prof. für Sozialmedizin und Sozialpsychiatrie an der Hochschule Rhein-Main. Er betreut mit seinem »Arztmobil« wohnungslose Menschen in Mainz, auch wenn sie nicht krankenversichert sind. 

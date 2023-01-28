@@ -11,7 +11,7 @@ authorname: Hartmuth Sandtner
 date: 2020-09-21T13:39:19.917Z
 category: Meinung
 tags:
-  - Klimawandel
+  - Klimakatastrophe
 ---
 Nicht nur an der Westküste der USA und in der Tundra kämpfen die Menschen gegen die Flammen. In Australien wüteten die heftigsten Brände überhaupt und der Urwald in Brasilien und Indonesien wird jedes Jahr noch stärker abgefackelt. Das Nordpolarmeer hat die geringste Sommereisfläche seit Menschengedenken und in Sibirien bleibt die Sommertemperatur wochenlang 20 °C über normal. In Rumänien wird eine vorher fruchtbare Kornkammer gerade zu Wüste. In Bangladesch stand dieses Jahr ein Drittel der Landesfläche unter Wasser.
 

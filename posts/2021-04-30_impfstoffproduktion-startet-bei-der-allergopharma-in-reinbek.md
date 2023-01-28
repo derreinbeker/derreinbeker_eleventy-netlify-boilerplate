@@ -6,7 +6,7 @@ authorname: DR
 date: 2021-04-30T15:19:38.710Z
 category: Panorama
 tags:
-  - Pandemie
+  - Corona-Pandemie
 ---
 <figure>
   <img src="/static/media/2021-05-03-Spahn-Günther-Allergopharma.jpg">

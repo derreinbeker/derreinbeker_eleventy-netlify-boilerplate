@@ -7,7 +7,7 @@ authorname: Hartmuth Sandtner
 date: 2022-12-05T14:13:53.828Z
 category: Politik
 tags:
-  - Klimakrise
+  - Klimakatastrophe
 ---
 Das sagt Angela Merkel im spiegel-Interview vom 26.11.22, die mit vielen Menschen schon gesprochen hat, mit sogenannten »Guten« wie mit sogenannten »Bösen«. Mit Nobelpreisträgern ebenso wie mit schlichteren Naturen, mit dem Papst ebenso wie mit Trump, mit Putin, aber auch mit einer Königin Elisabeth.  »Es geht immer auch um Menschen, das ist vielleicht trivial. Aber wir Menschen sind trivial.«, sagt Merkel.
 

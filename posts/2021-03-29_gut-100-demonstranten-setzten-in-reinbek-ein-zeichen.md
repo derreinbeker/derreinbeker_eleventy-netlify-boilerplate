@@ -7,7 +7,7 @@ authorname: Hartmuth Sandtner
 date: 2021-03-29T11:24:10.984Z
 category: Politik
 tags:
-  - Klimawandel
+  - Klimakatastrophe
   - Demonstration
   - Reinbek
 ---

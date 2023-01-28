@@ -4,12 +4,11 @@ section: home
 pagination:
   data: collections.posts
   size: 10
-  alias: posts
+  alias: postslist
   reverse: true
 description: "Der Reinbeker – Kommunikation in Reinbek"
 ---
 
-{% set postslist = posts %}
 {% include "components/postslist.njk" %}
 
 <nav>

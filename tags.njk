@@ -1,16 +1,8 @@
 ---
 pagination:
-  data: collections
+  data: collections.tagList
   size: 1
   alias: tag
-  filter:
-    - all
-    - categories
-    - categoriesMap
-    - tagList
-    - post
-    - posts
-    - ''
 permalink: /thema/{{ tag | slugify }}/
 layout: layouts/base.njk
 description: "Alle Beiträge zum Thema"
@@ -19,9 +11,9 @@ description: "Alle Beiträge zum Thema"
 <h1>{{ tag }}</h1>
 <h4>Alle Beiträge</h4>
 
-{% set postslist = collections[ tag ] | reverse %}
+{% set postslist = collections[tag] | reverse %}
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/thema/' | url }}">← Themen</a>
+  <a href="{{ '/themen/' | url }}">← Themen</a>
 </nav>

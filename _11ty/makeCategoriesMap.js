@@ -1,6 +1,3 @@
-const decycle = require('json-cycle').decycle
-const debug = require("debug")("makeCategories");
-
 //  We want to create an object
 //  that has a property for each category.
 //  The value of each property is a list

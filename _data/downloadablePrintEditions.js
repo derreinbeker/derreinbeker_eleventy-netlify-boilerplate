@@ -1,10 +1,10 @@
-const fetch = require("node-fetch");
+const EleventyFetch = require("@11ty/eleventy-fetch");
 
 module.exports = async function() {
-  // return fetch("http://makai.local/ausgaben.json")
-  return fetch("https://downloads.derreinbeker.de/ausgaben.json")
-  .then(res => res.json())
-  .then(json => {
-    return json;
+  let url = "https://downloads.derreinbeker.de/ausgaben.json";
+
+  /* This returns a promise */
+  return EleventyFetch(url, {
+    type: "json"
   });
 };

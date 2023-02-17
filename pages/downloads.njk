@@ -1,14 +1,15 @@
 ---
-layout: layouts/page.njk
-title: Downloads
+title: "Downloads – Der Reinbeker"
 section: downloads
 description: "Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers zum Download als PDF."
+permalink: /downloads/index.html
 ---
 
 {% set sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
 {% set sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | includesString("2023") %}
 {% set sortedDownloadablePrintEditionsOf2022 = sortedDownloadablePrintEditions | includesString("2022") %}
 
+<h1>Downloads</h1>
 
 <h2>Gedruckte Ausgabe</h2>
 <p>Hier finden Sie die <a href="https://{{ metadata.downloadshost }}/ausgaben/{{ sortedDownloadablePrintEditions | first }}">aktuelle</a> und ältere Ausgaben des Reinbekers zum Download als PDF.</p>

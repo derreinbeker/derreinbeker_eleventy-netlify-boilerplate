@@ -2,9 +2,12 @@
 layout: layouts/base.njk
 pagination:
   data: collections.posts
-  size: 2
+  size: 50
   alias: posts
   reverse: true
+eleventyComputed: 
+  title: "Archivierte Beiträge"
+  description: "Archivierte Beiträge"
 ---
 {% set postslist = posts %}
 {% include "components/postslist.njk" %}

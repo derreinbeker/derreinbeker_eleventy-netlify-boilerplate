@@ -1,9 +1,11 @@
 ---
-layouts: layouts/base.njk
-title: Kontakt
+title: "Kontaktdaten – Der Reinbeker"
+description: "Kontaktdaten der Redaktion"
 permalink: /kontakt/index.html
 disableFormatDetection: true
 ---
+
+<h1>Kontakt</h1>
 
 Sandtner Werbung GbR  
 Jahnstraße 18  

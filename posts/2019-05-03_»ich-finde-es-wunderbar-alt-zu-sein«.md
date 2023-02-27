@@ -11,7 +11,7 @@ tags:
   - Menschen
 ---
 <figure>
-    <img src="/static/media/2019-goltz.jpg"></a>
+    <img src="/static/media/2019-goltz.jpg">
   <figcaption>
     »Das Lernen hört für mich nie auf. Man kann immer etwas dazulernen« sagt Gisela Gräfin von der Goltz.
   </figcaption>

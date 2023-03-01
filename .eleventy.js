@@ -1,8 +1,39 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const htmlmin = require("html-minifier");
 const filters = require('./_11ty/filters.js')
+const Image = require('@11ty/eleventy-img');
+
+
+async function imageShortcode(
+  src,
+  alt,
+  className = undefined,
+  widths = [400, 800, 1280],
+  formats = ['webp', 'jpeg'],
+  sizes = '100vw'
+) {
+  let metadata = await Image(src, {
+    widths: [...widths, null],
+    formats: [...formats, null],
+    outputDir: '_site/static/media/images/generated',
+    urlPath: '/static/media/images/generated',
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes);
+}
+
+
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addAsyncShortcode("image", imageShortcode);
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk")
 
   // Filters
@@ -35,7 +66,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("categoriesMap", require("./_11ty/makeCategoriesMap"))
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static");
+  eleventyConfig.addPassthroughCopy("static/favicons");
+  eleventyConfig.addPassthroughCopy("static/media");
+  eleventyConfig.addPassthroughCopy("static/DerReinbekerLogo.svg");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_redirects");

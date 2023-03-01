@@ -41,7 +41,7 @@ Original-Bilder nach: "static/assets/originalImages/" und dann:
     Ein Bison auf einer Wiese vor mit Abendsonne beschienener Bergkulisse.
   </figcaption>
 </figure>
-*
+*/
 
 
 

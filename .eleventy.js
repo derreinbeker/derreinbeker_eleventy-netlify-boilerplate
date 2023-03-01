@@ -30,6 +30,19 @@ async function imageShortcode(
   return Image.generateHTML(metadata, imageAttributes);
 }
 
+/*
+Beispiel:
+
+Original-Bilder nach: "static/assets/originalImages/" und dann:
+
+<figure>
+    {% image "static/assets/originalImages/BigBison.jpg", "Ein Bison auf einer Wiese vor mit Abendsonne beschienener Bergkulisse" %}
+  <figcaption>
+    Ein Bison auf einer Wiese vor mit Abendsonne beschienener Bergkulisse.
+  </figcaption>
+</figure>
+*
+
 
 
 module.exports = function(eleventyConfig) {

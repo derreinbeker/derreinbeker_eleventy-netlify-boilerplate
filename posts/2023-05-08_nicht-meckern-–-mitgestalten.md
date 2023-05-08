@@ -1,0 +1,34 @@
+---
+titleintro: Menschen bei uns
+title: Nicht meckern – mitgestalten
+description: Klaus-Peter Puls macht nach über 50 Jahren Schluss mit der Politik
+authorname: Imke Kuhlmann
+date: 2023-05-08T08:55:37.947Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/22023-05-08-Puls-Klaus-Peter.jpg">
+  <figcaption>
+
+Mit der Politik ist jetzt Schluss. Klaus-Peter Puls freut sich, nun auch wieder mehr Zeit zum Klavierspielen zu haben«  
+
+  </figcaption>
+</figure>
+
+
+
+**Reinbek –** Im Alter von 26 Jahren trat Klaus-Peter Puls in die SPD ein. Seitdem hat er viele Stationen in der Politik durchlaufen. 1974 übernahm er das erste Mal einen Sitz in der Stadtverordnetenversammlung. Mit Unterbrechungen sitzt er dort, seit 2013  als parteiloser Einzelkandidat, bis heute oder genauer gesagt, bis zum 14. Mai dieses Jahres. Dann sind Kommunalwahlen. Klaus-Peter Puls tritt nicht wieder an. 
+
+»Ein politisches Ehrenamt ist herausfordernd, zeitlich, aber auch menschlich«, sagt der 80-jährige. Doch er hat sein Engagement nie in Frage gestellt. »Natürlich haben mich persönliche Angriffe getroffen, aber nie so sehr, als dass ich mein Ziel aus den Augen verloren habe«, sagt er. Und dieses Ziel hat sich über die Jahre nicht verändert: Puls wollte etwas für die Gemeinde tun, etwas verändern, um die Lebenssituation der Bürgerinnen und Bürger stetig zu verbessern. Seine Devise: Nicht meckern, sondern mitgestalten. Danach hat er immer gelebt und gehandelt und es war sein Antrieb für das politische Engagement. 
+
+Seine familiären Wurzeln hat er im Stadtteil Prahlsdorf. Dort kandidierte er auch für die Stadtverordnetenversammlung und holte sich immer wieder die Stimmenmehrheit, 2013 und 2018 sogar als parteiloser Einzelkandidat. »Als ich mich 2013 aufstellen ließ hatte ich gehofft, dass es einmal klappt. Dass ich 2018 erneut und sogar mit noch mehr Stimmen gewählt wurde, übertraf meine Erwartungen«, sagt er. 2013 hatte er der SPD, deren Ortsvereinsvorsitzender er von 2006 bis 2012 war, den Rücken gekehrt. Uneinigkeit über den Bau der Feuerwehr veranlassten ihn zu dem Schritt. »Die Partei hat nicht geschlossen agiert. Dafür habe ich die Verantwortung übernommen«, sagt er. Doch damit auch in der Politik den Hut zu nehmen, war für ihn keine Option. Er marschierte als Einzelkandidat weiter und der Plan ging auf. Über 50 Jahre hat er sich inzwischen für die Politik engagiert. 1992 saß Puls das erste Mal im Landtag. »Das ist schon besonders, dann für das gesamte Bundesland zu entscheiden«, sagt er. 1996, 2000 und 2005 wurde er abermals direkt in den Landtag gewählt. Dort hat er wichtige Entscheidungen mit auf den Weg gebracht. Er hat  verhindert, dass das Reinbeker Amtsgericht geschlossen wird, sich für den Erhalt von Oststeinbek als selbstständige Gemeinde eingesetzt und auch das Mittelzentrum Reinbek, Glinde und Wentorf mit initiiert. Er hat sich für eine Reihe von Themen auch in der Stadt eingesetzt, so für die Bebauungspläne zur Erhaltung des Siedlungscharakters der Stadtteile, nicht nur in Prahlsdorf, oder auch für den öffentlichen Verbindungsweg über das ehemalige Allergopharma-Gelände, um einige Beispiele zu nennen. 
+
+Puls hat Volkswirtschaft und Rechtswissenschaften studiert und war beruflich als Rechtsanwalt und Notar in Reinbek tätig. »Die Selbstständigkeit hat mir mehr zeitliche Flexibilität gegeben«, sagt er. Sein politisches Interesse entwickelte sich in der Schulzeit und ist bis heute ungebrochen. Mit dem politischen Engagement als Volksvertreter ist ab Mai Schluss. Doch sein Interesse an den Themen, besonders, wenn es um die Feuerwehren, Sportanlagen, Wohnungen und Gewerbe in Reinbek geht, wird er nicht verlieren. »Der Austausch mit den Bürgern hat mir immer besonders viel Energie gegeben, zumal es mir die Möglichkeit gab, im Sinne der Bürger zu agieren«, sagt er.
+
+Aber auch über die Politik hinaus engagierte sich der Reinbeker. Beim Deutschen Roten Kreuz (DRK) war Puls von 2009 - 2021 Ortsvereinsvorsitzender. Im Jahr 2020 nahm er für das DRK als besondere Auszeichnung für das langjährige Bestehen des Vereins die Henry-Dunant-Medaille entgegen. Er ist langjähriges Mitglied der TSV Reinbek und des FC Voran Ohe. In der TSV Reinbek waren Fußball und Tischtennis seine Sportarten, bis er aus gesundheitlichen Gründen damit aufhören musste. Doch im Ehrenrat des Vereins bleibt er weiterhin. Dort geht es um Entscheidungen über den Ausschluss von Mitgliedern. »Das ist zum Glück noch nie vorgekommen«, so Puls.
+
+Klaus-Peter Puls möchte ab Mai mehr Zeit für seine Frau Sabine und die West-Highland White Terrier Caya und Cookie haben. Darüber hinaus ist die Liste seiner Hobbies lang. Musik steht dort ganz oben. Der Jurist spielt – »leidlich«, wie er sagt – Klavier und Gitarre. Zur Gitarre singt er gern selbstgetextete Lieder. Die gibt er auch ab und an auf Veranstaltungen zum Besten. Ein Reinbek-Lied ist immer dabei. Der Stapel ungelesener Bücher ist hoch. Die will sich der Ruheständler nun vorknöpfen. »Am liebsten wühle ich mich allerdings durch Lexika«, sagt er. Doch ebenso Romane und Sachbücher liest er gern. Und dann ist da noch die Leidenschaft für  die plattdeutsche Sprache. Von Kind an beherrscht er Plattdeutsch. 1998 beteiligte er sich an einer Debatte im Landtag, bei der es um die Sendezeit von »Talk op Platt« im NDR ging. Die Debatte wurde natürlich auf Plattdeutsch gehalten. Was Puls macht, macht er gründlich, und so war er 1998 auch daran beteiligt, dass der Schutz und die Pflege der niederdeutschen Sprache in die Landesverfassung des Landes Schleswig-Holstein aufgenommen wurde. 
+
+Klaus-Peter Puls lässt eine Ära hinter sich, doch von seinem Engagement auf verschiedensten Ebenen wird sicher noch zu hören sein.

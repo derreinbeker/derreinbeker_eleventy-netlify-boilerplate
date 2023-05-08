@@ -1,0 +1,32 @@
+---
+titleintro: Menschen bei uns
+title: »Das funktioniert nur im Wir. Es ist das Wir,  das wir erreichen wollen.«
+description: Wentorf gestalten! will einen gemeinschaftlichen Ort in Wentorf verwirklichen
+authorname: "Christa Möller "
+date: 2023-04-24T08:44:46.010Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2023-04-24-wentorf-gestalten.jpg">
+  <figcaption>
+
+Die vier Vorstandsmitglieder André Le Prince, Alena Kempf-Stein, Hanna Marie Walter und Günter (Chetano) Lau, v. li., wissen: »Es ist das Wir, das zählt.«  
+
+  </figcaption>
+</figure>
+
+
+
+
+
+**Wentorf –** Gerade gab es einen Wechsel im Vorstand von Wentorf gestalten!. Der Verein engagiert sich für ein gemeinsames Wentorf. Der Anstoß kam von der Wentorferin Alena Kempf-Stein: Die Geschäftsführerin des Waldkindergartens regte mit Marc Steinwender vor fünf Jahren die Gründung der Initiative Wentorf gestalten! an. »Ich wollte, dass Wentorf ein Ort wird, wo Menschen zusammenarbeiten und zusammen sind und sich so verwirklichen können, wie sie wollen«, sagt die 48-jährige Mutter dreier Kinder. »Gleichgesinnte finden und im übertragenen Sinn einen Raum schaffen, der es Menschen leicht macht, ihre Potentiale zu leben und mit ihren Fähigkeiten uns gegenseitig zu bereichern«, beschreibt sie ihre Ziele für die Gemeinde, in der sie »mit Unterbrechungen« seit 1984 lebt. 
+
+Aus der Initiative wurde vor drei Jahren der Verein Wentorf gestalten!, den sie und André Le Prince mitgegründet haben und deren Vorsitzende sie ist. Stellvertreter im gerade neu gewählten Vorstand sind André Le Prince und Hanna Marie Walther, die Anfang 2021 in den Verein eintrat. Günter Chetano Lau, seit Mitte 2020 bei Wentorf gestalten! aktiv, engagiert sich als Beisitzer im Vorstand. Nur elf Mitglieder hat ihr Verein, dazu kommt eine Reihe von Aktionsmitgliedern, die bei verschiedenen Einsätzen aktiv sind. »Außerdem gibt es einen *Dunstkreis* von 300 bis 400 Leuten, die zu unseren Veranstaltungen kommen«, freut sich die Vorsitzende über die Akzeptanz im Ort.  
+
+André Le Prince erklärt: »Ich habe den festen Glauben, dass jeder Mensch einen Kern angelegt hat, sich bestmöglich zu entwickeln – zum Wohl seiner und der anderen. Wir wollen in Wentorf einen Ort schaffen, wo man das leben kann.« Der 59-jährige gebürtige Hamburger, Wirtschaftsprüfer und Steuerberater, hat drei Kinder und lebt seit 15 Jahren mit seiner Familie in Wentorf. Hanna Marie Walther stammt aus Warendorf bei Osnabrück. Die Mutter zweier Kinder lebt mit ihrer Familie seit sieben Jahren in Bergedorf »an der Grenze zu Wentorf« und hat als Modedesignerin, Imageberaterin sowie Heilpraktikerin gearbeitet. Seit neun Jahren ist die 43-Jährige rein ehrenamtlich in verschiedenen Bereichen tätig. 
+
+Der Wohltorfer Günter Lau wohnte nie direkt in Wentorf, sondern immer rundherum. »Ich bin in Rente, aber nicht ruhend«, betont der 70-Jährige, der im Hunsrück geboren ist. Er arbeitet »als Zukunftsforscher und Visionär, ich habe gemerkt, hier fällt das auf fruchtbaren Boden.« Früher war er im Ingenieurwesen sowie als Oberstleutnant der Reserve und Psychotherapeut tätig. »Bei Wentorf gestalten! fühle ich mich menschlich gut aufgehoben und angenommen. Es gibt mir eine tiefe Befriedigung, etwas neu gestalten zu können. Hier konnte ich das realisieren, was mich mein Vater gelehrt hat«, erklärt er mit Blick auf die Möglichkeit, im Casinopark auf beengtem Raum möglichst viel anzubauen. »Wir sind berufen, uns in die Natur einzupassen – nicht zum Gegenteil.« Annalena Kempf-Stein erklärt: »Wenn ich mich so engagiere, fühle ich mich sehr schön lebendig.« André Le Prince ist es wichtig, der Gemeinschaft etwas zurückzugeben und für Hanna Marie Walter ist es wichtig, ihren Kindern vorzuleben, »dass wir die Welt ein Stück besser machen sollten«. Gerade arbeitet der Verein an einer ganz großen Vision: »Wir planen eine freie Schule mit dem Konzept einer Welt, in der die Menschen daran arbeiten, sich zu entfalten, an einem gesunden Umgang mit Erde und Natur, der Zusammenführung von Kindern und älteren Menschen zu einem gemeinschaftlichen Ort in Wentorf«, umschreibt Hanna Marie Walter das Vorhaben. »Wir wollen alle Lebensbereiche integrieren wie Arbeiten, Wohnen und sozialen Umgang mit dem Schwerpunkt der Bildung junger Menschen«, betont André Le Prince. Als Beispiel führt er das Ökosystem Wald an, »wo eins ins andere greift«. Das Konzept sei nicht auf Wentorf beschränkt, sondern auch in anderen Orten zu finden, siehe www.element-i.de/konzept/
+
+Der Verein will die neue Schule durch eine Anfangsinvestition über ein Genossenschaftsmodell finanzieren, flankiert vom Verein und gegebenenfalls einer Bürgerstiftung. »Es ist auch wirtschaftlich betrachtet ein ganzheitliches Konzept«, hebt André Le Prince hervor, der außerdem den Staat in der Pflicht sieht, rund 90 Prozent der Schulkosten als Beitrag zu zahlen, die ein Kind die öffentliche Hand normalerweise kostet. Bis zum Startschuss wird es noch dauern. Seit zwei Jahren beschäftigt sich Wentorf gestalten! mit dem Projekt, aber »eine Schulgründungsinitiative braucht mindestens sieben Jahre«, weiß Hanna Marie Walter, gelte es doch, nicht nur ein Grundstück zu finden, sondern außerdem einen Investor und einen Betreiber. Die staatliche Genehmigung darf natürlich auch nicht fehlen. Aber in das Konzept sind nicht nur junge Menschen eingebunden. »Unsere Gesellschaft krankt an der Vereinsamung älterer Menschen. Wir wollen einen Ort schaffen, wo Menschen, die etwas zu geben haben und Vorbild sein könnten, Gemeinschaft erleben und eine Aufgabe bekommen. »Neben dieser großen Vision gibt es das Pflanz-Musik-Event im Casinopark, die Semestertage oder die CoworKings in der *Alten Schule* – ein Modell, an dem man ganz viel lernt und gemeinsam erleben kann«, nennt Alena Kempf-Stein weitere Vereinsaktivitäten. Ihr Verein sieht sich als Ergänzung zu anderen Vereinen vor Ort mit unterschiedlichen Aufgaben und unterschiedlichen Kompetenzen. Dementsprechend gibt es einen intensiven Austausch etwa bezüglich eines Geschichtsseminars mit dem Bürgerverein. Denn sowohl bei  Wentorf gestalten! als auch gemeinsam mit anderen Wentorfern gilt: »Das funktioniert nur im Wir. Es ist das Wir, dass wir erreichen wollen«, bringt es Günter Lau auf den Punkt.

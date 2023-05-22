@@ -10,6 +10,15 @@ tags:
 ---
 
 
+<figure>
+  <img src="/static/media/2023-05-22-von-lingen-Moritz-Vikar.jpg">
+  <figcaption>
+
+Moritz von Lingen: »Mir war immer wichtig, dass ich einen Beruf erlerne, der mich wirklich ausfüllt und nicht nur zum Geldverdienen und Profilieren da ist.« 
+
+  </figcaption>
+</figure>
+
 **Wentorf –** Moritz von Lingen will Pastor werden, ein Beruf, den auch seine Eltern, sein Großvater und sein Urgroßvater gewählt haben. Das Vikariat absolviert er gerade in Wentorf, wo er kürzlich an der Gemeinschaftsschule unterrichtet hat. Der 28-Jährige ist in Hannover geboren und hat seine ersten sechs Lebensjahre in Werdum bei Neuharlingersiel an der Nordsee verbracht, wo seine Eltern ihre erste gemeinsame Pfarrstelle nach dem Vikariat angetreten hatten. Dann folgte der Umzug nach Hannover, wo der Vater als Radiopastor tätig war, die Mutter organisierte 2005 den Kirchentag in Hannover. Inzwischen teilen sie sich eine Superintendenten-Stelle. 
 
 Moritz von Lingen ging mit 16 für ein Jahr nach Nebraska, lebte in einer Kleinstadt mit 900 Einwohnern und zwölf Kirchen und erzählt von einem erstaunlichen Zufall: »Mein Gastvater war methodistischer Pastor.« Er erinnert sich an eine ganz andere Frömmigkeit, eine andere Art, Gottesdienste zu führen und an christliche Rock- und Pop-Songs. »Es wird sehr viel freier gebetet, es ist eine viel tätigere Frömmigkeit mit Handlungsanregung, ein stärkeres Sündenbewusstsein«. Oft gab es im Anschluss ein gemeinsames Essen, zu dem jeder beigetragen hat. Auch das Schulsystem hat ihn beeindruckt, die soziale Struktur mit umfassender Bildung. Auf das Erlernen von Inhalten und fachlichen Kompetenzen werde allerdings weniger Wert gelegt. Nachmittags trafen sich die Schüler bei Football, Basketball und Golf, am Wochenende ging es zu Wettkämpfen mit anderen Highschools. »Der Austausch war ein angenehmer Perspektivwechsel.« 

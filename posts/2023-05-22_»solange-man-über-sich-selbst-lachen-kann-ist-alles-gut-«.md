@@ -1,0 +1,34 @@
+---
+titleintro: Menschen bei uns
+title: »Solange man über sich selbst  lachen kann, ist alles gut.«
+description: Moritz von Lingen ist Vikar in Wentorf und setzt eine Familientradition fort.
+authorname: Christa Möller
+date: 2023-05-22T08:51:36.356Z
+category: Panorama
+tags:
+  - Menschen
+---
+<figure>
+  <img src="/static/media/2023-05-22-von lingen-Moritz--Vikar.jpg">
+  <figcaption>
+
+Moritz von Lingen: »Mir war immer wichtig, dass ich einen Beruf erlerne, der mich wirklich ausfüllt und nicht nur zum Geldverdienen und Profilieren da ist.« 
+
+  </figcaption>
+</figure>
+
+
+
+**Wentorf –** Moritz von Lingen will Pastor werden, ein Beruf, den auch seine Eltern, sein Großvater und sein Urgroßvater gewählt haben. Das Vikariat absolviert er gerade in Wentorf, wo er kürzlich an der Gemeinschaftsschule unterrichtet hat. Der 28-Jährige ist in Hannover geboren und hat seine ersten sechs Lebensjahre in Werdum bei Neuharlingersiel an der Nordsee verbracht, wo seine Eltern ihre erste gemeinsame Pfarrstelle nach dem Vikariat angetreten hatten. Dann folgte der Umzug nach Hannover, wo der Vater als Radiopastor tätig war, die Mutter organisierte 2005 den Kirchentag in Hannover. Inzwischen teilen sie sich eine Superintendenten-Stelle. 
+
+Moritz von Lingen ging mit 16 für ein Jahr nach Nebraska, lebte in einer Kleinstadt mit 900 Einwohnern und zwölf Kirchen und erzählt von einem erstaunlichen Zufall: »Mein Gastvater war methodistischer Pastor.« Er erinnert sich an eine ganz andere Frömmigkeit, eine andere Art, Gottesdienste zu führen und an christliche Rock- und Pop-Songs. »Es wird sehr viel freier gebetet, es ist eine viel tätigere Frömmigkeit mit Handlungsanregung, ein stärkeres Sündenbewusstsein«. Oft gab es im Anschluss ein gemeinsames Essen, zu dem jeder beigetragen hat. Auch das Schulsystem hat ihn beeindruckt, die soziale Struktur mit umfassender Bildung. Auf das Erlernen von Inhalten und fachlichen Kompetenzen werde allerdings weniger Wert gelegt. Nachmittags trafen sich die Schüler bei Football, Basketball und Golf, am Wochenende ging es zu Wettkämpfen mit anderen Highschools. »Der Austausch war ein angenehmer Perspektivwechsel.« 
+
+Nach dem Abitur dauerte es etwas, bis er dem familiären Vorbild folgte und in Göttingen Theologie als Studienfach wählte. »Vielen Kommilitonen werde ich mich ein Leben lang verbunden fühlen«, sagt von Lingen, der in eineinhalb Jahren Latein, Altgriechisch und Biblisches Hebräisch lernte, »so genannte tote Sprachen, die es sich zu lernen lohnt«, wie er festgestellt hat. Hocharabisch wählte er auch noch dazu. Um seine Perspektive auf die Welt außerhalb der Religion zu erweitern, absolvierte er nebenher einen 2-Fach-Bachelor in Politik- und Islamwissenschaften. »Über das Verstehen einer Sprache versteht man auch eine neue Weise zu denken und die Welt wahrzunehmen.« Er ist überzeugt von der Möglichkeit, über das Erlernen von Sprachen auf analytische Weise einzutauchen in verschiedene Denkarten. Es folgten ein vierwöchiger Italienisch-Kurs in Rom, ein Gemeindepraktikum in Genua und ein Studiensemester in Marburg, wo sein Fokus unter anderem auf feministischer Theologie lag. Auf einer Israel-Exkursion lernte der junge Student seine Frau kennen – sie studiert ebenfalls Theologie wie übrigens auch seine Schwester. Seit vier Jahren ist das Paar verheiratet und hat mittlerweile eine Tochter und einen Sohn, um die sich beide gleichberechtigt kümmern. 
+
+Dankbar sind sie der Nordkirche, die die junge Familie, seine Frau ist zurzeit Pastorin in Ausbildung in der Kirchengemeinde in Curslack, gut unterstützt. Während des zweijährigen Vikariats stehen jährlich acht bis zehn Wochen Predigerseminar an – mit Kinderbetreuung. Im November 2024 werden die beiden ihre Ausbildung beendet haben, dann folgt der so genannte Probedienst. Beide streben eine gemeinsame Pfarrstelle an und können sich auch gut eine dörfliche Region dafür vorstellen. Kann das funktionieren, ein Pastoren-Team, das verheiratet ist? Seine Eltern sind ein gutes Beispiel. »Man muss sich im Kern einig sein, aber  verschiedene Interessen haben«, weiß der angehende Pastor, der mit seiner Frau gemeinsam gerade ein Gemeindeprojekt für junge Erwachsene organisiert, in dem die Biographiearbeit im Zentrum stehen soll: Wo stehe ich, wo will ich hin, was hat mich geprägt, was ist mir wichtig im Leben, umschreibt er das Thema, das auch weniger religiöse und vor allem kirchenferne Menschen ansprechen soll. Viele treibt die Suche um nach etwas, das das Leben konstant begleitet, im Notfall Kraft gibt und zum Handeln motiviert. 
+
+»Mir war immer wichtig, dass ich einen Beruf erlerne, der mich wirklich ausfüllt und nicht nur zum Geldverdienen und Profilieren da ist«, betont Moritz von Lingen. »Die Erfüllung, mit der meine Eltern und Großeltern über ihren Beruf gesprochen haben – im Gegensatz zu Eltern von Freunden – war für mich sehr beeindruckend.« Auch er empfindet seinen Beruf als bereichernd und freut sich schon sehr auf die Jugend- und Seniorenarbeit. »Kirche ist für mich eine Institution, die es lohnt, am Leben und Blühen zu halten.« 
+
+Familiäre Bindungen sind dem Vikar wichtig, gern erinnert er sich an seine Kindheit mit Familienwochenenden im Waldhaus seines Onkels und große Familientreffen wo viel musiziert wurde. Muss ein Pastor musikalisch sein? »Nein, aber es hilft enorm«, sagt Moritz von Lingen augenzwinkernd. »Musik ist auch eine Form, Spiritualität Ausdruck zu verleihen.« Er hat schon mit zwölf seinen Orgelschein gemacht, aber schon ewig nicht mehr gespielt. Er sitzt allerdings öfter am Klavier, macht gemeinsam mit seiner Frau Yoga und ist jeden Tag mit dem Rad unterwegs, auch von seinem Wohnort Lohbrügge nach Wentorf. Er liebt seit seiner Zeit in Amerika *American Football* – von seinem Lieblingsteam, den Kansas City Chiefs, habe er immer eine Basecap dabei. Den Kontakt zur Gastfamilie hat er übrigens bis heute gehalten, gerade war der Gastvater bei ihm zu Besuch und hat sich auch die Wentorfer Kirche angeguckt. Gern hört er Podcasts und Hörbücher wie gerade alle Harry-Potter-Teile, aber auch zeitgenössische deutschsprachige Literatur. »Ich bin ein großer Fan von Eva Menasse«. Das Schreiben von Kurzgeschichten macht ihm Spaß. »Das hilft mir, mich zu sortieren.« Die geliebten gemeinsamen Trecking- und Fernwanderurlaube in Korsika oder Nordschweden sind mit den Kindern noch nicht möglich, stattdessen fährt die Familie mit dem Bulli nach Schweden oder in die Lüneburger Heide.  
+
+Ob er ein Lebensmotto hat? Lange muss er nicht überlegen: »Menschen mit Humor sind mir wichtig. Solange man über sich selbst lachen kann, ist alles gut.«

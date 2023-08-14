@@ -7,7 +7,7 @@ disableFormatDetection: true
 
 <h1>Kontakt</h1>
 
-Sandtner Werbung GbR  
+Sandtner Werbung  
 Jahnstraße 18  
 21465 Reinbek
 
@@ -18,8 +18,5 @@ Jahnstraße 18
 **USt-IdNr.:** DE 240 560 837
 
 
-Vertretungsberechtigte Gesellschafter:  
-Hartmuth Sandtner und Leif Sandtner
-
 Inhaltlich Verantwortlicher gemäß § 55 RStV:  
-Hartmuth Sandtner (Anschrift wie oben)
+Leif Sandtner (Anschrift wie oben)

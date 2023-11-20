@@ -1,0 +1,27 @@
+---
+titleintro: re-view
+title: »Worauf wartest Du noch?  Deine Zeit für Mut ist jetzt!«
+description: Ergebnisse der Klimafolgenforschung
+authorname: Hartmuth Sandtner
+date: 2023-10-16T15:53:32.152Z
+category: Meinung
+tags:
+  - Klimawandel
+---
+»Der globale Temperatur-Mittelwert wird zu 70 % aus Meerestemperaturen gebildet«, erklärt der Physiker Prof. Dr. Stefan Rahmstorf von der Abteilung Erdsystemanalyse am Potsdam-Institut für Klimafolgenforschung am 18.9.23 im Podcast der Publizistin Katharina Nocun (https://overcast.fm/+QTpOjtKnk). »Landmassen erwärmen sich im Durchschnitt doppelt so stark«, so Rahmstorf weiter. Das bedeutet: 3 Grad global mehr heißt u.U. in Deutschland sogar 6 Grad im Schnitt. »Wenn wir die Erwärmung nicht bremsen, werden wir um das Jahr 2070 dort landen. Schon in den 2030er Jahren werden wir bei 3 Grad sein«, so Rahmstorfs Prognose.
+
+Für Lea Bonasera, mit Henning Jeschke und Melanie Guttmann Gründerin der Letzten Generation, geht es den Klimaaktivisten darum bei ihren Klimaprotesten nicht um den Einzelnen oder darum, individuell etwas zu verändern – sondern, wie sie in ihrem gerade erschienenen Buch »Die Zeit für Mut ist jetzt« erklärt, »es gilt, als Gesellschaft endlich den Konflikt um mehr und schnelleren Klimaschutz auszutragen.« Lea Bonasera: »Ziviler Widerstand war und ist eines unserer besten Mittel, das Immunsystem der Demokratie auf Trab zu halten – und damit auch, unsere Demokratien zu verteidigen.« Denn wie Rahmstorf im Podcast sagt: »Der Klimawandel insgesamt ist unumkehrbar. Denn das CO, was wir heute ausstoßen, wird zu großen Teilen auch in 20-oder 50tausend Jahren noch in der Luft sein.« Und es kommt auf jede Tonne an. 
+
+Meine Kinder, deine Kinder, die Kinder unserer Kinder und deren Enkelkinder und deren Enkelkinder – sie alle werden damit umgehen müssen, obwohl es noch unvorstellbar wärmer – das heißt: heißer – wird und es alle gesundheitlich überfordern wird. Dabei fordert das Bundesverfassungsgericht in seinem Urteil 2021 zum Klimaschutz die Generationengerechtigkeit. Aber was geschieht?
+
+Rahmstorf hat dafür die Erklärung: »Die Unumkehrbarkeit dieser Entwicklung ist bei vielen Menschen, auch bei denen in der Politik, noch überhaupt nicht angekommen. Da redet man so, als hätte man etwa noch Zeit, die richtigen Weichen zu stellen. Man kann die Klimaziele nicht zehn Jahre später erreichen. Weil das CO ewig in der Luft bleibt, erreicht man die Klimaziele gar nicht, wenn man nicht schnell genug reduziert. Der Weltklimarat hat das ganz klar aufgezeigt, dass wir bis 2030 weltweit die CO-Emissionen halbieren müssen.«
+
+Lt. einer Studie der Technischen Hochschule Zürich«, berichtet Rahmstorf in dem Buch »3 Grad mehr« von Klaus Wiegandt, »zeigte 2020 auch für Deutschland, die Niederlande und die Schweiz, dass in diesen Ländern eine statistisch relevante Zunahme von Extremregenereignissen beobachtet wird.« Auch diese Entwicklung ist unumkehrbar!  »Insgesamt nehmen Niederschläge weltweit mit der Erwärmung zu, weil die Verdunstungsrate von den Ozeanen um rund 3 % pro Grad ansteigt. Fast die gesamte Zunahme kommt allerdings in Starkregenereignissen vom Himmel.«
+
+Der Kipppunkt für das Abschmelzen des Eispanzers auf Grönland liegt »irgendwo zwischen 1 und 3 Grad globaler Erwärmung«, so Rahmstorf. Dann schmilzt er ab. Unumkehrbar! Wie auch die Arktis, die sich nach einer aktuellen Studie seit »40 Jahren sogar viermal stärker erwärmt als der Rest des Globus.« Mit allen Konsequenzen für den Anstieg des Meeresspiegels. »An den gegenwärtigen Küstenlinien unseres Planeten«, so Rahmstorf im Buch, »liegen rund 200 Kernkraftwerke mit Meerwasserkühlung. Schon ein Meter Meeresanstieg wäre eine Katastrophe. Und er verweist auf den aktuellen Bericht des *Intergovernmental Panel on Climate Change* (*IPCC*) – auch *Weltklimarat* genannt: Der erwartet die 1-Meter-Marke bereits zwischen 2100 und 2150 und warnt, dass der Meeresspiegel jahrtausendelang weiter steigen wird.  
+
+»Aktuell im Brennpunkt der Forschung«, so Rahmstorf in »3 Grad mehr«, »ist das Risiko einer Kaskade von Kipppunkten, die sich wie Dominosteine gegenseitig auslösen. So könnte die Eisschmelze im Nordpolarmeer und auf Grönland das Nordatlantikwasser soweit mit Süßwasser verdünnen, dass die Atlantikzirkulation (Golfstromsystem) – unumkehrbar! – zum Versiegen gebracht wird. 
+
+»Es gibt Belastungsgrenzen«, so der Erdsystemforscher Rahmstorf im Podcast, »die die Ökosysteme noch aushalten, bei Belastung darüber hinaus kippt ein Erdsystem einfach um – wie ein Kajak. Das gilt für Eisschilde, die Ozeanzirkulation, die Ökosysteme wie der Amazonasregenwald oder die Korallenriffe. Wir befinden uns schon in einem globalen Korallensterben.« Unumkehrbar! Das Kajak kannst du wieder aufrichten, das Erdsystem mit seinen Belastungsgrenzen nicht. Wie beim Menschen auch. Geht die Körpertemperatur über 42 Grad hinaus ist Schluss.   
+
+Im Buch zitiert Lea Bonasera aus dem öffentlichen Brief von UN-Generalsekretär António Guterres an seine Ur-Urenkelin: »Während ich dir im Jahr 2023 schreibe, verliert die Menschheit den Kampf ihres Lebens: den Kampf gegen die Klimakatastrophe.« Rahmstorf: »Noch kann man die Erwärmung stoppen, weitestgehend zumindest, wenn wir auf Null-Emissionen von CO sind. Dann zeigen die Modellsimulationen, dass die Erwärmung innerhalb von Jahren aufhört«. Lea Bonasera nimmt diesen Kampf auf und fragt: »Worauf wartest Du noch? Deine Zeit für Mut ist jetzt!«

@@ -1,52 +1,11 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const htmlmin = require("html-minifier");
 const filters = require('./_11ty/filters.js')
-const Image = require('@11ty/eleventy-img');
-
-
-async function imageShortcode(
-  src,
-  alt,
-  className = undefined,
-  widths = [400, 800, 1280],
-  formats = ['webp', 'jpeg'],
-  sizes = '100vw'
-) {
-  let metadata = await Image(src, {
-    widths: [...widths, null],
-    formats: [...formats, null],
-    outputDir: '_site/static/media/images/generated',
-    urlPath: '/static/media/images/generated',
-  });
-
-  let imageAttributes = {
-    alt,
-    sizes,
-    loading: "lazy",
-    decoding: "async",
-  };
-
-  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-  return Image.generateHTML(metadata, imageAttributes);
-}
-
-/*
-Beispiel:
-
-Original-Bilder nach: "static/assets/originalImages/" und dann:
-
-<figure>
-    {% image "static/assets/originalImages/BigBison.jpg", "Ein Bison auf einer Wiese vor mit Abendsonne beschienener Bergkulisse" %}
-  <figcaption>
-    Ein Bison auf einer Wiese vor mit Abendsonne beschienener Bergkulisse.
-  </figcaption>
-</figure>
-*/
-
-
+const shortcodes = require("./_11ty/shortcodes.js");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addAsyncShortcode("image", shortcodes.image);
+  eleventyConfig.addPairedShortcode("figure", shortcodes.figure);
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk")
 
   // Filters

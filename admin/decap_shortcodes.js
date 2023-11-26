@@ -57,3 +57,33 @@ CMS.registerEditorComponent({
 </details>`;
     }
   });
+
+  CMS.registerEditorComponent({
+    id: "myimage",
+    label: "MyImage",
+    fields: [{
+            name: "src",
+            label: "Bildpfad",
+            widget: "string"
+        },
+        {
+            name: "alt",
+            label: "Alt",
+            widget: "string"
+        },
+    ],
+    pattern: /{% image "(.*)", "(.*)" %}/ms,
+    fromBlock: function(match) {
+        return {
+            src: match[1],
+            alt: match[2],
+        };
+    },
+    toBlock: function(obj) {
+        return `{% image "${obj.src}", "${obj.alt}" %}`;
+    },
+    toPreview: function(obj) {
+        return `<img src="/${obj.src}" alt="${obj.alt}">`;
+    },
+});
+

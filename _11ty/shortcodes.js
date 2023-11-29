@@ -1,8 +1,14 @@
 const Image = require("@11ty/eleventy-img");
+const markdownIt = require('./markdown.js');
 
-const image = async function (
+/*
+Beispiel:
+{% imageWithCaption "static/media/2023-20-11-Neugebauer-Beate.jpg", "", "Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«" %}
+*/
+const imageWithCaption = async function (
 	src,
 	alt,
+	figcaption, 
 	widths = [400, 800, 1280],
 	formats = ['webp', 'jpeg'],
 	sizes = '100vw'
@@ -21,23 +27,16 @@ const image = async function (
 	  decoding: "async",
 	};
   
-	// You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-	return Image.generateHTML(metadata, imageAttributes);
-  }
+	const imageHTML = Image.generateHTML(metadata, imageAttributes);
 
-const figure = function (content, caption, className) {
-	let classVal = "";
-	let captionVal = "";
-	if (className !== undefined) {
-		classVal = `class=${className}`;
+	let figcaptionVal = "";
+	if (figcaption !== undefined) {
+		const figcaptionHTMl = markdownIt.renderInline(figcaption);
+		figcaptionVal = `<figcaption>${figcaptionHTMl}</figcaption>`;
 	}
-	if (caption !== undefined) {
-		captionVal = `<figcaption>${caption}</figcaption>`;
-	}
-	return `<figure ${classVal}>${content}${captionVal}</figure>`;
-};
+	return `<figure>${imageHTML}${figcaptionVal}</figure>`;
+}
 
 module.exports = {
-	image,
-	figure,
+	imageWithCaption
 };

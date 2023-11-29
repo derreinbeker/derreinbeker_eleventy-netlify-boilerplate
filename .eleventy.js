@@ -2,10 +2,10 @@ const pluginRss = require('@11ty/eleventy-plugin-rss')
 const htmlmin = require("html-minifier");
 const filters = require('./_11ty/filters.js')
 const shortcodes = require("./_11ty/shortcodes.js");
+const markdownIt = require('./_11ty/markdown.js');
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addAsyncShortcode("image", shortcodes.image);
-  eleventyConfig.addPairedShortcode("figure", shortcodes.figure);
+  eleventyConfig.addAsyncShortcode("imageWithCaption", shortcodes.imageWithCaption);
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk")
 
   // Filters
@@ -49,20 +49,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss)
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
-  let opts = {
-    permalink: false
-  };
-
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
+  eleventyConfig.setLibrary("md", markdownIt);
 
   return {
     templateFormats: ["md", "njk", "html"],

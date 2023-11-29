@@ -56,11 +56,12 @@ CMS.registerEditorComponent({
   ${data.details}
 </details>`;
     }
-  });
+});
 
-  CMS.registerEditorComponent({
-    id: "myimage",
-    label: "MyImage",
+
+CMS.registerEditorComponent({
+    id: "imageWithCaption",
+    label: "Image with caption",
     fields: [{
             name: "src",
             label: "Bildpfad",
@@ -71,6 +72,11 @@ CMS.registerEditorComponent({
             label: "Alt",
             widget: "string"
         },
+        {
+          name: "figcaption",
+          label: "Bildunterschrift",
+          widget: "markdown"
+      },
     ],
     pattern: /{% image "(.*)", "(.*)" %}/ms,
     fromBlock: function(match) {

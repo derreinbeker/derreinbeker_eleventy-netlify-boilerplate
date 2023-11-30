@@ -78,7 +78,7 @@ CMS.registerEditorComponent({
         widget: "text"
     },
   ],
-  pattern: /{%\s*imageWithCaption\s*"(.*)",\s*"(.*)",\s*"(.*)"\s*%}/ms,
+  pattern: /^{% +imageWithCaption +'(.*?)' +'(.*?)' +'(.*?)' +%}/ms,
   fromBlock: function(match) {
       return {
           src: match[1],
@@ -87,10 +87,7 @@ CMS.registerEditorComponent({
       };
   },
   toBlock: function(obj) {
-      return `{% imageWithCaption
-"${obj.src}",
-"${obj.alt}",\n"${obj.figcaption}"
-%}`;
+      return `{% imageWithCaption '${obj.src}' '${obj.alt}' '${obj.figcaption}' %}`;
   },
   toPreview: function(obj) {
     let figcaptionVal = "";
@@ -98,7 +95,8 @@ CMS.registerEditorComponent({
     if (figcaption !== undefined) {
       figcaptionVal = `<figcaption>${figcaption}</figcaption>`;
     }
-    let imageHTML = `<img src="/${obj.src}" alt="${obj.alt}">`;
+    let escapedAlt = obj.alt.replace(/'/g, "&apos;").replace(/"/g, "&quot;");
+    let imageHTML = `<img src="/${obj.src}" alt="${escapedAlt}">`;
     return `<figure>${imageHTML}${figcaptionVal}</figure>`;
   }
 });

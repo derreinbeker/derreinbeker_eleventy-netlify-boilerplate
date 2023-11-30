@@ -3,12 +3,7 @@ const markdownIt = require('./markdown.js');
 
 /*
 Beispiel:
-{% imageWithCaption "static/media/2023-20-11-Neugebauer-Beate.jpg", "", "Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«" %}
-{% imageWithCaption
-"static/media/2023-20-11-Neugebauer-Beate.jpg",
-"",
-"Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«"
-%}
+{% imageWithCaption 'static/media/2023-20-11-Neugebauer-Beate.jpg' 'Test 123' 'Test Uhu' %}
 */
 const imageWithCaption = async function (
 	src,

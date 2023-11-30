@@ -61,7 +61,7 @@ CMS.registerEditorComponent({
 
 CMS.registerEditorComponent({
     id: "imageWithCaption",
-    label: "Image with caption",
+    label: "Bild mit Bildunterschrift",
     fields: [{
             name: "src",
             label: "Bildpfad",
@@ -78,11 +78,12 @@ CMS.registerEditorComponent({
           widget: "markdown"
       },
     ],
-    pattern: /{% image "(.*)", "(.*)" %}/ms,
+    pattern: /{% imageWithCaption "(.*)", "(.*)", "(.*)" %}/ms,
     fromBlock: function(match) {
         return {
             src: match[1],
             alt: match[2],
+            figcaption: match[3],
         };
     },
     toBlock: function(obj) {

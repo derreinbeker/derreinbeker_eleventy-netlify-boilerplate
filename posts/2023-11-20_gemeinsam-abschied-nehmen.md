@@ -16,7 +16,7 @@ tags:
   <img src="/static/media/2023-20-11-Neugebauer-Beate.jpg">
   <figcaption>
 
-Sterbebegleiterin Beate Neugebauer: »»Dieses Ehrenamt macht für mich Sinn.«
+Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«
 
   </figcaption>
 </figure>

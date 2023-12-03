@@ -65,39 +65,53 @@ CMS.registerEditorComponent({
   fields: [{
           name: "src",
           label: "Bildpfad",
-          widget: "string"
+          widget: "string",
+          default: "",
       },
       {
           name: "alt",
           label: "Alt",
-          widget: "string"
+          widget: "string",
+          default: "",
       },
       {
         name: "figcaption",
         label: "Bildunterschrift",
-        widget: "text"
+        widget: "text",
+        default: "",
     },
   ],
-  pattern: /^{% +imageWithCaption +'(.*?)' +'(.*?)' +'(.*?)' +%}/ms,
+  pattern: /^{% +imageWithCaption +"((?:[^\\"]+|\\.)*)" +"((?:[^\\"]+|\\.)*)" +"((?:[^\\"]+|\\.)*)" +%}/ms,
   fromBlock: function(match) {
+      const matchOne = match[1];
+      const matchTwo = match[2];
+      const matchThree = match[3];
       return {
-          src: match[1],
-          alt: match[2],
-          figcaption: match[3],
+          src: matchOne,
+          alt: matchTwo,
+          figcaption: matchThree,
       };
   },
   toBlock: function(obj) {
-      return `{% imageWithCaption '${obj.src}' '${obj.alt}' '${obj.figcaption}' %}`;
+      return `{% imageWithCaption "${obj.src}" "${obj.alt}" "${obj.figcaption}" %}`;
   },
   toPreview: function(obj) {
-    let figcaptionVal = "";
+    let figcaptionMarkup = "";
     let figcaption = obj.figcaption;
-    if (figcaption !== undefined) {
-      figcaptionVal = `<figcaption>${figcaption}</figcaption>`;
+    if (figcaption != null && figcaption != "") {
+      // Falls im figcaption-String (escapete) Anführungszeichen sind:
+      const unescapedFigcaption = figcaption.replace(/\\/g, '');
+      figcaptionMarkup = `<figcaption>${unescapedFigcaption}</figcaption>`;
     }
-    let escapedAlt = obj.alt.replace(/'/g, "&apos;").replace(/"/g, "&quot;");
-    let imageHTML = `<img src="/${obj.src}" alt="${escapedAlt}">`;
-    return `<figure>${imageHTML}${figcaptionVal}</figure>`;
+    let alt = obj.alt;
+    let altValue = "";
+    if (alt != null && alt != "") {
+      // Falls im alt-String (escapete) Anführungszeichen sind:
+      let unescapedAltValue = alt.replace(/\\/g, '');
+      altValue = unescapedAltValue.replace(/'/g, "&apos;").replace(/"/g, "&quot;");
+    }
+    let imageHTML = `<img src="/${obj.src}" alt="${altValue}">`;
+    return `<figure>${imageHTML}${figcaptionMarkup}</figure>`;
   }
 });
 

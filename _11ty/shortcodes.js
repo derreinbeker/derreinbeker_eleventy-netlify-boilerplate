@@ -3,7 +3,7 @@ const markdownIt = require('./markdown.js');
 
 /*
 Beispiel:
-{% imageWithCaption 'static/media/2023-20-11-Neugebauer-Beate.jpg' 'Test 123' 'Test Uhu' %}
+{% imageWithCaption "static/media/2023-20-11-Neugebauer-Beate.jpg" "Matze ist \"auch\" da" "Ich kann es nicht mehr \"sagen\"" %}
 */
 const imageWithCaption = async function (
 	src,

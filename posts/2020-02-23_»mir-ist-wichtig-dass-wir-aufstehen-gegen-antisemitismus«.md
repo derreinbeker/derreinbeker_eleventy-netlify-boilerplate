@@ -12,12 +12,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2020-gabriele-hannemann.jpg">
-  <figcaption>
-Gabriele Hannemann reist bis zu drei Mal jährlich nach Israel. FOTO: Christa Möller     
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-gabriele-hannemann.jpg" "" "Gabriele Hannemann reist bis zu drei Mal jährlich nach Israel. FOTO: Christa Möller     " %}
 
 
 Reinbek – Ihre erste (Studien-)Reise nach Israel im Mai 1987 wird die Lübecker Lehrerin Gabriele Hannemann nie vergessen. Das dort Erlebte hat Einfluss auf ihr ganzes Leben. In Jerusalem lernte sie damals zufällig 13 Holocaust-Überlebende kennen. »Alle haben mir ihre Lebensgeschichte erzählt, Einzelheiten, die nicht mal ihre Familien kannten – es war das erste Mal, dass sie darüber gesprochen haben.« Zurück in Deutschland ließen sie diese Begegnungen nicht mehr los. »Der Holocaust ist mein Thema geworden«, sagt sie. Der Begriff basiere auf dem griechischen Wort holokauston, das bedeutet vollständig verbrannt. Das hebräische Wort Shoa steht für die Katastrophe.« Gemeinsam mit ihrem ersten Mann, Michael Hannemann, beschloss sie, Überlebenden zu helfen: »Wir sehen uns in der historischen Verantwortung.« Die beiden gründeten 1994 den Verein Yad Ruth, dessen Vorsitzende sie seither ist. Geschäftsführer ist der Wentorfer Michael Hannemann. Im vergangenen Jahr konnte der Verein sein 25-jähriges Bestehen feiern. 

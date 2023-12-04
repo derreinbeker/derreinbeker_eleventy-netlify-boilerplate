@@ -10,13 +10,7 @@ tags:
   - Reinbek
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2020-30-11-ritter-susanne.jpg">
-  <figcaption>
-Susanne Ritter ist überzeugt von dem Motto des Hospizvereins: »Keiner soll allein sterben«.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-30-11-ritter-susanne.jpg" "" "Susanne Ritter ist überzeugt von dem Motto des Hospizvereins: »Keiner soll allein sterben«.   " %}
 
 
 

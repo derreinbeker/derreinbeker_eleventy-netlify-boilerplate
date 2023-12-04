@@ -10,12 +10,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/Anja-Soenke-Rieck.jpg">
-  <figcaption>
-Anja und Sönke Rieck mit dem großen Teddy vom »Teddy braucht Hilfe«-Projekt, der dann auch behandelt wird. FOTO: Imke Kuhlmann
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/Anja-Soenke-Rieck.jpg" "" "Anja und Sönke Rieck mit dem großen Teddy vom »Teddy braucht Hilfe«-Projekt, der dann auch behandelt wird. FOTO: Imke Kuhlmann" %}
 
 
 Reinbek – Anja und Sönke Rieck haben sich verliebt. Zuerst in die Jugendarbeit des Deutschen Roten Kreuzes (DRK) in Reinbek, dann ineinander. Bei Sönke Rieck sprang der Funke vor 34 Jahren über. Mit 14 Jahren entdeckte er sein Interesse am Ehrenamt bei dem Wohlfahrtsverband. »Ein Freund hatte mich zu einer Veranstaltung mitgenommen. Als junger Mensch lockten mich die Gruppenfahrten, mal ein Wochenende ohne Eltern unterwegs sein«, sagt der stellvertretende Ortsvorsitzende. Auch seine Frau Anja ist vor 25 Jahren durch eine Freundin zum DRK gekommen. »Mir hat es sofort gefallen«, sagt die 38-jährige, die im Vorstand des Ortsvereins sitzt. Damals war Sönke Rieck ihr Ausbilder. Zehn Jahre später waren sie ein Paar. Ihr Engagement für die Jugendarbeit ist ungebrochen, weil sie gern das, was sie selber erlebt haben, weitergeben möchten.

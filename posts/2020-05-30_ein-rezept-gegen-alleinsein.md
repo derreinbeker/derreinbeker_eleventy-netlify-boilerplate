@@ -9,12 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2020-02-06-Krebs-Eveline.jpg">
-  <figcaption>
-Eveline Krebs schreibt an ihrer Biographie und beschäftigt sich mit Ahnenforschung. Aber sie hält auch alle Gerichte fotografisch fest und hat dafür extra ein kleines Buch angelegt. FOTO: Imke Kuhlmann   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-02-06-Krebs-Eveline.jpg" "" "Eveline Krebs schreibt an ihrer Biographie und beschäftigt sich mit Ahnenforschung. Aber sie hält auch alle Gerichte fotografisch fest und hat dafür extra ein kleines Buch angelegt. FOTO: Imke Kuhlmann   " %}
 
 
 Wentorf – Vor knapp vier Jahren wurde die Kochgruppe der Wentorfer Kirchengemeinde ins Leben gerufen. Pastor Michael Galle, der damalige Pastor hatte die Idee dazu und holte sich Eveline Krebs ins Boot. Und obwohl sie gar nicht gerne kocht, war sie gleich von der Idee begeistert und hat die Organisation in die Hand genommen. So achtet sie auf die Finanzen, lädt ein, ist Ansprechpartnerin für Gäste und dekoriert liebevoll den Tisch, während die anderen vier Damen in der Küche der Kirchengemeinde die Kochlöffel schwingen. Sie alle sind selber bereits Senioren, doch auf dem Sofa zu sitzen, ist für sie keine Option. 

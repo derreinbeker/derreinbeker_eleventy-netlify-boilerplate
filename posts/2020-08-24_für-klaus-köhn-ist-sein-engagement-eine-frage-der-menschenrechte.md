@@ -10,12 +10,7 @@ tags:
   - Menschen
 ---
 
-<figure>
-  <img src="/static/media/2020-Köhn-Klaus.jpg">
-  <figcaption>
-Einmal pro Woche schickt Klaus Köhn seinen »Schützlingen« eine Geschichte zum Lesen und Hören, denn es ist ihm wichtig, dass sie die Sprache lernen. FOTO: Imke Kuhlmann    
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-Köhn-Klaus.jpg" "" "Einmal pro Woche schickt Klaus Köhn seinen »Schützlingen« eine Geschichte zum Lesen und Hören, denn es ist ihm wichtig, dass sie die Sprache lernen. FOTO: Imke Kuhlmann    " %}
 
 
 Neuschönningstedt – Der 71-jährige wurde in Reinbek geboren. Beruflich machte Klaus Köhn an vielen Orten Station. Auch der Kamerun (Afrika) gehörte dazu. Durch seine damalige Frau bekam er Kontakt zu Amnesty International. »Wenn man sieht, was in Europa und der Welt passiert, dann muss man einfach helfen«, so sein Fazit. Doch bei seinem Engagement dort fehlte ihm der direkte Kontakt zu den Menschen und so kam er Jahre später zur Neuschönnigstedter Flüchtlingshilfe. 

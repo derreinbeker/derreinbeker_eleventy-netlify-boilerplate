@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-11-07-Schlink-Simon-Lehmann-Nike.jpg">
-  <figcaption>
-Besonders am Herzen liegt Nike Lehmann und Simon Schlink der Einsatz von White Boards und iPads.      
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-11-07-Schlink-Simon-Lehmann-Nike.jpg" "" "Besonders am Herzen liegt Nike Lehmann und Simon Schlink der Einsatz von White Boards und iPads.      " %}
 
 **Wentorf –** Sie sind jung und sie sind engagiert: Nike Lehmann und Simon Schlink sind gerade von den Klassensprechern als Schülersprecher an der Gemeinschaftsschule Wentorf gewählt worden. Während Nike das Amt schon ein Jahr ausgeübt hat, war Simon zuvor stellvertretender Sprecher. »Ich habe vorher als Klassensprecherin ausprobiert, ob ich mich durchsetzen kann«, erzählt Nike. Den beiden 16-Jährigen ist es wichtig, sich für die Schüler einzusetzen, ihre Wünsche der Schülervertretung vorzustellen und dafür einzutreten, dass sie berücksichtigt werden, Chancen zu haben, etwas zu verändern. 
 

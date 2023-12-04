@@ -8,14 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-05-08-Puls-Klaus-Peter.jpg">
-  <figcaption>
-
-Mit der Politik ist jetzt Schluss. Klaus-Peter Puls freut sich, nun auch wieder mehr Zeit zum Klavierspielen zu haben«  
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-05-08-Puls-Klaus-Peter.jpg" "" "Mit der Politik ist jetzt Schluss. Klaus-Peter Puls freut sich, nun auch wieder mehr Zeit zum Klavierspielen zu haben«  " %}
 
 **Reinbek –** Im Alter von 26 Jahren trat Klaus-Peter Puls in die SPD ein. Seitdem hat er viele Stationen in der Politik durchlaufen. 1974 übernahm er das erste Mal einen Sitz in der Stadtverordnetenversammlung. Mit Unterbrechungen sitzt er dort, seit 2013  als parteiloser Einzelkandidat, bis heute oder genauer gesagt, bis zum 14. Mai dieses Jahres. Dann sind Kommunalwahlen. Klaus-Peter Puls tritt nicht wieder an. 
 

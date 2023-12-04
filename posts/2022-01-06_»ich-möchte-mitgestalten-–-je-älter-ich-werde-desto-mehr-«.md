@@ -11,13 +11,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-11-01-roswitha-menke.jpg">
-  <figcaption>
-Roswitha Menke möchte motivieren, begeistern, zusammenhalten . . .   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-11-01-roswitha-menke.jpg" "" "Roswitha Menke möchte motivieren, begeistern, zusammenhalten . . .   " %}
 
 
 

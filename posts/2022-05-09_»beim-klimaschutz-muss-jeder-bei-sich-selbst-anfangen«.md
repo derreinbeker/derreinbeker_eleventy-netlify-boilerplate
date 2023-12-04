@@ -11,13 +11,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-05-09-Buhck-Henner.jpg">
-  <figcaption>
-Dr. HennerBuhck möchte andere Unternehmen motivieren, sich auf den Weg zu machen. »Jeder kann etwas tun«, sagt er. »Wir alle müssen uns intensiv mit dem Thema Klimaschutz auseinandersetzen«.     
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-05-09-Buhck-Henner.jpg" "" "Dr. HennerBuhck möchte andere Unternehmen motivieren, sich auf den Weg zu machen. »Jeder kann etwas tun«, sagt er. »Wir alle müssen uns intensiv mit dem Thema Klimaschutz auseinandersetzen«.     " %}
 
 
 

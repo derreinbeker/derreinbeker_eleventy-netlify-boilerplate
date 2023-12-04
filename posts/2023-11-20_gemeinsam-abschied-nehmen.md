@@ -12,14 +12,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-20-11-Neugebauer-Beate.jpg">
-  <figcaption>
-
-Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-20-11-Neugebauer-Beate.jpg" "" "Sterbebegleiterin Beate Neugebauer: »Dieses Ehrenamt macht für mich Sinn.«" %}
 
 Reinbek – Beate Neugebauer ist gelernte Krankenschwester. Die 57-jährige engagiert sich seit 2015 beim Ambulanten Hospizdienst in Reinbek. Neugebauer ist verheiratet, hat zwei erwachsene Kinder und einen Hund, der sie ab und an auch begleitet. Sie hat sich zur Sterbebegleiterin qualifiziert und ist zurzeit Koordinatorin in dem Reinbeker Verein. 
 

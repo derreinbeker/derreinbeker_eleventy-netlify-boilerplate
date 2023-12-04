@@ -13,12 +13,7 @@ category: Panorama
 tags:
   - Tiernotruf
 ---
-<figure>
-  <img src="/static/media/2020-08-Tier-Notruf.jpg">
-  <figcaption>
-Die neue Tiernotfallsanitäterin Dunja Hönig, Ernst Wieghorst  (Mitte) und Ausbilder Mario Renz demonstrieren an Hönigs Hund Stuart, wie ein verletztes  Haustier auf der Transportliege befestigt wird. FOTO: Stephanie Rutke    
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-08-Tier-Notruf.jpg" "" "Die neue Tiernotfallsanitäterin Dunja Hönig, Ernst Wieghorst  (Mitte) und Ausbilder Mario Renz demonstrieren an Hönigs Hund Stuart, wie ein verletztes  Haustier auf der Transportliege befestigt wird. FOTO: Stephanie Rutke    " %}
 
 
 Aumühle – Für Haustierbesitzer und ihre Vier- und Zweibeiner gibt es seit dem 1. Juli ein neues Hilfsangebot: Der »Tier-Notruf« (Notrufnummer 01805-019292) nimmt seine Arbeit auf. Die  professionellen und erfahrenen Tierretter sind in  Hamburg, den Kreisen Stormarn und Herzogtum Lauenburg, in Lübeck und im Kreis Segeberg im Einsatz. Damit sind Schleswig-Holstein und Hamburg nach Niedersachsen, Nordrhein-Westfalen und Bayern die nächsten  beiden Bundesländer, in denen die Tierretter aktiv sind.

@@ -13,13 +13,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2020-Biedenweg-Christoph-seniorenbeauftragter.jpg">
-  <figcaption>
-Christoph Biedenweg, Reinbeks neuer Seniorenbeauftragter, setzt auf Vernetzung. FOTO: Susanne Nowacki   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-Biedenweg-Christoph-seniorenbeauftragter.jpg" "" "Christoph Biedenweg, Reinbeks neuer Seniorenbeauftragter, setzt auf Vernetzung. FOTO: Susanne Nowacki   " %}
 
 
 

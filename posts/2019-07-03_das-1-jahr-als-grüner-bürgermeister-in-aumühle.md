@@ -13,12 +13,7 @@ tags:
 ---
 Vor genau einem Jahr, am 19. Juni 2018, wurde Knut Suhk zum ersten grünen Bürgermeister im beschaulichen Aumühle gewählt. Er übernahm die Leitung der Gemeinde von Dieter Giese, der 18 Jahre die Geschicke Aumühle maßgeblich gelenkt hatte. Bei der Kommunalwahl im Mai 2018 war Suhk aber nicht nur als einer von fünf Kandidaten von Bündnis 90/ Die Grünen in die Gemeindevertretung gewählt worden, sondern auch erneut in den Lauenburgischen Kreistag. Diesem gehört er seit Mitte 2016 an, damals Nachrücker für Uta Röpcke aus Wohltorf. Im Sommer 2018 wurde Suhk zum stellvertretenden Amtsvorsteher im Amt Hohe Elbgeest gewählt. Eine breite kommunalpolitische Klaviatur, auf der der studierte Journalist heute spielt. 
 
-<figure>
-    <img src="/static/media/2019_suhk-knut.jpg">
-  <figcaption>
-    Seit einem Jahr ist Knut Suhk Hausherr im Rathaus an der Bismarckallee.
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2019_suhk-knut.jpg" "" "Seit einem Jahr ist Knut Suhk Hausherr im Rathaus an der Bismarckallee." %}
 
 Der 54-jährige Suhk wohnt seit 2003 in Aumühle, war 20 Jahre als Journalist in Hamburg tätig. Nach einer Ausbildung als Mediator entschloss er sich zur Selbstständigkeit, die aber schnell zu den Akten gelegt wurde, als zwei Pflegekinder die Familie komplettierten. »Meine Frau hat eine erfolgreiche Werbeagentur und so bin ich Hausmann geworden, kümmere mich seitdem um Kinder und Haushalt.« Große Veränderungen im Familienleben brachte das wachsende kommunalpolitische Engagement des gebürtigen Hamburgers. 
 2011 gehörte Knut Suhk zu den sieben Gründungsmitgliedern von Bündnis 90/ Die Grünen in Aumühle, Wohltorf und Dassendorf. 2013 zogen die Grünen mit zwei Sitzen in die Aumühler Gemeindevertretung ein, 2018 waren es fünf. Stärkste Fraktion wurde im vergangenen Jahr die Wählergemeinschaft UWG mit acht Direktmandaten. Durch Überhangmandate gibt es aktuell 23 Aumühler Gemeindevertreter. Da kommt Bürgermeister Suhk seine Mediatorenausbildung gerade recht.

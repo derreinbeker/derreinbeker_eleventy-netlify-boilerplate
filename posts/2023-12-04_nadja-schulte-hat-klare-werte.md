@@ -13,22 +13,7 @@ tags:
 ---
 
 
-<figure>
-
-  <img src="/static/media/2023-12-04-Schulte-Nadja.jpg">
-
-  <figcaption>
-
-
-
-Nadja Schulte: »Für Pfadfinder öffnen sich immer die Türen.«
-
-   
-
-  </figcaption>
-
-</figure>
-
+{% imageWithCaption "static/media/2023-12-04-Schulte-Nadja.jpg" "" "Nadja Schulte: »Für Pfadfinder öffnen sich immer die Türen.«" %}
 
 
 Reinbek – Nadja Schulte war acht Jahre alt, als sie in Reinbek zu den Pfadfindern kam. Heute ist sie 30 und noch immer voller Überzeugung dabei. 150 Mitglieder hat der Reinbeker Stamm Norwing, dem sie angehört. Schon ihr Vater und ihr Onkel waren dort Pfadfinder und weckten ihr Interesse. »Ich bin sehr naturverbunden aufgewachsen und das ist bis heute geblieben«, sagt sie. Eine gute Voraussetzung, wenn es darum geht, die Natur immer wieder hautnah zu erleben. Und Nadja Schulte hat noch weitere Gründe: »Die Leitlinien der Pfadfinder entsprechen den Grundsätzen, wie ich durchs Leben gehen möchte«, sagt sie. Hilfsbereitschaft, Respekt, Gemeinschaft, aber auch Aufrichtigkeit und Ehrlichkeit gehören dazu. 

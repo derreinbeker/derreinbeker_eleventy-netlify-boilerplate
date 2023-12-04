@@ -9,12 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2020-05-Erdmann-Nevenka.jpg">
-  <figcaption>
-Die Leidenschaft zum Theater wurde Nevenka Erdmann bereits in die Wiege gelegt. FOTO: Imke Kuhlmann   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-05-Erdmann-Nevenka.jpg" "" "Die Leidenschaft zum Theater wurde Nevenka Erdmann bereits in die Wiege gelegt. FOTO: Imke Kuhlmann   " %}
 
 Wentorf – Seit 1979 ist die 73-jährige Mitglied im Ensemble der Wentorfer Bühne und somit von der ersten Stunde an dabei. Im letzten Jahr feierte sie ihr 40-jähriges Bühnenjubiläum. »Ich wurde dafür vom Bund deutscher Amateurtheater mit der goldenen Ehrennadel ausgezeichnet«, sagt Nevenka Erdmann. Das gäbe es nicht häufig. Ein wenig Stolz schwingt mit, wenn sie davon berichtet, obwohl das größte Glück für sie ist, auf der Bühne zu stehen. 
 

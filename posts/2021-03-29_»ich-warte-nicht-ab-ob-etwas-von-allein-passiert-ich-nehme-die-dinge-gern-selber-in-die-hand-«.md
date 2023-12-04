@@ -11,13 +11,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-03-Rexin-Mario-Postbote.jpg">
-  <figcaption>
-Mario Rexin liebt seinen Beruf: »Nur wer selber glücklich ist, kann auch andere glücklich machen.«   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-03-Rexin-Mario-Postbote.jpg" "" "Mario Rexin liebt seinen Beruf: »Nur wer selber glücklich ist, kann auch andere glücklich machen.«   " %}
 
 
 

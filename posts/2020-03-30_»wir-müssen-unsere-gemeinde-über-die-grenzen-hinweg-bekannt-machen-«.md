@@ -12,12 +12,7 @@ tags:
   - Wentorf
 ---
 
-<figure>
-  <img src="/static/media/2020-Snijders-Wolfgang.jpg">
-  <figcaption>
-Wolfgang Snijders in seiner Band. FOTO: Imke Kuhlmann   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-Snijders-Wolfgang.jpg" "" "Wolfgang Snijders in seiner Band. FOTO: Imke Kuhlmann   " %}
 
 
 Wentorf – Seit fünf Jahren ist Wolfgang Snijders vielen in der Region bekannt. Im Jahr 2015 übernahm seine Frau Daniela den EDEKA-Markt an der Hauptstraße. Fast zeitgleich schmiss der 45-jährige seinen Job als Key-Account-Manager bei einem großen amerikanischen Unternehmen mit der Verantwortung für 65 Mitarbeiter, um seine Frau bei der Erfüllung ihres beruflichen Traums zu unterstützen. »Für uns war klar, das funktioniert nur, wenn wir gemeinsam an einem Strang ziehen«, sagt er. Seine Entscheidung hat er voller Überzeugung getroffen und nie bereut.

@@ -13,12 +13,7 @@ tags:
   - Sachsenwaldschule
   - Digitalisierung
 ---
-<figure>
-  <img src="/static/media/2020-18-05-Sachsenwaldschule-Pausenhof.jpg">
-  <figcaption>
-Die verteilten Gebäude der Sachsenwaldschule aus verschiedenen Baujahren stellen den Ausbau der Digitalisierung vor besondere Herausforderungen. FOTO: DER REINBEKER   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-18-05-Sachsenwaldschule-Pausenhof.jpg" "" "Die verteilten Gebäude der Sachsenwaldschule aus verschiedenen Baujahren stellen den Ausbau der Digitalisierung vor besondere Herausforderungen. FOTO: DER REINBEKER   " %}
 
 
 Reinbek – Krisenzeiten sind oftmals Zeiten, in denen Entwicklungen beschleunigt werden, die vorher jahrelang mühselig waren und eher unbeachtet ihr Dasein fristen. So ist es aktuell auch mit der Digitalisierung geschehen, bei deren Fortschritten Deutschland bisher in der zweiten Liga spielt. Home-Office und Home-Schooling sind Herausforderungen, denen nicht alle heimischen Arbeitsplätze oder Ausstattungen an den Schulen standhalten. 

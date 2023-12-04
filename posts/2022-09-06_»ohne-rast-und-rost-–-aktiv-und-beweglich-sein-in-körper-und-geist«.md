@@ -10,13 +10,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-09-05-hildebrandt-birte.jpg">
-  <figcaption>
-Birte Hildebrandt ist Teil eines »Literarischen Trios« und Mitbegründerin der ADFC-Ortsgruppe Wentorf-Börnsen     
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-09-05-hildebrandt-birte.jpg" "" "Birte Hildebrandt ist Teil eines »Literarischen Trios« und Mitbegründerin der ADFC-Ortsgruppe Wentorf-Börnsen     " %}
 
 
 

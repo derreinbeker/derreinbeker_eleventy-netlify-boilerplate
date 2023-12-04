@@ -9,14 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-28-08-Manzel-Frank.jpg">
-  <figcaption>
-
-»Wer Wirtschaft verstehen will, muss die Geschichte kennen«, weiß der Bankkaufmann im Ruhestand 
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-28-08-Manzel-Frank.jpg" "" "»Wer Wirtschaft verstehen will, muss die Geschichte kennen«, weiß der Bankkaufmann im Ruhestand " %}
 
 **Reinbek –** Eigentlich wollte Frank Manzel (61) nicht in die Fußstapfen seiner Mutter treten. Die 84-jährige Gisela Manzel hat den Reinbeker Geschichts- und Museumsverein seit der Gründung im Jahr 1989 als Vorsitzende geführt. Doch für Frank Manzel kam es anders und nun sitzt er auf dem Posten des Vorsitzenden. Der Verein ist aus dem Arbeitskreis Reinbeker Stadtgeschichte an der Volkshochschule Sachsenwald hervorgegangen. Momentan sind sie zu dritt im Vorstand. »Das ehrenamtliche Engagement der Menschen lässt nach«, stellt Frank Manzel fest. Er hat sich gut auf die Aufgabe vorbereitet. »Bevor ich Vorsitzender wurde habe ich nur Protokolle geschrieben und ehrlich gesagt, nicht viel verstanden«, sagt Manzel. Das weckte seine Neugier. 
 

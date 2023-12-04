@@ -10,17 +10,7 @@ category: Panorama
 tags:
   - Wentorf
 ---
-<figure>
-
-  <img src="/static/media/2019WollweberVivien.jpg">
-
-  <figcaption>
-
-»Von klein auf« ist die 17-Jährige leidenschaftliche Leserin, die Fantasy- und Jugendbücher mag. FOTO: Christa Möller   
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/2019WollweberVivien.jpg" "" "»Von klein auf« ist die 17-Jährige leidenschaftliche Leserin, die Fantasy- und Jugendbücher mag. FOTO: Christa Möller   " %}
 
 
 

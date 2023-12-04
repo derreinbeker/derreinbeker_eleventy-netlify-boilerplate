@@ -11,13 +11,7 @@ tags:
   - Klimakatastrophe
 ---
 
-<figure>
-  <img src="/static/media/2020-054-Wolter-Fritz-Ole.jpg">
-  <figcaption>
-Fritz Ole Wolter sieht aktuell noch keine Gefahr einer großen Dürre im Wald. FOTO: Imke Kuhlmann
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-054-Wolter-Fritz-Ole.jpg" "" "Fritz Ole Wolter sieht aktuell noch keine Gefahr einer großen Dürre im Wald. FOTO: Imke Kuhlmann" %}
 
 Reinbek – »Ich kann nicht in die Glaskugel gucken, um zu sagen, wie das Wetter im Sommer wird, aber ich weiß, dass wir uns seit Jahrzehnten auf die sich ändernden Klimabedingungen vorbereiten«, so Fritz Ole Wolter, Förster in Reinbek. Seit 2012 ist der 43-jährige Chef des Reviers. 
 

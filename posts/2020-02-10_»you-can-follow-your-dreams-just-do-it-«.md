@@ -11,12 +11,7 @@ tags:
   - Menschen
 ---
 
-<figure>
-  <img src="/static/media/2020-amin-rahimifard.jpg">
-  <figcaption>
-Amin Rahimifard und Jana Glogowski haben ein großes gemeinsames Hobby: Volleyball beim SC Wentorf. FOTO: Christa Möller     
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-amin-rahimifard.jpg" "" "Amin Rahimifard und Jana Glogowski haben ein großes gemeinsames Hobby: Volleyball beim SC Wentorf. FOTO: Christa Möller     " %}
 
 Wentorf – Bei Begriffen wie Satz und Punkt denkt Amin Rahimifard nicht an Grammatik. Der 19-jährige Iraner ist leidenschaftlicher Volleyballer und so lernte er auch schnell, was Baggern oder Matchball bedeutet. Schuld hat, gewissermaßen, sein Vater. Er hatte dem damals Dreizehnjährigen die Sportart vorgeschlagen, »weil ich so groß bin.«
 

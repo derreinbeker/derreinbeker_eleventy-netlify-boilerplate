@@ -10,13 +10,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2021-05-03-neuse-verena.jpg">
-  <figcaption>
-Verena Neuse mit dem Hannoveraner Walter   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-05-03-neuse-verena.jpg" "" "Verena Neuse mit dem Hannoveraner Walter   " %}
 
 **Wentorf –** Verena Neuse hat sich einen Traum erfüllt. »Ich habe mir mein eigenes Bullerbü erschaffen«, sagt die Führungskräftetrainerin und meint damit den idyllischen Fleck Erde in der Lohe mit ihren Tieren. Die Berlinerin studierte Wirtschaftswissenschaften, hat Managementtrainings durchgeführt und sich als tiergestützte Pädagogin ausbilden lassen. 
 

@@ -9,12 +9,7 @@ tags:
   - Menschen
   - Reinbek
 ---
-<figure>
-  <img src="/static/media/2020-Schepler-Holger.jpg">
-  <figcaption>
-Holger Schepler hegt und pflegt die Oleander im Innenhof des Schlosses. FOTO: Imke Kuhlmann    
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-Schepler-Holger.jpg" "" "Holger Schepler hegt und pflegt die Oleander im Innenhof des Schlosses. FOTO: Imke Kuhlmann    " %}
 
 
 Reinbek – Erst kurz vor der Wende kam der 54-jährige nach Westdeutschland mit einer Ausbildung als Motorenschlosser und -bauer sowie einer zweiten Ausbildung als Restaurantfachmann in der Tasche. Schnell fand der Vater zweier erwachsener Kinder einen Job in der Gastronomie in Hamburg. Ein Wochenendausflug führte Holger Schepler am Reinbeker Schloss vorbei, das damals schon ein Restaurant beherbergte. Schnell war klar, hier wollte er hin. Nur wenige Tage später heuerte er beim Pächter an und bediente nur wenige Wochen später dort die Gäste. Das war 1989.

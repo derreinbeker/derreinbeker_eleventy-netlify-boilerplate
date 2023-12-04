@@ -13,13 +13,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2020-berger-petersen-Karin.jpg">
-  <figcaption>
-Karin Berger-Petersen gibt in Wentorf Gitarrenunterricht für Kinder und Kurse in Musikalischer Früherziehung und lädt ein zu Spirituellem Singen in der Kirche. FOTO: Christa Möller  
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-berger-petersen-Karin.jpg" "" "Karin Berger-Petersen gibt in Wentorf Gitarrenunterricht für Kinder und Kurse in Musikalischer Früherziehung und lädt ein zu Spirituellem Singen in der Kirche. FOTO: Christa Möller  " %}
 
 
 

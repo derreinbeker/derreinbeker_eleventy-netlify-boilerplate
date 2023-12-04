@@ -10,13 +10,7 @@ tags:
   - Menschen
   - Wentorf
 ---
-<figure>
-  <img src="/static/media/2021-02-22-Reinking-Rik.jpg">
-  <figcaption>
-Rik Reinking: »Die Kunst hilft mir, die Welt zu verstehen. Haltung und Rücksichtnahme bringen uns zusammen«.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-02-22-Reinking-Rik.jpg" "" "Rik Reinking: »Die Kunst hilft mir, die Welt zu verstehen. Haltung und Rücksichtnahme bringen uns zusammen«.   " %}
 
 
 

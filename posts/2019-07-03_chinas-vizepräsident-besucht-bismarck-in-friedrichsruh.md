@@ -14,17 +14,7 @@ tags:
 Das Besuchsprogramm von Vizepräsident Wang Quishan in Hamburg war sehr eng getaktet. Die Gespräche mit Hamburgs Bürgermeister Peter Tschentscher im Hamburger Hafen dauerten länger als geplant. Für den Hamburger Hafen ist China der wichtigste Handelspartner. Jeder dritte Container, der im Hafen entladen wird, kommt aus  China. Auf einen weiteren Ausbau der Beziehungen hofft man in Hamburg durch die von China geplante »Seidenstraße«, ein Generationenprojekt für die Zukunft.
 
 
-<figure>
-
-<img src="/static/media/2019-wang-qishan.jpg">
-
-  <figcaption>
-
-Neben dem berühmten Gemälde von der Kaiserproklamation in Versailles und dem Arbeitszimmer des früheren Reichkanzlers Fürst Otto von Bismarck interessierte sich Wang Qishan (2. von links) für den Stoßzahn eines Elefanten, den die Kaiserin von China 1885 Otto von Bismarck zum 70. Geburtstag geschenkt hatte. – Foto: Lothar Neinass
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/2019-wang-qishan.jpg" "" "Neben dem berühmten Gemälde von der Kaiserproklamation in Versailles und dem Arbeitszimmer des früheren Reichkanzlers Fürst Otto von Bismarck interessierte sich Wang Qishan (2. von links) für den Stoßzahn eines Elefanten, den die Kaiserin von China 1885 Otto von Bismarck zum 70. Geburtstag geschenkt hatte. – Foto: Lothar Neinass" %}
 
 Die stärkste ausländische Gruppe in den Bismarck-Museen sind chinesische Besucher, berichtet der Geschäftsführer der Otto-von-Bismarck-Stiftung Prof. Dr. Ulrich Lappenküper. Es gibt kaum einen chinesischen Politiker, der nicht einen Aufenthalt in Friedrichsruh einplant. Für die Chinesen hat Fürst Otto von Bismarck auch heute noch einen hohen Stellenwert.
 

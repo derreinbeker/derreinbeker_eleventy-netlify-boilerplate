@@ -14,14 +14,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-16-10-Stemmler-Sebastian.jpg">
-  <figcaption>
-
-Dankbar und zuversichtlich: Sebastian Stemmler übernimmt den Dirigentenstab als neuer Direktor der Sachsenwaldschule 
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-16-10-Stemmler-Sebastian.jpg" "" "Dankbar und zuversichtlich: Sebastian Stemmler übernimmt den Dirigentenstab als neuer Direktor der Sachsenwaldschule " %}
 
 
 

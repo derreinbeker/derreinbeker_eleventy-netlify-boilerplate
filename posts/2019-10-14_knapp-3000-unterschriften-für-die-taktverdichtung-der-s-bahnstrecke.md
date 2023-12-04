@@ -10,17 +10,7 @@ category: Politik
 tags:
   - ÖPNV
 ---
-<figure>
-
-  <img src="/static/media/bahnpet2.jpg">
-
-  <figcaption>
-
-Mit seiner Online-Petition hat Thomas Hess (4. von links) einen Nerv getroffen. Unterstützung für seine Förderung nach einer Taktverdichtung der S-Bahn erhält er von (v.l.)  Knut Suhk (Bürgermeister Aumühle), Martina Falkenberg (Bürgermeisterin Dassendorf), Dirk Petersen (Bürgermeister Wentorf), Lukas Kilian (CDU-Landtagsabgeordneter), Björn Warmer (Bürgermeister Reinbek), Martin Habersaat (SPD-Landtagsabgeordneter) sowie Andrea Tschacher (CDU-Landtagsabgeordnete). – FOTO: Kerstin Völling 
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/bahnpet2.jpg" "" "Mit seiner Online-Petition hat Thomas Hess (4. von links) einen Nerv getroffen. Unterstützung für seine Förderung nach einer Taktverdichtung der S-Bahn erhält er von (v.l.)  Knut Suhk (Bürgermeister Aumühle), Martina Falkenberg (Bürgermeisterin Dassendorf), Dirk Petersen (Bürgermeister Wentorf), Lukas Kilian (CDU-Landtagsabgeordneter), Björn Warmer (Bürgermeister Reinbek), Martin Habersaat (SPD-Landtagsabgeordneter) sowie Andrea Tschacher (CDU-Landtagsabgeordnete). – FOTO: Kerstin Völling " %}
 
 Reinbek – So ganz auf das Auto, das gibt Thomas Hess zu, kann auch er nicht verzichten: »Beispielsweise ist das Einkaufen für eine vierköpfige Familie schwierig ohne Auto, auch die Fahrt zum Baumarkt«, sagt der Reinbeker. Aber allein schon aus Klimaschutzgründen will er sich seinen täglichen Weg zur Arbeit mit der S-Bahn nicht nehmen lassen. »Ich habe mich schon immer darüber geärgert, dass der Zehn-Minuten-Takt zwischen Bergedorf und Aumühle 2007 eingestellt wurde«, sagt Hess. Der Familienvater ist davon überzeugt, dass durch einen Zehn-Minuten-Takt die häufigen Störungen, mit denen die Fahrgäste derzeit zu kämpfen haben,  eine geringere Auswirkung auf die Gesamtfahrzeit haben würden. »Durch die höhere zeitliche Flexibiliät könnten auch neue Kunden für den Hamburger Verkehrsverbund (HVV) gewonnen werden«, meint Hess. So startete er eine Petition im Internet. Und siehe da: Von Reinbek über Wentorf bis nach Dassendorf steht Hess mit seiner Meinung nicht allein da. 2902 Personen unterzeichneten die Online-Petition, davon 2423 aus Schleswig-Holstein, 1109 aus Reinbek und 405 aus Wentorf. Besonders starke Unterstützung erfuhr Hess in Aumühle und Wohltorf: Dort unterzeichneten jeweils mehr als zehn Prozent der Einwohner.
 

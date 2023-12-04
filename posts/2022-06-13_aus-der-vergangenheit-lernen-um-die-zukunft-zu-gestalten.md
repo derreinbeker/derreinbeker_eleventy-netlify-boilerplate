@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-05-24-Busch-Helmut-R-Schloss.jpg">
-  <figcaption>
-Helmut R. Busch möchte Geschichtsbewusstsein stärken     
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-05-24-Busch-Helmut-R-Schloss.jpg" "" "Helmut R. Busch möchte Geschichtsbewusstsein stärken     " %}
 
 **Reinbek –** Seit 20 Jahren ist Helmut R. Busch Vorsitzender des Vereins Freunde des Schlosses Reinbek e.V.. Seit dem Jahr 2000 gehört er dem Verein an. Zwei Jahre später übernahm er den Vorsitz. »Ich wollte meiner Liebe zur Geschichte nach der Pensionierung treu bleiben«, sagt er. »Mich fasziniert das Schloss, aber genauso die Historie, die dahintersteht«, so Busch. Die habe er immer mehr in den Mittelpunkt gerückt, beispielsweise mit der Ahnengalerie der Gottorfer Herzoge, die die Besucher gleich am Eingang begrüßt.  
 

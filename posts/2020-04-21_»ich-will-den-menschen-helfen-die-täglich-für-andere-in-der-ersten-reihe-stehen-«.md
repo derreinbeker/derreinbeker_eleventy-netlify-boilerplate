@@ -13,12 +13,7 @@ tags:
   - Corona-Pandemie
 ---
 
-<figure>
-  <img src="/static/media/2020-WaldaMatthias.jpg">
-  <figcaption>
-Matthias Walda mit einem Spuckschutz und seinem neuesten Produkt, dem Gesichtsschutz. FOTO: Imke Kuhlmann   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-WaldaMatthias.jpg" "" "Matthias Walda mit einem Spuckschutz und seinem neuesten Produkt, dem Gesichtsschutz. FOTO: Imke Kuhlmann   " %}
 
 
 Börnsen – »Als mir klar wurde, welche Konsequenzen die Corona-Krise für die Wirtschaft haben kann, hatte ich schlichtweg Angst«, sagt Matthias Walda. Dass er mit einem Ladenhüter sein Unternehmen durch die Krise bringen könne, war ihm vor drei Wochen noch nicht klar. Walda leitet zusammen mit seiner Lebensgefährtin Ines Teuschler das Unternehmen Acrylglas Hamburg in Börnsen. Die Idee, dass ein Spuckschutz, den vor acht Jahren niemand haben wollte, jetzt vielen Händlern, Arztpraxen oder Bankfilialen helfen können würde, kam ihm auf einem Spaziergang mit seinem Hund, der ihn an einer Apotheke vorbei führte. 

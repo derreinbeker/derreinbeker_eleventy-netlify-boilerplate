@@ -10,13 +10,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-05-17-Grothe-Benedikt.jpg">
-  <figcaption>
-Für Benedikt Grothe wäre Aufgeben keine Alternative   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-05-17-Grothe-Benedikt.jpg" "" "Für Benedikt Grothe wäre Aufgeben keine Alternative   " %}
 
 
 

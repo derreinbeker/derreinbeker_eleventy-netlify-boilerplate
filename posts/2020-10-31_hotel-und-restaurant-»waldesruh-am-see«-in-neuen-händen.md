@@ -10,13 +10,7 @@ category: Panorama
 tags:
   - Aumühle
 ---
-<figure>
-  <img src="/static/media/2020-Pächterwechsel-WaldesRuh-Erdmenger-Gehl.jpg">
-  <figcaption>
-Susen Erdmenger (links) hat zuletzt das Restaurant die »Milchbar« auf der Insel Norderney geleitet. Kathrin Gehl möchte ihre Fähigkeiten als Gastro- und Businesscoach noch woanders einsetzen. FOTO: Stephanie Rutke  
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-Pächterwechsel-WaldesRuh-Erdmenger-Gehl.jpg" "" "Susen Erdmenger (links) hat zuletzt das Restaurant die »Milchbar« auf der Insel Norderney geleitet. Kathrin Gehl möchte ihre Fähigkeiten als Gastro- und Businesscoach noch woanders einsetzen. FOTO: Stephanie Rutke  " %}
 
 **Aumühle –** Das Hotel und Restaurant »WaldesRuh am See« gehört zu den traditionsreichsten Häusern in der Region. Mehr als 50 Jahre war Familie Götz für das Haus verantwortlich: Von 1969 bis 1997 leiteten Heidi und Jürgen Götz das Haus. 1997 übernahm ihre Tochter Kathrin Gehl zusammen mit ihrem Mann Erik die Regie des Hauses, dessen Eigentümer seit 2019 Gregor von Bismarck ist.
 

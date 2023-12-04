@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-04-25-buehner-alexandra-Rettungshunde.jpg">
-  <figcaption>
-»Mich hat es einfach gepackt. Das ist kein Hobby mehr, sondern fast schon eine Berufung«, sagt sie über ihr Ehrenamt.    
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-04-25-buehner-alexandra-Rettungshunde.jpg" "" "»Mich hat es einfach gepackt. Das ist kein Hobby mehr, sondern fast schon eine Berufung«, sagt sie über ihr Ehrenamt.    " %}
 
 **Wentorf –** Australian Shepherd Joe (6), Border-\
 collie Cinder (14 ) und Malinois-Mix Amy (5) spielen eine große Rolle im Leben von Alexandra Bühner. Einen Hund hatte die gebürtige Hamburgerin schon als Kind. Aber erst vor rund 18 Jahren entdeckte die Wentorferin eine ganz andere Leidenschaft: Die Rettungshundearbeit. »Ich kann gar nicht ohne«, sagt die 58-jährige Mutter eines erwachsenen Sohnes. Ami kam mit vier Monaten zu ihr, sie stammt aus dem Tierschutz. Ihr Vorbesitzer hat sie draußen an der Hundehütte angebunden, nachts durfte sie in den Stall. In ihrem neuen Zuhause hat sie für so einiges Chaos gesorgt und auch schon mal eine Lampe auseinandergenommen, aber »wir haben uns zusammengerauft«, sagt sie. Ein gutes Dreivierteljahr habe das gedauert. Gerade hat sie mit Amy erneut die Rettungshundeprüfung bestanden. Alle zwei Jahre wird die Einsatzfähigkeit von Hund und Frauchen oder Herrchen getestet. Vermisste Personen suchen, das ist eine anspruchsvolle Aufgabe, die regelmäßig trainiert werden muss. 

@@ -10,14 +10,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-02-06-Godersky-Verena.jpg">
-  <figcaption>
-
-Aus der Therapie gegen Rheuma wurde bei Verena Godersky eine Leidenschaft. Sie hat sich über die Zeit viel Fachwissen angeeignet. Das möchte sie teilen. Dazu hat sie einen Instagram-Kanal (veri_happy_in_motion) auf den Weg gebracht 
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-02-06-Godersky-Verena.jpg" "" "Aus der Therapie gegen Rheuma wurde bei Verena Godersky eine Leidenschaft. Sie hat sich über die Zeit viel Fachwissen angeeignet. Das möchte sie teilen. Dazu hat sie einen Instagram-Kanal (veri_happy_in_motion) auf den Weg gebracht " %}
 
 **Reinbek –** 2024 will Verena Godersky beim Ironman 70.3 (Mitteldistanz) starten: 1,9 km schwimmen, 90 km Fahrrad fahren, 21 km laufen. Im Juli dieses Jahres nimmt sie am Hamburg Wasser Triathlon teil: 1,5 km schwimmen, 40 km Fahrrad fahren und 10 km laufen. Es ist das zweite Mal, dass sie dabei ist. Während sie im letzten Jahr die kurze Distanz wählte, startet sie diesmal über die sogenannte »Olympische Distanz«. Die Strecken werden immer länger. 
 

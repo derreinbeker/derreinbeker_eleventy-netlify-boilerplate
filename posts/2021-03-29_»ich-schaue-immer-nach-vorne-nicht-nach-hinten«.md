@@ -9,13 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-03-29-Yaqob-Yunes.jpg">
-  <figcaption>
-Yunes Yaqob: »Letztendlich ist die Sprache der Schlüssel zur Integration.«   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-03-29-Yaqob-Yunes.jpg" "" "Yunes Yaqob: »Letztendlich ist die Sprache der Schlüssel zur Integration.«   " %}
 
 
 

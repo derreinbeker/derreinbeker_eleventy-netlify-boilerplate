@@ -9,7 +9,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2022-12-19-Reimer-Hans-Guenther.jpg" "" "1990 gründete er zusammen mit dem Pianisten Herbert Kauschka die »Hamburger Klabautermänner«      " %}
+<figure>
+  <img src="/static/media/2022-12-19-Reimer-Hans-Guenther.jpg">
+  <figcaption>
+1990 gründete er zusammen mit dem Pianisten Herbert Kauschka die »Hamburger Klabautermänner«      
+   
+  </figcaption>
+</figure>
 
 
 

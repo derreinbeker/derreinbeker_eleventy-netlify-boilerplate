@@ -10,7 +10,14 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2023-10-07-lau-guenter.jpg" "" "Günter Lau trägt seit seiner Zeit in der OSHO-Community in Köln den spirituellen Namen »Chetano«. " %}
+<figure>
+  <img src="/static/media/2023-10-07-lau-guenter.jpg">
+  <figcaption>
+
+Günter Lau trägt seit seiner Zeit in der OSHO-Community in Köln den spirituellen Namen »Chetano«. 
+
+  </figcaption>
+</figure>
 
 
 

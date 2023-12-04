@@ -11,7 +11,12 @@ tags:
   - Wentorf
 ---
 
-{% imageWithCaption "media/uploads/2020-christiani-jan.jpg" "" "Jan Christiani ist von Anfang an dabei. Zum Redaktionsteam gehören heute außer ihm Wolfgang Blandow, Katrin Glum,  Ute Hopmann, Monika Lehmann, Wolfgang Lupke,  Heiner Querfurth, Jana Rieling, Wolfgang Warmer und Marga Werner. Die muss man sich auf diesem Bild coronativ um ihn herum gruppiert vorstellen. FOTO: Christa Möller    " %}
+<figure>
+  <img src="/static/media/2020-christiani-jan.jpg">
+  <figcaption>
+Jan Christiani ist von Anfang an dabei. Zum Redaktionsteam gehören heute außer ihm Wolfgang Blandow, Katrin Glum,  Ute Hopmann, Monika Lehmann, Wolfgang Lupke,  Heiner Querfurth, Jana Rieling, Wolfgang Warmer und Marga Werner. Die muss man sich auf diesem Bild coronativ um ihn herum gruppiert vorstellen. FOTO: Christa Möller    
+  </figcaption>
+</figure>
 
 Wentorf – Seit 21 Jahren gibt es »Wentorf im Blick«, eine 36-seitige Broschüre, die kostenlos in der Gemeinde verteilt wird und über alles berichtet, was das Leben im Ort ausmacht. Der Anstoß kam von Monika Benecke: Die damalige Leiterin der Gemeindebücherei war überzeugt, Wentorf fehle ein entsprechendes Informationsblatt. Als Herausgeber konnte der Bürgerverein gewonnen werden und am 18. März 1999 tagte die Redaktion von »Wentorf im Blick«, kurz WiB, dann zum ersten Mal. Dazu gehörten außer der Initiatorin der Bürgervereinsvorsitzende Horst Lippmann sowie Christian Schmidt, Ingeborg Voß und Jan Christiani, der als einziges Gründungsmitglied immer noch dabei ist. WiB hat eine Auflage von 6.200 Exemplaren und wird vierteljährlich mit dem »Kirchenboten« an alle Wentorfer Haushalte verteilt. 
 

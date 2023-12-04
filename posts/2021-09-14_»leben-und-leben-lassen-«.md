@@ -8,7 +8,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2021-09-13-Radtke-Nicole.jpg" "" "Nicole Radtke: »In diesem Amt muss ich mit dem Verstand entscheiden« .   " %}
+<figure>
+  <img src="/static/media/2021-09-13-Radtke-Nicole.jpg">
+  <figcaption>
+Nicole Radtke: »In diesem Amt muss ich mit dem Verstand entscheiden« .   
+   
+  </figcaption>
+</figure>
 
 
 

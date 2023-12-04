@@ -8,7 +8,17 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/bielenstein-daniel-.jpg" "" "Daniel Bielenstein steckt hinter den Pseudonymen Philip Tamm, Jakob M. Leonhardt und Henrik Siebold, der gefeierte Autor lebt in Reinbek. – Foto: Denise Ariaane Funke " %}Reinbek – Der Reinbeker Daniel Bielenstein ist unter unterschiedlichen Namen unterwegs und auch wenn sich der 52-Jährige immer wieder in der »kriminellen Szene« aufhält ist das nicht illegal, denn Daniel Bielenstein, alias Henrik Siebold ist unter anderem Krimibuchautor. Unter dem Pseudonym Hendrik Siebold schickt er den japanischen Inspektor Takeda in Hamburg auf Verbrecherjagd. So wie in seinem aktuellsten Krimi »Inspektor Takeda und das doppelte Spiel«. In dem der japanische Inspektor beim HSV unterwegs ist um den Mord an einem japanischen Spieler aufzuklären. 
+<figure>
+
+  <img src="/static/media/bielenstein-daniel-.jpg">
+
+  <figcaption>
+
+Daniel Bielenstein steckt hinter den Pseudonymen Philip Tamm, Jakob M. Leonhardt und Henrik Siebold, der gefeierte Autor lebt in Reinbek. – Foto: Denise Ariaane Funke 
+
+  </figcaption>
+
+</figure>Reinbek – Der Reinbeker Daniel Bielenstein ist unter unterschiedlichen Namen unterwegs und auch wenn sich der 52-Jährige immer wieder in der »kriminellen Szene« aufhält ist das nicht illegal, denn Daniel Bielenstein, alias Henrik Siebold ist unter anderem Krimibuchautor. Unter dem Pseudonym Hendrik Siebold schickt er den japanischen Inspektor Takeda in Hamburg auf Verbrecherjagd. So wie in seinem aktuellsten Krimi »Inspektor Takeda und das doppelte Spiel«. In dem der japanische Inspektor beim HSV unterwegs ist um den Mord an einem japanischen Spieler aufzuklären. 
 
 Mit der japanischen Kultur kennt sich Daniel Bielenstein bestens aus. Mehrere Jahre war er in Bonn als Korrespondent für eine große japanische Zeitung mit einer Tagesauflage von 13 Millionen tätig. »Die Arbeit hat unheimlich viel Spaß gemacht und wurde wahnsinnig gut bezahlt«, berichtet der Journalist, dem damals viele große Persönlichkeiten aus der Politik und Wirtschaft begegnet sind. 
 

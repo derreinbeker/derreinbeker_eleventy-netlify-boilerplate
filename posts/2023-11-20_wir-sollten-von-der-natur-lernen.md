@@ -10,7 +10,14 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2023-06-11-Karstens-Joachim.jpg" "" "Joachim Karstens: »Tiere stellen Regeln auf und halten Grenzen ein, sonst gibt es Ärger« " %}
+<figure>
+  <img src="/static/media/2023-06-11-Karstens-Joachim.jpg">
+  <figcaption>
+
+Joachim Karstens: »Tiere stellen Regeln auf und halten Grenzen ein, sonst gibt es Ärger« 
+
+  </figcaption>
+</figure>
 
 
 

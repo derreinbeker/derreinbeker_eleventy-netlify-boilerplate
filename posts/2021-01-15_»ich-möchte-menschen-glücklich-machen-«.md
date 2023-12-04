@@ -10,7 +10,13 @@ tags:
   - Menschen
   - Wentorf
 ---
-{% imageWithCaption "media/uploads/2021-Logmani-Fahrang.jpg" "" "Dr. Farhang Logmani: »Wenn ich nach dem Konzert in die Augen der Menschen schaue bin ich glücklich und dankbar.«   " %}
+<figure>
+  <img src="/static/media/2021-Logmani-Fahrang.jpg">
+  <figcaption>
+Dr. Farhang Logmani: »Wenn ich nach dem Konzert in die Augen der Menschen schaue bin ich glücklich und dankbar.«   
+   
+  </figcaption>
+</figure>
 
 
 

@@ -10,7 +10,14 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2023-25-09-Pruefer-Gerd.jpg" "" "Als stellvertretender ASB-Landesvorsitzender übernimmt er Verantwortung für die Jugend " %}
+<figure>
+  <img src="/static/media/2023-25-09-Pruefer-Gerd.jpg">
+  <figcaption>
+
+Als stellvertretender ASB-Landesvorsitzender übernimmt er Verantwortung für die Jugend 
+
+  </figcaption>
+</figure>
 
 
 

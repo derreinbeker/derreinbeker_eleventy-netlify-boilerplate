@@ -12,7 +12,12 @@ tags:
   - Reinbek
 ---
 
-{% imageWithCaption "media/uploads/2020-KJ-Beirat.jpg" "" "KJB-Vorsitzende Emma Rothschuh und ihre Stellvertreter Jakob Hess und Maximilian Gaedke (re.). FOTO: Stephanie Rutke   " %}
+<figure>
+  <img src="/static/media/2020-KJ-Beirat.jpg">
+  <figcaption>
+KJB-Vorsitzende Emma Rothschuh und ihre Stellvertreter Jakob Hess und Maximilian Gaedke (re.). FOTO: Stephanie Rutke   
+  </figcaption>
+</figure>
 
 
 Reinbek – 15 Kandidaten standen für 2.753 Wahlberechtigte an vier Wahltagen in fünf Wahllokalen zur Wahl für den vierten Reinbeker Kinder- und Jugendbeirat (KJB). Zuletzt wurde hier im Jahr 2008 ein KJB gewählt. 19,36 Prozent der Wahlberechtigten (junge Menschen zwischen 12 und 21 Jahren, die in Reinbek gemeldet sind) nutzten diese Gelegenheit, die Kandidaten mit dem nötigen Rückenwind in die kommenden politischen Debatten zu schicken. 

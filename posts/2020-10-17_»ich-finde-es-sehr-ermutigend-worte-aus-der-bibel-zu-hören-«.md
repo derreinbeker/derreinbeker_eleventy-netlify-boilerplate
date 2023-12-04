@@ -10,7 +10,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2020-10-Heiderich-Johannes.jpg" "" "Johannes Heiderich plant über die Organisation »Freunde der Erziehungskunst« ein »Weltwärts-Jahr« in Kolumbien. FOTO: Christa Möller  " %}
+<figure>
+  <img src="/static/media/2020-10-Heiderich-Johannes.jpg">
+  <figcaption>
+Johannes Heiderich plant über die Organisation »Freunde der Erziehungskunst« ein »Weltwärts-Jahr« in Kolumbien. FOTO: Christa Möller  
+   
+  </figcaption>
+</figure>
 
 
 

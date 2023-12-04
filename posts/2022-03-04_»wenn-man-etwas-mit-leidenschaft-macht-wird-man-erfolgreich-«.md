@@ -9,7 +9,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2022-03-07-berg-marco-wai.jpg" "" "Marco Berg hat ein Lieblingsausstellungsstück: Den bronzenen »Ohrenstuhl« von Terence, der komplett aus Ohren besteht. »Alle wissen etwas vom Hörensagen, aber Genaues weiß niemand«,   " %}
+<figure>
+  <img src="/static/media/2022-03-07-berg-marco-wai.jpg">
+  <figcaption>
+Marco Berg hat ein Lieblingsausstellungsstück: Den bronzenen »Ohrenstuhl« von Terence, der komplett aus Ohren besteht. »Alle wissen etwas vom Hörensagen, aber Genaues weiß niemand«,   
+   
+  </figcaption>
+</figure>
 
 
 

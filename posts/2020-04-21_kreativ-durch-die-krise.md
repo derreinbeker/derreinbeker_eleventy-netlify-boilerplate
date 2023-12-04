@@ -10,7 +10,12 @@ tags:
   - Corona-Pandemie
 ---
 
-{% imageWithCaption "media/uploads/2020-April-maike-knoff.jpg" "" "Inhaberin Maike Knoff von der Buchhandlung BÜCHERWURM in Wentorf bedankt sich bei allen Kunden. FOTO: Imke Kuhlmann   " %}
+<figure>
+  <img src="/static/media/2020-April-maike-knoff.jpg">
+  <figcaption>
+Inhaberin Maike Knoff von der Buchhandlung BÜCHERWURM in Wentorf bedankt sich bei allen Kunden. FOTO: Imke Kuhlmann   
+  </figcaption>
+</figure>
 
 Reinbek/Wentorf – Die Corona-Pandemie fordert jeden. Kinder, die nicht mehr in den Kindergarten oder zur Schule gehen  können, Berufstätige, die im Homeoffice Job, Familie und Homeschooling wuppen müssen aber auch Händler, Künstler oder Gastronomen, bei denen es um die Existenz geht. Doch anstatt das Handtuch zu werfen, suchen sie nach kreativen Lösungen.
 

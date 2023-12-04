@@ -9,7 +9,13 @@ tags:
   - Wentorf
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2020-14-12-Engel-Werner-2.jpg" "" "»Ich mag es, mit den Händen etwas zu schaffen und zu sehen, was daraus wird.«   " %}
+<figure>
+  <img src="/static/media/2020-14-12-Engel-Werner-2.jpg">
+  <figcaption>
+»Ich mag es, mit den Händen etwas zu schaffen und zu sehen, was daraus wird.«   
+   
+  </figcaption>
+</figure>
 
 
 

@@ -13,7 +13,12 @@ tags:
   - Menschen
   - Kirchen
 ---
-{% imageWithCaption "media/uploads/2020-St-Ansgar-Davis-Siaquiyah.jpg" "" "Siaquiyah Davis hat als Schüler Feuerbach und Nietzsche »verschlungen«. FOTO: Imke Kuhlmann    " %}
+<figure>
+  <img src="/static/media/2020-St-Ansgar-Davis-Siaquiyah.jpg">
+  <figcaption>
+Siaquiyah Davis hat als Schüler Feuerbach und Nietzsche »verschlungen«. FOTO: Imke Kuhlmann    
+  </figcaption>
+</figure>
 
 Schönningstedt – 1970 wurde Siaquiyah Davis in Liberia (Westafrika) geboren. Seit Februar dieses Jahres ist er nun Pastor in der Ev. St.-Ansgar-Gemeinde in Schönningstedt-Ohe. Er hat in Liberia Theologie studiert. Sein weiteres Studium führte ihn an ein ökumenisches Institut nach Bosse in die Nähe von Genf in der Schweiz. An der Universität Birmingham in England absolvierte er seinen Master in Theologie. Berufliche Erfahrungen sammelte der Familienvater in Schönefeld, Altona und Norderstedt bis er im Februar dieses Jahres die Teilzeitstelle in Schönningstedt annahm. »Ich möchte den Glauben zusammen mit den Gemeindemitgliedern erleben«, sagt er. Doch darauf muss er noch warten. Die Corona-Pandemie hat ihm den Start in der neuen Gemeinde durch die eingeschränkten Kontaktmöglichkeiten schwer gemacht. Anfangs gab es nicht einmal Gottesdienste, von Treffen mit Gruppen oder Einzelpersonen ganz abgesehen. Alles andere als das, was Davis möchte. Erschwerend käme hinzu, dass er nicht in der Gemeinde lebe. Mit seiner Familie lebt er in Lurup. Rund eineinhalb Stunden dauert sein Arbeitsweg aus Hamburgs Norden. Davis beklagt dies nicht, sieht aber durchaus den Vorteil, als Pastor in der Gemeinde zu leben.
 

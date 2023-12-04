@@ -11,7 +11,14 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2023-12-06-Moerschel-Roland.jpg" "" "Roland Mörschel wirft der Stadt vor, dass das 2015 für Reinbek erarbeitete Radverkehrskonzept bislang nicht umgesetzt worden ist." %}
+<figure>
+  <img src="/static/media/2023-12-06-Moerschel-Roland.jpg">
+  <figcaption>
+
+Roland Mörschel wirft der Stadt vor, dass das 2015 für Reinbek erarbeitete Radverkehrskonzept bislang nicht umgesetzt worden ist.
+
+  </figcaption>
+</figure>
 
 
 

@@ -9,7 +9,12 @@ tags:
   - Wentorf
   - Menschen
 ---
-{% imageWithCaption "media/uploads/schmidtke-matthias.jpg" "" "Schulleiter Matthias Schmidtke möchte, dass die Schule noch mehr Teil des Ortslebens wird. – FOTO: Christa Möller" %}
+<figure>
+  <img src="/static/media/schmidtke-matthias.jpg">
+  <figcaption>
+Schulleiter Matthias Schmidtke möchte, dass die Schule noch mehr Teil des Ortslebens wird. – FOTO: Christa Möller
+  </figcaption>
+</figure>
 
 Matthias Schmidtke identifiziert sich mit seinem Gymnasium, an dem er seit 14 Jahren unterrichtet. Bald nachdem er als Studienrat nach Wentorf kam, übernahm der Technik affine 42-Jährige im IT-Bereich Verantwortung. »Dann fragte mich der damalige Oberstufenleiter Jan Andersen, ob ich eine Assistenz bestreiten möchte.« Als sein Vorgänger im Amt dann weitere Aufgaben übernahm, habe er mehr Unterstützung benötigt und Matthias Schmidtke bewarb sich als Koordinator für den pädagogischen Bereich und schließlich als Oberstufenkoordinator, nachdem Jan Andersen stellvertretender Schulleiter wurde. Eine seiner Aufgaben als Oberstufenleiter war, den Doppeljahrgang mit G8 und G9 zu organisieren, der parallel ins Abitur geführt wurde.
 

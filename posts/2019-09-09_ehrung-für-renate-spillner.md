@@ -10,7 +10,17 @@ tags:
 ---
 »Sie haben sich dauerhaft einer sozialen Aufgabe gewidmet, ohne dabei im Rampenlicht stehen zu wollen. Manchmal braucht es Menschen, die einfach loslegen und zupacken. Eine Demokratie wie die Bundesrepublik Deutschland lebt von Menschen wie Ihnen; von Bürgerinnen und Bürgern, die sich  ehrenamtlich für das Gemeinwohl der Gesellschaft einsetzen.« Mit dieser Laudation ehrte Schleswig-Holsteins Ministerpräsident Daniel Günther in Kiel Renate Spillner und überreichte ihr im Auftrag von Bundespräsident Frank-Walter Steinmeier die Verdienstmedaille des Verdienstordens der Bundesrepublik Deutschland.
 
-{% imageWithCaption "media/uploads/2019-spillner-renate-verdienstmedaille.jpg" "" "Renate Spillner mit Ministerpräsident Daniel Günther – Foto: Frank Peter" %}
+<figure>
+
+  <img src="/static/media/2019-spillner-renate-verdienstmedaille.jpg">
+
+  <figcaption>
+
+Renate Spillner mit Ministerpräsident Daniel Günther – Foto: Frank Peter
+
+  </figcaption>
+
+</figure>
 
 Aus Pommern kam Renate Spillner mit ihrer Mutter und drei Geschwistern 1945 als Heimatvertriebene nach Aumühle. Als der Vater 1948 aus russischer Gefangenschaft zurückkam, war die Familie komplett. Schon als Jugendliche unterstützte sie ihren Vater im »Kuratorium Unteilbares Deutschland«.
 

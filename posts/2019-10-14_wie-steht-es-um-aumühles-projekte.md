@@ -10,7 +10,17 @@ category: Politik
 tags:
   - Aumühle
 ---
-{% imageWithCaption "media/uploads/aum-koordausschuss.jpg" "" "Der Personal- und Koordinierungsausschuss tagt öffentlich unter Vorsitz von Louisa Nigbur im Aumühler Rathaus. – Foto: Susanne Nowacki " %}
+<figure>
+
+  <img src="/static/media/aum-koordausschuss.jpg">
+
+  <figcaption>
+
+Der Personal- und Koordinierungsausschuss tagt öffentlich unter Vorsitz von Louisa Nigbur im Aumühler Rathaus. – Foto: Susanne Nowacki 
+
+  </figcaption>
+
+</figure>
 
 Aumühle – Der Personal- und Koordinierungsausschuss der Gemeinde Aumühle, dem sieben Gemeindevertreter aus den Fraktionen angehören, koordiniert die kommunale Selbstverwaltung, die in den Ausschüssen und in der Gemeindevertretung ausgeführt wird. Außerdem bereitet dieser zentrale Ausschuss, in dem keine bürgerlichen Mitglieder laut Hauptsatzung Platz nehmen können, den Stellenplan vor, führt Bewerbungsgespräche und gibt dem Bürgermeister Empfehlungen für Einstellungen, Höhergruppierungen und bei Kündigungen. 
 

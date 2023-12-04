@@ -8,7 +8,13 @@ category: Politik
 tags:
   - Reinbek
 ---
-{% imageWithCaption "media/uploads/2022-11-07-Bortz-Brigitte.jpg" "" "Brigitte Bortz freut sich auf die Gespräche mit den Menschen.       " %}
+<figure>
+  <img src="/static/media/2022-11-07-Bortz-Brigitte.jpg">
+  <figcaption>
+Brigitte Bortz freut sich auf die Gespräche mit den Menschen.       
+   
+  </figcaption>
+</figure>
 
 **Reinbek –** Überraschend hatte Bürgervorsteher Christoph Kölsch im September dieses Jahres seinen Rücktritt erklärt. Berufliche Gründe zwangen ihn schweren Herzens zu diesem Schritt. Doch nun ist eine Nachfolgerin gefunden. Bürgervorsteher werden immer von der stärksten Fraktion gestellt. Sie übernehmen den Vorsitz der Gemeindevertretung und haben das Ohr am Bürger. Diese Aufgabe übernimmt ab jetzt Brigitte Bortz. Die 65-jährige lebt seit knapp 40 Jahren in Reinbek.
 

@@ -8,7 +8,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2021-11-15-kay-tangermann.jpg" "" "Kay Tangerman ist Sozialarbeiterin an der Gemeinschaftsschule.   " %}
+<figure>
+  <img src="/static/media/2021-11-15-kay-tangermann.jpg">
+  <figcaption>
+Kay Tangerman ist Sozialarbeiterin an der Gemeinschaftsschule.   
+   
+  </figcaption>
+</figure>
 
 
 

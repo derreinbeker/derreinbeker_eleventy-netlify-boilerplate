@@ -10,7 +10,12 @@ tags:
   - Menschen
   - Kirchen
 ---
-{% imageWithCaption "media/uploads/2020-F-Moskopf.jpg" "" "Fröhlich, schlagfertig, offen für alle Themen sitzt Kaplan Ferdinand Moskopf im Kirchenbüro und erzählt von seiner Arbeit. FOTO: Imke Kuhlmann   " %}
+<figure>
+  <img src="/static/media/2020-F-Moskopf.jpg">
+  <figcaption>
+Fröhlich, schlagfertig, offen für alle Themen sitzt Kaplan Ferdinand Moskopf im Kirchenbüro und erzählt von seiner Arbeit. FOTO: Imke Kuhlmann   
+  </figcaption>
+</figure>
 
 
 Reinbek – Kaplan Ferdinand Moskopf tritt in die Fußstapfen seines Vaters. Peter Moskopf (64) ist katholischer Pfarrer in Rendsburg. Das scheint verwunderlich, denn eigentlich verpflichten sich Pfarrer zum Zölibat, der Ehelosigkeit.

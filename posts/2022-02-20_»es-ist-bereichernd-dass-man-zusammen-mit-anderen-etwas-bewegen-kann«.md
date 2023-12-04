@@ -12,7 +12,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2022-02-21-Freund-Rainer-ADFC.jpg" "" "Reiner Freund macht Reisen gern mit dem Zug und sagt: »Wenn man die Reise als Teil des Urlaubs erlebt, hat das eine ganz andere Qualität.«   " %}
+<figure>
+  <img src="/static/media/2022-02-21-Freund-Rainer-ADFC.jpg">
+  <figcaption>
+Reiner Freund macht Reisen gern mit dem Zug und sagt: »Wenn man die Reise als Teil des Urlaubs erlebt, hat das eine ganz andere Qualität.«   
+   
+  </figcaption>
+</figure>
 
 **Wentorf –** Wenn Reiner Freund (65) aufs Fahrrad steigt, wird es manchmal laut, denn wenn er gemeinsam mit vielen weiteren Teilnehmern der *Critical Mass* durch Wentorf und Börnsen fährt, ist Musik vom Band dabei. Mitglieder der Ortsgruppe Wentorf-Börnsen des Allgemeinen Deutschen Fahrrad-Club e. V. (ADFC) sowie viele weitere engagierte Bürger wollen auf diesem Weg einmal im Monat dafür werben, den Fokus verstärkt auf das Fahrrad zu setzen und die Aufenthaltsqualität im Zentrum zu steigern mit dem Slogan »Mehr Platz fürs Rad«. Freund ist Vorsitzender der Ortsgruppe, die er vor einem Jahr mitgegründet hat. Warum er sich dort engagiert? Das ist eine längere Geschichte…
 

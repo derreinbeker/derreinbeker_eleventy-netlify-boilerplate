@@ -14,7 +14,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2021-08-02-Zoellner-Stoplersteine-Aumühle.jpg" "" "Drei Stolpersteine vor der Villa in der Pfingstholzallee 1 erinnern an das Schicksal der Jüdin Anita Zoellner (1888-1945) und ihrer Kinder Annemarie (1913-1998) und Kurt (1917-2002).   " %}
+<figure>
+  <img src="/static/media/2021-08-02-Zoellner-Stoplersteine-Aumühle.jpg">
+  <figcaption>
+Drei Stolpersteine vor der Villa in der Pfingstholzallee 1 erinnern an das Schicksal der Jüdin Anita Zoellner (1888-1945) und ihrer Kinder Annemarie (1913-1998) und Kurt (1917-2002).   
+   
+  </figcaption>
+</figure>
 
 Seit Juni 2021 ist die Gemeinde Aumühle Teil des größten dezentralen Mahnmals der Welt: Der Künstler Gunter Demnig hat drei Stolpersteine vor der Villa in der Pfingstholzallee 1 verlegt, die an das Schicksal der Jüdin Anita Zoellner (1888-1945) und ihrer Kinder Annemarie (1913-1998) und Kurt (1917-2002) erinnern.
 

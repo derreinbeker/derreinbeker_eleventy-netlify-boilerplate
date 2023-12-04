@@ -11,7 +11,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2021-10-18-Sabina-Hirtz.jpg" "" "Sabina Hirtz arbeitet nicht nur mit lebendigen Pferden, sie simuliert mit der Handpuppe deren Reaktionen   " %}
+<figure>
+  <img src="/static/media/2021-10-18-Sabina-Hirtz.jpg">
+  <figcaption>
+Sabina Hirtz arbeitet nicht nur mit lebendigen Pferden, sie simuliert mit der Handpuppe deren Reaktionen   
+   
+  </figcaption>
+</figure>
 
 
 

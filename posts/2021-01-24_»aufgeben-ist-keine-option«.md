@@ -10,7 +10,13 @@ tags:
   - Menschen
   - Wentorf
 ---
-{% imageWithCaption "media/uploads/2021-narr-patrick-golf-wentorf.jpg" "" "Patrick Narr, Vorsitzender des Wentorf-Reinbeker Golf-Clubs, fasziniert die taktische Seite seines Sports.    " %}
+<figure>
+  <img src="/static/media/2021-narr-patrick-golf-wentorf.jpg">
+  <figcaption>
+Patrick Narr, Vorsitzender des Wentorf-Reinbeker Golf-Clubs, fasziniert die taktische Seite seines Sports.    
+   
+  </figcaption>
+</figure>
 
 
 

@@ -9,7 +9,14 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2023-03-06-Abouchaaoua-Hicham.jpg" "" "»Kultur ist Bildung und Bildung ist das A und O für das Leben«, sagt der 47-jährige, der sein Abitur in Marrakesch absolvierte.  " %}
+<figure>
+  <img src="/static/media/2023-03-06-Abouchaaoua-Hicham.jpg">
+  <figcaption>
+
+»Kultur ist Bildung und Bildung ist das A und O für das Leben«, sagt der 47-jährige, der sein Abitur in Marrakesch absolvierte.  
+
+  </figcaption>
+</figure>
 
 Hicham Abouchaaoua wurde in Marokko geboren. Das ist sofort zu spüren, wenn ein Gast sein Haus betritt. Gastfreundlich ist der Empfang, frisch gebackener Kuchen und Kekse stehen dann beispielsweise auf dem Tisch. Dazu gibt es einen typisch marokkanischen Tee. Hicham Abouchaaoua schwärmt: »Das ist der beste Tee, den es gibt«. Seine Frau Nora (36) hat alles für unser Gespräch frisch vorbereitet. Marokkaner empfangen gern Gäste. Der 47-jährige Abouchaaoua hat sein Heimatland im Herzen und dennoch möchte er gerne in Deutschland leben. »Ich kann ja immer nach Marokko fahren, wenn ich möchte«, sagt er. Dort lebt ein Teil seiner Familie, die er regelmäßig besucht. 
 

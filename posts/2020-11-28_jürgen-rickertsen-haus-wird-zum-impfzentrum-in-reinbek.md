@@ -13,7 +13,13 @@ tags:
   - Corona-Pandemie
   - Reinbek
 ---
-{% imageWithCaption "media/uploads/2020-juergen-rickertsen-haus.jpg" "" "Das Jürgen Rickertsen Haus in der Reinbeker Schulstraße 7   " %}
+<figure>
+  <img src="/static/media/2020-juergen-rickertsen-haus.jpg">
+  <figcaption>
+Das Jürgen Rickertsen Haus in der Reinbeker Schulstraße 7   
+   
+  </figcaption>
+</figure>
 
 **Reinbek  –** Kurzfristig und in enger Zusammenarbeit mit verschiedenen Akteuren ermöglicht die Stadt Reinbek binnen kürzester Zeit ein Impfzentrum. Das *Jürgen Rickertsen Haus* eignet sich aus mehreren Gründen als Standort: Es ist zentral in Reinbek verortet und dadurch fußläufig erreichbar. Daneben bietet es reichlich Platz, sodass der Kreis Stormarn seine geplanten drei Impflinien im Haus umsetzen kann. Pro Impflinie ist eine Ärztin oder ein Arzt anwesend. Darüber hinaus stehen dem Impfzentrum administratives Personal sowie medizinische Unterstützung zur Seite.
 

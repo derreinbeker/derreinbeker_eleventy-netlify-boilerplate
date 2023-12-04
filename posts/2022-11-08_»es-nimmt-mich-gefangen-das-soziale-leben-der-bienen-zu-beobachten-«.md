@@ -11,7 +11,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2022-09-19-Bradtke-Hellthaler-M.jpg" "" "Dr. Marcus Bradtke-Hellthaler hat seine Leidenschaft zum Beruf gemacht     " %}
+<figure>
+  <img src="/static/media/2022-09-19-Bradtke-Hellthaler-M.jpg">
+  <figcaption>
+Dr. Marcus Bradtke-Hellthaler hat seine Leidenschaft zum Beruf gemacht     
+   
+  </figcaption>
+</figure>
 
 **Reinbek –** Bereits im Alter von zwölf Jahren besaß Marcus Bradtke-Hellthaler sein erstes Bienenvolk. Doch sein beruflicher Weg nahm vorerst eine andere Wendung.
 

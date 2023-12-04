@@ -8,7 +8,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2022-08-22-Zahn-Sandra.jpg" "" "Für Sandra Zahn ist der Umgang mit Jugendlichen eine Frage von Respekt und Vertrauen. »Ich akzeptiere die jungen Menschen wie sie sind«.     " %}
+<figure>
+  <img src="/static/media/2022-08-22-Zahn-Sandra.jpg">
+  <figcaption>
+Für Sandra Zahn ist der Umgang mit Jugendlichen eine Frage von Respekt und Vertrauen. »Ich akzeptiere die jungen Menschen wie sie sind«.     
+   
+  </figcaption>
+</figure>
 
 
 

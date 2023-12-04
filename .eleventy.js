@@ -37,9 +37,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("categories",    require("./_11ty/getCategories"))
   eleventyConfig.addCollection("categoriesMap", require("./_11ty/makeCategoriesMap"))
 
-  eleventyConfig.addPassthroughCopy("media/favicons");
-  eleventyConfig.addPassthroughCopy("media/uploads");
-  eleventyConfig.addPassthroughCopy("media/DerReinbekerLogo.svg");
+  // Don't process folders with static assets e.g. images
+  eleventyConfig.addPassthroughCopy("static/favicons");
+  eleventyConfig.addPassthroughCopy("static/media");
+  eleventyConfig.addPassthroughCopy("static/DerReinbekerLogo.svg");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_redirects");

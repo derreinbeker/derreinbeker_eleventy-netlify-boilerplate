@@ -10,7 +10,17 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/fidivoice.jpg" "" "Fidi Steinbeck stattet ihrer Heimatstadt Reinbek immer wieder gern einen Besuch ab. – FOTO: SAT.1/ProSieben/Thomas Pritschet " %}
+<figure>
+
+  <img src="/static/media/fidivoice.jpg">
+
+  <figcaption>
+
+Fidi Steinbeck stattet ihrer Heimatstadt Reinbek immer wieder gern einen Besuch ab. – FOTO: SAT.1/ProSieben/Thomas Pritschet 
+
+  </figcaption>
+
+</figure>
 
 »Ein wundervolles Jahr geht nun zu Ende und ich freue mich unbändig auf das neue, voller Ideen, Pläne, Freunde und ganz, ganz viel Musik…« diese Hoffnung postete Fidi Steinbeck zum Jahreswechsel 2018/2019 in den sozialen Medien. Die Wünsche wurden sogar übertroffen. Für Fidi Steinbeck ist das Jahr 2019 vermutlich zum spannendsten Jahr ihres Lebens geworden.
 

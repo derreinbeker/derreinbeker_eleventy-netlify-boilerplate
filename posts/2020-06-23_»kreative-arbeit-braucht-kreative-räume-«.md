@@ -14,7 +14,12 @@ tags:
   - Aumühle
 ---
 
-{% imageWithCaption "media/uploads/2020-Bornholdt-Susanne.jpg" "" "Für Aumühles Kirchenmusikerin Susanne Bornholdt hat Corona auch was Positives gebracht. FOTO: Stephanie Rutke   " %}
+<figure>
+  <img src="/static/media/2020-Bornholdt-Susanne.jpg">
+  <figcaption>
+Für Aumühles Kirchenmusikerin Susanne Bornholdt hat Corona auch was Positives gebracht. FOTO: Stephanie Rutke   
+  </figcaption>
+</figure>
 
 Aumühle – Seit 15 Jahren ist Susanne Bornholdt Aumühles Kirchenmusikerin. Wie ist sie zu ihrem Beruf gekommen? Wer sind ihre Lieblingskomponisten und was macht sie in ihrer Freizeit? Susanne Bornholdt wurde in Leipzig geboren und hat ihr Zuhause im Sachsenwald gefunden. Hier lebt sie – verheiratet mit ihrem Mann Karsten und mittlerweile vier Söhnen.
 

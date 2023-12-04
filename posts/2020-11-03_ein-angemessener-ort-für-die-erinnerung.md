@@ -10,7 +10,13 @@ category: Kultur
 tags:
   - Aumühle
 ---
-{% imageWithCaption "media/uploads/2020-Umsetzung-Aum.Gedenkstein.jpg" "" "Garten- und Landschaftsbauer Thomas Hinrichsen verlegt die Steinplatten am neuen Standort des Gedenksteins. FOTO: Stephanie Rutke  " %}
+<figure>
+  <img src="/static/media/2020-Umsetzung-Aum.Gedenkstein.jpg">
+  <figcaption>
+Garten- und Landschaftsbauer Thomas Hinrichsen verlegt die Steinplatten am neuen Standort des Gedenksteins. FOTO: Stephanie Rutke  
+   
+  </figcaption>
+</figure>
 
 
 

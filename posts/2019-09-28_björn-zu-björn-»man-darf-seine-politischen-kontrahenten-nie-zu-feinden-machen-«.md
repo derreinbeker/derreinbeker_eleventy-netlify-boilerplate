@@ -20,7 +20,17 @@ Vor allem Bürgermeister Björn Warmer, der Engholm nach Reinbek geholt hatte, w
 
 »Das hat schon eine besondere innere Anstrengung erfordert, um das zu verarbeiten«, sagte Engholm. Aber man sei in einer Demokratie nur auf Zeit gewählt. Daran werde man dann erinnert. »Solche Krisen sind eine Schule für sich selbst, man entwickelt Eigenschaften, die einen auch durch Niederungen im weiteren Leben tragen.« Zwar habe es Bösartigkeiten in der Politik immer gegeben: So sei etwa Willy Brandt vorgeworfen worden, unehelich geboren zu sein – ein sehr großer Makel in Zeiten, in denen nur einem toten Sozialdemokraten Respekt gezollt worden sei. Aber der Barschel-Skandal sei eine Ausnahme gewesen: »So etwas habe ich in der Politik sonst nicht erlebt«, versicherte Engholm. 
 
-{% imageWithCaption "media/uploads/warmer-und-engholm.jpg" "" "Engagiert wie eh und je vertrat Ex-Ministerpräsident Björn Engholm seine politischen Standpunkte im Rahmen der »Kamingespräche«. Bürgermeister Björn Warmer hatte ihn nach Reinbek geholt – Foto: Kerstin Völling" %}
+<figure>
+
+  <img src="/static/media/warmer-und-engholm.jpg">
+
+  <figcaption>
+
+Engagiert wie eh und je vertrat Ex-Ministerpräsident Björn Engholm seine politischen Standpunkte im Rahmen der »Kamingespräche«. Bürgermeister Björn Warmer hatte ihn nach Reinbek geholt – Foto: Kerstin Völling
+
+  </figcaption>
+
+</figure>
 
 Den Grund für den Niedergang der so genannten Volksparteien sieht der Ex-Bundesbildungsminister zum einen darin, dass es heute keine Charakterköpfe wie Franz-Josef Strauß (CSU), Herbert Wehner (SPD) oder auch Hans-Dietrich Genscher (FDP)  mehr gebe: »Man wusste, die standen für etwas.« Heutzutage besetze die Politik zu oft Themen und vertrete sie nicht. »Außerdem gibt es eine erhebliche Anzahl von akademischen Berufen in den Parlamenten, viele davon Juristen«, erklärte Engholm weiter. Die würden sich zwar in Verordnungen bestens auskennen, aber sich nicht mehr unters Volk mischen. Ferner wirft Engholm einigen Politikern vor, lediglich mit dem Vorgaukeln von Omnipotenz zu punkten: »Wenn ein Robert Habeck (Grüne) den Kohleausstieg bis 2025 fordert, dann muss er auch ins Braunkohlerevier gehen und den Arbeitern dort erklären, wo sie neue Jobs herbekommen.« So einfach sei das alles nämlich nicht: »Es gibt heute kein einziges politisch bedeutendes Problem mehr, dass man ganz allein auf nationaler Ebene lösen kann«, ist Engholm überzeugt. Da müsse man Kompromisse machen, die Zeit kosteten. 
 

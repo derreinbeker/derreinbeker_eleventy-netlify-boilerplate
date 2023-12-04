@@ -12,7 +12,17 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2019hofmannKarsten.jpg" "" "Karsten Hofmann hasst das Wort Stress und sagt lieber »Ich bin gut beschäftigt«. FOTO: Christa Möller   " %}
+<figure>
+
+  <img src="/static/media/2019hofmannKarsten.jpg">
+
+  <figcaption>
+
+Karsten Hofmann hasst das Wort Stress und sagt lieber »Ich bin gut beschäftigt«. FOTO: Christa Möller   
+
+  </figcaption>
+
+</figure>
 
 Sein Sport ist eher selten im Norden: Karsten Hofmann ist Verbandspräsident und auch Leiter der Fachsparte Moderner Fünfkampf im Kreis Herzogtum Lauenburg. Der SC Wentorf ist der einzige Verein in Schleswig-Holstein, der diese Sportart anbietet. Da wundert es wenig, dass es mit rund 50 Mitgliedern der kleinste Fachverband im Landessportverband Schleswig-Holstein ist. Deutschlandweit, wo insgesamt rund 120.000 Fünfkämpfer aktiv sind, stehen die Wentorfer an sechster Stelle. In Hamburg und Mecklenburg-Vorpommern gibt es gar keinen Verband für Modernen Fünfkampf. 1982 hat Klaus Köpke den Modernen Fünfkampf in Wentorf etabliert, wo heute 35 junge Sportler aus Wentorf, Reinbek, Börnsen, Schwarzenbek und Hamburg im Alter von zehn bis 18 Jahren trainieren.
 

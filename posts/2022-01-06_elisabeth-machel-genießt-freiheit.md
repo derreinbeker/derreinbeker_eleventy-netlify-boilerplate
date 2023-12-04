@@ -12,7 +12,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2021-12-13-Elisabeth-Machel.jpg" "" "Elisabeth Machel mag gute Bücher   " %}
+<figure>
+  <img src="/static/media/2021-12-13-Elisabeth-Machel.jpg">
+  <figcaption>
+Elisabeth Machel mag gute Bücher   
+   
+  </figcaption>
+</figure>
 
 
 

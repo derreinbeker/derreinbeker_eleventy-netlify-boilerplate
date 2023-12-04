@@ -7,7 +7,7 @@ backend:
 # npx decap-server
 # npx netlify-cms-proxy-server
 
-media_folder: "media/uploads"
+media_folder: "static/media" # Media files will be stored in the repo under images/uploads
 
 collections:
   # Our blog posts

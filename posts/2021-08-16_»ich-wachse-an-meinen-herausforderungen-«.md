@@ -13,7 +13,12 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2021-08-16-Anna-von-Deyn.jpg" "" "Anna von Deyn tankt Energie im großen Blumen- und Nutzgarten ihrer Großmutter   " %}
+<figure>
+  <img src="/static/media/2021-08-16-Anna-von-Deyn.jpg">
+  <figcaption>
+Anna von Deyn tankt Energie im großen Blumen- und Nutzgarten ihrer Großmutter   
+  </figcaption>
+</figure>
 
 **Reinbek –** 70.000 Menschen kamen im Jahr 2019 in die Vier- und Marschlande, um gemeinsam Erntedank zu feiern. Traditionell werden alle zwei Jahre die Erntemajestäten gewählt: Die Erntekönigin und ihre Prinzessinnen. 2019 war es Anna von Deyn, die den symbolischen Thron bestieg. Nicht einmal ihre Eltern wussten, dass sie sich beworben hatte und wurden bei der feierlichen Zeremonie überrascht. Die junge Frau hatte in der Zeitung gelesen, dass eine neue Erntekönigin und ihre Prinzessinnen gesucht würden. Sie war neugierig, ging zum Info-Abend und wurde ausgewählt.  
 

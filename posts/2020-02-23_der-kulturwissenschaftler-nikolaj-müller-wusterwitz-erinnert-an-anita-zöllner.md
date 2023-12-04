@@ -12,7 +12,12 @@ tags:
   - Gesellschaft
 ---
 
-{% imageWithCaption "media/uploads/2020-Zoellner-Anita .jpg" "" "Dieses Porträt von Anita Zöellner (1888 – 1945) ist das einzige Bild, das der  Kulturwissenschaftler Nikolaj Müller-Wusterwitz während seiner Recherchen in Japan ausfindig gemacht hat.    " %}
+<figure>
+  <img src="/static/media/2020-Zoellner-Anita .jpg">
+  <figcaption>
+Dieses Porträt von Anita Zöellner (1888 – 1945) ist das einzige Bild, das der  Kulturwissenschaftler Nikolaj Müller-Wusterwitz während seiner Recherchen in Japan ausfindig gemacht hat.    
+  </figcaption>
+</figure>
 
 
 Aumühle – In Zusammenhang mit den Erinnerungen an das Kriegsende vor 75 Jahren hat sich der Aumühler Kulturwissenschaftler Nikolaj Müller-Wusterwitz auf Spurensuche begeben und unter anderem zum Schicksal von Anita Zoellner geforscht. Sie war eine Jüdin, die in der Sachsenwaldgemeinde lebte und sich am 14. Februar 1945 aus Angst vor der drohenden Deportation das Leben nahm.

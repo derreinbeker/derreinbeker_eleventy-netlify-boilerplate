@@ -10,7 +10,12 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2019-goltz.jpg" "" "»Das Lernen hört für mich nie auf. Man kann immer etwas dazulernen« sagt Gisela Gräfin von der Goltz." %}
+<figure>
+    <img src="/static/media/2019-goltz.jpg">
+  <figcaption>
+    »Das Lernen hört für mich nie auf. Man kann immer etwas dazulernen« sagt Gisela Gräfin von der Goltz.
+  </figcaption>
+</figure>
 
 Gisela Gräfin von der Goltz blickt auf ein bewegtes Leben zurück. Die Kriegsjahre verbachte sie in Mainz. Damals hieß sie noch Gisela Wolf. Der Vater war technischer Kaufmann, die Mutter Baltin mit schwedischen Wurzeln. »Nächstenliebe hat mir meine Mutter vorgelebt. Sie war Pastorentochter. Ich kann mich noch gut daran erinnern, dass sie nur zwei Sommerkleider besaß, ein Dirndl und ein anderes. Im Sommer 1945 verschenkte sie das Kleid an eine Flüchtlingsfrau. Meine Mutter trug dann nur noch das Dirndl. Ebenso war es mit einem letzten Stück Seife, das meine Mutter ebenfalls verschenkte«, erinnert sich die heute 85-Jährige. »Das Gute kommt aber immer zurück. Zu Weihnachten bekam meine Mutter dann zwei Seifenstücke – das war damals eine kleine Kostbarkeit.«
 

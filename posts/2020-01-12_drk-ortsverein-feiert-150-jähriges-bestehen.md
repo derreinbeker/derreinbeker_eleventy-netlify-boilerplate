@@ -11,7 +11,12 @@ tags:
   - Vereine
 ---
 
-{% imageWithCaption "media/uploads/2019-150jahreDRKreinbek.jpg" "" "Christian Zöllner, Präsidiumsmitglied des DRK-Landesverbandes (l.) überreicht die Henry-Dunant-Medaille an Klaus-Peter Puls, Vorsitzender des DRK Reinbek. FOTO: Stephanie Rutke   " %}
+<figure>
+  <img src="/static/media/2019-150jahreDRKreinbek.jpg">
+  <figcaption>
+Christian Zöllner, Präsidiumsmitglied des DRK-Landesverbandes (l.) überreicht die Henry-Dunant-Medaille an Klaus-Peter Puls, Vorsitzender des DRK Reinbek. FOTO: Stephanie Rutke   
+  </figcaption>
+</figure>
 
 Reinbek – Mit einem großen Festakt mit rund 100 geladenen Gästen feierte das Deutsche Rote Kreuz Reinbek am 30. November das 150-jährige Bestehen des Ortsvereins Reinbek. Als Auszeichnung überreichte Dr. Christian Zöllner, Präsidiumsmitglied des DRK-Landesverbandes, die Henry-Dunant-Medaille an Klaus-Peter Puls, Vorsitzender des DRK Reinbek. Diese Medaille wird nur für das 150-jährige Bestehen an Ortsvereine verliehen. Das DRK Reinbek ist damit einer von wenigen Ortsvereinen landesweit, die auf eine so lange Geschichte zurückblicken können. Gegründet am 1. Dezember 1869 als Vaterländischer Frauenverein ist er außerdem der älteste, noch bestehende Verein in der Stadt.
 

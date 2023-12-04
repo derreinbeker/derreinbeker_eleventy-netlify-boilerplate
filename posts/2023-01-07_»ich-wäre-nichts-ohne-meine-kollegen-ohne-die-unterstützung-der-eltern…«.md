@@ -10,7 +10,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2022-12-05-junghans-diana.jpg" "" "Diana Junghans wusste schon als Kind, dass sie einmal Lehrerin werden will.      " %}
+<figure>
+  <img src="/static/media/2022-12-05-junghans-diana.jpg">
+  <figcaption>
+Diana Junghans wusste schon als Kind, dass sie einmal Lehrerin werden will.      
+   
+  </figcaption>
+</figure>
 
 
 

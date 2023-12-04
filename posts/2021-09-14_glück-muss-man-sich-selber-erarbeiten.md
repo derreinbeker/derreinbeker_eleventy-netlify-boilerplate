@@ -11,7 +11,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2021-08-30-Berhane-Lydia.jpg" "" "Lydia Berhane hat hier eine Weiterbildung zur Altenbetreuerin absolviert   " %}
+<figure>
+  <img src="/static/media/2021-08-30-Berhane-Lydia.jpg">
+  <figcaption>
+Lydia Berhane hat hier eine Weiterbildung zur Altenbetreuerin absolviert   
+   
+  </figcaption>
+</figure>
 
 **Neuschönningstedt –** Seit dem September 2015 lebt Lydia Berhane (26) in Deutschland. Die gebürtige Eritreerin hat den Weg über den Sudan nach Deutschland genommen. Sie startete die Reise allein. Im Sudan war sie mit ihrem späteren Mann Robel Bereket (28) verabredet. Zusammen machten sie sich von dort auf den Weg nach Hamburg. »Ich bin sehr glücklich hier«, sagt die 26-jährige heute.
 

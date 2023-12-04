@@ -12,7 +12,12 @@ tags:
   - Poetry-Slam
 ---
 
-{% imageWithCaption "media/uploads/2020-BergemannGueldenstein.jpg" "" "Die beiden Organisatorin Victoria Helene Bergemann und Elke Güldenstein freuen sich auf einen spannenden Dichterwettstreit im Festsaal des Schlosses. FOTO: Susanne Nowacki   " %}
+<figure>
+  <img src="/static/media/2020-BergemannGueldenstein.jpg">
+  <figcaption>
+Die beiden Organisatorin Victoria Helene Bergemann und Elke Güldenstein freuen sich auf einen spannenden Dichterwettstreit im Festsaal des Schlosses. FOTO: Susanne Nowacki   
+  </figcaption>
+</figure>
 
 Reinbek – Spannung pur, Gänsehaut, ein Abend voller Frohsinn und Glückseligkeit. Das verspricht Mitorganisatorin Victoria Helene Bergemann beim Poetry Slam am 28. Januar, 19.30 Uhr, im Festsaal des Reinbeker Schlosses. Denn diesmal treten zwei Teams im Dichterwettstreit gegeneinander an. Jeweils vier bundesweit bekannte und vielfach ausgezeichnete Poetinnen und Poeten aus Hamburg und Kiel wollen ihre Dicht- und Sprechkunst zeigen und sich in zwei Runden messen. In der Vorrunde treten die acht Künstler jeweils fünf bis sechs Minuten auf die Bühne und stellen sich dem Votum der Publikumsjury. Alle Texte müssen selbstgeschrieben sein, niemand darf singen oder irgendwelche Hilfsmittel und andere Requisiten mit auf die Bühne nehmen. In die Finalrunde entsenden die Teams ihre stärkste Kraft noch einmal in den spannenden Wettkampf. »Das Besondere ist die Jury, die aus dem Publikum ausgewählt wird«, betont Elke Güldenstein, Kulturmanagerin im Schloss Reinbek.
 

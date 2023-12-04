@@ -9,7 +9,12 @@ category: Politik
 tags:
   - Reinbek
 ---
-{% imageWithCaption "media/uploads/2020-07-warmer.jpg" "" "Bürgermeister Björn Warmer freut sich, dass 5.622 Reinbeker*innen ihn im Amt bestätigt haben. FOTO: Susanne Nowacki    " %}
+<figure>
+  <img src="/static/media/2020-07-warmer.jpg">
+  <figcaption>
+Bürgermeister Björn Warmer freut sich, dass 5.622 Reinbeker*innen ihn im Amt bestätigt haben. FOTO: Susanne Nowacki    
+  </figcaption>
+</figure>
 
 Reinbek – Wenig überraschend ist der Ausgang der Bürgermeister-Wahl am 26. Juli in Reinbek. Amtsinhaber Björn Warmer wird ab 1. September auch in den nächsten sechs Jahren Chef der Stadtverwaltung sein. 5.622 Wähler (93,7 Prozent) stimmten mit Ja für Warmer, 378 Reinbeker (6,3 Prozent) stimmten mit Nein. Der Sozialdemokrat war der einzige Kandidat. Er wurde von SPD, CDU und den Grünen gemeinsam unterstützt. 
 

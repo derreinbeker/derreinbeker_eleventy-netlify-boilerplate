@@ -11,7 +11,13 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2021-06-14-Fredi-Heidemann.jpg" "" "Corona hat Fredi Heidemann und seinen Vorstand vor besondere Herausforderungen gestellt. Immer wieder musste hin und her geplant werden.    " %}
+<figure>
+  <img src="/static/media/2021-06-14-Fredi-Heidemann.jpg">
+  <figcaption>
+Corona hat Fredi Heidemann und seinen Vorstand vor besondere Herausforderungen gestellt. Immer wieder musste hin und her geplant werden.    
+   
+  </figcaption>
+</figure>
 
 
 

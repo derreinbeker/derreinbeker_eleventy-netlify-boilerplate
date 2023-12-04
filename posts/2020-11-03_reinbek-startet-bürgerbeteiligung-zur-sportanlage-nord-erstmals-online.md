@@ -12,7 +12,13 @@ tags:
   - Reinbek
   - Bürgerbeteiligung
 ---
-{% imageWithCaption "media/uploads/2020-beteiligungsverfahren-planungsskizze-sportanlage-nord.jpg" "" "So sehen die Ideen zur Gestaltung der Sportanlage Nord als Diskussionsbasis aus.   " %}
+<figure>
+  <img src="/static/media/2020-beteiligungsverfahren-planungsskizze-sportanlage-nord.jpg">
+  <figcaption>
+So sehen die Ideen zur Gestaltung der Sportanlage Nord als Diskussionsbasis aus.   
+   
+  </figcaption>
+</figure>
 
 
 

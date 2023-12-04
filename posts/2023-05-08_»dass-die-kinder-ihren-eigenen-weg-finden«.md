@@ -9,7 +9,14 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/2023-03-20-christiansen-björn.jpg" "" "Björn Christiansen: »Ich bin für alles da, was Kinder und Jugendliche im Moment bewegt.«  " %}
+<figure>
+  <img src="/static/media/2023-03-20-christiansen-björn.jpg">
+  <figcaption>
+
+Björn Christiansen: »Ich bin für alles da, was Kinder und Jugendliche im Moment bewegt.«  
+
+  </figcaption>
+</figure>
 
 
 

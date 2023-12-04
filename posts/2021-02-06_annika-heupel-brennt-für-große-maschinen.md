@@ -12,7 +12,13 @@ tags:
   - Menschen
   - Feuerwehr
 ---
-{% imageWithCaption "media/uploads/2021-02-08-Heupel-Annika.jpg" "" "Annika Heupel: »Wenn keiner sich mehr in dieses Ehrenamt einbringen will, haben wir ein Problem«   " %}
+<figure>
+  <img src="/static/media/2021-02-08-Heupel-Annika.jpg">
+  <figcaption>
+Annika Heupel: »Wenn keiner sich mehr in dieses Ehrenamt einbringen will, haben wir ein Problem«   
+   
+  </figcaption>
+</figure>
 
 **Reinbek –** Wenn Annika Heupel die Maschinen anschmeißt, dann weiß sie genau, wie was funktioniert. »Mich hat Technik schon immer interessiert«, sagt die 27-jährige. Die gebürtige Hessin ist Krankenschwester auf der Schlaganfallstation. Ausnahmesituationen kennt sie daher gut. 
 

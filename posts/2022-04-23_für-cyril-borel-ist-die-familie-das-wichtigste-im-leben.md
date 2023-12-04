@@ -10,7 +10,13 @@ tags:
 ---
 
 
-{% imageWithCaption "media/uploads/2022-04-04-Borel-Cyril-Koch.jpg" "" "Als Privatkoch lebt Cyril Borel weiter die große französische Küche   " %}
+<figure>
+  <img src="/static/media/2022-04-04-Borel-Cyril-Koch.jpg">
+  <figcaption>
+Als Privatkoch lebt Cyril Borel weiter die große französische Küche   
+   
+  </figcaption>
+</figure>
 
 **Reinbek –** Als Kind hatte Cyril Borel den Wunsch, Bäcker zu werden. Da war er neun Jahre alt. Doch nach dem Schulabschluss begann er zuerst eine Ausbildung zum Industriemechaniker. Sein Vater arbeitete in der Stahlindustrie. Schnell wurde ihm jedoch klar – das war es nicht. Er brach diesen Weg ab und begann eine Ausbildung als Koch. Dem Beruf ist der Franzose bis heute treu geblieben, denn er kocht aus Leidenschaft und kann sich nichts anderes vorstellen. Der 45-jährige lebt in Reinbek und ist auch als Privatkoch buchbar. 
 

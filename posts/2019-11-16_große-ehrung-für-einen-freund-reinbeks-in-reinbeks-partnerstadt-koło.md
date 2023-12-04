@@ -9,7 +9,17 @@ tags:
   - Koło
   - Städtepartnerschaften
 ---
-{% imageWithCaption "media/uploads/Kasperkiewicz.jpg" "" "v.l.: Heide-Marie Rank, Kazimierz Kasperkiewicz, Hans-Peter Bünger vor dem Kołoer Rathaus. FOTO: privat   " %}
+<figure>
+
+  <img src="/static/media/Kasperkiewicz.jpg">
+
+  <figcaption>
+
+v.l.: Heide-Marie Rank, Kazimierz Kasperkiewicz, Hans-Peter Bünger vor dem Kołoer Rathaus. FOTO: privat   
+
+  </figcaption>
+
+</figure>
 
 
 

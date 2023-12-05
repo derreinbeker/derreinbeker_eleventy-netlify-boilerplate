@@ -12,13 +12,7 @@ tags:
   - Menschen
   - Wentorf
 ---
-<figure>
-  <img src="/static/media/2021-04-19-Kempf-Stein-Alena.jpg">
-  <figcaption>
-Mit dem Verein »Wentorf gestalten!« möchte Alena Kempf-Stein Projekte schaffen, die zudem wirtschaftlich tragfähig sind.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-04-19-kempf-stein-alena.jpg" "" "Mit dem Verein »Wentorf gestalten!« möchte Alena Kempf-Stein Projekte schaffen, die zudem wirtschaftlich tragfähig sind.   " %}
 
 
 

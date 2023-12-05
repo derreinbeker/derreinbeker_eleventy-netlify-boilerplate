@@ -14,12 +14,7 @@ tags:
   - Gesellschaft
 ---
 
-<figure>
-  <img src="/static/media/2020-party-der-vielfalt.jpg">
-  <figcaption>
-Vertreter aus Politik und Rathaus empfingen die Besucher der gleichzeitigen AfD-Veranstaltung im Reinbeker Schloss mit einem Banner-Spalier. FOTO: Susanne Nowacki   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-party-der-vielfalt.jpg" "" "Vertreter aus Politik und Rathaus empfingen die Besucher der gleichzeitigen AfD-Veranstaltung im Reinbeker Schloss mit einem Banner-Spalier. FOTO: Susanne Nowacki   " %}
 
 Reinbek – Sie wollten ein Zeichen setzen gegen eine AfD-Veranstaltung im Reinbeker Schloss, dem bekannten Aushängeschild Reinbeks. Gut 300 Gäste aus Reinbek, umliegenden Orten und aus Hamburg kamen zur »Party der Vielfalt« ins Reinbeker Jugendzentrum, zu der ein breites Bündnis aus Parteien – von den Linken bis zur CDU, Kirchengemeinden, Gewerkschaften und Organisationen kurzfristig aufgerufen hatte.
 

@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-11-21-Wagschal-Antoinette.jpg">
-  <figcaption>
-Antoinette Wagschal setzt sich für die Interessen von Menschen mit Einschränkungen ein und will deren Bedürfnisse stärker in den Mittelpunkt rücken.       
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-11-21-wagschal-antoinette.jpg" "" "Antoinette Wagschal setzt sich für die Interessen von Menschen mit Einschränkungen ein und will deren Bedürfnisse stärker in den Mittelpunkt rücken.       " %}
 
 **Reinbek –** Seit März dieses Jahres ist Antoinette Wagschal die Vorsitzende des Reinbeker Behindertenbeirates. Sie kann die Belange von Betroffenen gut verstehen, denn sie selbst ist in ihrem Leben eingeschränkt. Vor knapp zehn Jahren spürte sie ein leichtes Flackern im rechten Auge. Wagschal hatte von Kind an kein gutes Sehvermögen, doch das beeinträchtigte ihren Alltag nicht. 2013 wurde eine Zyste unter der Netzhaut des rechten Auges entdeckt. Mehrere Operationen folgten, doch sie verlor ihre Sehkraft auf diesem Auge. Am anderen Auge leidet sie unter dem grünen Star. Mit Brille hat sie noch eine Sehkraft von 30 Prozent. Doch die gelernte Bürokauffrau lässt sich nicht unterkriegen. »Gib niemals auf«, ist ihre Devise. Das hat sie sich nach der letzten Operation auf den rechten Unterarm tätowieren lassen. 
 

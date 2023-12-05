@@ -9,13 +9,7 @@ category: Panorama
 tags:
   - Kirchen
 ---
-<figure>
-  <img src="/static/media/2020-Kulke-Christoph-Ansgarkreuz.jpg">
-  <figcaption>
-Als Jugendlicher engagierte er sich in der evangelischen Kirche in der DDR.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-kulke-christoph-ansgarkreuz.jpg" "" "Als Jugendlicher engagierte er sich in der evangelischen Kirche in der DDR." %}
 
 **Neuschönningstedt –** Christoph Kulke, seit ihrer Gründung 1962 Mitglied der Evangelisch-Lutherischen Kirchengemeinde Gethsemane in Neuschönningstedt, erhielt am 18. Oktober auf Antrag des Kirchengemeinderates das Ansgarkreuz, das Dankzeichen der Nordkirche für langjährige ehrenamtliche Tätigkeit. Im Rahmen eines Gottesdienstes würdigte Propst Matthias Bohl den vielfältigen persönlichen Einsatz des 86-Jährigen in der kirchlichen Arbeit und überreichte ihm die Ehrennadel, die nach dem Missionar Ansgar von Bremen benannt ist. 
 

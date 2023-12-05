@@ -12,14 +12,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-03-21-Menßen-Heidi.jpg">
-  <figcaption>
-Heidi Menßen gibt sich mit Situationen nicht zufrieden, von denen 
-sie glaubt, dass es eine bessere Lösung gibt.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-03-21-menßen-heidi.jpg" "" "Heidi Menßen gibt sich mit Situationen nicht zufrieden, von denen sie glaubt, dass es eine bessere Lösung gibt." %}
 
 **Reinbek –** »Ich nehme das Leben, wie es ist«, sagt Heidi Menßen. Sie klagt nicht. Im Gegenteil, Heidi Menßen ist ein positiver Mensch. Und sie ist eine Kämpferin. »Ich gebe mich mit Situationen nicht zufrieden, bei denen ich glaube, dass es bessere Lösungen gibt«, sagt sie. Und obwohl die 75-jährige ein zurückhaltender Mensch ist, geht sie ganz offen mit ihrer persönlichen Geschichte um. Kurz vor dem Abitur ihres Sohnes Jonas (Name geändert) stellt sie eine Wesensänderung bei ihm fest. Für sie beginnt ein Lauf gegen die Zeit. 
 

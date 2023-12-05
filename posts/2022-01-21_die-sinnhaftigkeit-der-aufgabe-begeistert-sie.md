@@ -13,13 +13,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-01-24-Will-Gabriela-Tatwerk.jpg">
-  <figcaption>
-Gabriela Will möchte Menschen glücklich machen. Der vierbeinige Feel-Good-Manager »Pelle« unterstützt sie dabei   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-01-24-will-gabriela-tatwerk.jpg" "" "Gabriela Will möchte Menschen glücklich machen. Der vierbeinige Feel-Good-Manager »Pelle« unterstützt sie dabei   " %}
 
 **Reinbek –** Vor elf Jahren wurde in Reinbek das Tatwerk gegründet. Eine Einrichtung mit dem Ziel, Menschen mit seelischen Beeinträchtigungen neue berufliche Wege und Perspektiven finden zu lassen. Das Tatwerk trägt die Handschrift von Gabriela Will. Die 57-jährige hat nicht nur das Konzept maßgeblich mitentwickelt, sie leitet noch heute die Einrichtung. Mit Laptop, Block und Stift auf dem Schoß hatte sie 2010 ihre ersten Arbeitstage verbracht. Sie entwickelte die Arbeitsbereiche, übernahm die Bauplanung mit dem Architekten und dachte sich den Namen »Tatwerk« aus. Gabriela Will ist Ergotherapeutin, systemische Familientherapeutin und hat eine Reihe von Weiterbildungen absolviert. Schon heute ist die Aufgabe für sie eine Art Lebenswerk. »Es waren meine anstrengendsten elf Jahre aber auch die schönsten«, sagt sie. 
 

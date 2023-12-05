@@ -14,13 +14,7 @@ tags:
   - Menschen
   - Wentorf
 ---
-<figure>
-  <img src="/static/media/2021-08-02-sohst-stefanie-wentorf-gestalten.jpg">
-  <figcaption>
-Steffie Sohst sagt: »Ich bin eine Entdeckungsreisende, will herausfinden, was geht.«   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-08-02-sohst-stefanie-wentorf-gestalten.jpg" "" "Steffie Sohst sagt: »Ich bin eine Entdeckungsreisende, will herausfinden, was geht.«   " %}
 
 
 

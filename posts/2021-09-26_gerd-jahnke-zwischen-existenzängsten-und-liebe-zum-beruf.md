@@ -9,13 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-09-27-Schäfer-Gerd-Jahnke.jpg">
-  <figcaption>
-Inmitten der Schafe glänzen die Augen des Schäfers Gerd Jahnke   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-09-27-schäfer-gerd-jahnke.jpg" "" "Inmitten der Schafe glänzen die Augen des Schäfers Gerd Jahnke   " %}
 
 
 

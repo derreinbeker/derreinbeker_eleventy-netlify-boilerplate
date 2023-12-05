@@ -12,12 +12,7 @@ category: Politik
 tags:
   - Wentorf
 ---
-<figure>
-  <img src="/static/media/Giffey.jpg">
-  <figcaption>
-v.l.: Alena Kempf-Stein, Dr. Franziska Giffey, Ronny Scheller, Andrea Stoltenberg – FOTO: Familienministerium Berlin
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/giffey.jpg" "" "v.l.: Alena Kempf-Stein, Dr. Franziska Giffey, Ronny Scheller, Andrea Stoltenberg – FOTO: Familienministerium Berlin" %}
 
 Wentorf – Der fehlende Nachwuchs bei Erziehern an deutschen Kindergärten ist gravierend. Mangelnde Anerkennung sowie eine vergleichsweise geringe Vergütung für einen anspruchsvollen Beruf in einer Bildungseinrichtung sind Gründe, weshalb viele potentielle Nachwuchskräfte den Weg in den Erzieherberuf bisher scheuen. Die praxisintegrierte Ausbildung ermöglicht jetzt immer mehr Interessierten den Quereinstieg zu wagen. So auch Ronny Scheller. Er war selbstständiger Innenausbauer. Seit August ist er Azubi im Waldkindergarten Wentorf e.V..
 

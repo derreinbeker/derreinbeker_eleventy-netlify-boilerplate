@@ -3,7 +3,7 @@ const markdownIt = require('./markdown.js');
 
 /*
 Beispiel:
-{% imageWithCaption "static/media/2023-20-11-Neugebauer-Beate.jpg" "Matze ist \"auch\" da" "Ich kann es nicht mehr \"sagen\"" %}
+{% imageWithCaption "media/uploads/2023-20-11-Neugebauer-Beate.jpg" "Matze ist \"auch\" da" "Ich kann es nicht mehr \"sagen\"" %}
 */
 const imageWithCaption = async function (
 	src,
@@ -16,8 +16,8 @@ const imageWithCaption = async function (
 	let metadata = await Image(src, {
 	  widths: [...widths, null],
 	  formats: [...formats, null],
-	  outputDir: '_site/static/media/generated',
-	  urlPath: '/static/media/generated',
+	  outputDir: '_site/media/generated',
+	  urlPath: '/media/generated',
 	});
   
 	let imageAttributes = {

@@ -12,21 +12,12 @@ tags:
 ---
 
 
-<figure>
-
-  <img src="/static/media/2019hofmannKarsten.jpg">
-
-  <figcaption>
-
-Karsten Hofmann hasst das Wort Stress und sagt lieber »Ich bin gut beschäftigt«. FOTO: Christa Möller   
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/2019hofmannkarsten.jpg" "" "Karsten Hofmann hasst das Wort Stress und sagt lieber »Ich bin gut beschäftigt«. FOTO: Christa Möller   " %}
 
 Sein Sport ist eher selten im Norden: Karsten Hofmann ist Verbandspräsident und auch Leiter der Fachsparte Moderner Fünfkampf im Kreis Herzogtum Lauenburg. Der SC Wentorf ist der einzige Verein in Schleswig-Holstein, der diese Sportart anbietet. Da wundert es wenig, dass es mit rund 50 Mitgliedern der kleinste Fachverband im Landessportverband Schleswig-Holstein ist. Deutschlandweit, wo insgesamt rund 120.000 Fünfkämpfer aktiv sind, stehen die Wentorfer an sechster Stelle. In Hamburg und Mecklenburg-Vorpommern gibt es gar keinen Verband für Modernen Fünfkampf. 1982 hat Klaus Köpke den Modernen Fünfkampf in Wentorf etabliert, wo heute 35 junge Sportler aus Wentorf, Reinbek, Börnsen, Schwarzenbek und Hamburg im Alter von zehn bis 18 Jahren trainieren.
 
-Karsten Hofmann hat Schwimmen, Tischtennis und Turnen ausprobiert, bevor er mit 15 durch einen Schulfreund zum Modernen Fünfkampf kam – relativ spät, wie er weiß: »Das ideale Einstiegsalter liegt zwischen zehn und zwölf Jahren.« Seine Fünfkampf-Laufbahn endete recht schnell, aufgrund von Knieproblemen musste er den Sport mit 18 Jahren aufgeben. »Seitdem bin ich Trainer«, erzählt der 48-Jährige, der dann die Übungsleiterausbildung gemacht hat. Nach dem Abitur studierte der gebürtige Reinbeker in Lübeck Elektrotechnik. Er ist Geschäftsführer einer Firma, die sich mit Automatisierungstechnik befasst. »Wir konzipieren Steuerungen für die Industrie, die wir auch einbauen«, erläutert er das Arbeitsgebiet. Den idealen Ausgleich zum Job bietet ihm der Sport, auch wenn er ihn aus zeitlichen Gründen »nur« als Trainer betreibt, obwohl die Knieprobleme behoben sind. »Man braucht Kraft und Ausdauer für den Sport«, sagt er, »und eine gute Auffassungsgabe, um die doch sehr unterschiedlichen Disziplinen umsetzen zu können.« Der moderne Fünfkampf fordere den kompletten Athleten und umfasse neben Fechten die Disziplinen Schwimmen, Schießen, Laufen und Reiten.  
+
+Karsten Hofmann hat Schwimmen, Tischtennis und Turnen ausprobiert, bevor er mit 15 durch einen Schulfreund zum Modernen Fünfkampf kam – relativ spät, wie er weiß: »Das ideale Einstiegsalter liegt zwischen zehn und zwölf Jahren.« Seine Fünfkampf-Laufbahn endete recht schnell, aufgrund von Knieproblemen musste er den Sport mit 18 Jahren aufgeben. »Seitdem bin ich Trainer«, erzählt der 48-Jährige, der dann die Übungsleiterausbildung gemacht hat. Nach dem Abitur studierte der gebürtige Reinbeker in Lübeck Elektrotechnik. Er ist Geschäftsführer einer Firma, die sich mit Automatisierungstechnik befasst. »Wir konzipieren Steuerungen für die Industrie, die wir auch einbauen«, erläutert er das Arbeitsgebiet. Den idealen Ausgleich zum Job bietet ihm der Sport, auch wenn er ihn aus zeitlichen Gründen »nur« als Trainer betreibt, obwohl die Knieprobleme behoben sind. »Man braucht Kraft und Ausdauer für den Sport«, sagt er, »und eine gute Auffassungsgabe, um die doch sehr unterschiedlichen Disziplinen umsetzen zu können.« Der moderne Fünfkampf fordere den kompletten Athleten und umfasse neben Fechten die Disziplinen Schwimmen, Schießen, Laufen und Reiten.  
 
 Schwimmen und Laufen seien organische Disziplinen, Fechten und Schießen technische. Einfühlungsvermögen sei beim Reiten gefragt. Aufgrund dieser großen Vielfalt sei eine Breite an Sportlern vonnöten, die diesen Sport auch auf Wettkampf-Ebene ausüben können. »Der eine kann Schwimmen und Laufen, der andere trifft beim Schießen besser und der nächste hat beim Fechten das richtige Gefühl. Durch die vielen Trainingseinheiten entwickelt sich ein gutes Gruppengefühl. Moderne Fünfkämpfer bilden eine kleine eingeschworene Gemeinschaft, da hilft jeder jedem«, beschreibt er die Atmosphäre auch bei Wettkämpfen.  »Es ist für mich toll zu sehen, wie sich die Jugendlichen entwickeln«, stellt Hofmann mit Blick sowohl auf die sportliche als auch auf die persönliche Entwicklung seiner Schützlinge fest. Im Laufe der Zeit schafften schon einige Wentorfer Fünfkämpfer den Aufstieg in die Nationalmannschaft, das motiviert auch ihre Mitstreiter. Aus zeitlichen Gründen beenden die jungen Fünfkämpfer ihren sportlichen Einsatz allerdings häufig mit Beginn von Ausbildung oder Studium. Hofmann hofft, dass sich das zukünftig ändert und mehr Jugendliche den Übungsleiterschein machen. Dann könnte Moderner Fünfkampf auch im Rahmen einer Schul-AG angeboten werden. Ehrenamtlicher Einsatz sei wichtig. 
 

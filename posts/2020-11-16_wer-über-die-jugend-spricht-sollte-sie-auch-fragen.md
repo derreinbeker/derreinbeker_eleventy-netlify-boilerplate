@@ -9,13 +9,7 @@ tags:
   - Menschen
   - Jugendbeirat
 ---
-<figure>
-  <img src="/static/media/2020-nov-juz-hess-rothschuh.jpg">
-  <figcaption>
-Jakob Hess (16) und Emma Rothschuh (18) gehören zum Vorstand des seit März 2020 amtierenden Jugendbeirats. (Maximilian Gaedke fehlt auf dem Foto).   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-nov-juz-hess-rothschuh.jpg" "" "Jakob Hess (16) und Emma Rothschuh (18) gehören zum Vorstand des seit März 2020 amtierenden Jugendbeirats. (Maximilian Gaedke fehlt auf dem Foto).   " %}
 
 
 

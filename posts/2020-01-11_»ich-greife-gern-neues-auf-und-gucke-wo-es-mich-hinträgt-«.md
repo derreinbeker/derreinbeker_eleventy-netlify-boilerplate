@@ -11,12 +11,7 @@ tags:
   - Menschen
 ---
 
-<figure>
-  <img src="/static/media/2020-wittichwolf.jpg">
-  <figcaption>
-Wittich Wolf und Mr. Sunday freuen sich, wenn sie Kindern etwas beibringen können.   FOTO: Christa Möller   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-wittichwolf.jpg" "" "Wittich Wolf und Mr. Sunday freuen sich, wenn sie Kindern etwas beibringen können.   FOTO: Christa Möller   " %}
 
 Wentorf – Dieser Künstlername ist gar keiner: Wittich Wolf heißt wirklich so. »Der Vorname kommt aus den deutschen Heldensagen«, erläutert der Wentorfer. Seine historisch interessierten Eltern wollten ihren Kindern Namen geben, die nicht jeder hat. Sohn Wittich Wolf hat seit vielen Jahren auch einen Beruf, der etwas außergewöhnlich ist: Er verdient sein Geld als Zauberer und Bewegungskünstler. Dabei hatte der gebürtige Kieler, der seine Kindheit und Jugend in Osterode im Harz verbrachte, nach dem Abitur zunächst einen ganz anderen Berufsweg eingeschlagen. Schon in der Schule hatte er festgestellt, dass er anderen komplexe Sachverhalte gut und häufig verständlicher erklären kann als die Lehrer. »Mathe ist nur eine Form der Beschreibung unserer Umwelt«, erläutert der 45-Jährige, der seit zehn Jahren mit seiner Familie in Wentorf wohnt. »Ich habe Freude daran, den Erfolg anderer mitzuerleben.« 
 

@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2021-11-29-Diana-Weyrauch.jpg">
-  <figcaption>
-Aktuell arbeitet Diana Weyrauch an einem Konzept für Senioren, die in Senioreneinrichtungen leben   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-11-29-diana-weyrauch.jpg" "" "Aktuell arbeitet Diana Weyrauch an einem Konzept für Senioren, die in Senioreneinrichtungen leben   " %}
 
 
 

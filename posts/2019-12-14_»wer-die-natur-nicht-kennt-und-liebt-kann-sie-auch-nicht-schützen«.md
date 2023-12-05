@@ -8,12 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2019sturmquistorf.jpg">
-  <figcaption>
-Christiane Sturm (li.) malt und zeichnet gern – Naturbilder. »Das hat etwas Meditatives«, hat sie festgestellt. Ebenso wie Marlitt Quistorf ist sie sportlich aktiv – besonders gern in der Natur, versteht sich, also beim Laufen, beziehungsweise Schwimmen oder Radfahren.. FOTO: Christa Möller   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2019sturmquistorf.jpg" "" "Christiane Sturm (li.) malt und zeichnet gern – Naturbilder. »Das hat etwas Meditatives«, hat sie festgestellt. Ebenso wie Marlitt Quistorf ist sie sportlich aktiv – besonders gern in der Natur, versteht sich, also beim Laufen, beziehungsweise Schwimmen oder Radfahren.. FOTO: Christa Möller   " %}
 
 Reinbek – Wo in der Umgebung von Reinbek noch Wildblumen wachsen und in welchen Gewässern Libellenlarven und Froschlaich zu finden sind, das wissen viele Kinder nicht und einige waren noch nie im Wald, haben die Umweltschutztechnikerin und Gärtnerin Christiane Sturm und die Diplomingenieurin Marlitt Quistorf festgestellt. Sie sind ehrenamtlich im Naturschutz aktiv und haben vor 20 Jahren die Leitung der BUND-Kindergruppe im Courvoisier-Haus (C-Haus) übernommen. Aus der Zeitung hat Marlitt Quistorf damals erfahren, dass jemand für die BUND-Kindergruppe gesucht wird, während Christiane Sturm dies am BUND-Stand beim Reinbeker Pflanzenmarkt hörte. Sie nahmen Kontakt mit den Grundschulen Klosterbergen und Mühlenredder auf – und die Kinder kamen in Scharen zum ersten Treffen. Zwei Gymnasiastinnen halfen, die über 60 jungen Reinbeker zu betreuen. 
 

@@ -13,13 +13,7 @@ tags:
   - Gesellschaft
   - Reinbek
 ---
-<figure>
-  <img src="/static/media/2020-friedhof-Magerstädt-Habel.jpg">
-  <figcaption>
-Annegret Habel und Rahel Magerstädt, eine der zehn gärtnerischen Mitarbeiter*innen der Reinbeker Friedhöfe, bringen die neue Auszeichnung gut sichtbar an. FOTO: Susanne Nowacki  
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-friedhof-magerstädt-habel.jpg" "" "Annegret Habel und Rahel Magerstädt, eine der zehn gärtnerischen Mitarbeiter*innen der Reinbeker Friedhöfe, bringen die neue Auszeichnung gut sichtbar an. FOTO: Susanne Nowacki  " %}
 
 **Reinbek –** Sterben, Tod und Trauer gehören zum Leben. Wichtig ist die Erinnerung an verstorbene Menschen, denn niemand geht so ganz. Er oder sie lebt in den Herzen der Familie und Freunde weiter. Ein wichtiger Ort ist für viele Hinterbliebene der Friedhof, eine Stätte voller Frieden und liebevoller, wertschätzender Gestaltung. In Deutschland sind Friedhöfe parkartige Anlagen, umschlossen von einem Zaun, Mauern oder Bäumen. Seit Jahrhunderten werden Menschen in Mausoleen, Erdgräbern und immer mehr in Urnengräbern beigesetzt.
 

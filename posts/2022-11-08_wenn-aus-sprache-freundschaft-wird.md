@@ -11,13 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-10-24-Haidary-Maryam-Habib-Alya.jpg">
-  <figcaption>
-Maryam Haidary (links) und Alya Habib sind durch den Deutschkurs unzertrennlich geworden      
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-10-24-haidary-maryam-habib-alya.jpg" "" "Maryam Haidary (links) und Alya Habib sind durch den Deutschkurs unzertrennlich geworden      " %}
 
 **Reinbek –** 2019 besuchte Alya Habib, die einige Jahre zuvor aus Syrien nach Deutschland kam, einen Deutschkursus in der Begegnungsstätte in Neuschönningstedt. Dort lernte sie die 37-jährige Maryam Haidary kennen, die ihre Wurzeln in Afghanistan hat. Die beiden Frauen vereint so manches in ihren Leben. Doch die Sprache wäre immer die Barriere für eine Freundschaft gewesen, hätten sie nicht denselben Deutschkursus belegt. 
 

@@ -9,17 +9,7 @@ tags:
   - Koło
   - Städtepartnerschaften
 ---
-<figure>
-
-  <img src="/static/media/Kasperkiewicz.jpg">
-
-  <figcaption>
-
-v.l.: Heide-Marie Rank, Kazimierz Kasperkiewicz, Hans-Peter Bünger vor dem Kołoer Rathaus. FOTO: privat   
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/kasperkiewicz.jpg" "" "v.l.: Heide-Marie Rank, Kazimierz Kasperkiewicz, Hans-Peter Bünger vor dem Kołoer Rathaus. FOTO: privat   " %}
 
 
 
@@ -27,4 +17,5 @@ Koło – Eine ganz besondere Ehre wurde zwei Mitgliedern des Partnerschaftskomi
 
 Heide-Marie Rank und Hans-Peter Bünger folgten der Einladung und waren bei der Benefizveranstaltung am 27. Oktober 2019 im Bürgerhaus in Koło dabei. Mehrere hundert Personen aus Politik, Verwaltung und dem großen Freundeskreis des Geehrten sowie ehemalige Schüler waren gekommen, um dem Professor für deutsche Sprache zu gratulieren. 
 
-Kazimierz Kasperkiewicz hat sich seit dem Jahr 2000 verstärkt für enge Kontakte zwischen Reinbek und Koło eingesetzt. Er selbst war bereits mehrfach zu Gast in Reinbek als Teilnehmer offizieller Delegationen, als Gast des Museumsvereins und als Übersetzer. Sein Lebensziel ist es, durch seinen persönlichen Einsatz zur Aussöhnung von Polen und Deutschland beizutragen.
+
+Kazimierz Kasperkiewicz hat sich seit dem Jahr 2000 verstärkt für enge Kontakte zwischen Reinbek und Koło eingesetzt. Er selbst war bereits mehrfach zu Gast in Reinbek als Teilnehmer offizieller Delegationen, als Gast des Museumsvereins und als Übersetzer. Sein Lebensziel ist es, durch seinen persönlichen Einsatz zur Aussöhnung von Polen und Deutschland beizutragen.

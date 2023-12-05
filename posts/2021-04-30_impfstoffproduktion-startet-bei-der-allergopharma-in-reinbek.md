@@ -8,13 +8,7 @@ category: Panorama
 tags:
   - Corona-Pandemie
 ---
-<figure>
-  <img src="/static/media/2021-05-03-Spahn-Günther-Allergopharma.jpg">
-  <figcaption>
-v.l. Geschäftsführer Dr. Sierk Poetting von BioNTech (über Bildschirm zugeschaltet), Dr. Heiner Garg, Minister für Soziales und Gesundheit S-H, Ministerpräsident Daniel Günther S-H, Bundesgesundheitsminister Jens Spahn und Dr. Hans-Georg Feldmeier, Vorstandsvorsitzender von Dermapharm   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-05-03-spahn-günther-allergopharma.jpg" "" "v.l. Geschäftsführer Dr. Sierk Poetting von BioNTech (über Bildschirm zugeschaltet), Dr. Heiner Garg, Minister für Soziales und Gesundheit S-H, Ministerpräsident Daniel Günther S-H, Bundesgesundheitsminister Jens Spahn und Dr. Hans-Georg Feldmeier, Vorstandsvorsitzender von Dermapharm   " %}
 
 
 

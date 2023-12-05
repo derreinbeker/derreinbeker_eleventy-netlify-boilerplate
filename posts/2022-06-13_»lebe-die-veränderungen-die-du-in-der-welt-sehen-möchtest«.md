@@ -10,13 +10,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2022-06-13-Menschen-reinke-claudia.jpg">
-  <figcaption>
-Claudia Reineke lebte zwei Jahre in China. »Man wird sensibel für verschiedene Kulturen. Es gibt viele Unterschiede, aber auch erstaunlich viele Gemeinsamkeiten.«     
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-06-13-menschen-reinke-claudia.jpg" "" "Claudia Reineke lebte zwei Jahre in China. »Man wird sensibel für verschiedene Kulturen. Es gibt viele Unterschiede, aber auch erstaunlich viele Gemeinsamkeiten.«     " %}
 
 **Wentorf –** Claudia Reinke hat sich für ihren beruflichen Aufstieg etwas Zeit gelassen. Nach dem Realschulabschluss machte die Hamburgerin zunächst eine Ausbildung zur Apothekenhelferin und dann eine zweite zur Pharmazeutisch-Technischen Assistentin. Es folgte das Fachabitur auf dem zweiten Bildungsweg, danach absolvierte sie Fernstudium im Bereich Energiemanagement, während sie mit ihrer Familie im chinesischen Chongqing lebte. Dort war ihr Mann aus beruflichen Gründen zwei Jahre lang tätig. Die Kinder besuchten eine internationale Schule – eine Zeit, die besonders die heute 19jährige Tochter geprägt hat. Sie will Sinologie studieren. »Sie ist tief eingetaucht in die chinesische Kultur und Sprache«, sagt die Mutter. Die Familie hält noch immer Kontakt zu Familien im internationalen Umfeld, die Tochter auch noch direkt nach China. 
 

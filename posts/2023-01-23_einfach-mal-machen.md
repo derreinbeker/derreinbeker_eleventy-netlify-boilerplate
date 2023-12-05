@@ -10,13 +10,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-01-23-Hacker-Juls-Schulsprecher.jpg">
-  <figcaption>
-Seinen Berufsweg hat der 17-jährige auch schon im Kopf. Bereits jetzt arbeitet er an ersten Geschäftsideen, die ihn in die Selbstständigkeit bringen sollen.      
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-01-23-hacker-juls-schulsprecher.jpg" "" "Seinen Berufsweg hat der 17-jährige auch schon im Kopf. Bereits jetzt arbeitet er an ersten Geschäftsideen, die ihn in die Selbstständigkeit bringen sollen.      " %}
 
 **Reinbek –** Juls Haacker ist Schülersprecher an der Gemeinschaftsschule Mühlenredder in Reinbek. Er ist dafür da, die Vertretung der Interessen der Schülerschaft in unterschiedlichen schulischen Gremien zu übernehmen, die Schülervertretung zu organisieren, sowie zwischen Schülern, Lehrern und Eltern zu vermitteln. Für Haacker ist es wichtig zu handeln und nicht lange zu zögern, wenn Schülerinnen und Schüler seine Hilfe brauchen. Er kennt es aus seinem Elternhaus, Dinge anzupacken und nicht zu warten, bis es vielleicht andere tun. 
 

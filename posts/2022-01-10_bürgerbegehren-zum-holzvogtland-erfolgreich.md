@@ -10,13 +10,7 @@ category: Politik
 tags:
   - Holzvogtland
 ---
-<figure>
-  <img src="/static/media/2022-01-10-Unterschriften-Holzvogtland.jpg">
-  <figcaption>
-Robert Hartel  (l.) und Patricia Böge (beide Bürgerinitiative) übergeben die Unterschriften an Bürgermeister Björn Warmer   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-01-10-unterschriften-holzvogtland.jpg" "" "Robert Hartel  (l.) und Patricia Böge (beide Bürgerinitiative) übergeben die Unterschriften an Bürgermeister Björn Warmer   " %}
 
 
 

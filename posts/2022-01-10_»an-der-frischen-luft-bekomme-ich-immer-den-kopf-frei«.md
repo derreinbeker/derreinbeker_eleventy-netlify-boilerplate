@@ -8,13 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-01-10-Olaf-Behn.jpg">
-  <figcaption>
-Olaf Behn hat sich mit den Gallowayrindern einen Traum erfüllt   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-01-10-olaf-behn.jpg" "" "Olaf Behn hat sich mit den Gallowayrindern einen Traum erfüllt   " %}
 
 
 

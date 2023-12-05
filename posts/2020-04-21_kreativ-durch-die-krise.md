@@ -10,20 +10,18 @@ tags:
   - Corona-Pandemie
 ---
 
-<figure>
-  <img src="/static/media/2020-April-maike-knoff.jpg">
-  <figcaption>
-Inhaberin Maike Knoff von der Buchhandlung BÜCHERWURM in Wentorf bedankt sich bei allen Kunden. FOTO: Imke Kuhlmann   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-april-maike-knoff.jpg" "" "Inhaberin Maike Knoff von der Buchhandlung BÜCHERWURM in Wentorf bedankt sich bei allen Kunden. FOTO: Imke Kuhlmann" %}
 
 Reinbek/Wentorf – Die Corona-Pandemie fordert jeden. Kinder, die nicht mehr in den Kindergarten oder zur Schule gehen  können, Berufstätige, die im Homeoffice Job, Familie und Homeschooling wuppen müssen aber auch Händler, Künstler oder Gastronomen, bei denen es um die Existenz geht. Doch anstatt das Handtuch zu werfen, suchen sie nach kreativen Lösungen.
 
 Allen voran die Buchhandlungen. »Wir hatten richtig Angst, was kommt«, sagt Ina Skorka-Müller, Inhaberin der Buchhandlung Erdmann in Reinbek. Doch sie zögerte nicht lange, hängte ein großes Plakat ins Fenster und bot den Kunden einen Lieferservice an. Sie ist von der Reaktion der Kunden beeindruckt. Schnell wollten die Kunden mehr als Bücher. So landeten die Geschenkartikel und Spielsachen, versehen mit einer Nummer zum Auswählen, im Schaufenster und konnten bestellt werden. Am Montag dürfen die Buchhandlungen unter Einhaltung der Standards wie Abstand- und Hygieneregeln wieder öffnen. »Unseren Lieferservice behalten wir bei, sagt die Buchhändlerin.
 
-Maike Knoff von der Buchhandlung Bücherwurm in Wentorf will es genauso handhaben. »Die letzten Wochen stellten eine große Herausforderung für uns dar und wir möchten uns herzlich bei unseren Kundinnen und Kunden für die großartige Unterstützung und Solidarität bedanken«, sagt die Buchhändlerin sichtlich bewegt.Die Arbeitsabläufe in der Buchhandlung wurden in den letzten Wochen derart verändert, dass ein kompletter Lieferservice angeboten werden konnte, der auch in Zukunft stattfinden wird. Die Bestellungen und Beratungen erfolgten im Online-Shop buecherwurm.de, per eMail, Telefon oder WhatsApp. »Bitte unterstützen Sie uns weiter mit Ihren Bestellungen und auch dem Erwerb von Gutscheinen, die von uns angebotenen Bücherschecks sind deutschlandweit einlösbar, damit unsere Buchhandlung überleben kann! Die Vielfalt und Existenzsicherung unserer regionalen Geschäfte hängt gerade in diesen Zeiten eindeutig von unserem Einkaufsverhalten ab.«, ist der Appell der Buchhändlerin.
 
-Bei Ursula von Gellhorn, Inhaberin der gleichnamigen Reinbeker Buchhandlung am Reinbeker Täbyplatz, haben die Kunden den Anstoß für das Liefern der Bücher gegeben. »Wir sind da eigentlich reingestolpert«, sagt sie. Doch nun ist auch sie glücklich über die Entscheidung und will weiter daran festhalten, wenn Montag die Ladentür unter Einhaltung der Abstandsregeln wieder aufgeht. 
+Maike Knoff von der Buchhandlung Bücherwurm in Wentorf will es genauso handhaben. »Die letzten Wochen stellten eine große Herausforderung für uns dar und wir möchten uns herzlich bei unseren Kundinnen und Kunden für die großartige Unterstützung und Solidarität bedanken«, sagt die Buchhändlerin sichtlich bewegt.
+Die Arbeitsabläufe in der Buchhandlung wurden in den letzten Wochen derart verändert, dass ein kompletter Lieferservice angeboten werden konnte, der auch in Zukunft stattfinden wird. Die Bestellungen und Beratungen erfolgten im Online-Shop buecherwurm.de, per eMail, Telefon oder WhatsApp. »Bitte unterstützen Sie uns weiter mit Ihren Bestellungen und auch dem Erwerb von Gutscheinen, die von uns angebotenen Bücherschecks sind deutschlandweit einlösbar, damit unsere Buchhandlung überleben kann! Die Vielfalt und Existenzsicherung unserer regionalen Geschäfte hängt gerade in diesen Zeiten eindeutig von unserem Einkaufsverhalten ab.«, ist der Appell der Buchhändlerin.
+
+
+Bei Ursula von Gellhorn, Inhaberin der gleichnamigen Reinbeker Buchhandlung am Reinbeker Täbyplatz, haben die Kunden den Anstoß für das Liefern der Bücher gegeben. »Wir sind da eigentlich reingestolpert«, sagt sie. Doch nun ist auch sie glücklich über die Entscheidung und will weiter daran festhalten, wenn Montag die Ladentür unter Einhaltung der Abstandsregeln wieder aufgeht. 
 
 Doch nicht nur die Buchhandlungen haben die Entscheidungen der Bundesregierung hart getroffen. Auch in der Gastronomie blieben und bleiben die Türen zu. Das Restaurant und Hotel Waldesruh in Aumühle ist eines von ihnen. Doch anstatt den Kopf in den Sand zu stecken, haben Kathrin und Erik Gehl schnell auf einen Außer-Haus-Service umgestellt. Der Mittagstisch wurde zur Haus-Mahlzeit und kann nun täglich abgeholt werden. Für Kathrin Gehl ist das aber nur ein Schritt, die Krise zu überstehen. »Meine Mitarbeiter sind mir besonders wichtig«, sagt sie. Und so gibt es neben der täglich motivierenden WhatsApp ein besonderes Programm für die Auszubildenden. Mit einem Videokonferenzsystem wird den Nachwuchsgastronomen von erfahrenen Mitarbeitern erklärt, was für den täglichen Service notwendig ist, sei es der richtige Umgang mit dem Gast oder die gute Getränkeberatung. Findig haben die Mitarbeiter zudem ein Rätsel nach dem Vorbild von Stadt-Land-Fluss erfunden, der neue Name: Getränke – Hauptspeisen – Dessert. 
 

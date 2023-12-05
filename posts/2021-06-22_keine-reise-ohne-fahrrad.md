@@ -8,13 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2021-05-31-Erika-Tischler.jpg">
-  <figcaption>
-Seit 1994 radelt Erika Tischler in der Radsportgruppe der TSV Reinbek, seit 2001 ist sie dort Radtourenleiterin, seit 2013 Spartenleiterin im Verein.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-05-31-erika-tischler.jpg" "" "Seit 1994 radelt Erika Tischler in der Radsportgruppe der TSV Reinbek, seit 2001 ist sie dort Radtourenleiterin, seit 2013 Spartenleiterin im Verein.   " %}
 
 
 

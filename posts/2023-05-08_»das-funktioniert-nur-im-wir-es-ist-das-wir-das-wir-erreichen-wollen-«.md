@@ -8,14 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-04-24-wentorf-gestalten.jpg">
-  <figcaption>
-
-Die vier Vorstandsmitglieder André Le Prince, Alena Kempf-Stein, Hanna Marie Walter und Günter (Chetano) Lau, v. li., wissen: »Es ist das Wir, das zählt.«  
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-04-24-wentorf-gestalten.jpg" "" "Die vier Vorstandsmitglieder André Le Prince, Alena Kempf-Stein, Hanna Marie Walter und Günter (Chetano) Lau, v. li., wissen: »Es ist das Wir, das zählt.«  " %}
 
 
 

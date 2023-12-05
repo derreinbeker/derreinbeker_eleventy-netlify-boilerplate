@@ -11,13 +11,7 @@ category: Panorama
 tags:
   - Messe »Viva Seniores«
 ---
-<figure>
-  <img src="/static/media/2021-08-02-viva-seniores-orgateam.jpg">
-  <figcaption>
-Susann Pötter, Kurt Martens und Anke Conradi freuen sich, dass endlich wieder Messen möglich sind. Susanne Pötter: »Auch Familien sind willkommen, denn Älterwerden ist ein Thema für klein und groß!«   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-08-02-viva-seniores-orgateam.jpg" "" "Susann Pötter, Kurt Martens und Anke Conradi freuen sich, dass endlich wieder Messen möglich sind. Susanne Pötter: »Auch Familien sind willkommen, denn Älterwerden ist ein Thema für klein und groß!«   " %}
 
 
 

@@ -11,17 +11,7 @@ tags:
 Wentorf – Seit 2014 engagiert sich Wulf Kühne beim Runden Tisch Asyl für Flüchtlinge in Wentorf.  »Ich wurde von Sibylle Hampel angesprochen, weil ich 14 Jahre lang in Hamburg Deutsch für Ausländer unterrichtet habe«, erzählt der 75-Jährige Russisch-Lehrer, der außerdem Erziehungswissenschaften studiert hat.  In der Alten Schule erteilt er Flüchtlingen Deutschunterricht, gemeinsam mit Wulf Sorge und Liane Thürer-Smid.
  
 
-<figure>
-
-  <img src="/static/media/2019-wulf-kuehne.jpg">
-
-  <figcaption>
-
-Wulf Kühne engagiert sich für Flüchtlinge beim Runden Tisch Asyl. – Foto: Christa Möller
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/2019-wulf-kuehne.jpg" "" "Wulf Kühne engagiert sich für Flüchtlinge beim Runden Tisch Asyl. – Foto: Christa Möller" %}
 
 
 

@@ -9,13 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-02-07-michaelsen-jens-repair.jpg">
-  <figcaption>
-Jens Michaelsen hat ein Ohr für Geräte, die aus dem Takt gekommen sind.   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-02-07-michaelsen-jens-repair.jpg" "" "Jens Michaelsen hat ein Ohr für Geräte, die aus dem Takt gekommen sind.   " %}
 
 **Wentorf –** Jens Michaelsen hat ein Faible für betagte Werkzeuge, vom nur drei Zentimeter kleinen Geigenbauhobel bis zur etwa 1,20 Meter hohen Raubank. »Ich habe Handwerkzeuge aller Art aus aller Welt.« Seine Vorliebe gehört allerdings antiquarischen Bohrern. Das älteste Stück: Eine so genannte Brustleier von 1820. »Vom Keller bis zum Boden« hat sich da im Laufe der Jahre in seinem Haus so einiges angesammelt. Wie viele Teile es insgesamt sind, kann der 77-jährige Wentorfer nicht sagen. Seit 1987 präsentiert er seine Sammlung von Werkzeug einst und heute auf Messen, um sie Werkzeugfans zu zeigen. Gern würde er seine Schätze an einem festen Stützpunkt etablieren, doch bislang hat sich keine geeignete Räumlichkeit gefunden. Da könnte dann vielleicht auch ein Buch von 1908 gezeigt werden, dessen Thema schon vor über einhundert Jahren das Heimwerken war: Die vorzüglichen Beschäftigungen des Dilettanten. 
 

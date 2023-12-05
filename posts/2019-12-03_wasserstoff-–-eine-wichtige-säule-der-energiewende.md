@@ -10,12 +10,7 @@ category: Politik
 tags:
   - Klimakatastrophe
 ---
-<figure>
-  <img src="/static/media/2019wasserstofffroeba.jpg">
-  <figcaption>
-Prof. Michael Fröba, Diplom-Chemiker und Energieforscher an der Universität Hamburg. FOTO: U. Behnck   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2019wasserstofffroeba.jpg" "" "Prof. Michael Fröba, Diplom-Chemiker und Energieforscher an der Universität Hamburg. FOTO: U. Behnck   " %}
 
 Reinbek – »Die Energieversorgung von morgen wird sich gegenüber der heutigen stark verändern. Mit der Energiewende erleben wir gerade einen Wechsel der Energiesysteme. Zurzeit befinden wir uns in einer Übergangsphase von einem kraftstoffbasierten Energiesystem hin zu einem strombasierten Energiesystem«. Mit dieser Information begann Prof. Michael Fröba, Diplom-Chemiker und Energieforscher an der Universität Hamburg, seinen Vortrag vor interessiertem Publikum im bis auf den letzten Platz besetzten großen Sitzungssaal des Reinbeker Rathauses. Die Vortragsveranstaltung fand am 20. November 2019 auf Initiative und Organisation der BUND-Ortsgruppe Reinbek/Wentorf und der Klimaschutzinitiative Sachsenwald statt, unterstützt durch das Klimaschutzmanagement der Stadt Reinbek.
 

@@ -11,14 +11,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-11-09-letzte-g-katja-s.jpg">
-  <figcaption>
-
-Katja Schreiner: »Wir finden das alle schrecklich und es kostet immer Überwindung.« 
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-11-09-letzte-g-katja-s.jpg" "" "Katja Schreiner: »Wir finden das alle schrecklich und es kostet immer Überwindung.« " %}
 
 **Stormarn –** Dreizehn Frauen und vierzehn Männer, alle Mitglieder der »Letzten Generation«, sitzen in München während der Internationalen Automobilausstellung (IAA) in Präventivgewahrsam, schreibt das Hamburger Abendblatt vom 7.9.23. Katja Schreiner ist auch Mitglied der »Letzten Generation« und macht daraus kein Geheimnis. Schließlich will sie mit ihren Aktionen Aufmerksamkeit erzielen. Sie sorgt sich um die Zukunft der nächsten Generationen und geht nun mit der »Letzten Generation« auf die Straße. Das Bündnis von Klimaaktivisten verfolgt das Ziel, durch Mittel des sogenannten zivilen Ungehorsams, Regierungs-Maßnahmen für konsequenten Klimaschutz zu erzwingen, beispielsweise ein Tempolimit. Hungerstreik, Blockaden durch Festkleben auf der Fahrbahn, Kunst-Vandalismus – Themen, die die meisten Menschen mit den »Klimaklebern« verbinden. Viele seien über 50 Jahre alt, heißt es. Eine von ihnen ist Katja Schreiner. Die Mutter eines 17 Jahre alten Sohnes ist 56 Jahre alt. Sie ist Psychologin und arbeitet in einer Werkstatt für Menschen mit Behinderungen.
 

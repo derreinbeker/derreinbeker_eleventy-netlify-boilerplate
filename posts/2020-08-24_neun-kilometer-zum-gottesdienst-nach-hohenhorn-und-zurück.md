@@ -10,12 +10,7 @@ tags:
   - Kirchen
 ---
 
-<figure>
-  <img src="/static/media/2020-Kirche-Hohenhorn.jpg">
-  <figcaption>
-Die Kirche zu Hohenhorn heute, einst das Ziel Wentorfer Kirchgänger. FOTO: Imke Kuhlmann    
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-kirche-hohenhorn.jpg" "" "Die Kirche zu Hohenhorn heute, einst das Ziel Wentorfer Kirchgänger. FOTO: Imke Kuhlmann" %}
 
 
 Wentorf – Noch heute existiert eine enge Zugehörigkeit der Kirchen in Wentorf und Hohenhorn. Der Grund liegt hunderte von Jahren zurück. Wolfgang Blandow (82) ist Wentorfer Heimatforscher. Er recherchiert alles rund um die örtliche Historie. Seit seiner Pensionierung 1998 hat er sein Hobby intensiviert. Von ihm erfuhren wir, wie es dazu kam, dass die Wentorfer Kirchgänger viele Jahre lang neun Kilometer Fußweg auf sich nehmen mussten, um einem Gottesdienst beizuwohnen.

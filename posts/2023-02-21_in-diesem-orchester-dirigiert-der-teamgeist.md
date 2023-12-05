@@ -9,14 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-02-20-Andreas-Jens-Eric-Goj.jpg">
-  <figcaption>
-
-Für Andreas Goj und Jens-Eric Goj ist das Orchester ihre große musikalische Liebe.  
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-02-20-andreas-jens-eric-goj.jpg" "" "Für Andreas Goj und Jens-Eric Goj ist das Orchester ihre große musikalische Liebe.  " %}
 
 **Reinbek –** Jens-Eric Goj und sein Bruder Andreas sind mit Überzeugung in die Fußstapfen ihres Vaters getreten. Kurt Goj gründete 1966 zusammen mit Theodor Pichinot das Reinbeker Stadtorchester. Während Goj Musik studiert hatte, war Architekt Pichinot Laienmusiker. Trotz seines musikalischen Hintergrunds entschied sich Goj beruflich für den Weg in die Versicherungsbranche. Seine Liebe zur Musik erfüllte er sich mit dem Stadtorchester. Kurt Goj starb 1996. Seine beiden Söhne Jens-Eric (59) und sein Bruder Andreas (57) leben die musikalische Idee ihres Vaters weiter und so führen sie seit nun schon Jahrzehnten das Reinbeker Stadtorchester. Andreas Goj ist seit 1997 der musikalische Leiter, Jens-Eric Goj seit 1999 der erste Vorsitzende.
 

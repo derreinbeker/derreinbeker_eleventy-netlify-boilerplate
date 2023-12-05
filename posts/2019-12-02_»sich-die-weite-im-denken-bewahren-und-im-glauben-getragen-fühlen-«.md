@@ -9,17 +9,7 @@ tags:
   - Menschen
   - Kirchen
 ---
-<figure>
-
-  <img src="/static/media/2019kuesterbente.jpg">
-
-  <figcaption>
-
-»Ich habe große Lust, Familienarbeit zu machen«, sagt die junge Mutter zweier Töchter. FOTO: Christa Möller   
-
-  </figcaption>
-
-</figure>
+{% imageWithCaption "media/uploads/2019kuesterbente.jpg" "" "»Ich habe große Lust, Familienarbeit zu machen«, sagt die junge Mutter zweier Töchter. FOTO: Christa Möller   " %}
 
 
 

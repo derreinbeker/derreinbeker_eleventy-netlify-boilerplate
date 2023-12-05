@@ -8,13 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-10-04-neumann-dorothea.jpg">
-  <figcaption>
-Als Verkehrsobfrau der Gemeinschaftsschule Wentorf erinnert sie das Kollegium an das Eintragen der Unterrichtsstunden zur Verkehrserziehung im Klassenbuch.      
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-10-04-neumann-dorothea.jpg" "" "Als Verkehrsobfrau der Gemeinschaftsschule Wentorf erinnert sie das Kollegium an das Eintragen der Unterrichtsstunden zur Verkehrserziehung im Klassenbuch.      " %}
 
 
 

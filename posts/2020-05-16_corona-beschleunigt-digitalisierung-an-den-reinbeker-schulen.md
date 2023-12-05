@@ -13,23 +13,21 @@ tags:
   - Sachsenwaldschule
   - Digitalisierung
 ---
-<figure>
-  <img src="/static/media/2020-18-05-Sachsenwaldschule-Pausenhof.jpg">
-  <figcaption>
-Die verteilten Gebäude der Sachsenwaldschule aus verschiedenen Baujahren stellen den Ausbau der Digitalisierung vor besondere Herausforderungen. FOTO: DER REINBEKER   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-18-05-sachsenwaldschule-pausenhof.jpg" "" "Die verteilten Gebäude der Sachsenwaldschule aus verschiedenen Baujahren stellen den Ausbau der Digitalisierung vor besondere Herausforderungen. FOTO: DER REINBEKER" %}
 
 
 Reinbek – Krisenzeiten sind oftmals Zeiten, in denen Entwicklungen beschleunigt werden, die vorher jahrelang mühselig waren und eher unbeachtet ihr Dasein fristen. So ist es aktuell auch mit der Digitalisierung geschehen, bei deren Fortschritten Deutschland bisher in der zweiten Liga spielt. Home-Office und Home-Schooling sind Herausforderungen, denen nicht alle heimischen Arbeitsplätze oder Ausstattungen an den Schulen standhalten. 
 
-In Reinbek fehlt es bislang in vielen Straßen an schnellen Internetverbindungen. Verschiedene Anbieter tummeln sich im Stadtgebiet und bauen nach wirtschaftlichen Gesichtspunkten die Versorgung mit schnellem Internet in den Haushalten, Betrieben, Schulen und Verwaltungen aus. Darum hat das E-Werk Sachsenwald die Tochtergesellschaft media sachsenwald gegründet, die das Reinbeker Stadtgebiet mit Leitungen bis zu 1.000 Mbit/s versorgen soll. »Wir wollen eine flächendenkende Versorgung bis zur letzten Milchkanne für Reinbek erreichen«, betont Bürgermeister Björn Warmer. »Das kann nicht nur nach wirtschaftlichen Gesichtspunkten gehen. Darum haben wir das zusammen mit dem E-Werk selbst in die Hand genommen.«
+
+In Reinbek fehlt es bislang in vielen Straßen an schnellen Internetverbindungen. Verschiedene Anbieter tummeln sich im Stadtgebiet und bauen nach wirtschaftlichen Gesichtspunkten die Versorgung mit schnellem Internet in den Haushalten, Betrieben, Schulen und Verwaltungen aus. Darum hat das E-Werk Sachsenwald die Tochtergesellschaft media sachsenwald gegründet, die das Reinbeker Stadtgebiet mit Leitungen bis zu 1.000 Mbit/s versorgen soll. »Wir wollen eine flächendenkende Versorgung bis zur letzten Milchkanne für Reinbek erreichen«, betont Bürgermeister Björn Warmer. »Das kann nicht nur nach wirtschaftlichen Gesichtspunkten gehen. Darum haben wir das zusammen mit dem E-Werk selbst in die Hand genommen.«
 
 Schlechte Ausstattung mit digitalen Medien beklagt auch Helga Scheller-Schiewek, Schulleiterin an der Sachsenwaldschule. Das Reinbeker Gymnasium zählt mit 1.300 Schülern zu den landesweit größten Schulen und nutzt Gebäude aus verschiedenen Baujahren sowie Räume im Gebäude der VHS.
 
-Schulleiterin Helga Scheller-Schiewek wandte sich mit einem fünfseitigen Brandbrief an Reinbeks Bürgermeister. Der Brief ging auch an den Schulelternbeirat, die Schülervertretung, den örtlichen Personalrat, Vertreter des Schul- und Sozialausschusses sowie das Amt für Bildung und Schule im Rathaus. Das Schreiben dokumentiert die digitale Not, in der sich das Gymnasium seit der plötzlichen Schließung des Präsenzunterrichts Mitte März befindet, denn die Ausstattung mit Leitungen zum Haus, in den Gebäuden und Klassenräumen, mit Hardware und sinnvoller Software ist unzureichend. Selbst an Steckdosen in den Klassenräumen des Altbaus fehlt es, oft ist nur eine einzige vorhanden. 
 
-Schulleiterin Scheller-Schiewek beklagt: »Der aktuelle Stand in Sachen Digitalisierung ist für den Schulstandort Reinbek unverändert beschämend, das Agieren des Schulträgers ist nach wie vor nicht nachvollziehbar und in letzter Konsequenz nach mehr als vier Jahren für alle absolut frustrierend. Es brandet öffentliche Unzufriedenheit auf, die Schulleitung und Lehrkräfte der Sachsenwaldschule völlig zu Unrecht treffen.«
+Schulleiterin Helga Scheller-Schiewek wandte sich mit einem fünfseitigen Brandbrief an Reinbeks Bürgermeister. Der Brief ging auch an den Schulelternbeirat, die Schülervertretung, den örtlichen Personalrat, Vertreter des Schul- und Sozialausschusses sowie das Amt für Bildung und Schule im Rathaus. Das Schreiben dokumentiert die digitale Not, in der sich das Gymnasium seit der plötzlichen Schließung des Präsenzunterrichts Mitte März befindet, denn die Ausstattung mit Leitungen zum Haus, in den Gebäuden und Klassenräumen, mit Hardware und sinnvoller Software ist unzureichend. Selbst an Steckdosen in den Klassenräumen des Altbaus fehlt es, oft ist nur eine einzige vorhanden. 
+
+
+Schulleiterin Scheller-Schiewek beklagt: »Der aktuelle Stand in Sachen Digitalisierung ist für den Schulstandort Reinbek unverändert beschämend, das Agieren des Schulträgers ist nach wie vor nicht nachvollziehbar und in letzter Konsequenz nach mehr als vier Jahren für alle absolut frustrierend. Es brandet öffentliche Unzufriedenheit auf, die Schulleitung und Lehrkräfte der Sachsenwaldschule völlig zu Unrecht treffen.«
 
 Bürgermeister Björn Warmer weiß um die Problematik, ist aber zuversichtlich, dass nach den Sommerferien im August 2020 die erforderlichen Maßnahmen abgeschlossen sein werden und das Gymnasium in das neue Schuljahr mit aktueller Hard- und Software gehen wird.
 

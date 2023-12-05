@@ -12,13 +12,7 @@ tags:
 ---
 
 
-<figure>
-  <img src="/static/media/2023-01-09-wöllmer-bergmann-kristin.jpg">
-  <figcaption>
-Kristin Wöllmer-Bergmann: »Weil Gedanken sehr flüchtig sind, muss ich sie gleich zu Papier bringen.«      
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-01-09-wöllmer-bergmann-kristin.jpg" "" "Kristin Wöllmer-Bergmann: »Weil Gedanken sehr flüchtig sind, muss ich sie gleich zu Papier bringen.«      " %}
 
 **Wentorf –** An Ideen mangelt es der lebhaften 35-Jährigen nicht: Kaum hat die junge Autorin einen Roman beendet, hat sie schon Ideen für zwei neue Projekte. Bereits als Kind hat sie ihre Leidenschaft für Comics entdeckt und sehr zum Leidwesen ihrer Lehrer gern auch im Unterricht selbst welche geschrieben und gezeichnet, »aber trotzdem immer mitgemacht«. Letztlich war sie zu ungeduldig: »Bis eine Seite fertig war, dauerte es ein paar Stunden, das war mir zulange, da war mein Kopf schon viel weiter«, erläutert Kristin Wöllmer-Bergmann, die in der Schule gern an Kursen zum Kreativen Schreiben teilnahm. »Weil Gedanken sehr flüchtig sind, muss ich sie gleich zu Papier bringen.« 
 

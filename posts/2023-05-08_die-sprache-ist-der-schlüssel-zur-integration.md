@@ -8,14 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-04-03-Majdalawi-Mohammad.jpg">
-  <figcaption>
-
-Majd Majdalawi und Hiba Mohammad haben die deutsche Staatsbürgerschaft angenommen  
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-04-03-majdalawi-mohammad.jpg" "" "Majd Majdalawi und Hiba Mohammad haben die deutsche Staatsbürgerschaft angenommen  " %}
 
 **Reinbek –** Im Jahr 2015 kam Majd Majdalawi (35) von Syrien nach Deutschland. Seine Frau Hiba Mohammad (33) und die beiden Kinder, damals drei und ein Jahr alt, blieben vorerst zurück. Seit vielen Jahren herrscht in Syrien Krieg. Majd Majdalawi nahm den beschwerlichen Weg zu Fuß und mit dem Boot von Syrien über die Türkei und Griechenland nach Deutschland auf sich. 2016 holte er seine Frau und die Kinder über die Familienzusammenführung nach. Hiba Mohammad brauchte dafür ein Visum. In der deutschen Botschaft in Beirut hätte es viele Monate gedauert. Sie wusste, in Indien sollte es schneller gehen. Und so machte sie sich mit den Kindern dorthin auf den Weg. Drei Monate musste sie in dem fernen Land warten, bis sie ihr Visum bekam. Verbunden mit vielen Ängsten als Frau allein und zwei kleinen Kindern konnte auch sie sich dann auf den Weg nach Deutschland machen. 
 

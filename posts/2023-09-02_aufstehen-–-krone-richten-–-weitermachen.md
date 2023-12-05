@@ -8,14 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2023-26-06-Keijzer-Jan.jpg">
-  <figcaption>
-
-Jan Keijzer: »Hol raus, was du aus dem Leben rausholen kannst«
-
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2023-26-06-keijzer-jan.jpg" "" "Jan Keijzer: »Hol raus, was du aus dem Leben rausholen kannst«" %}
 
 **Reinbek –** Nur seine ersten drei Lebensmonate verbrachte Jan Keijzer (76) in Deutschland, dann zog er mit seinem niederländischen Vater und seiner deutschen Mutter nach Amsterdam. Bis er zur Schule kam, wuchs er in Geborgenheit auf. 1955 wurde seine acht Jahre jüngere Schwester geboren. Doch seine Kindheit blieb nicht unbeschwert. Im Alter von 15 Jahren kam er ins Kinderheim. Anstatt daran zu zerbrechen, weckten die Umstände seinen Ehrgeiz. »Ich merkte früh, dass ich die Dinge selbst in die Hand nehmen muss«, sagt er. Keijzer wollte sich und seinem Vater beweisen, dass er es allein schafft, seinen Weg zu gehen. Heute blickt er auf einen spannenden Berufsweg mit der großen Liebe an seiner Seite zurück. Er hat ein Buch über sein Leben geschrieben, um anderen zu zeigen, dass alles zu schaffen ist, wenn man es will. »Hol raus, was du aus dem Leben rausholen kannst«, so sein Credo. Und bei allem Erlebten ist ihm eins immer wichtig: »Ich habe nie meinen Humor verloren«, sagt er. 
 

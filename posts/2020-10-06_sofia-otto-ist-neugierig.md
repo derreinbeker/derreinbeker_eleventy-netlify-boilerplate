@@ -10,13 +10,7 @@ tags:
   - Menschen
   - TSV Reinbek
 ---
-<figure>
-  <img src="/static/media/2020-fsj-tsv-reinbek-otto-sofia.jpg">
-  <figcaption>
-Nicht mehr schwimmen zu können ist für Sofia Otto undenkbar. FOTO: Imke Kuhlmann  
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2020-fsj-tsv-reinbek-otto-sofia.jpg" "" "Nicht mehr schwimmen zu können ist für Sofia Otto undenkbar. FOTO: Imke Kuhlmann  " %}
 
 
 

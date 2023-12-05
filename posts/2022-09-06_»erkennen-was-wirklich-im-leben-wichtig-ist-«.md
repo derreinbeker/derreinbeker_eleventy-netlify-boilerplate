@@ -9,13 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-<figure>
-  <img src="/static/media/2022-06-27-Goetz-Heike-.jpg">
-  <figcaption>
-Heike Götz liebt die Natur und Norddeutschland und macht seit 23 Jahren die Sendung »Landpartie« auf NDR.     
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2022-06-27-goetz-heike-.jpg" "" "Heike Götz liebt die Natur und Norddeutschland und macht seit 23 Jahren die Sendung »Landpartie« auf NDR.     " %}
 
 **Wentorf –** Über 200 Sendungen wurden bereits gedreht, alle mit dem Gesicht Norddeutschlands, wie Heike Götz auch genannt wird. Bekannt ist die Moderatorin durch die Sendung »Landpartie« auf NDR. Dort radelt sie mit einem roten Fahrrad durch die Lande. Von Frühjahr bis Herbst ist die Moderatorin mit ihrem Fernsehteam auf Tour, um die schönsten Flecken Norddeutschlands zu entdecken. Besonderen Reiz machen für sie die Menschen und ihre Natürlichkeit aus, die der von Heike Götz entspricht. 
 

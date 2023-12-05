@@ -10,13 +10,7 @@ tags:
   - Armut in Deutschland
   - re-tweet
 ---
-<figure>
-  <img src="/static/media/2021-04-SozMarkt.jpg">
-  <figcaption>
-Anzeige von insm.de in der Süddeutschen Zeitung vom 21. April 2021 auf Seite 5   
-   
-  </figcaption>
-</figure>
+{% imageWithCaption "media/uploads/2021-04-sozmarkt.jpg" "" "Anzeige von insm.de in der Süddeutschen Zeitung vom 21. April 2021 auf Seite 5   " %}
 
 
 

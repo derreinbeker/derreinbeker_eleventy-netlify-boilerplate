@@ -12,11 +12,9 @@ tags:
   - Schillerrede
   - Kolonialismus
 ---
-Was wird Abdulrazak Gurnah gedacht haben, als er als Fünfzehnjähriger 1964 in einer von der DDR eingerichteten Bibliothek in Sansibar in Schillers Gedicht »Das Geheimnis« die Zeilen las: »Die Welt wird nie das Glück erlauben, als Beute wird es nur gehascht«? In dem Gedicht eines Deutschen. Dem Angehörigen eines Volkes, dessen koloniale Vergangenheit in Deutsch-Ost- und Süd-
+Was wird Abdulrazak Gurnah gedacht haben, als er als Fünfzehnjähriger 1964 in einer von der DDR eingerichteten Bibliothek in Sansibar in Schillers Gedicht »Das Geheimnis« die Zeilen las: »Die Welt wird nie das Glück erlauben, als Beute wird es nur gehascht«? In dem Gedicht eines Deutschen. Dem Angehörigen eines Volkes, dessen koloniale Vergangenheit in Deutsch-Ost- und Südwest-Afrika einen grausamen Mythos bewirkte. 
 
-west-Afrika einen grausamen Mythos bewirkte. 
-
-Am  12. November 2023 hielt der tansanische Schriftsteller (Foto), der 2021 mit dem Literaturnobelpreis ausgezeichnet wurde, im Deutschen Literaturarchiv Marbach die Schillerrede. »Die ersten Geschichten über das, was ich heute als Deutsch-Ostafrika kenne«, sagt Abdulrazak Gurnah, »hörte ich von meinem Großvater.« Er war Lastträger für die Schutztruppe der Askari. 
+Am 12. November 2023 hielt der tansanische Schriftsteller (Foto), der 2021 mit dem Literaturnobelpreis ausgezeichnet wurde, im Deutschen Literaturarchiv Marbach die Schillerrede. »Die ersten Geschichten über das, was ich heute als Deutsch-Ostafrika kenne«, sagt Abdulrazak Gurnah, »hörte ich von meinem Großvater.« Er war Lastträger für die Schutztruppe der Askari. 
 
 Zur Erinnerung: Chef der Schutztruppe in der früheren Kolonie Deutsch-Ostafrika war General Paul von Lettow-Vorbeck, mit dessen Ehrenmal man heute noch überraschend während eines Spaziergangs im Garten des Aumühler Restaurants »Waldesruh am See« konfrontiert werden kann.
 

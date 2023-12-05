@@ -3,7 +3,7 @@ titleintro: Menschen bei uns
 title: Gemeinsam Abschied nehmen
 description: Beate Neugebauer engagiert sich sein acht Jahren für den Ambulanten
   Hospizdienst in Reinbek
-authorname: Imke Kuhlmann.
+authorname: Imke Kuhlmann
 date: 2023-11-20T17:12:42.742Z
 category: Panorama
 tags:

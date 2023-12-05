@@ -1,0 +1,29 @@
+---
+titleintro: re-view
+title: Warum so grausam?
+description: |-
+  Die Schillerrede 2023 von Abdulrazak Gurnah und Deutschlands 
+  koloniale Vergangenheit in Deutsch-Ost- und Südwest-Afrika
+authorname: Hartmuth Sandtner
+date: 2023-12-04T14:49:39.241Z
+category: Meinung
+tags:
+  - Abdulrazak Gurnah
+  - Schillerrede
+  - Kolonialismus
+---
+Was wird Abdulrazak Gurnah gedacht haben, als er als Fünfzehnjähriger 1964 in einer von der DDR eingerichteten Bibliothek in Sansibar in Schillers Gedicht »Das Geheimnis« die Zeilen las: »Die Welt wird nie das Glück erlauben, als Beute wird es nur gehascht«? In dem Gedicht eines Deutschen. Dem Angehörigen eines Volkes, dessen koloniale Vergangenheit in Deutsch-Ost- und Süd-
+
+west-Afrika einen grausamen Mythos bewirkte. 
+
+Am  12. November 2023 hielt der tansanische Schriftsteller (Foto), der 2021 mit dem Literaturnobelpreis ausgezeichnet wurde, im Deutschen Literaturarchiv Marbach die Schillerrede. »Die ersten Geschichten über das, was ich heute als Deutsch-Ostafrika kenne«, sagt Abdulrazak Gurnah, »hörte ich von meinem Großvater.« Er war Lastträger für die Schutztruppe der Askari. 
+
+Zur Erinnerung: Chef der Schutztruppe in der früheren Kolonie Deutsch-Ostafrika war General Paul von Lettow-Vorbeck, mit dessen Ehrenmal man heute noch überraschend während eines Spaziergangs im Garten des Aumühler Restaurants »Waldesruh am See« konfrontiert werden kann.
+
+»Besonders einprägsam«, so Abdulrazak Gurnah, »waren seine vielen Geschichten über die Grausamkeit der afrikanischen Söldner und die brutalen Strafen seitens der deutschen Offiziere. Deutsch-Ostafrika existierte nur von 1888 bis 1918, aber es waren Jahre fast ständiger Konflikte zwischen der deutschen Verwaltung und der einheimischen Bevölkerung, die 1905 im Maji-Maji-Aufstand gipfelten. Offiziellen Schätzungen zufolge verhungerten bei diesem Aufstand 75.000 Zivilisten. Ein Jahrzehnt später, während des Konflikts 1914-18 in Deutsch-Ostafrika \[...] starben geschätzt mindestens 300.000 afrikanische Zivilisten durch erzwungene Arbeit und durch die Beschlagnahmung von Lebensmitteln, die zum Massenverhungern führte. Die historische Verantwortung für diese Taten«, so Abdulrazak Gurnah, »muss anerkannt werden. Die Verantwortung für Unrecht zu übernehmen, ist der erste Schritt zu Verständnis und Versöhnung«. 
+
+Dass wir in Deutschland von diesem Versöhnungsschritt noch weit entfernt sind, beschreibt Benno Schirrmeister in seinem Beitrag »Zeugen der Verbrechen« vom 27.11.23 in der taz: »Worte wie Schuld oder gar Verbrechen hat sich der Bundespräsident gehütet, in den Mund zu nehmen« am 1. November in seiner Rede an der Gedenkstätte für Songea Mbano in Tansania.« Mbano war im Maji-Maji-Krieg ein wichtiger Anführer in der Erhebung gegen die Deutschen. »Ein Mahnmal für die Opfer des mit Gewehren, Bajonetten und Hunger geführten Maji-Maji-Kriegs fehlt bislang im Land der Täter«, stellt Schirrmeister fest und beschreibt, wie die koloniale Ausbeutung, die auch vor Landkaufbetrug nicht zurückschreckte, Bremer und Hamburger Kaufleute reich machte und wie ihre Forderungen nach Unterschutzstellung ihrer Übersee-Unternehmungen die Voraussetzung schafften für den staatlichen Kolonialismus, der im Deutschen Reich 1884 einsetzt.
+
+Die Briten bildeten in Abdulrazak Gurnahs Erinnerung »eine alltägliche \[...] Präsenz. Die Deutschen aber nahmen in unserer historischen Vorstellung einen ganz anderen Raum ein. Die Deutschen hingegen waren ein Mythos, und ihre Abwesenheit verlieh dem Mythos nur noch mehr Kraft. Was war dieser Mythos? Leider muss ich sagen: Es war ein Mythos der unerbittlichen Grausamkeit.« Und er fragt sich, »welchen Gründen diese Grausamkeit in der Geschichte des deutschen Kolonialismus in Afrika entstammt. »Es war unter anderem diese Frage, die mich dazu brachte«, so Gurnah, »über den Konflikt in Deutsch-Ostafrika in der Zeit von 1914-18 zu schreiben. So entstand der Roman „Nachleben“. \[...] Als ich dann so weit war, kam mir Schiller in den Sinn, und die Erfahrung, als Teenager seine Gedichte gelesen zu haben. Vor allem erinnerte ich mich an „Das Geheimnis“, an dieses Plädoyer gegen die Vorherrschaft des Materialismus im menschlichen Leben \[...]. Das Gedicht \[...] half mir auch, mich selbst sowie all die Menschen, die mein Buch für ihrer Zeit würdig befanden, daran zu erinnern, dass Mythen oft eine kompliziertere Realität umgestalten. All das hatte einen gewissen Einfluss auf die Art, wie ich mir den deutschen Offizier in meinem Roman vorstellte. Wenn Menschen im Dienste einer grausamen Ideologie stehen, wenn sie in dieser Ideologie einen Sinn sehen, aber sich doch über ihre Taten zwiegespalten fühlen, reicht dieser Zwiespalt oft nicht aus, um sich aufzulehnen. Sich auflehnen würde schließlich bedeuten, sich gegen seine Gemeinschaft zu stellen, gegen die gemeinsame soziale Identität, gegen die gesellschaftlichen Institutionen, die einen schützen und zu seinem Tun berechtigen. Der gefühlte Zwiespalt stünde im Widerspruch zu jahrzehntelanger europäischer Selbstdarstellung.«
+
+»Der Koalitionsvertrag der Ampelregierung«, verrät Schirrmeister, »verheißt einen Lern- und Erinnerungsort Kolonialismus, ohne festzulegen, wo er hinkommt: Hamburg und Bremen hätten ihn beide gerne, und mitunter wirkt es, als wäre in perverser Weise eine alte Konkurrenz wiederbelebt, wer von beiden als Stadt der Kolonien gelten darf.«

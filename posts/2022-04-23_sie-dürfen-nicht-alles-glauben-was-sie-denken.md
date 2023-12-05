@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Sie dürfen nicht alles glauben  was Sie denken!
 description: Die Ästhetisierung des Krieges. An Stelle von Ästhetisierung muss
   mit voller Empathie und Emotion das hierfür notwendige Unterscheidungsvermögen

@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »So stehen wir da.«
 description: Die einen sehen in Waffenlieferungen und Aufrüstung für die Ukraine
   das Gebot der Stunde, die anderen fordern sofortige Verhandlungen mit Russland

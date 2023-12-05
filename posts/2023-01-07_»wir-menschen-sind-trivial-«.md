@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Wir Menschen sind trivial.«
 description: Alle wissen, dass der Planet diese Entwicklung auf Dauer nicht
   aushalten kann. Aber alle machen weiter.

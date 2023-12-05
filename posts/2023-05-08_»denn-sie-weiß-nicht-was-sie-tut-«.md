@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Denn sie weiß nicht,  was sie tut.«
 description: Künstliche Intelligenz (KI)
 authorname: Hartmuth Sandtner

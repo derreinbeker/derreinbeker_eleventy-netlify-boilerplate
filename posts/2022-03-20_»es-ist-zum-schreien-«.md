@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Es ist zum schreien.«
 description: Über die Lage der Frauen in Deutschland auf der Grundlage eines
   sechsseitigen Artikels im Magazin der Süddeutschen Zeitung vom 18.2.2022

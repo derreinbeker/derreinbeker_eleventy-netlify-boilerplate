@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »O, Muse, du im Glorienscheine, du Schwester des Apoll, du Reine«
 description: Die Ukraine, der Überfall durch Russland und seine Folgen
 authorname: Hartmuth Sandtner

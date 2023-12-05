@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Das darwinistische Prinzip
 description: Warum Amok und Gewalt kein Zufall sind
 authorname: Hartmuth Sandtner

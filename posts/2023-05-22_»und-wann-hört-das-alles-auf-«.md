@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Und wann  hört das alles auf?«
 description: Wider den Zeitgeist, der dem Kompromiss – dem Willen zur
   Verständigung – einen schlechten Ruf zugewiesen hat.

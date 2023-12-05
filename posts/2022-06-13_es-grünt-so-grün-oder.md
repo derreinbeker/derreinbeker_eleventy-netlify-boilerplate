@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Es grünt so grün. Oder?
 description: Die GRÜNE Außenministerin Annalena Baerbock hat »den westlichen
   Staaten« Kriegsmüdigkeit vorgeworfen (bit.ly/3wSR2tS)

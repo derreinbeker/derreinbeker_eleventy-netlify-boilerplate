@@ -7,7 +7,9 @@ authorname: Hartmuth Sandtner
 date: 2023-09-25T15:42:52.963Z
 category: Meinung
 tags:
-  - Krieg Russland-Ukraine
+  - Krieg
+  - Russland
+  - Ukraine
 ---
 Unter der Überschrift »Die Heimatgebliebenen« berichtet Silke Bigalke in der Süddeutschen Zeitung v. 26.8.23 auf drei Seiten von der Lebenssituation von fünf russischen BürgerInnen, die trotz regierungsoppositioneller Haltung bisher im Land geblieben sind. Im Laufe vieler Monate fragte sie Kirill Gontscharow, Alisa Gorschenina, Oleg Orlow, Wladimir Bilijenko und Lida Moniawa in vielen Gesprächen, am Telefon und persönlich, in Moskau und weiter weg, was hält sie zu Hause, was hält sie am Leben. Ich denke, angesichts der Nachrichtenflut in den Medien zur Ukraine sind wir es Russland und seinen Menschen schuldig, ihren Alltag, ihre Gedanken, Hoffnungen und Argumente zu kennen – auch wenn es nur wenige Stimmen sind – weil  sie unsere Weltsicht schärfen.
 

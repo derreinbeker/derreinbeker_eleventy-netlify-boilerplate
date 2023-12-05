@@ -7,7 +7,8 @@ authorname: Hartmuth Sandtner
 date: 2023-11-20T17:20:57.461Z
 category: Meinung
 tags:
-  - Angriff der Hamas auf Israel
+  - Hamas
+  - Israel
 ---
 Die schottische Schriftstellerin A. L. Kennedy setzt sich in ihrer Rede zur Eröffnung der BUCH WIEN (Süddeutsche Zeitung, 8.11.23) kritisch mit der Kultursituation in Großbritannien auseinander und warnt die Zuhörer davor, zu »vergessen, dass Worte Macht und Bedeutung haben« und es gefährlich ist, »diese Macht und Bedeutung den Schlimmsten unter uns \[zu] überlassen.« Der Gesprächsspaziergang von Bundeswirtschaftsminister Robert Habeck mit dem Pianisten Igor Levit (www.youtube.com/watch?v=t-NB_vMmG1E) hat den »Angriff der Hamas auf Israel« – wie Habeck die Situation zum Einstieg formuliert – zum Thema. Und es geht auch um Worte. Und ihre Wirkung auf die Gesellschaft, wenn sie ausbleiben und von manchen schmerzlich vermisst werden.
 

@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Darum will ich von dir das Gute«.
 description: Was hat es mit dem sogenannten »Bösen«, das manchen von uns
   entgegen springt, auf sich?

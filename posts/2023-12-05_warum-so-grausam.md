@@ -8,7 +8,6 @@ authorname: Hartmuth Sandtner
 date: 2023-12-04T14:49:39.241Z
 category: Meinung
 tags:
-  - Abdulrazak Gurnah
   - Schillerrede
   - Kolonialismus
 ---

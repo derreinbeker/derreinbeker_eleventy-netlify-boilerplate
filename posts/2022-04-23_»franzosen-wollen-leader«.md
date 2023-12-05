@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Franzosen wollen Leader«
 description: >-
   Wir leben in Hierarchien und machen damit die Potentialentfaltung

@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Armut ist die  schlimmste Form von  Gewalt.        (Mahatma Gandhi)
 description: Wenn jetzt nichts kommt, was den Menschen wirklich hilft, werden
   sie auf die Straße gehen

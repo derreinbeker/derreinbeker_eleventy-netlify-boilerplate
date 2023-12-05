@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Unsere Werte
 description: Wo bleiben in der Militärlogik der Politik unsere Werte?
 authorname: Hartmuth Sandtner

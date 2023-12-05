@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »What a Piece of Wreck is Man«
 description: »Der verletzte Mensch«.
 authorname: Hartmuth Sandtner

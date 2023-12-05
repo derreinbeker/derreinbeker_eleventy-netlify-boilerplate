@@ -9,7 +9,8 @@ authorname: "Susanne Nowacki "
 date: 2021-06-22T11:53:00.630Z
 category: Panorama
 tags:
-  - Messe »Viva Seniores«
+  - Messe
+  - Viva Seniores
 ---
 {% imageWithCaption "media/uploads/2021-08-02-viva-seniores-orgateam.jpg" "" "Susann Pötter, Kurt Martens und Anke Conradi freuen sich, dass endlich wieder Messen möglich sind. Susanne Pötter: »Auch Familien sind willkommen, denn Älterwerden ist ein Thema für klein und groß!«   " %}
 

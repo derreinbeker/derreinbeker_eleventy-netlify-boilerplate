@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Die »Kraft des Grau«
 description: Was ist eigentlich non-binär und die »Kraft des Grau«?
 authorname: Hartmuth Sandtner

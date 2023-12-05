@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Homo sapiens und wir
 description: Über-)Leben der menschlichen Spezies und die deutsche Politik
 authorname: Hartmuth Sandtner

@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »völlig bekloppt«
 description: >-
   Wie Politiker auf die Klimakatastrophe und auf die Proteste der

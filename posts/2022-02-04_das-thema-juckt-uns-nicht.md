@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Das Thema juckt uns nicht
 description: Darstellung der Pflegesituation in Deutschland auf Basis eines
   Beitrages von Rainer Stadler in der Süddeutschen Zeitung vom 22.1.2022

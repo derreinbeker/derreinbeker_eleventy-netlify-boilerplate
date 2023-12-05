@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Wir führen Krieg gegen unsere  Kinder. Und wir gewinnen ihn.«
 description: Die Schule braucht die Hilfe der Psychologie
 authorname: Hartmuth Sandtner

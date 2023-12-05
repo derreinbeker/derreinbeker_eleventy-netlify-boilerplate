@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Sie wissen das alles.
 description: Folgen der Klimakatastrophe für die Zukunft der Menschheit
 authorname: Hartmuth Sandtner

@@ -1,7 +1,7 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: Pluralismus statt Uniformität
-description: Der re-tweet befasst sich mit zwei größeren Beiträgen, die in
+description: Der re-view befasst sich mit zwei größeren Beiträgen, die in
   diesen Tagen im »der Freitag« und im »Hamburger Abendblatt« veröffentlicht
   wurden und sich mit dem deutschen Verhältnis zu Russland beschäftigen.
 authorname: Hartmuth Sandtner

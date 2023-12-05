@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »Lieber John Wayne als das!«
 description: Es geht um Wahrheitsfindung. Im Zentrum steht dabei ein Interview,
   das die Philosophin Carolin Emcke am 28.4.22 auf dem Republik-Tag des

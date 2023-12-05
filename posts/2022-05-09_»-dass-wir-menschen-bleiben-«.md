@@ -1,5 +1,5 @@
 ---
-titleintro: re-tweet
+titleintro: re-view
 title: »dass wir MENSCHEN bleiben«
 description: Die Lesekompetenz sinkt in Deutschland. »Angesichts der Bedeutung
   dieser Kulturtechnik für den Einzelnen und die Gesellschaft ist das

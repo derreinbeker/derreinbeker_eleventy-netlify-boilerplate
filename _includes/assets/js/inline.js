@@ -1,3 +1,4 @@
+{% if section == "home" %} 
 if (window.netlifyIdentity) {
   window.netlifyIdentity.on("init", user => {
     if (!user) {
@@ -7,3 +8,4 @@ if (window.netlifyIdentity) {
     }
   });
 }
+{% endif %}

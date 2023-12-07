@@ -57,13 +57,9 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--red);
-}
-
-a[href]:not(:hover) {
+a:any-link {
 	text-decoration: none;
+	color: var(--red);
 }
 
 main,
@@ -141,6 +137,7 @@ body > header nav ul :first-child {
 body > header nav li {
 	display: inline-block;
 	margin: 0 .5em;
+	color: var(--red);
 }
 
 body > header nav li a[href]:not(:hover) {
@@ -149,7 +146,6 @@ body > header nav li a[href]:not(:hover) {
 
 body > header nav li a[data-current="current item"] {
 	font-weight: 700;
-	text-decoration: underline;
 }
 
 /* Posts List */
@@ -162,8 +158,10 @@ article {
 	word-break: break-word;
 }
 
-article>h2 {
+article h2 {
 	margin-top: 20px;
+	color: var(--red);
+	font-weight: normal;
 }
 
 article header > h2 + h1 {
@@ -171,7 +169,10 @@ article header > h2 + h1 {
 }
 
 article header > h2 {
-	margin-bottom: 6px;
+	margin-bottom: 12px;
+	font-size: .83em;
+	color: var(--red);
+	font-weight: normal;
 }
 
 article>.tags {
@@ -199,6 +200,10 @@ article figure>figcaption {
 	font-size: smaller;
 }
 
+article p a:any-link {
+	text-decoration: none;
+	color: var(--red);
+}
 
 .videocontainer {
     position: relative;
@@ -230,8 +235,10 @@ article > *:last-child {
 	padding-top: 0;
 }
 
-.articlelist > article > h2 {
-	margin-bottom: 4px;
+.articlelist > article h2 {
+	margin-bottom: 6px;
+	font-size: .83em;
+	color: var(--red);
 }
 
 .articlelist > article {
@@ -246,7 +253,7 @@ article > *:last-child {
 
 .articlelist > article > * {
 	margin-top: 0;
-	margin-bottom: .5em;
+	margin-bottom: .2em;
 }
 
 .articlelist > article > *:last-child {
@@ -254,8 +261,12 @@ article > *:last-child {
 }
 
 .articlelist > article h1 {
-	font-size: 1.25em;
+	font-size: 1.1em;
 	line-height: 1.3em;
+}
+
+.articlelist article a:any-link {
+	color: inherit;
 }
 
 /* Post Tags */

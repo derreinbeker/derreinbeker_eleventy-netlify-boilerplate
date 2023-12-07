@@ -2,7 +2,9 @@
 	{% for post in postslist %}
 		<article>
 			{% if post.data.titleintro %}
-				<h2>{{ post.data.titleintro }}</h2>
+				<a href="{{ post.url | url }}">
+					<h2>{{ post.data.titleintro }}</h2>
+				</a>
 			{% endif %}
 			<h1>
 				<a href="{{ post.url | url }}">
@@ -14,11 +16,13 @@
 				</a>
 			</h1>
 			<p>
-				{% if post.data.description %}
-					{{ post.data.description }}
-				{% else %}
-					{{ post.templateContent | excerpt | striptags }}
-				{% endif %}
+				<a href="{{ post.url | url }}">
+					{% if post.data.description %}
+						{{ post.data.description }}
+					{% else %}
+						{{ post.templateContent | excerpt | striptags }}
+					{% endif %}
+				</a>
 			</p>
 		</article>
 	{% endfor %}

@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: true
   <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
   <id>{{ metadata.url }}/feed.xml</id>
   <author>
-    <name>Sandtner Werbung GbR</name>
+    <name>Sandtner Werbung</name>
     <email>redaktion@derreinbeker.de</email>
   </author>
   {%- for post in collections.posts | head(-20) %}

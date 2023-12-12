@@ -1,8 +1,7 @@
 ---
 titleintro: re-view
 title: Warum so grausam?
-description: |-
-  Die Schillerrede 2023 von Abdulrazak Gurnah und Deutschlands 
+description: Die Schillerrede 2023 von Abdulrazak Gurnah und Deutschlands
   koloniale Vergangenheit in Deutsch-Ost- und Südwest-Afrika
 authorname: Hartmuth Sandtner
 date: 2023-12-04T14:49:39.241Z

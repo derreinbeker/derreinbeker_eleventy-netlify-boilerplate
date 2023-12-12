@@ -23,6 +23,14 @@
   <meta name="msapplication-config" content="/media/favicons/browserconfig.xml?v=1">
   <meta name="theme-color" content="#ffffff">
   
+  <!-- Social -->
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ metadata.title }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Der Reinbeker – Kommunikation in Reinbek">
+  <meta property="og:description" content="{{ description or title }}">
+  <meta property="og:image" content="/media/open_graph_logo.png">
+  <meta property="og:url" content="{{ metadata.url }}">
+
   {# RSS Feed #}
   <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="{{ metadata.title }}">
   <link rel="stylesheet" href="/_includes/assets/css/normalize.css">

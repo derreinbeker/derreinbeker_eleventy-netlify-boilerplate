@@ -27,6 +27,7 @@
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@zachleat/snow-fall": "^1.0.2",
     "clean-css": "^5.3.2",
     "html-minifier": "^4.0.0",
     "luxon": "^3.4.4",

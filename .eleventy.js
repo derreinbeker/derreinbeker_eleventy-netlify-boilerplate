@@ -44,6 +44,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy( {
+    "node_modules/@zachleat/snow-fall/snow-fall.js": `_includes/assets/js/snow-fall.js`,
+  });
 
   // eleventy-plugins-rss
   eleventyConfig.addPlugin(pluginRss)

@@ -5,9 +5,9 @@ description: "Hier finden Sie die aktuelle und ältere Ausgaben des Reinbekers z
 permalink: /downloads/index.html
 ---
 
-{% set sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
-{% set sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | startsWithString("2024") %}
-{% set sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | startsWithString("2023") %}
+{% assign sortedDownloadablePrintEditions = downloadablePrintEditions | sort | reverse %}
+{% assign sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | startsWithString:"2024" %}
+{% assign sortedDownloadablePrintEditionsOf2023 = sortedDownloadablePrintEditions | startsWithString:"2023" %}
 
 <h1>Downloads</h1>
 
@@ -15,8 +15,8 @@ permalink: /downloads/index.html
 <p>Hier finden Sie die <a href="https://{{ metadata.downloadshost }}/ausgaben/{{ sortedDownloadablePrintEditions | first }}">aktuelle</a> und ältere Ausgaben des Reinbekers zum Download als PDF.</p>
 
 
-{% if sortedDownloadablePrintEditionsOf2024|length %}
-  <h3>2024/h3>
+{% if sortedDownloadablePrintEditionsOf2024.size > 0 %}
+  <h3>2024</h3>
   <ul class="printeditions">
   {% for editionFilename in sortedDownloadablePrintEditionsOf2024 %}
       <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
@@ -24,7 +24,7 @@ permalink: /downloads/index.html
   </ul>
 {% endif %}
 
-{% if sortedDownloadablePrintEditionsOf2023|length %}
+{% if sortedDownloadablePrintEditionsOf2023.size > 0 %}
   <h3>2023</h3>
   <ul class="printeditions">
   {% for editionFilename in sortedDownloadablePrintEditionsOf2023 %}

@@ -29,8 +29,8 @@ module.exports = {
         return module.exports.machineDate(new Date(filenameWithoutExtension));
     },
 
-    includesString: function(array, otherString) {
-        return array.filter(string => string.includes(otherString));
+    startsWithString: function(array, otherString) {
+        return array.filter(string => string.startsWith(otherString));
     },
 
     // Date formatting (human readable)

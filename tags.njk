@@ -5,7 +5,10 @@ pagination:
   alias: tag
 permalink: /thema/{{ tag | slugify }}/
 layout: layouts/base.njk
-description: "Alle Beiträge zum Thema"
+eleventyComputed: 
+  title: "{{ tag }} – Alle Beiträge"
+  description: "Alle Beiträge zum Thema \"{{ tag }}\""
+
 ---
 
 <h1>{{ tag }}</h1>

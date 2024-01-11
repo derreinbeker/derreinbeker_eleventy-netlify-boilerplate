@@ -9,7 +9,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-
+{% imageWithCaption "media/uploads/2023-12-18-wywiol-volkmar.jpg" "Lächelnder Volkmar Wywiol" "Lösungen sind für Wywiol der Weg, um nach vorne zu kommen." %}
 
 Volkmar Wywiol ist ein erfolgreicher Geschäftsmann. 1980 hat er sich als »One-Man-Show« selbstständig gemacht. Inzwischen ist er mit seiner Firma, die mittlerweile von seinem Sohn Torsten geführt wird, mit über 2.000 Mitarbeitenden weltweit im Bereich der Zusatzstoffe für Lebensmittel und Tierernährung sowie Nahrungsergänzungsmitteln erfolgreich. Der Senior hat drei Kinder und neun Enkelkinder im Alter von dreizehn bis 27 Jahren.
 

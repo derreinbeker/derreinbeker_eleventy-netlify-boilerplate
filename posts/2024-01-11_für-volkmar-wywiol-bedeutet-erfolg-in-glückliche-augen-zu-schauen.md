@@ -11,8 +11,6 @@ tags:
 ---
 
 
-
-
 Volkmar Wywiol ist ein erfolgreicher Geschäftsmann. 1980 hat er sich als »One-Man-Show« selbstständig gemacht. Inzwischen ist er mit seiner Firma, die mittlerweile von seinem Sohn Torsten geführt wird, mit über 2.000 Mitarbeitenden weltweit im Bereich der Zusatzstoffe für Lebensmittel und Tierernährung sowie Nahrungsergänzungsmitteln erfolgreich. Der Senior hat drei Kinder und neun Enkelkinder im Alter von dreizehn bis 27 Jahren.
 
 Für Wywiol bedeutet Erfolg Menschen zu begeistern, sie glücklich zu machen, ganz besonders im Ehrenamt. Durch Zufall hat er vor 20 Jahren von einer deutschen Ordensschwester erfahren, die in jungen Jahren nach Uganda gegangen ist. In der Bergregion Butiru lebt Ordensschwester Elisabeth mit ihrem Mann und vier eigenen – inzwischen erwachsenen – Kindern sowie zehn Waisenkindern. Mit Hilfe vieler Spenden hat sie in drei Jahrzehnten 46 Schulen, Krankenstationen, Häuser für Witwen und Waisenkinder aufgebaut. Im Jahr 2018 wurde ihr für dieses Engagement das Bundesverdienstkreuz verliehen. 

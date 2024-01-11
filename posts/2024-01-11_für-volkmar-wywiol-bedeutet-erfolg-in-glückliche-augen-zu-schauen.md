@@ -1,0 +1,28 @@
+---
+titleintro: Menschen bei uns
+title: Für Volkmar Wywiol bedeutet Erfolg,  in glückliche Augen zu schauen
+description: Der Wohhltorfer Volkmar Wywiol engagiert sich seit Jahrzehnten in
+  Afrika, beispielsweise mit der Initiative »More Milk for Children in Uganda«
+authorname: Imke Kuhlmann
+date: 2023-12-18T09:12:17.517Z
+category: Panorama
+tags:
+  - Menschen
+---
+
+
+
+
+Volkmar Wywiol ist ein erfolgreicher Geschäftsmann. 1980 hat er sich als »One-Man-Show« selbstständig gemacht. Inzwischen ist er mit seiner Firma, die mittlerweile von seinem Sohn Torsten geführt wird, mit über 2.000 Mitarbeitenden weltweit im Bereich der Zusatzstoffe für Lebensmittel und Tierernährung sowie Nahrungsergänzungsmitteln erfolgreich. Der Senior hat drei Kinder und neun Enkelkinder im Alter von dreizehn bis 27 Jahren.
+
+Für Wywiol bedeutet Erfolg Menschen zu begeistern, sie glücklich zu machen, ganz besonders im Ehrenamt. Durch Zufall hat er vor 20 Jahren von einer deutschen Ordensschwester erfahren, die in jungen Jahren nach Uganda gegangen ist. In der Bergregion Butiru lebt Ordensschwester Elisabeth mit ihrem Mann und vier eigenen – inzwischen erwachsenen – Kindern sowie zehn Waisenkindern. Mit Hilfe vieler Spenden hat sie in drei Jahrzehnten 46 Schulen, Krankenstationen, Häuser für Witwen und Waisenkinder aufgebaut. Im Jahr 2018 wurde ihr für dieses Engagement das Bundesverdienstkreuz verliehen. 
+
+Eines Tages erhielt Wywiol von Schwester Elisabeth den üblichen Jahresbericht. Ein kleiner Nebensatz elektrisierte ihn: »Hätte ich einen Bullen, könnte ich meine Waisenkinder besser ernähren«, schrieb sie. Spontan rief er seine Assistentin zu sich und begeisterte sie, im Nachbarland Kenia einen Bullen zu beschaffen. Aus einem Bullen wurden mehrere Bullen und vor zwei Jahren kam die Idee, auch Milchkühe zu beschaffen, hinzu. »Die Kinder leiden unter Mangelernährung, es fehlt an Eiweiß, insbesondere Milch«, sagt er.  Daraus entstand die Initiative »More Milk for Children in Uganda«. »Eine Kuh kostet 300 Euro, gibt fünf Liter Milch und eine Mutter kann damit acht bis zehn Kindern täglich einen halben Liter geben und das über viele Jahre«. Wywiol überzeugte Freunde und Geschäftspartner und konnte inzwischen Spenden für 800 Kühe einsammeln. Begeistert erzählt er mit strahlenden Augen: »Wenn eine Kuh übergeben wird, gibt es einen Freudentanz. Die Mütter machen sich mit bunten Kleidern schön und versuchen damit ihre Dankbarkeit auszudrücken«. Fast täglich tauschen sich Wywiol und Schwester Elisabeth per eMail und WhatsApp aus. So ist er auch über den aktuellen Spendenstand auf dem Laufenden. Vor Ort entwickelt sich das Projekt immer weiter. Die Kühe werden an Mütter, die in 130 Frauengruppen organisiert sind, übergeben mit der Auflage, die ersten beiden Kälber an andere Frauen weiterzugeben. 
+
+Der Wohltorfer liebt Afrika und hat den Kontinent oftmals besucht. »Afrika ist ein Kontinent, der Zukunft hat«, sagt er. Für die in Armut lebenden Mütter und Kinder in Butiru lässt er sich immer Neues einfallen, um Kuhspenden zu generieren. Erst kürzlich hat er den »Kuh-Botschafter« erfunden, ausgezeichnet wird jener Multiplikator, der die größte Zahl weiterer Freunde als Spender gewinnt. Rund 20 Prozent seiner Zeit gelte seinem Ehrenamt. 
+
+Und eine weitere neue Idee ist schon in Arbeit: Wildbienen. »Ein lokaler Bienenkorb kostet 100 Euro, die Natur dort eignet sich ideal für die Bienenzucht«, erklärt er und ergänzt: «leider fehlt es immer an der Anschubfinanzierung«. Doch die Bienenzucht sei nicht ganz einfach. Die Frauen müssen lernen, mit den Wildbienen umzugehen und den Honig richtig zu ernten. Wywiol hat lokale Imker gefunden, die die Frauen ausbilden. Lehrer John zeigte sich besonders talentiert. Wywiol lud ihn nach Hamburg ein und ließ ihn von einem hiesigen professionellen Imker vier Wochen weiterbilden. Ein Bienenvolk brächte drei Ernten pro Jahr, daraus kämen zehn bis zwölf Liter Honig. Für Wywiol geht es auch hier um Hilfe zur Selbsthilfe. Er möchte den Frauen eine Chance geben, zu arbeiten und die Familie zu ernähren. Er möchte ihnen langfristig eine finanzielle Basis sichern.   
+
+Engagement ist für Wywiol nicht neu. Rund zehn Jahre lang war er Vorsitzender des TTK (Tontaubenklub) in Wohltorf. Sportlich ist er immer noch unterwegs, am liebsten beim Golfspielen, ein Hobby, das er gern mit seiner Frau Gerda teilt. Und ebenso eine künstlerische Ader steckt in dem Mann. Vor 23 Jahren hat er für seinen ältesten Enkel ein Kinderbuch geschrieben: »Archimikki kann fliegen«, bei dem es um Erlebnisse im Sachsenwald geht. Dafür hat er kurzerhand einen Verlag gegründet und veröffentlicht hier heute unter anderem auch Fachliteratur. Und auch die Kunst hat es ihm angetan. »Ich wollte als Jugendlicher Künstler werden, doch mein Vater riet mir davon ab«, sagt er. Aber Kunst hat seinen Lebensweg stets begleitet, und so rief er kurzerhand »An der Alster« eine Galerie ins Leben. »Ich habe meine Kreativität auch genutzt, um beruflich immer Lösungen zu finden«. Lösungen sind für Wywiol der Weg, um nach vorne zu kommen. Und diese sucht er genauso im Ehrenamt für die Menschen in Afrika. 
+
+Spenden für seine Projekte »More Milk for Children in Uganda« und »More Honey for Children in Uganda« können auf das Spendenkonto IBAN: DE07257916350061887000 mit dem Verwendungszweck »MoreMilk« oder »Honigfarm« überwiesen werden. Spendenquittungen werden selbstverständlich ausgestellt bei vollständiger Angabe der Adresse.

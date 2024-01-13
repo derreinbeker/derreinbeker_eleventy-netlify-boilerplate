@@ -33,8 +33,5 @@
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
     "uglify-es": "^3.3.9"
-  },
-  "dependencies": {
-    "@zachleat/snow-fall": "^1.0.2"
   }
 }

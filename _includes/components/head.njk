@@ -42,7 +42,6 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
-  <script type="module" src="/_includes/assets/js/snow-fall.js"></script>
 
   {% if section == "home" %} 
     <link rel="dns-prefetch" href="https://identity.netlify.com">

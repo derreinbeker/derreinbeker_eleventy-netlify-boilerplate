@@ -9,7 +9,7 @@ tags:
   - Menschen
 ---
 
-{% imageWithCaption "media/uploads/2024-01-29-Schmidt-Didlaukis-Tom.jpg" "" "Der 20-jährige studiert Psychologie" %}
+{% imageWithCaption "media/uploads/2024-01-29-schmidt-didlaukis-tom.jpg" "" "Der 20-jährige studiert Psychologie" %}
 
 
 Reinbek – Es war ein Eishockeyspiel der Hamburg Freezers, das den Grundstein für den Erfolg des Reinbekers Tom Schmidt-Didlaukies legte. »Ich war fünf Jahre alt, als ich mit meinen Eltern ein Spiel dieser Eishockeymannschaft besuchte«, sagt der 20-jährige. Tom wollte jetzt auch Eishockey spielen. Doch er war noch klein und somit hätten  die Eltern ihn viel fahren müssen. Also schlugen sie ihm als Alternative Feldhockey vor. Tom Schmidt-Didlaukies wurde Mitglied im Wohltorfer Tontaubenklub (TTK) und spielte zudem Tennis und Fußball. »Sport ist mein Ding«, sagt der junge Mann. Sport sei in der gesamten Familie ein Thema, die Eltern haben sich sogar darüber kennengelernt. Sein Bruder (22) spielte viele Jahre Hockey, seine Schwester (16) übt diesen Sport immer noch aus. 

@@ -1,7 +1,7 @@
 ---
 titleintro: Menschen bei uns
 title: Für Volkmar Wywiol bedeutet Erfolg,  in glückliche Augen zu schauen
-description: Der Wohhltorfer Volkmar Wywiol engagiert sich seit Jahrzehnten in
+description: Der Wohltorfer Volkmar Wywiol engagiert sich seit Jahrzehnten in
   Afrika, beispielsweise mit der Initiative »More Milk for Children in Uganda«
 authorname: Imke Kuhlmann
 date: 2023-12-18T09:12:17.517Z

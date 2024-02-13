@@ -10,7 +10,7 @@ const imageWithCaption = async function (
 	alt,
 	figcaption, 
 	widths = [400, 800, 1280],
-	formats = ['webp', 'jpeg'],
+	formats = process.env.ELEVENTY_ENV === 'development' ? ["auto"] : ["avif", "jpeg"] ,
 	sizes = '100vw'
   ) {
 	let metadata = await Image(src, {

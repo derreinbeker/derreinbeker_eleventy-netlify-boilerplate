@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.url }}/feed.xml" rel="self" type="application/atom+xml" />
   <link href="{{ metadata.url }}/" rel="alternate" type="text/html"/>
-  <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}/feed.xml</id>
   <author>
     <name>Sandtner Werbung</name>
@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
     <title>{{ post.data.title }}</title>
     <summary>{{ post.data.description }}</summary>
     <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ post.date | rssDate }}</updated>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <author>
       <name>{{ post.data.authorname }}</name>

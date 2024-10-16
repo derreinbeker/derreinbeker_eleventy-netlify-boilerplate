@@ -1,14 +1,12 @@
-const markdownItDefault = require('markdown-it');
-const markdownItAnchor = require("markdown-it-anchor");
+import markdownItDefault from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
 let options = {
-  html: true,
-  breaks: true,
-  linkify: true
+    html: true,
+    breaks: true,
+    linkify: true
 };
 let opts = {
-  permalink: false
+    permalink: false
 };
-
-const markdownIt = markdownItDefault(options).use(markdownItAnchor, opts)
-
-module.exports = markdownIt;
+const markdownIt = markdownItDefault(options).use(markdownItAnchor, opts);
+export default markdownIt;

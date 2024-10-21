@@ -1,5 +1,5 @@
 import pluginRss from "@11ty/eleventy-plugin-rss";
-import * as htmlmin from "html-minifier-terser";
+import htmlmin from "html-minifier-terser";
 import filters from "./_11ty/filters.js";
 import shortcodes from "./_11ty/shortcodes.js";
 import markdownIt from "./_11ty/markdown.js";

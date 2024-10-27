@@ -6,7 +6,7 @@ import markdownIt from "./_11ty/markdown.js";
 import getTags from "./_11ty/getTags.js";
 import getCategories from "./_11ty/getCategories.js";
 import makeCategoriesMap from "./_11ty/makeCategoriesMap.js";
-export default (function (eleventyConfig) {
+export default async function (eleventyConfig) {
     eleventyConfig.addAsyncShortcode("imageWithCaption", shortcodes.imageWithCaption);
     eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
     // Filters
@@ -63,4 +63,4 @@ export default (function (eleventyConfig) {
             output: "_site"
         }
     };
-});
+};

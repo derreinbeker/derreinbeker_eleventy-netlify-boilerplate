@@ -6,7 +6,7 @@ authorname: Leif Sandtner
 date: 2025-09-02T12:57:52.021Z
 category: Kultur
 ---
-{% imageWithCaption "media/uploads/stadtorchester.jpg" "" "" %}
+{% imageWithCaption "media/uploads/stadtorchester.jpg" "" "Das Stadtorchester Reinbek" %}
 
 Reinbek/Aumühle – Bereits am Sonntag, 14. September, 11 Uhr, ist das Orchester im Innenhof des Reinbeker Schlosses im Rahmen einer öffentlichen Veranstaltung zu hören. Und schon am 13.10., um 19 Uhr, gibt das Reinbeker Stadtorchester sein beliebtes Herbstkonzert im Theater des Augustinum in Aumühle. 
 

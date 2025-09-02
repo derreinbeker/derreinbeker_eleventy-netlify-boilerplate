@@ -1,10 +1,11 @@
 ---
-titleintro: ORIGINAL WESTCOASTFOLK
-title: INDIAN SUMMER
+titleintro: Original Westcoastfolk
+title: Indian Summer
 description: live in Wentorf
 authorname: Leif Sandtner
 date: 2025-09-02T13:19:33.133Z
 category: Kultur
+tags: []
 ---
 
 

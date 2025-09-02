@@ -3,9 +3,7 @@ titleintro: Kunst. Kultur. Orte. 2025
 title: Zwei Wentorfer Ateliers öffnen ihre Türen
 description: Wentorf – Mehr als 50 Künstlerinnen und Künstler öffnen am zweiten
   Septemberwochenende ihre Ateliers im Rahmen des Projekts »Kunst.Kultur.Orte
-  2025«. An 39 Orten im Herzogtum Lauenburg und in Stormarn bekommen
-  Besucherinnen und Besuchern die Möglichkeit, Kunstschaffenden bei ihrer Arbeit
-  zuzusehen und ihre Werke in zwangloser Atmosphäre kennenzulernen.
+  2025«.
 authorname: Leif Sandtner
 date: 2025-09-02T12:46:11.958Z
 category: Kultur

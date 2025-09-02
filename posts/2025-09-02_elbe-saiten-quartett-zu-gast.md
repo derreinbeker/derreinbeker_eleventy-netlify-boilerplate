@@ -5,6 +5,8 @@ description: Am Sonnabend, 27. September, 18 Uhr
 authorname: Leif Sandtner
 date: 2025-09-02T13:14:13.657Z
 category: Kultur
+tags:
+  - Musik
 ---
 
 

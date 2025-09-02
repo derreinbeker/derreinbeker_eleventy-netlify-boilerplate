@@ -16,6 +16,6 @@ Glinde – Die neue Theater-im-Forum-Spielzeit beginnt am Sonnabend, 18. Oktober
 
 Als nächstes Theaterstück steht am Sonnabend, 6. Dezember, 20 Uhr, »Tratsch im Treppenhaus» mit Heidi Mahler und dem Ohnsorg-Theater-Ensemble auf dem Programm.  – Insgesamt sind fünf unterhaltsame, nachdenkliche, bewegende, mitreißende, beliebte und vor allem erfolgreiche Gastspiele bekannter Bühnen Deutschlands geplant. 
 
-– Der Vorverkauf hat begonnen: theaterkasse@glinde.de oder  040- 71002-211. 
+– Der Vorverkauf hat begonnen: theaterkasse@glinde.de oder Tel. 040- 71002-211. 
 
 Mehr: www.glinde.de/theater

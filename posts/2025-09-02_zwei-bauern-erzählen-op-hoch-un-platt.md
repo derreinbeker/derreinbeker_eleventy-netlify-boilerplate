@@ -11,9 +11,7 @@ category: Kultur
 tags:
   - Poetry-Slam
 ---
-{% imageWithCaption "media/uploads/matthias-stührwoldt.jpg" "" "Matthias Stührwoldt (Foto Katrin Schmitt)" %}
-
-
+{% imageWithCaption "media/uploads/matthiasstuehrwoldt.jpg" "" "Matthias Stührwoldt (Foto Katrin Schmitt)" %}
 
 Reinbek - Am Sonntag, 14. September, 15 Uhr, präsentieren die beiden Schleswig-Holsteinischen Landwirte ihre vierte gemeinsame Lesung. Diese findet auf dem Reinbeker Erdbeerfeld statt, bei gutem Wetter open air, bei schlechtem Wetter im 1.000 m² großen Folientunnel. Zugang ist die Feldeinfahrt in der Lohbrügger Straße, neben den Garagen von Haus Nr. 21. Der Eintritt ist frei. Sitzgelegenheiten müssen mitgebracht werden.
 

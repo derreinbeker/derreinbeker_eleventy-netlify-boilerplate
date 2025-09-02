@@ -10,7 +10,7 @@ category: Kultur
 tags:
   - Theater
 ---
-{% imageWithCaption "media/uploads/01-j-rg-sch-ttauf-foto-christian-hartmann.jpg" "Foto Christian Hartmann" "Jörg Schüttauf" %}
+{% imageWithCaption "media/uploads/01-j-rg-sch-ttauf-foto-christian-hartmann.jpg" "Foto Christian Hartmann" "Jörg Schüttauf (Foto Christian Hartmann)" %}
 
 Glinde – Die neue Theater-im-Forum-Spielzeit beginnt am Sonnabend, 18. Oktober, 20 Uhr, mit Jörg Schüttauf (Foto) in dem Lustspiel »Der zerbrochne Krug« von Heinrich von Kleist. In einer unruhigen Nacht zerbricht ein Krug und nun wird nach der schuldigen Person gesucht. Im Mittelpunkt steht der korrupte Richter Adam, gespielt von Jörg Schüttauf. . . 
 

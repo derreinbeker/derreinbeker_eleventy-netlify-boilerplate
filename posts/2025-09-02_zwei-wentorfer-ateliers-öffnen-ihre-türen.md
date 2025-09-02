@@ -10,7 +10,7 @@ category: Kultur
 ---
 {% imageWithCaption "media/uploads/binnewieswitt.jpg" "" "Anja Witt und Alexa Binnewies" %}
 
-Wentorf –  Mehr als 50 Künstlerinnen und Künstler öffnen am zweiten Septemberwochenende ihre Ateliers im Rahmen des Projekts »Kunst.Kultur.Orte 2025«. An 39 Orten im Herzogtum Lauenburg und in Stormarn bekommen Besucherinnen und Besuchern die Möglichkeit, Kunstschaffenden bei ihrer Arbeit zuzusehen und ihre Werke in zwangloser Atmosphäre kennenzulernen.
+An 39 Orten im Herzogtum Lauenburg und in Stormarn bekommen Besucherinnen und Besuchern die Möglichkeit, Kunstschaffenden bei ihrer Arbeit zuzusehen und ihre Werke in zwangloser Atmosphäre kennenzulernen.
 
 Auch in Wentorf nehmen zwei Künstlerinnen an diesem besonderen Wochenende teil: Alexa Binnewies (Foto lks.) Am Petersilienberg 8 und Anja Witt (Foto unten), Stöckenhoop 16.
 

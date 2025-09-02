@@ -5,6 +5,8 @@ description: Am Dienstag, 7. Oktober
 authorname: Leif Sandtner
 date: 2025-09-02T12:56:34.687Z
 category: Kultur
+tags:
+  - Slam
 ---
 Reinbek – Von humorvoller Prosa bis zu ernster Lyrik ist alles möglich beim Sachsenwaldslam – das nächste Mal am Dienstag, 7. Oktober, 19.30 Uhr. Dabei sind u.a. Marv, Sonja Szillat und Helen Seidenfeder. 
 

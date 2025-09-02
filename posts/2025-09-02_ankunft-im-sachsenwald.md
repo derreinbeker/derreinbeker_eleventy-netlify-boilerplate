@@ -10,7 +10,7 @@ category: Kultur
 tags:
   - Bismarck-Stiftung
 ---
-
+{% imageWithCaption "media/uploads/der-bahnhof-in-friedrichsruh-undatierte-postkarte-kopie.jpg" "" "" %}
 
 Friedrichsruh – Ein Bahnhof, ein prominenter Fahrgast und sein Salonwagen: Die Otto-von-Bismarck-Stiftung in Friedrichsruh und das Eisenbahnmuseum Lokschuppen Aumühle bieten am Tag des offenen Denkmals am Sonntag, 14. September, ein gemeinsames Programm. Im Lokschuppen wird neben der Fahrzeugschau von 11 bis 17 Uhr in einer kleinen Ausstellung über »Bismarcks Salonwagen« informiert. Zu entdecken sind viele technische Details sowie die Ausstattung mit Sofa, Sesseln, Waschtisch und Nachtgeschirr. Der Wagen selbst steht heute im Museum der Deutschen Bahn in Nürnberg.
 

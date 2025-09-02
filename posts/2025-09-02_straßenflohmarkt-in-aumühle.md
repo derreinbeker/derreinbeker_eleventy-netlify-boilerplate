@@ -5,7 +5,7 @@ description: "Aumühle – Inzwischen darf dieser Termin nicht fehlen im Kalende
   Der große Straßenflohmarkt in Aumühle, organisiert vom Förderverein der
   Freiwilligen Feuerwehr Aumühle, findet statt am Sonntag, 14. September, von 12
   bis 16 Uhr. "
-authorname: Hartmuth Sandtner
+authorname: Leif Sandtner
 date: 2025-09-02T14:33:27.947Z
 category: Panorama
 tags:

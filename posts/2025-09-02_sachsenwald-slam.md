@@ -1,7 +1,7 @@
 ---
 titleintro: Schloß Reinbek
 title: Sachsenwald-Slam
-description: Am Dienstag, 7. Oktober
+description: Am Dienstag, 7. Oktober 2025
 authorname: Leif Sandtner
 date: 2025-09-02T12:56:34.687Z
 category: Kultur
@@ -10,7 +10,7 @@ tags:
 ---
 {% imageWithCaption "media/uploads/arminsengbusch.jpg" "" "Armin Sengbusch" %}
 
-Reinbek – Von humorvoller Prosa bis zu ernster Lyrik ist alles möglich beim Sachsenwaldslam – das nächste Mal am Dienstag, 7. Oktober, 19.30 Uhr. Dabei sind u.a. Marv, Sonja Szillat und Helen Seidenfeder. 
+Reinbek – Von humorvoller Prosa bis zu ernster Lyrik ist alles möglich beim Sachsenwaldslam – das nächste Mal am Dienstag, 7. Oktober 2025, 19.30 Uhr. Dabei sind u.a. Marv, Sonja Szillat und Helen Seidenfeder. 
 
 Der Sachsenwald-Slam ist eine Kooperation des Kulturzentrums mit Armin Sengbusch. 
 

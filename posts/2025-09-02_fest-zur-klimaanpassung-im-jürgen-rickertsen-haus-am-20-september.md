@@ -1,6 +1,6 @@
 ---
 titleintro: Gemeinsam für morgen
-title: Fest zur Klimaanpassung im Jürgen Rickertsen Haus am 20. September
+title: Fest zur Klimaanpassung im Jürgen Rickertsen Haus am 20. September 2025
 description: Reinbek – Der Klimawandel ist längst keine ferne Zukunftsvision
   mehr. Seine Folgen sind auch bei uns spürbar. Deshalb hat das Mittelzentrum
   Reinbek, Glinde und Wentorf in den vergangenen anderthalb Jahren gemeinsam ein
@@ -14,7 +14,7 @@ tags:
 ---
 Reinbek – Der Klimawandel ist längst keine ferne Zukunftsvision mehr. Seine Folgen sind auch bei uns spürbar. Deshalb hat das Mittelzentrum Reinbek, Glinde und Wentorf in den vergangenen anderthalb Jahren gemeinsam ein Konzept zur Klimafolgenanpassung erarbeitet. Dieses ist nun fertiggestellt und der nächste Schritt ist die Umsetzung.
 
-Passend zur bundesweiten Woche der Klimaanpassung wird zu einem bunten Fest für alle Generationen eingeladen am Sonnabend, 20. September, von 14 – 18 Uhr im Jürgen Rickertsen Haus, Schulstraße 7.
+Passend zur bundesweiten Woche der Klimaanpassung wird zu einem bunten Fest für alle Generationen eingeladen am Sonnabend, 20. September 2025, von 14 – 18 Uhr im Jürgen Rickertsen Haus, Schulstraße 7.
 
 Die Besucher erwartet ein informatives und abwechslungsreiches Programm: Ausstellung und Vortrag zum Konzept der Klimafolgenanpassung, »Deutschland 2050: Vortrag und Diskussion« durch den Nachhaltigkeitsberater Stefan Gertz aus Reinbek, Verlosung mit tollen Preisen (u.a. Obstbäume, Handtücher und Leckeres), kreative Bastelaktionen, die direkt einen Beitrag zur Klimaanpassung leisten
 

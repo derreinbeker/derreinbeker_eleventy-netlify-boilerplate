@@ -1,7 +1,7 @@
 ---
 titleintro: Schloß Reinbek
 title: "Tina Ohlhagen: A tribute to Carol King"
-description: Reinbek – Am Donnerstag, 25. September, 19.30 Uhr, ist die
+description: Reinbek – Am Donnerstag, 25. September 2025, 19.30 Uhr, ist die
   Musikerin und Sängerin Tina Ohlhagen mit »A tribute to Carole King« im
   Reinbeker Schloss zu Gast. Die amerikanische Singer-Songwriterin CAROLE
   KING  verbindet wie kaum eine andere Musikerin ehrliche und emotionale Texte
@@ -14,7 +14,7 @@ tags:
 ---
 {% imageWithCaption "media/uploads/tina_ohlhagen.jpg" "Tina Ohlhagen" "Tina Ohlhagen" %}
 
-Reinbek – Am Donnerstag, 25. September, 19.30 Uhr, ist die Musikerin und Sängerin Tina Ohlhagen mit »A tribute to Carole King« im Reinbeker Schloss zu Gast. Die amerikanische Singer-Songwriterin CAROLE KING  verbindet wie kaum eine andere Musikerin ehrliche und emotionale Texte mit eingängigen Melodien. Mit ihrem legendären Album »Tapestry« gelang ihr der Durchbruch als Solokünstlerin. Mit über 75 Millionen verkauften Alben weltweit und vier Grammy Awards hat sich CAROLE KING als eine der einflussreichsten Künstlerinnen der vergangenen Jahrzehnte etabliert. 
+Reinbek – Am Donnerstag, 25. September 2025, 19.30 Uhr, ist die Musikerin und Sängerin Tina Ohlhagen mit »A tribute to Carole King« im Reinbeker Schloss zu Gast. Die amerikanische Singer-Songwriterin CAROLE KING  verbindet wie kaum eine andere Musikerin ehrliche und emotionale Texte mit eingängigen Melodien. Mit ihrem legendären Album »Tapestry« gelang ihr der Durchbruch als Solokünstlerin. Mit über 75 Millionen verkauften Alben weltweit und vier Grammy Awards hat sich CAROLE KING als eine der einflussreichsten Künstlerinnen der vergangenen Jahrzehnte etabliert. 
 
 Tina Ohlhagen nimmt das Publikum mit auf eine kurzweilige musikalische Reise durch die Biografie Carole Kings und lässt an Flügel, E-Piano und Gitarre zeitlose Melodien wie »You’ve Got A Friend« und »Loco-Motion« erklingen.
 

@@ -1,6 +1,6 @@
 ---
 titleintro: Reinbeker Schützenverein
-title: Reinbeker Schießwoche  vom 8. bis zum 13. September
+title: Reinbeker Schießwoche  vom 8. bis zum 13. September 2025
 description: Jeder kann mitmachen, einzeln oder als Team, Wettbewerbe mit tollen Preisen
 authorname: Leif Sandtner
 date: 2025-09-02T14:57:53.958Z
@@ -14,7 +14,7 @@ Aufgrund der Modernisierungs- und Umbauarbeiten in der Kleinkaliberhalle musste 
 
 Die jetzige Schießwoche soll auch dafür genutzt werden, das großartige Ergebnis dieser Maßnahme der interessierten Öffentlichkeit zu präsentieren. Wer sich nur den neuen Schießstand mal ansehen möchte, ist natürlich auch herzlich Willkommen. An allen Tagen werden Getränke und Kleinigkeiten zu essen angeboten.
 
-Jeder kann vom Montag, 8. September, bis zum Sonnabend, 13. September, in der Zeit von 18 bis 21.30 Uhr in der Woche und am Sonnabend von 13 bis 17 Uhr bei der Schießwoche mitmachen. 
+Jeder kann vom Montag, 8. September, bis zum Sonnabend, 13. September 2025, in der Zeit von 18 bis 21.30 Uhr in der Woche und am Sonnabend von 13 bis 17 Uhr bei der Schießwoche mitmachen. 
 
 Die Teilnahme lohnt sich, zu gewinnen gibt es einiges. Es gibt verschiedene Einzel- und Mannschaftswettbewerbe für Nichtschützen und erfahrene Schützen. Dann geht es auch darum, wer in diesem Jahr die Bürgerkönigin oder der Bürgerkönig wird.
 

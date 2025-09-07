@@ -8,7 +8,7 @@ category: Kultur
 ---
 {% imageWithCaption "media/uploads/ralf-hipelius.jpg" "" "Elke Güldenstein mit Ralf Hipelius" %}
 
-Reinbek – Unter dem Motto »WERT-VOLL, KUNST-VOLL, GEHEIMNIS-VOLL« öffnet das Schloss Reinbek am 14. September seine Türen zum Tag des offenen Denkmals. Traditionell findet dieser Aktionstag immer am 2. Sonntag im September statt und ermöglicht Bürgerinnen und Bürgern einen Blick hinter die Kulissen historischer Denkmäler, die sonst oft nicht zugänglich sind. Für das Schloss Reinbek ist es bereits die zweite Teilnahme an diesem besonderen Ereignis. 
+Reinbek – Unter dem Motto »WERT-VOLL, KUNST-VOLL, GEHEIMNIS-VOLL« öffnet das Schloss Reinbek am 14. September 2025 seine Türen zum Tag des offenen Denkmals. Traditionell findet dieser Aktionstag immer am 2. Sonntag im September statt und ermöglicht Bürgerinnen und Bürgern einen Blick hinter die Kulissen historischer Denkmäler, die sonst oft nicht zugänglich sind. Für das Schloss Reinbek ist es bereits die zweite Teilnahme an diesem besonderen Ereignis. 
 
 Gezeigt wird ein historischer Kabinettschrank aus Birnbaumholz, der Mitte der 80er Jahre als Erstausstattung zur Neueröffnung des Schlosses angekauft wurde. 
 

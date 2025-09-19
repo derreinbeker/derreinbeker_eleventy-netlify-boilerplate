@@ -3,7 +3,7 @@ titleintro: Ohe
 title: Oher-Rundgang mit dem Bürgermeister
 description: Ohe – Am Montag, 29. September, 17 - 19 Uhr, kommt Bürgermeister
   Warmer zu einem Rundgang nach Ohe.
-authorname: Hartmuth Sandtner
+authorname: Leif Sandtner
 date: 2025-09-19T14:26:18.860Z
 category: Politik
 tags:

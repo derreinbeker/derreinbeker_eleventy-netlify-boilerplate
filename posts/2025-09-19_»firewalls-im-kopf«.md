@@ -1,0 +1,28 @@
+---
+titleintro: re-view
+title: »Firewalls im Kopf«
+description: "Worüber spricht man, was verschweigt man? Der amerikanische
+  Vizepräsident J.D. Vance sagte am 14.2.25 auf der Münchner
+  Sicherheitskonferenz »There is no room for firewalls«. Er sieht die Freiheit
+  der Meinungsäußerung auf dem Rückzug. "
+authorname: Hartmuth Sandtner
+date: 2025-09-19T14:53:17.245Z
+category: Meinung
+tags:
+  - re-view
+---
+Worüber spricht man, was verschweigt man? Der amerikanische Vizepräsident J.D. Vance sagte am 14.2.25 auf der Münchner Sicherheitskonferenz »There is no room for firewalls«. Er sieht die Freiheit der Meinungsäußerung auf dem Rückzug. – »Es geschehen noch Zeichen und Wunder«, schreibt Peter Michael Lingens, ausgewiesener Wirtschaftsfachmann in der österreichischen Wochenzeitung FALTER v. 9.7.25, »dass die deutsche Öffentlichkeit aus einem führenden deutschen Medium, dem liberalkonservativen Handelsblatt, etwas erfährt, was Spiegel, Süddeutsche oder Frankfurter Allgemeine kaum anrühren, dass Deutschlands Exportweltmeisterschaft ein gravierendes Problem für alle anderen Staaten ist und auf der Negation der internationalen Regeln des fairen Handels beruht. Weil es zwangsläufig Leistungsbilanzdefizite in anderen Ländern erzeugt. Deutschland ist ein zentrales Problem in der EU.«
+
+Lingens betont: »Natürlich hütet sich das Handelsblatt, es so explizit zu sagen.« Aber nicht nur Journalisten handeln so, auch Politiker und wir Bürger in unserem Alltag vermeiden, uns zu manchen realen Sachverhalten oder beispielsweise zu den Folgen unseres Nichthandelns in der Klimaproblematik, zu bekennen. Ist hier bei uns auch schon, wie im 
+
+»Peter-Thiel-Universum« in den USA (s. den spannenden 6-teiligen Podkast: t.ly/HCWJR), nicht mehr ganz klar, in welcher neuen Welt wir uns befinden?  – Ist die neue Realität, nicht mehr zwischen Wahrheit und Lüge unterscheiden zu können? Oder wird uns nur bewusster, dass wir bei bestimmten Themen schon immer so gehandelt haben?
+
+Im Schweizer Internetportal Republik.ch v. 31.7.25 fragt Marie-José Kolly »Wie reden wir eigentlich?« und bringt ein Beispiel. Ihr Dreijähriger überrascht sie eines Tages vor dem geöffneten Kühlschrank stehend mit der Frage: »Warum ist auf der Milch eine Kuh?« »Parce que c’est la vache qui nous donne le lait», (Weil es die Kuh ist, die uns die Milch gibt) erklärte die Mutter – erstaunt darüber, dass bisher nie zur Sprache gekommen war, wie das Tier mit der Milch zusammen­hängt. Und plötzlich dachte sie: Moment. – Ist auch wahr, was ich gerade gesagt habe? – Gibt die Kuh Milch? – Ja, vielleicht, wenn das Kalb an ihrem Euter nuckelt. Aber die Milch aus der Flasche im Kühlschrank hat die Kuh nicht gegeben. Und ihr wurde klar, sie hatte ihrem Kind eine uralte Erzählung aufgetischt. Vielleicht auch unterstützt durch Werbe­texte für Emmentaler Käse, wie »entspannt und glücklich« die Kühe dort seien im Emmental und wie »liebevoll gepflegt«. 
+
+Ist meine Rede von der Kuh, die gibt, statt vom Menschen, der nimmt, vergleichbar mit der Erzählung vom Weihnachtsmann? Oder gehört sie in die Kategorie Vermeidung der Realität? Wie auch Medien vermeiden, uns darüber aufzuklären, wie Italien und Frankreich durch Deutschlands hohe Überschüsse bereits seit vielen Jahren in den größten Schwierigkeiten sind. Schützt uns davor eine »Firewall«? Damit wir, frei von Regeln und Moral, unseren Egoismus leben können? – Dazu liest man passend, wie Lingens zeigt, von »der überlegenen deutschen Wettbewerbsfähigkeit und der Qualität deutscher Waren« als Grund für die hohen deutschen Exportüberschüsse. Und man erfährt nicht, dass die Ursache in den niedrigen deutschen Löhnen liegt, »die seit zwei Jahrzehnten nicht mehr im Ausmaß der deutschen Produktivität steigen.« Die Kommission der Europäischen Union hätte nach ihren Regeln, »nicht nur die Möglichkeit, sondern auch die Pflicht gehabt, die deutsche Lohnzurückhaltung abzustellen, statt Jahrzehnte dabei zuzusehen, wie Deutschland allen anderen Ländern Marktanteile abjagt«, so der Autor.
+
+Der Tech-Journalist Fritz Espenlaub belegt im Podkast (s. oben)  weitblickend, welche Entwicklung – bisherige Gewissheiten und auch Tabus brechend – von den USA auf Europa zukommt. Als Strippenzieher im Hintergrund sieht er dafür den Katholiken Peter Thiel, der es als Schachspieler mit Geld in den USA über Jahre verstanden hat, mit visionärem Blick langfristig die Figuren für sein Weltbild in Position zu bringen, allen voran J. D. Vance. Man muss gespannt sein. Vance kündigte beim National Catholic Prayer Meeting im Februar an, »die Rechte von Abtreibungsgegnern zu verteidigen und die Rechte der ungeborenen Kinder, und die Religionsfreiheit aller Menschen zu schützen, aber insbesondere die der Katholiken.«
+
+Bisher war auch die Aufklärung über die Frage, wie die Milch in die Flasche kommt, ein unausgesprochenes Tabu. Aber neben der Milch und der Aufklärung über Deutschlands Problem mit Europa, gibt es sicher noch manch andere Themen, denen ein realistischer Blick gut täte. Dass die Kuh uns Milch gibt. Dieses Märchen hat sich inzwischen sogar als ein wesentlicher Teil der Klimakrise herausgestellt. Darum haben sich Hafermilch, Erbsenmilch längst bei vielen jungen Menschen als Milchäquivalent etabliert. Nicht nur das: Schon 10,4 Prozent der 15- bis 29-Jährigen ernähren sich vegetarisch, weitere 2,3 Prozent sogar vegan, wie eine repräsentative Onlinebefragung von über 1200 jungen Menschen durch die Universität Göttingen ergeben hat.
+
+Übrigens: Auf Kinderaugenhöhe vor dem Kühlschrank kniend hat Marie-José Kolly noch mal angesetzt, »non, c’est pas juste» (nein, das ist nicht richtig) und dem Dreijährigen erklärt, wie die Milch in die Flasche kommt.

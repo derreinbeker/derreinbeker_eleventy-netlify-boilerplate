@@ -2,7 +2,7 @@
 titleintro: "Stiftung Italiaander – Reinbeks Forum der Völker präsentiert:"
 title: "Thomas und Klaus Mann Dokumente einer Vater-Sohn-Beziehung "
 description: Gelesen von Sebastian Dunkelberg & Bernd M. Kraske
-authorname: Hartmuth Sandtner
+authorname: Leif Sandtner
 date: 2025-09-19T14:01:25.014Z
 category: Kultur
 tags:

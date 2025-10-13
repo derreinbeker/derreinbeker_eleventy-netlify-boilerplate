@@ -6,7 +6,7 @@ authorname: Leif Sandtner
 date: 2025-10-13T09:11:40.283Z
 category: Kultur
 tags:
-  - Kirche
+  - Kirchenmusik
 ---
 Reinbek – Viele haben schon nachgefragt, ob die Reinbeker Proms vielleicht doch noch mal stattfinden werden. Schließlich sind die Proms seit vielen Jahren einer der kulturellen Höhepunkte in Reinbek. Eigentlich wurden im letzten Jahr die letzten Proms gefeiert. Aber die Resonanz war so überwältigend und auch die Mitwirkenden haben immer noch große Lust auf Proms. So soll es auch in diesem Jahr die nächsten »letzten« Proms geben. Am Sonnabend, 18. Oktober, öffnet sich in der Reinbeker Maria-Magdalenen-Kirche, Kirchenallee, ab 16 Uhr der Vorhang zu den 29. Reinbeker Proms, zu den nächsten »last Proms«. Auch diesmal wird wie immer  das Almaran Salonorchester aufspielen unter der Leitung von Friedhelm Joost. Dazu kommen 45 kräftige Männerstimmen der Liedertafel Frohsinn-Melodia aus Ochsenwerder, dem Bergedorfer Männerchor Sander Jungs und der Liedertafel Concordia aus Tatenberg. Es werden viele mehr oder weniger bekannte Werke zu Gehör gebracht und natürlich sind alle Zuhörer eingeladen, gepflegt, passend und fröhlich mitzuwirken (geeignete Instrumente und Taschentücher bitte selber mitbringen!). Interessante Hüte sind ebenfalls gerne gesehen. 
 

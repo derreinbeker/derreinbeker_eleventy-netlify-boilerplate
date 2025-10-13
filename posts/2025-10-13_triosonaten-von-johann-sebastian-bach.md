@@ -9,7 +9,7 @@ authorname: Leif Sandtner
 date: 2025-10-13T09:12:52.659Z
 category: Kultur
 tags:
-  - Kirche
+  - Kirchenmusik
 ---
 Reinbek – In Musikerkreisen wird oft mit der Frage »Wie viele Menschen braucht es, um eine Triosonate zu spielen?« gescherzt. Die korrekte Antwort lautet: mindestens vier!
 

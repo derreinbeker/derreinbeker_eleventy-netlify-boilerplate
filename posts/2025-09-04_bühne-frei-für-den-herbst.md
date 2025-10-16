@@ -7,7 +7,7 @@ authorname: Mary Thompson
 date: 2025-09-04T09:10:21.325Z
 category: Kultur
 tags:
-  - Schloß Reinbek
+  - Schloss Reinbek
 ---
 {% imageWithCaption "media/uploads/mario-menke2455.jpg" "" "Figurentheater mit Livemusik nach Thomas Mann - Mario und Der Zauberer" %}
 

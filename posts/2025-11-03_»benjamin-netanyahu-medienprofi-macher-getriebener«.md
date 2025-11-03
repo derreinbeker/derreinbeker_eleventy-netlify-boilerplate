@@ -10,10 +10,7 @@ category: Panorama
 tags:
   - Sammlung Italiaander
 ---
-{% imageWithCaption "media/uploads/dr.g.-krüger-fotostudio-palutke.jpg" "" "Islamwissenschaftlerin Dr. Gundula Krüger (Fotostudio Palutke)
-
-
-" %}
+{% imageWithCaption "media/uploads/dr.g.-krüger-fotostudio-palutke.jpg" "" "Islamwissenschaftlerin Dr. Gundula Krüger (Fotostudio Palutke)" %}
 
 
 

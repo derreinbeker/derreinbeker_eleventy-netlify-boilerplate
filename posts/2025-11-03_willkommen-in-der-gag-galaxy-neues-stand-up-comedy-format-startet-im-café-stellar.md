@@ -15,7 +15,7 @@ category: Kultur
 tags:
   - Comedy
 ---
-{% imageWithCaption "media/uploads/2025.11.09-miniatur-wunderland_foto_miniatur-wunderland-hamburg.jpg" "" "" %}
+{% imageWithCaption "media/uploads/gaggalaxy.jpg" "" "" %}
 
 Bergedorf – Unendliche Weiten, grenzenloser Humor: Mit der »Gag Galaxy« startet ein neues Stand-up-Comedy-Format, das die Bühne des Café Stellar auf dem Gelände der Sternwarte zum Funkeln bringt. Das Publikum erwartet eine intergalaktische Comedy-Reise im Osten Hamburgs – abseits des städtischen Trubels, in einer Location, die wie geschaffen ist für Comedy unter den Sternen.
 

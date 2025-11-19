@@ -10,8 +10,7 @@ category: Panorama
 tags:
   - Weihnachten
 ---
-{% imageWithCaption "media/uploads/adventorfer-markt.jpg" "" "Sybille Marcks und Imke Schaaff freuen sich schon auf den nächsten Adventorfer Markt (FOTO: Imke Kuhlmann)
-" %}
+{% imageWithCaption "media/uploads/adventorfer-markt.jpg" "" "Sybille Marcks und Imke Schaaff freuen sich schon auf den nächsten Adventorfer Markt (FOTO: Imke Kuhlmann)" %}
 
 Wentorf – Zum 26. Mal öffnet am 29. November von 10 bis 17 Uhr das Wentorfer Rathaus seine Türen und lässt Weihnachten einziehen. Der Adventorfer Markt übernimmt wieder die Regie im Verwaltungsgebäude. Schon längst reichen die Räume hier nicht mehr aus und inzwischen riecht es auch in der Bücherei und der Alten Schule nach Weihnachten. Schlechtes Wetter hat hier darum keine Chance. 
 

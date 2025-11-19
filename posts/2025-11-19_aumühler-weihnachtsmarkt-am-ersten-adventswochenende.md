@@ -1,6 +1,6 @@
 ---
 titleintro: "Zum ersten Mal: Exklusiver Weihnachtsmarkt-Kaffee"
-title: "Aumühler Weihnachtsmarkt am ersten Adventswochenende "
+title: "Aumühler Weihnachtsmarkt am ersten Adventswochenende"
 description: "Aumühle – Der Verein für Kultur und Bildung in Aumühle (kurz KuBA)
   lädt am ersten Adventswochenende wieder ein zum Aumühler Weihnachtsmarkt am
   Bismarckturm. Das fröhliche Treiben, mit dem in den Sachsenwaldgemeinden die
@@ -12,7 +12,7 @@ category: Panorama
 tags:
   - Weihnachten
 ---
-{% imageWithCaption "media/uploads/aum.weihn.markt25.jpg" "" "Mandy Malcha (l.), Ottmar Schümann und Catharina von Toll vom Verein KuBA gehören zu den Organisatoren des Weihnachtsmarktes. (FOTO: Stefanie Rutke)" %}
+{% imageWithCaption "media/uploads/aumweihnmarkt25.jpg" "" "Mandy Malcha (l.), Ottmar Schümann und Catharina von Toll vom Verein KuBA gehören zu den Organisatoren des Weihnachtsmarktes. (FOTO: Stefanie Rutke)" %}
 
 Aumühle – Der Verein für Kultur und Bildung in Aumühle (kurz KuBA) lädt am ersten Adventswochenende wieder ein zum Aumühler Weihnachtsmarkt am Bismarckturm. Das fröhliche Treiben, mit dem in den Sachsenwaldgemeinden die Adventszeit eingeläutet wird, findet am Sonnabend, 29. November, von 15 bis 19 Uhr und am Sonntag, 30. November, von 14 bis 17 Uhr statt. 
 

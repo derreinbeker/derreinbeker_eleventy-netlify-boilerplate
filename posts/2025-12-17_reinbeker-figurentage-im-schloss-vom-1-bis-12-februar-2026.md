@@ -35,3 +35,5 @@ Auf die Besucher ab 4 Jahren wartet ein Theaterstück mit Puppen, Menschen und S
 Ob wir federleicht hüpfen oder uns bleischwer fühlen, ob wir uns verschließen oder laut brüllen, hat alles einen Grund: die Gefühle. Sie wohnen in uns und sind ziemlich schwer zu bändigen. »Ist das toll!«, jubelt die Freude. »Doof!«, mäkelt der Ärger. »Trau mich nicht!«, flüstert die Angst. »Keine Lust.«, sagt die Traurigkeit. Und dann kommt die Wut angerauscht: Knall Bumm Kaputt! 
 
 Karten: € 6,-
+
+Vorverkauf: KulturKasse in der Stadtbibliothek Reinbek, Hamburger Str. 8, 21465 Reinbek, Tel. 040/72750 800 Öffnungszeiten Mo und Do 14 – 18 Uhr sowie Di und Fr von 10 bis 13 Uhr sowie online unter www.kultur-reinbek.de.

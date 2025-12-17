@@ -1,6 +1,6 @@
 ---
 titleintro: SC Wentorf
-title: Große Silvesterparty in Wentorf Wentorf
+title: Große Silvesterparty in Wentorf
 description: "Der Die Veranstaltungsinitiative Sound Yard aus Bergedorf lädt am
   31. Dezember, 20 Uhr, ein zur großen Silvesterparty im Clubhaus des SC
   Wentorf, Am Sportplatz 10, das mit den Buslinien 235 und 8810 gut zu erreichen

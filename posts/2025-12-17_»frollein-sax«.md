@@ -8,7 +8,7 @@ category: Kultur
 tags:
   - Konzert
 ---
-{% imageWithCaption "media/uploads/frolleinsax.jpg" "" "" %}
+{% imageWithCaption "media/uploads/frolleinsax.jpg" "" "Copyright: Pauline Willrodt" %}
 
 Reinbek – »Frollein Sax« freut sich auch dieses Jahr auf einen weihnachtlichen Besuch in der Nathan-Söderblom-Kirche, Berliner Straße 4. 
 

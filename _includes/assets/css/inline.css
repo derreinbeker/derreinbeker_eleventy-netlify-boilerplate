@@ -9,9 +9,9 @@
 
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
-	:root {
+	:root { 
 		--white: #1a1a1a;
-		--red: #B8082F;
+		--red: #f0361f;
 		--lightred: #2a1a1f;
 		--bg-color: #121212;
 		--text-color: #e0e0e0;
@@ -125,7 +125,8 @@ ul {
 	padding-left: 7px;
 }
 
-#Banner img {
+#Banner svg {
+	fill: var(--red);
 	height: 2em;
 }
 

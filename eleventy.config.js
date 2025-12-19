@@ -45,7 +45,6 @@ export default async function (eleventyConfig) {
     eleventyConfig.addCollection("categoriesMap", makeCategoriesMap);
     eleventyConfig.addPassthroughCopy("media/favicons");
     eleventyConfig.addPassthroughCopy("media/uploads");
-    eleventyConfig.addPassthroughCopy("media/DerReinbekerLogo.svg");
     eleventyConfig.addPassthroughCopy("media/open_graph_logo.png");
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("_includes/assets/");

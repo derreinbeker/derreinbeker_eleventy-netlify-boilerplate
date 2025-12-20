@@ -17,9 +17,6 @@
 		--text-color: #e0e0e0;
 		--border-color: #444444;
 	}
-	img {
-   		filter: brightness(.8) contrast(1.2);
-  	}
 }
 
 *, *:before, *:after {

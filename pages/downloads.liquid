@@ -16,7 +16,7 @@ permalink: /downloads/index.html
 {% if sortedDownloadablePrintEditionsOf2026.size > 0 %}
   <h3>2026</h3>
   <ul class="printeditions">
-  {% for editionFilename in sortedDownloadablePrintEditionsOf2025 %}
+  {% for editionFilename in sortedDownloadablePrintEditionsOf2026 %}
       <li><a href="https://{{ metadata.downloadshost }}/ausgaben/{{ editionFilename }}"><time datetime="{{ editionFilename | validDateStringOfPrintEditionFilename }}">{{ editionFilename | descriptionOfPrintEditionFilename }}</time></a></li>
   {% endfor %}
   </ul>

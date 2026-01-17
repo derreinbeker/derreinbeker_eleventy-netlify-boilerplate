@@ -11,7 +11,7 @@ category: Kultur
 tags:
   - Konzert
 ---
-{% imageWithCaption "media/uploads/luxnovaduo.jpg" "" "Das Lux Nova Duo: Lydia Schmidl, Akkordeon, und Jorge Paz Verastegui, Gitarre." %}
+{% imageWithCaption "media/uploads/luxnovaduo.jpg" "" "Das Lux Nova Duo: Lydia Schmidl, Akkordeon, und Jorge Paz Verastegui, Gitarre. (FOTO: Vera Drebusch)" %}
 
 Neuschönningstedt – Das Lux Nova Duo, bestehend aus der deutschen Akkordeonistin Lydia Schmidl und dem peruanischen Gitarristen Jorge Paz Verastegui, gibt am 24. Januar 2026, 18 Uhr, zum vierten Mal ein Konzert in der Gethsemane-Kirche, Kirchenstieg 1. Das Programm unter dem Titel »Bach, Brouwer und ibero-amerikanische Klänge« schlägt wieder einen großen Bogen – von den Klassikern Bach und Rameau bis zu Kompositionen aus dem Jahr 2024. 
 

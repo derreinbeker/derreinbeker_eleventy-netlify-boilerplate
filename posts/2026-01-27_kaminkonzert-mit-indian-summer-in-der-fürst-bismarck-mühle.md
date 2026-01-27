@@ -1,7 +1,7 @@
 ---
 titleintro: Fürst Bismarck Mühle,
 title: Kaminkonzert mit  Indian Summer in der Fürst Bismarck Mühle
-description: umühle – Freuen Sie sich am Sonnabend, 7. Februar, 19 Uhr, auf
+description: Aumühle – Freuen Sie sich am Sonnabend, 7. Februar, 19 Uhr, auf
   einen Abend in der Fürst Bismarck Mühle, Mühlenweg 3 in Aumühle, der den
   Winterblues vergessen lässt – mit dem Hamburger Akustik-Trio INDIAN SUMMER.
 authorname: Leif Sandtner

@@ -12,8 +12,6 @@ category: Panorama
 tags:
   - Hospiz
 ---
-{% imageWithCaption "media/uploads/hospizdienst.jpg" "" "Die Koordinatorin Beate Neugebauer (l.) mit Stephanie Steinert und Roy  Johannissen" %}
-
 Reinbek – Seit 25 Jahren setzt sich der Ambulante Hospizdienst Reinbek dafür ein, sterbenden Menschen ein würdevolles und selbstbestimmtes Leben bis zuletzt zu ermöglichen. Im Mittelpunkt der Hospizarbeit steht die ambulante Begleitung schwerstkranker und sterbender Menschen in ihrem häuslichen Umfeld. Ziel ist es, ihre Wünsche und Bedürfnisse zu respektieren und ihnen ein möglichst selbstbestimmtes Leben bis zum Ende zu ermöglichen. Gleichzeitig begleitet, entlastet und unterstützt der Verein die Angehörigen in dieser schweren Zeit. Nun sucht der Verein Nachfolge für zwei Vorstandsplätze.
 
 Der Verein zählt 116 Mitglieder und wird von einem vierköpfigen Vorstandsteam sowie einer hauptamtlichen Koordinatorin geführt. »Kraft geben, wenn die eigene nachlässt, und anderen Zeit schenken« – dieser Leitsatz prägt die Arbeit des Ambulanten Hospizdienstes. Der Vorstand versteht sich dabei als Kraftspender für die ehrenamtlich engagierten Hospizbegleiter. Er organisiert die formalen Abläufe, kümmert sich um Veranstaltungen und verantwortet Themen wie Satzungsänderungen, Datenschutz und Öffentlichkeitsarbeit. Für diese Aufgaben wird nun weitere Unterstützung gesucht. Der Vorstand besteht aus vier Personen, die ihre Arbeit ausdrücklich als Team verstehen und gemeinsam Verantwortung tragen. Zwei langjährige Vorstandsmitglieder geben ihr Amt am 12. März auf, sofern sich Nachfolgerinnen oder Nachfolger finden. An diesem Tag findet die Mitgliederversammlung mit Vorstandswahl statt. Denkbar ist auch eine Übergangszeit, um einen Wechsel zu ermöglichen.

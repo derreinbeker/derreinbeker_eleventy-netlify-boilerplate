@@ -12,7 +12,7 @@ category: Panorama
 tags:
   - Hospiz
 ---
-{% imageWithCaption "media/uploads/amb.-hospizdienst.jpg" "" "Die Koordinatorin Beate Neugebauer (l.) mit Stephanie Steinert und Roy  Johannissen
+{% imageWithCaption "media/uploads/hospizdienst.jpg" "" "Die Koordinatorin Beate Neugebauer (l.) mit Stephanie Steinert und Roy  Johannissen
 " %}
 
 Reinbek – Seit 25 Jahren setzt sich der Ambulante Hospizdienst Reinbek dafür ein, sterbenden Menschen ein würdevolles und selbstbestimmtes Leben bis zuletzt zu ermöglichen. Im Mittelpunkt der Hospizarbeit steht die ambulante Begleitung schwerstkranker und sterbender Menschen in ihrem häuslichen Umfeld. Ziel ist es, ihre Wünsche und Bedürfnisse zu respektieren und ihnen ein möglichst selbstbestimmtes Leben bis zum Ende zu ermöglichen. Gleichzeitig begleitet, entlastet und unterstützt der Verein die Angehörigen in dieser schweren Zeit. Nun sucht der Verein Nachfolge für zwei Vorstandsplätze.

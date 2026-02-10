@@ -8,8 +8,6 @@ category: Kultur
 tags:
   - Theater
 ---
-
-
 {% imageWithCaption "media/uploads/orpheus.jpg" "" "Marcus Wasserstraß mit Nele Diekjobst – beide vom VHS-Ensemble" %}
 
 Reinbek – Das Theaterensemble der VHS Sachsenwald greift unter Leitung von Dr. Brigitte Oels diesmal tief in die Satire-Kiste. Nach der hochpolitischen DREIGROSCHENOPER von Brecht und dem nicht minder aktuellen FRIEDEN von Aristophanes, steht diesmal Komödie, Parodie, Satire auf dem Programm.
@@ -19,3 +17,7 @@ Der uralte Mythos von Orpheus und Eurydike – erzählt, komponiert, gemalt in u
 Dr. Brigitte Oels: »Der Mythos ist klug: auch Liebe über den Tod hinaus, auch die Kunst, der Tod kann letztlich nicht besiegt werden. Trotzdem wurde diese Geschichte zu einem Symbol für Liebe und Treue.
 
 Der große Spötter Jaques Offenbach macht in seiner Operette »Orpheus in der Unterwelt« mit der ihm eigenen spitzen Feder aus der rührenden Geschichte über ewige eheliche Treue eine freche Parodie: Orpheus, Geigenlehrer am Gymnasium in Theben, treibt’s fröhlich mit seinen Schülerinnen und Eurydike techtelmechtelt mit dem Schäfer Aristeus. Also, endlich sind sich die Eheleute mal einig: Scheidung! Aber der Schäfer hat sich inzwischen als Gott Pluto entpuppt, der Eurydike in seine Unterwelt entführt hat. Auch gut, oder? Aber da meldet sich die öffentliche Meinung zu Wort. Es muss doch wenigstens ein Paar geben, das sich nicht scheiden lässt!  Und schließlich müssen ja selbst die Schulkinder die antike Story auswendig lernen!  Orpheus muss seine Gattin wieder zurückholen, ob er will oder nicht. Also auf zu den Olympischen Göttern und dann ab in die Unterwelt.
+
+Denn bei aller Satire:  auch und vor allem den Mächtigen, fühlen sie sich auch als Götter unantastbar, darf man die unmoralischen Übergriffe doch nicht durchgehen lassen? Oder? Ein Schelm, wer Aktuelles dabei denkt.« Das Theaterensemble der VHS hat unter Leitung von Dr. Oels aus der Operette eine Komödie gemacht, aber unter der musikalischen Anleitung von Jutta Dahl gibts durchaus auch so Einiges aus der Offenbach-Operette. Seien Sie gespannt auf den Ausgang des Ehekrieges »Orpheus vs. Eurydike«.
+
+Auf der Studiobühne im Haus der Volkshochschule, Klosterbergen 2a, am Sonnabend, 21. Februar und 28. März, jeweils 19.30 Uhr, sowie am Sonntag, 22. Februar und 29. März, jeweils um 16 Uhr.  Karten gibt es für € 10,- / € 5,- erm. in der VHS (Büro oder online).

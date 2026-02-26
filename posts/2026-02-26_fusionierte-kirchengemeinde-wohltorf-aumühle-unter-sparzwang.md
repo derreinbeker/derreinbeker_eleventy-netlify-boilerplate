@@ -8,7 +8,7 @@ category: Politik
 tags:
   - Verwaltung
 ---
-{% imageWithCaption "media/uploads/gemvers.kirche-aumühle_03.jpg" "" "Der Aumühler Gemeindesaal (l.), der zum Ensemble rund um die Kirche gehört, ist das größte Sorgenkind der neuen Kirchengemeinde Wohltorf-Aumühle." %}
+{% imageWithCaption "media/uploads/gemvers.kirche.jpg" "" "Der Aumühler Gemeindesaal (l.), der zum Ensemble rund um die Kirche gehört, ist das größte Sorgenkind der neuen Kirchengemeinde Wohltorf-Aumühle." %}
 
 Wohltorf/Aumühle – Im Rahmen der Gemeindeversammlung der seit Jahresbeginn fusionierten Kirchengemeinden am 12. Februar gab es für die rund 120 Anwesenden Neuigkeiten, die auf wenig Begeisterung stießen: Um eine Überschuldung der neuen Kirchengemeinde Wohltorf-Aumühle zu verhindern, muss kräftig gespart werden. Ein erster Beschluss dazu wurde bereits gefasst.
 

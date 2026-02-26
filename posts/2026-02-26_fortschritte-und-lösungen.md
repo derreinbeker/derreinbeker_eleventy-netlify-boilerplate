@@ -8,7 +8,7 @@ category: Politik
 tags:
   - Verwaltung
 ---
-{% imageWithCaption "media/uploads/bmwarmer_01.jpg" "" "Bürgermeister Björn Warmer war der Einladung des Bürgervereines Ohe gefolgt und informierte über verschiedene Projekte. " %}
+{% imageWithCaption "media/uploads/bmwarmer_01.jpg" "" "Bürgermeister Björn Warmer war der Einladung des Bürgervereines Ohe gefolgt und informierte über verschiedene Projekte." %}
 
 Ohe – Als Fortsetzung des Rundgangs durch Ohe im vergangenen September besuchte Bürgermeister Björn Warmer jetzt den Stadtteil, um über den Fortschritt der verschiedenen Projekte zu informieren. Anhand einer Präsentation vollzog er den Rundgang durch Ohe nach.
 

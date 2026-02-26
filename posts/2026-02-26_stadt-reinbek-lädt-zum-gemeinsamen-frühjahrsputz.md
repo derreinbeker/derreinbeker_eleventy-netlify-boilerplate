@@ -2,7 +2,7 @@
 titleintro: Unser sauberes Schleswig-Holstein
 title: Stadt Reinbek lädt zum gemeinsamen Frühjahrsputz
 description: " Anmeldung zur Aktion »Unser sauberes Schleswig-Holstein« bis zum
-  1. März im Rathaus. Mülltüten und Arbeitshandschuhe werden gestellt"
+  1. März im Rathaus. Mülltüten und Arbeitshandschuhe werden gestellt."
 authorname: Leif Sandtner
 date: 2026-02-26T18:19:21.149Z
 category: Panorama

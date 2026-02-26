@@ -1,7 +1,7 @@
 ---
 titleintro: Einwohnerversammlung
 title: Ideen zur künftigen Wärmeversorgung
-description: "100 Bürger bei der gemeinsamen Einwohnerversammlung "
+description: 100 Bürger bei der gemeinsamen Einwohnerversammlung
 authorname: Stephanie Rutke
 date: 2026-02-26T18:34:14.785Z
 category: Politik

@@ -1,0 +1,27 @@
+---
+titleintro: re-view
+title: Mehr digitale Selbstbestimmung
+description: Meine Beschäftigung mit dem heutigen Thema begann mit dem Wort
+  Enshittification, über das ich stutzte am 30.1.26 im Artikel »Weg mit Big
+  Tech« von Leonhard Dobusch auf der Internet-Platform moment.at – Anfangs
+  dachte ich, es sei ein Druckfehler, bis ich auf Wikipedia erfuhr, dass damit
+  der Sachverhalt beschrieben wird, dass digitale Angebote, d.h. Onlinedienste
+  und -plattformen mit der Zeit an Qualität verlieren, wenn sie dazu übergehen,
+  sich mehr zu monetarisieren.
+authorname: Hartmuth Sandtner
+date: 2026-02-26T18:37:42.539Z
+category: Meinung
+tags:
+  - re-view
+---
+Meine Beschäftigung mit dem heutigen Thema begann mit dem Wort Enshittification, über das ich stutzte am 30.1.26 im Artikel »Weg mit Big Tech« von Leonhard Dobusch auf der Internet-Platform moment.at – Anfangs dachte ich, es sei ein Druckfehler, bis ich auf Wikipedia erfuhr, dass damit der Sachverhalt beschrieben wird, dass digitale Angebote, d.h. Onlinedienste und -plattformen mit der Zeit an Qualität verlieren, wenn sie dazu übergehen, sich mehr zu monetarisieren. Leonhard Dobusch beschreibt dabei anschaulich, wie alle Plattformen zuerst nett zu dir sind, du dort spannende und inspirierende Leute findest, die es gleich dir auch dort spannend finden und dann zeigt allmählich der Algorithmus immer weniger die Kanäle an, denen du folgst, aber immer mehr bezahlte Werbung. Das betrifft die WhatsApp-Gruppe der Kindertagesstätten-Eltern ebenso wie die Chor-, Sport- oder Bridge-Gruppe, die Schulklasse, die eigenen Urlaubsfotos entspannt in der Cloud, etc. Wer einmal Produkte zumeist amerikanischer Tech-Konzerne nutzt, bleibt häufig aus Gewohnheit dabei. Leonhard Dobusch: »Wir sollten Alternativen nutzen, die schon von ihrem Grundsatz her nicht käuflich sind.« Wie Mastodon oder Pixelfed, die dezentral und interoperabel sind.
+
+Mehr als 30 Initiativen haben in Deutschland deshalb mit dem Ziel, die Demokratie zu schützen, den Digital Independence Day (DID) gestartet, ausgerufen am 27.12.25 auf dem Jahres­kongress des Chaos Computer Clubs (CCC). Die Initiative, die auch unter dem Namen Digi­taler Unabhängig­keits­tag (DUT) geführt wird, wirbt für eine Loslösung von der Abhängigkeit zu großen Plattformanbietern und lädt dazu ein, an jedem ersten Sonn­tag im Monat  auf die gute Seite zu wechseln und eine Alternative auszupro­bieren – immer nur so viel, wie man mit seinem privaten und beruflichen Alltag vereinbaren kann. Ziel ist es, am ersten Sonntag eines jeden Monats – also am 1. März! – sich von einem Big-Tech-Anbieter der Wahl zu lösen. Der Schriftsteller Marc-Uwe Kling  (Hörbücher und Filme zu den »Känguru-Chroniken«) auf dem CCC-Kongress: »Unser digitales Leben befindet sich in der Hand weniger Superreicher. Einen solchen unkontrollierten Einfluss sollte kein Mensch und kein Unternehmen besitzen, weil wir dann nicht mehr in Freiheit leben können«.
+
+Wie Daniel Roßbach in der Frankfurter Rundschau  (5.1.26 ) beschreibt, ist die Initiative am ersten Sonntag des Jahres, dem 4. Januar 2026 mit Aktionen in vielen Städten quer durch Deutschland als »entspannte Rebellion« gestartet, als Bewegung weg von monopolistischen Tech-Giganten hin zu mehr Selbstbestimmung im eigenen digitalen Leben. Roßbach: »In der heutigen Zeit ist das alles andere als ein Nischenthema: Ein großer Teil der Findung und des Ausdrucks der eigenen Persönlichkeit geschieht heute im Digitalen. Das gleiche gilt für Gesellschaften und die Demokratie: Politische Willensbildung ist geprägt von Plattformen, die Debatten nicht nur beherbergen, sondern formen.« 
+
+Koordiniert wurde der Aktionstag von der Initiative Save Social. Medienwissenschaftler und Mitgründer Björn Staschen: »Mit dem Digital Independence Day wollen wir Vielfalt und Freiheit stärken. Der Initiative ging es daher besonders darum, einen möglichst problemlosen und einfachen Wechsel anzubieten.« Auf www.di.day stellen die Initiatoren visuelle Anleitungen für den Wechsel vor und zeigen Schritt für Schritt, wie man zum Beispiel von Whats-App auf Signal oder Matrix wechselt, oder von Windows zu Linux, oder von Gmail auf einen europäischen eMail-Anbieter oder von Google auf Such­maschinen wie Ecosia oder Duck­duckgo. Dank dem SMS-Nachfolger RCS hat inzwischen auch die klassische Text­nach­richt Funk­tionen, für die man sonst einen Messenger wie WhatsApp benötigte. 
+
+»Um gemeinsam unsere Anstrengungen zu dokumentieren und uns gegenseitig zu motivieren«, heißt es beim CCC, »kann man auch gerne auf Social Media (zum Beispiel Mastodon) unter den Hashtags #iDIDit oder #DUTgemacht posten, was man geschafft hat.«
+
+Abseits der privaten Nutzung blickt die Initiative auch auf politische Auswirkungen und fordert dringend ein Handeln der EU. Wie gefährlich digitale Abhängigkeit bei Softwareangeboten sein könne, zeige ein Vorfall beim internationalen Gerichtshof, sagt Björn Staschen. »Die US-Regierung habe dort bewirkt, dass beim Chefankläger mit einem Klick der Microsoft-eMail-Account gesperrt wurde.« – Unterstützt wird der Digital Independence Day von einem breiten zivilgesellschaftlichen Bündnis, das weiter wächst. Darunter der Chaos Computer Club, Wikimedia Deutschland, die Digitale Gesellschaft, Epicenter.works, Mastodon, Nextcloud sowie zahlreiche weitere Initiativen und Organisationen.

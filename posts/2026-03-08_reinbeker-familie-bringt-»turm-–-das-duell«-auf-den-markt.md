@@ -5,7 +5,7 @@ description: "Reinbek - Was als spontane Idee begann, ist heute ein fertiges
   Kartenspiel im Handel: Die Reinbeker Familie Eggers hat mit »TURMDas Duell«
   ein Zwei-Personen-Strategiespiel entwickelt, das Kooperation und taktisches
   Duell auf ungewöhnliche Weise miteinander verbindet."
-authorname: Hartmuth Sandtner
+authorname: Leif Sandtner
 date: 2026-03-08T11:44:53.959Z
 category: Panorama
 tags:

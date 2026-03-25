@@ -1,0 +1,27 @@
+---
+titleintro: Menschen bei uns
+title: »Ich bin gern Pionier«
+description: Dr. Michael Schumacher ist Geschäftsführer für den Ganztag in Reinbek
+authorname: Imke Kuhlmann
+date: 2026-03-25T11:23:33.017Z
+category: Panorama
+tags:
+  - Menschen
+---
+{% imageWithCaption "media/uploads/michael-schumacher.jpg" "" "Dr. Michael Schumacher, promovierter Sportwissenschaftler und Ju-Jitsu-Kampfsportler, lebt den Grundsatz aus dem Sport: »Miteinander – Füreinander zum beiderseitigen Wohlergehen.« " %}
+
+Reinbek – Seit dem 1. Februar verantwortet Michael Schumacher den Ausbau und die Organisation des Ganztags in Reinbek. Grundlage dafür ist der Rechtsanspruch auf ganztägige Bildung und Betreuung für Kinder im Grundschulalter, der 2021 im Ganztagsförderungsgesetz (GaFöG) festgelegt wurde. Ab dem Schuljahr 2026/27 gilt dieser Anspruch zunächst für Erstklässler, anschließend wird er schrittweise ausgeweitet, bis im Schuljahr 2029/30 alle Kinder der Klassenstufen eins bis vier Anspruch auf ganztägige Betreuung haben. Damit steht die Stadt vor einer großen strukturellen und organisatorischen Aufgabe.
+
+Für die Umsetzung dieser umfangreichen Aufgabe ist Dr. Schumacher als Geschäftsführer der GTR (Ganztag in Reinbek) gGmbH verantwortlich. Künftig muss eine verlässliche Betreuung in der Zeit von acht bis 16 Uhr gewährleistet sein, die sowohl pädagogischen als auch organisatorischen Ansprüchen gerecht wird. Unterstützt wird er dabei von einem erfahrenen Team, das bereits über fundierte Kenntnisse im Bildungs- und Verwaltungsbereich verfügt. Schritt für Schritt soll der Ganztag in Reinbek weiterentwickelt, ausgebaut und sinnvoll in bestehende Strukturen integriert werden. Besonders wichtig ist Dr. Schumacher dabei die enge Zusammenarbeit mit den Schulen. Der pädagogische Bereich bleibt weiterhin in der Verantwortung der jeweiligen pädagogischen Leitung vor Ort.
+
+Der Diplom-Betriebswirt mit Promotion in Sportwissenschaften ist ursprünglich gelernter Verwaltungsfachmann. Seine berufliche Laufbahn zeigt eine Kombination aus Verwaltungserfahrung, betriebswirtschaftlichem Know-how und wissenschaftlicher Perspektive. Geboren wurde Michael Schumacher in Dinslaken, aufgewachsen ist er in Bremerhaven. Heute lebt er in Bad Schwartau und engagiert sich dort auch kommunalpolitisch als Stadtverordneter im Sozial- und Hauptausschuss. Dieses Engagement unterstreicht seine Verbundenheit mit gesellschaftlichen Themen und seine Bereitschaft, Verantwortung zu übernehmen.
+
+Vor seinem Wechsel nach Reinbek arbeitete er im öffentlichen Dienst der Stadt Bad Oldesloe, wo er sich insbesondere mit IT, Projekten und Prozessmanagement beschäftigte. Dabei sammelte er wertvolle Erfahrungen in der Optimierung von Abläufen und in der Steuerung komplexer Projekte. Sein beruflicher Werdegang war von unterschiedlichen Stationen geprägt. Erfahrungen, die ihm nun bei der neuen Aufgabe zugutekommen. »Ich bin gern Pionier«, sagt der 65-Jährige. Neue Strukturen aufzubauen und Entwicklungen aktiv zu gestalten, motiviere ihn besonders. Herausforderungen begreift er als Chance, nachhaltige Verbesserungen zu schaffen.
+
+Dabei orientiert er sich an einem Grundsatz aus dem Sport: »Miteinander – Füreinander zum beiderseitigen Wohlergehen.« Nur im Team lasse sich eine Herausforderung wie der Ausbau des Ganztags erfolgreich bewältigen. Durch die gesetzliche Neuregelung werden künftig auch viele Förder- und Elternvereine entlastet, die bislang an vielen Schulen die Betreuung organisiert haben. »Uns ist wichtig, dass diese Organisationen weiterhin eigenständig bleiben«, betont Schumacher. »Wir wollen gemeinsam den neuen Weg gestalten.« Das partnerschaftliche Miteinander steht für ihn im Mittelpunkt.
+
+Ideen für die Weiterentwicklung des Ganztags hat er bereits im Gepäck. Ein zentraler Schwerpunkt soll der Aufbau moderner IT-Strukturen für die Träger im Nachmittagsbereich sein, um Organisation, Verwaltung und Planung effizienter zu gestalten. Digitale Lösungen könnten dabei helfen, Prozesse zu vereinfachen und Ressourcen gezielter einzusetzen. Zu seinen Aufgaben gehört außerdem die Steuerung eines Netzwerks aus Organisationen, Verbänden, Verwaltung und Politik. Als Geschäftsführer berichtet er an den Aufsichtsrat der gemeinnützigen GmbH, dem neben Vertreterinnen und Vertretern der Politik auch Inga Burmeister, Leiterin des Fachbereichs Bildung und Stadtleben der Stadt Reinbek, angehört.
+
+In seiner Freizeit spielt Sport für Schumacher eine wichtige Rolle. Er ist Ju-Jitsu-Kampfsportler – eine traditionelle japanische Kampfkunst, die sowohl körperliche Fitness als auch mentale Stärke erfordert. In diesem Bereich engagiert er sich als Lehrer und Mentor, gibt Workshops und trainiert selbst regelmäßig. Disziplin, Ausdauer und Teamgeist, die er dort lebt, spiegeln sich auch in seinem beruflichen Alltag wider. Zusätzlich gehören Fitness und Jogging zu seinem Trainingsplan. Darüber hinaus liest er gern und schätzt das klassische Buchformat: »Ich mag es, ein Buch in der Hand zu halten«, sagt er. 
+
+Mit seiner Lebensgefährtin Christiane besucht Michael Schumacher gern Opern und Operetten. Die beiden teilen außerdem die Freude am Reisen: Ziele in den USA, in Asien und in den Emiraten haben sie bereits gemeinsam erkundet.

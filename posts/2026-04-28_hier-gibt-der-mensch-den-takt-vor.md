@@ -1,0 +1,23 @@
+---
+titleintro: Menschen bei uns
+title: Hier gibt der Mensch den Takt vor
+description: Christian Lüth setzt mit der Klangperle nicht auf Profit
+authorname: Imke Kuhlmann
+date: 2026-04-28T06:45:17.036Z
+category: Panorama
+tags:
+  - Menschen
+---
+{% imageWithCaption "media/uploads/christianlueth.jpg" "" "Christian Lüth will Musik zu den Menschen bringen" %}
+
+Reinbek – Vor neun Jahren gründeten Christian Lüth (37) und seine Frau Lisa (36) die Musikschule »Klangperle«. Vor dem Gebäude am Rosenplatz 18 steht ein blaues Klavier. Ein sichtbarer Hinweis: Hier geht es um Musik.
+
+Gestartet hat das Paar 2017 mit einem klassischen Musikschulmodell. Lehrkräfte arbeiteten als freie Mitarbeiter, der Unterricht folgte üblichen Strukturen. Schnell zeigte sich jedoch, dass häufige Wechsel bei den Lehrkräften stabile Beziehungen zu den Schülerinnen und Schülern erschwerten. Für Lüth wurde genau das zum Ausgangspunkt für eine Neuausrichtung. Die Klangperle wird seit zwei Jahren als gemeinnützige Gesellschaft geführt. Diese Rechtsform verpflichtet dazu, Gewinne nicht auszuschütten, sondern vollständig in den Betrieb und die pädagogische Arbeit zurückzuführen. Für Lüth und seine Frau war das kein formaler Schritt, sondern eine klare Entscheidung gegen ein rein wirtschaftlich geprägtes Modell. »Es ging uns darum, Kontinuität zu schaffen und Musik zugänglich zu machen«, sagt er. Unterricht soll nicht nur Wissen vermitteln, sondern Vertrauen aufbauen – zwischen Lehrkraft und Schüler. Die Frage ist für Christian Lüth nicht, wie schnell jemand ein Instrument lernt, sondern ob ein echter Zugang zur Musik entsteht.
+
+Musik begleitet ihn dabei seit seiner Kindheit. Aufgewachsen in einem Umfeld, in dem Musik selbstverständlich dazugehört habe, sei sie früh Teil seines Alltags geworden. Er spielt selbst mehrere Instrumente und ist auch heute noch in seiner Freizeit regelmäßig musikalisch aktiv. »Das ist für mich Entspannung zur Arbeit«, sagt er. Gemeinsam mit seiner Frau, die Musikpädagogin ist, verbindet ihn eine lange gemeinsame Geschichte. Kennengelernt haben sich beide mit 16 Jahren in einer Band. Musik hat die beiden schon damals verbunden, lange bevor daraus ein Beruf wurde. Das Paar hat Zwillinge im Alter von drei Jahren. Der Alltag sei entsprechend geprägt von Organisation, Familie und Musikschule zugleich. Christian Lüth führt die Musikschule organisatorisch, übernimmt Planung und Organisation. Lisa kümmert sich um die musikpädagogische Ausrichtung. »Das ist schon viel, aber es gehört gerade einfach dazu«, sagt er. Gleichzeitig spielt Musik auch im Familienleben eine große Rolle. Die Kinder probieren sich am Klavier aus und auch gemeinsam wird regelmäßig musiziert. 
+
+Für Christian Lüth ist es ebenso wichtig, dass der Besuch einer Musikschule nicht vom Einkommen abhängig sein soll. »Wir möchten, dass sich jeder den Unterricht leisten kann«, sagt er. Dafür haben sie einen Förderfonds ins Leben gerufen, der Familien in finanzieller Notlage bei Gebühren oder Instrumentenmieten unterstützt. Auch der frühe Kontakt zur Musik sei zentral. Neben klassischem Unterricht bieten sie Babykurse an, in denen es um Klangwahrnehmung, Rhythmus und spielerisches Erleben geht. Musik fördert Kinder bereits früh in ihrer sprachlichen, kognitiven, emotionalen, motorischen und sozialen Entwicklung, indem sie Lernen, Ausdruck und Wahrnehmung auf spielerische Weise miteinander verbindet. Kooperationen mit Kindergärten und Schulen sollen zudem Kinder erreichen, die sonst keinen Zugang zu Musikunterricht hätten.
+
+Das Angebot reicht von Klavier, Geige und Cello über Gesang und Saxophon bis hin zum Schlagzeug. Ergänzt wird es durch Eltern-Kind-Kurse, bei denen Musik als gemeinsames Erlebnis im Mittelpunkt steht. Neu hinzugekommen sind in den vergangenen Jahren auch kleine Ensemble- und Bandprojekte, bei denen Kinder und Jugendliche früh lernen, gemeinsam zu spielen und aufeinander zu hören. Ein Punkt, der Lüth besonders wichtig ist. »Musik entsteht ja selten allein im stillen Raum«, sagt er. Gemeinsamkeit sei oft die stärkste Motivation.
+
+Neben der Musikschule engagiert sich Christian Lüth zudem ehrenamtlich, unter anderem bei der Organisation des »Sommersalons« in Reinbek, der am 20. Juni wieder die Innenstadt zur Feiermeile machen soll. »Wenn ich mich engagiere, dann richtig«, sagt er. Und so hängt er sich mit einem Team und Unterstützung der Stadt gerade intensiv in die Planungen. Um den Blick über den eigenen Tellerrand zu behalten, steht er zudem im regelmäßigen Austausch mit dem Bundesverband der Musikschulen sowie Kolleginnen und Kollegen aus Schleswig-Holstein. »Ich möchte Entwicklungen nicht nur beobachten, sondern Angebote regelmäßig überprüfen und anpassen«, sagt er.

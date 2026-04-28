@@ -2,7 +2,7 @@
 titleintro: Erfahrungsbericht von Julia Fontius aus Reinbek
 title: Die vernachlässigte Erkrankung ME/CFS
 description: Liegenddemos in ganz Deutschland – am 9.5. in Hamburg
-authorname: Leif Sandtner
+authorname: Julia Fontius
 date: 2026-04-28T07:03:19.794Z
 category: Panorama
 tags:

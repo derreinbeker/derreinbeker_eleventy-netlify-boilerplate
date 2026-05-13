@@ -1,6 +1,6 @@
 ---
 titleintro: Schloss Reinbek
-title: "Liederkoffer: Bären- starke Hits für Kinder"
+title: "Liederkoffer: Bärenstarke Hits für Kinder"
 description: Reinbek – Beim Familienkonzert im Schloss Reinbek, Schlossstraße 5,
   mit dem Liederkoffer steppt der Bär und niemand bleibt lange sitzen. Poppige
   Musik und clevere Texte sorgen für jede Menge Kinderspaß. Während Frank mit

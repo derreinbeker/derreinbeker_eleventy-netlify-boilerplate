@@ -1,0 +1,27 @@
+---
+titleintro: Menschen bei uns
+title: »Nicht aufgeben« ist sein Lebensmotto
+description: Volker Müller kämpft seit Jahrzehnten für Teilhabe und Barrierefreiheit
+authorname: Imke Kuhlmann
+date: 2026-05-26T13:16:24.208Z
+category: Panorama
+tags:
+  - Menschen
+---
+{% imageWithCaption "media/uploads/volker_mueller.jpg" "" "Volker Müller engagiert sich seit vielen Jahren ehrenamtlich" %}
+
+Reinbek – Mit 78 Jahren übernimmt Volker Müller offiziell den Vorsitz des Behindertenbeirats. Ganz neu ist die Aufgabe für ihn allerdings nicht. Bereits in der vergangenen Amtszeit hatte er den Vorsitz für rund ein Dreivierteljahr kommissarisch übernommen, nachdem seine Vorgängerin ausgeschieden war. Seit acht Jahren gehört Müller dem Beirat an. Gemeinsam mit den weiteren Mitgliedern will er in den kommenden Wochen die Zuständigkeiten und Schwerpunkte der Arbeit festlegen.
+
+Wer mit Volker Müller spricht, merkt schnell: Für ihn ist ehrenamtliches Engagement keine Pflichtübung, sondern eine Haltung. Seit Jahrzehnten setzt er sich politisch, sozial und gesellschaftlich für andere Menschen ein. »Wenn wir etwas für unsere Gesellschaft tun wollen, müssen wir selbst handeln, damit Interessen vertreten werden«, sagt Müller. 
+
+Geboren wurde Müller in Reinbek. Schon früh interessierte er sich für gesellschaftliche Fragen und Politik. Bereits mit 18 Jahren trat er in die Gewerkschaft ein. Seit rund 50 Jahren ist er Mitglied der SPD. Über viele Jahrzehnte prägte er die Kommunalpolitik mit. 25 Jahre lang war er Fraktionsvorsitzender, bevor er mit 70 Jahren bewusst einen Schritt zurücktrat. Ganz losgelassen hat ihn das Engagement allerdings nie. Noch heute ist er aktiv – unter anderem im Vorstand der Südstormarner Vereinigung für Sozialarbeit (SVS), in der er seit rund 40 Jahren tätig ist.
+
+Beruflich begann Müller als Erzieher. Später arbeitete er bei der Sönke-Nissen-Stiftung und engagierte sich dort ebenfalls über Jahrzehnte hinweg. Insgesamt 25 Jahre gehörte er dem Stiftungsvorstand an. Auch in der Gewerkschaft war er aktiv und gab Kurse für Personal- und Betriebsräte. Für ihn war immer klar: Gesellschaft funktioniert nur, wenn Menschen Verantwortung übernehmen.
+
+Mit Sorge blickt Müller heute auf den Nachwuchs in Ehrenamt und Kommunalpolitik. Viele Vorstände seien inzwischen überaltert, junge Menschen fehlten häufig. »Ich wünsche mir, dass sich mehr Jüngere engagieren«, sagt er. Oft habe er den Eindruck, dass heute zunächst gefragt werde, welchen direkten Nutzen ein Ehrenamt bringe. Gleichzeitig weiß Müller aber auch, dass Engagement weitergegeben werden kann. Besonders stolz ist er deshalb auf seinen jüngsten Enkel (15), der sich bereits beim Technischen Hilfswerk engagiert. Insgesamt hat Müller drei Enkelkinder im Alter von 20, 18 und 15 Jahren.
+
+Familie spielte für ihn immer eine große Rolle. Seine beiden Töchter Birthe und Inga sind heute 50 und 53 Jahre alt. Seine Frau Hannelore, mit der er viele Jahrzehnte verheiratet war, starb 2017. Noch heute spricht Müller oft von gemeinsamen Erlebnissen und Reisen. Besonders das Camping begleitete die Familie über viele Jahre. Schon als Jugendlicher habe er das Campen geliebt, erzählt er. Später reiste die Familie mit Wohnwagen oder Wohnmobil quer durchs Land. »Sogar Wintercamping haben wir gemacht«, sagt Müller. Autofahren übernahm dabei seine Frau. Doch auch für andere Herausforderungen fanden beide Lösungen. Um gemeinsam Fahrrad fahren zu können, kaufte sich das Paar ein Tandem. Denn Volker Müller ist blind. Bereits in der vierten Klasse bemerkte er, dass sich seine Sehkraft verschlechterte. Für viele Menschen wäre das ein Einschnitt gewesen, der vieles unmöglich erscheinen lässt. Für Müller war es dagegen nie ein Grund, sich zurückzuziehen. Seine Ausbildung absolvierte er an einer Berufsfachschule für Blinde. Früh lernte er, selbstständig zu sein und Wege zu finden, um aktiv am Leben teilzunehmen. Auch seine Leidenschaft für Gemeinschaft und Abenteuer ließ er sich nicht nehmen. Müller war bei den Pfadfindern aktiv und nahm 1963 sogar an einem Weltpfadfindertreffen in Griechenland teil. 
+
+Seine eigene Sehbehinderung prägt auch seinen Blick auf Barrierefreiheit. Im Alltag seien es oft kleine Dinge, die über Selbstständigkeit und Teilhabe entscheiden. Dazu gehörten akustische Ampelsignale mit der richtigen Lautstärke ebenso wie geräumte Gehwege im Winter oder frei zugängliche Wege ohne Hindernisse. Viele Menschen nähmen solche Probleme kaum wahr, solange sie selbst nicht betroffen seien. Im Behindertenbeirat setzt sich Müller deshalb seit Jahren dafür ein, konkrete Verbesserungen anzustoßen. Einige Erfolge konnten bereits erreicht werden. So werden inzwischen regelmäßig Bushaltestellen barrierefrei umgebaut. Behindertenparkplätze wurden geschaffen oder taktile Straßenschilder installiert. Für sehbehinderte Menschen wünscht sich Müller zudem, dass Schwimmbahnen im Freizeitbad Reinbek besser freigegeben werden. Und er sieht weiteren Handlungsbedarf. Besonders am Bahnhof gebe es noch Probleme. Die Sanitäranlagen seien für Menschen mit Rollatoren oder Rollstühlen teilweise nur schlecht nutzbar, weil Türen zu schwer zu öffnen seien. Außerdem fehlten Leitlinien zu Treppen und wichtigen Orientierungspunkten.
+
+Für seine neue Aufgabe als Vorsitzender bringt Volker Müller vor allem eines mit: Erfahrung und Beharrlichkeit. Sein persönliches Leitbild begleitet ihn dabei seit vielen Jahren. »Nicht aufgeben – und alles, was man alleine schaffen kann, auch alleine machen«, sagt er.

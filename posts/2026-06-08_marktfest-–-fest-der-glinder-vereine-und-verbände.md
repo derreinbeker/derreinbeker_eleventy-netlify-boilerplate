@@ -4,7 +4,7 @@ title: MARKTFEST – Fest der Glinder Vereine und Verbände
 description: Von 15 Uhr bis Mitternacht gibt es Infos, Musik zum Mitmachen und
   eine tolle Zeit auf dem Glinder Marktplatz.
 authorname: Leif Sandtner
-date: 2026-06-08T10:25:30.962Z
+date: 2026-06-10T10:25:30.962Z
 category: Panorama
 tags:
   - Fest

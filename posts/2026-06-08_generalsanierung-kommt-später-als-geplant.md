@@ -1,0 +1,20 @@
+---
+titleintro: Jahreswechsel 2027/2028
+title: Generalsanierung kommt  später als geplant
+description: |
+  Reinbek setzt auf Millionenförderung für Freizeitbad
+authorname: Imke Kuhlmann
+date: 2026-06-08T10:31:36.740Z
+category: Politik
+tags:
+  - Politik
+---
+{% imageWithCaption "media/uploads/kehl_fzb.jpg" "" "Holger Kehl bereitet die Sanierung akribisch vor" %}
+
+Reinbek – Für die Besucher des Freizeitbads Reinbek ist es zunächst eine gute Nachricht: Die Einrichtung wird auch 2027 noch regulär geöffnet sein. Die ursprünglich für dieses Jahr ins Auge gefasste Generalsanierung verschiebt sich nach aktuellen Planungen auf den Jahreswechsel 2027/2028. Der Grund dafür sind laufende Förderverfahren bei Bund und Land. Um die Chancen auf Zuschüsse nicht zu gefährden, dürfen bestimmte vorbereitende Maßnahmen derzeit noch nicht begonnen werden. Die Verantwortlichen setzen auf finanzielle Unterstützung in Höhe von sieben Millionen Euro. Bundesweit konkurrieren etwa 3.600 öffentliche Bäder um Fördermittel aus einem Programmvolumen von 250 Millionen Euro.
+
+Am Sanierungsbedarf selbst besteht nach Angaben von Geschäftsführer Holger Kehl kein Zweifel. Die Modernisierung sei beschlossen und werde unabhängig von möglichen Förderzusagen umgesetzt. »Auch wenn Fördergelder abgelehnt werden sollten, wird saniert«, betont Kehl. Die Gesamtkosten werden derzeit auf rund zwölf Millionen Euro geschätzt. Allerdings könnte sich die Verschiebung auf die endgültige Summe auswirken, da steigende Baupreise nicht ausgeschlossen werden. Eigentümerin des Freizeitbads ist die Stadt Reinbek. Das E-Werk ist Pächter der Anlage und hat den Betrieb wiederum an die Freizeitbad Reinbek Betriebsgesellschaft verpachtet. Sie alle sehen in dem Projekt eine Investition in die Zukunft. Dabei geht es nicht nur um ein Freizeitangebot, sondern auch um die Sicherung wichtiger Infrastruktur für Schulen, Vereine und die Rettungsschwimmerausbildung. Entsprechend breit ist die politische Unterstützung für das Vorhaben. Mit rund 188.300 Gästen wurde im Jahr 2025 ein neuer Besucherrekord erreicht. Besonders gefragt ist in den Sommermonaten auch der Außenbereich mit seinen Becken. Das Personal soll auch während der Schließphase gehalten werden. Angesichts des Fachkräftemangels und fehlenden Nachwuchses sei dies für den späteren Neustart unverzichtbar. 
+
+Für Schulen und Vereine bleibt die bevorstehende Schließung ein organisatorisches Problem. Schon heute werden Lösungen für die Zeit während der Bauarbeiten vorbereitet. Teilweise finden Schwimmangebote bereits in größerem Umfang statt, um spätere Ausfälle besser auffangen zu können. Gleichzeitig sind die Möglichkeiten in Nachbarkommunen begrenzt. Ausweichmöglichkeiten in umliegenden Bädern etwa in Trittau oder Geesthacht sind begrenzt, da vielerorts  wie auch beim Bille-Bad in Bergedorf die Kapazitäten fehlen. Die geplante Generalsanierung umfasst nahezu die gesamte Anlage. Erneuert werden sollen unter anderem die Schwimmbecken, die Wasseraufbereitung, die Elektro- und Lüftungstechnik sowie Duschen, Umkleiden und Fenster. Ein Schwerpunkt liegt auf energetischen Verbesserungen, die den Betrieb langfristig wirtschaftlicher machen und die Klimabilanz verbessern sollen. Bereits auf den Weg gebracht ist ein neues digitales Zugangssystem mit Drehkreuz und Chiptechnik. Das Schranksystem ist dafür vorbereitet, künftig soll der Chip auch als Zahlungsmittel am Kiosk genutzt werden können.
+
+Trotz der umfangreichen Investitionen soll sich am Charakter der Einrichtung nichts ändern. Das Freizeitbad will auch künftig Familienbad bleiben und Angebote wie Wassergymnastik, Schwimmunterricht und Vereinssport vorhalten. Geplant ist zudem eine neue Rutsche mit unterschiedlichen Einstiegshöhen. »Es muss alles zum Ort passen. Wir sind ein Bad in der Region für die Region«, sagt Kehl. Ein wichtiges Datum haben die Verantwortlichen zudem im Blick: Im November 2029 feiert das Freizeitbad Reinbek sein 50-jähriges Bestehen.

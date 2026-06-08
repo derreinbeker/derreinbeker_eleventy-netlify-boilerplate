@@ -5,7 +5,7 @@ description: |-
   Beliebtes Innenstadtfest am Sonnabend, 20. Juni, von 15 bis 22 Uhr.
   Mehr Musik und Aussteller als im Vorjahr
 authorname: Leif Sandtner
-date: 2026-06-08T10:11:08.453Z
+date: 2026-06-10T10:11:08.453Z
 category: Panorama
 tags:
   - Fest

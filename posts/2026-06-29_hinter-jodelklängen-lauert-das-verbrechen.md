@@ -8,9 +8,7 @@ category: Kultur
 tags:
   - Theater
 ---
-{% imageWithCaption "media/uploads/wentorfer_buehne.jpg" "" "
-
-" %}
+{% imageWithCaption "media/uploads/wentorfer_buehne.jpg" "" "" %}
 
 Wentorf – Die Wentorfer Bühne startet in die heiße Phase ihres Sommertheaters 2026. Der Vorverkauf für die Krimipersiflage »Mordsspaß im Musikantenstall« hat begonnen und erstmals gibt es die Eintrittskarten in der Haspa-Filiale Wentorf. Vom 10. bis zum 12. Juli (Freitag 19 Uhr, Sonnabend 18 Uhr, Sonntag 17 Uhr) verwandelt sich die Aula des Gymnasiums Wentorf, Hohler Weg 16, in die Kulisse einer schrägen Fernsehwelt. Im Mittelpunkt stehen Moni und Matti Meier, das vermeintliche Traumpaar der Volksmusik. Doch während der Aufzeichnung ihrer Weihnachtssendung geraten Eifersucht, Intrigen und Karrierepläne außer Kontrolle bis plötzlich ein Produzent tot auf der Bühne liegt. Regisseurin Daniela Snijders verspricht eine Persiflage auf die Welt der Volksmusik mit jeder Menge Situationskomik und skurrilen Figuren. »Das Stück macht richtig Spaß«, sagt sie.
 

@@ -20,7 +20,7 @@ collections:
       - { label: "Titelintro (nur was kurzes)", name: "titleintro", widget: "string" }
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Kurzbeschreibung (ca. 200 Zeichen)", name: "description", widget: "text" }
-      - { label: "Autor", name: "authorname", widget: "string", default: "Hartmuth Sandtner"}
+      - { label: "Autor", name: "authorname", widget: "string", default: "Leif Sandtner"}
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: 'Kategorie', name: 'category', required: true, widget: 'select', options: ['Panorama', 'Kultur', 'Politik', 'Meinung'] }
       - { label: "Themen (durch Komma trennen)", name: "tags", widget: "list" }

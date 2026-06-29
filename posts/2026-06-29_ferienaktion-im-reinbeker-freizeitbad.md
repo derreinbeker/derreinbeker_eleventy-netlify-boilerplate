@@ -1,21 +1,16 @@
 ---
-titleintro: Programm in den Ferien
-title: Ferienaktion im Reinbeker Freizeitbad
-description: Mit erweiterten Öffnungszeiten und Spielenachmittag + Hindernisparcours
+titleintro: Programm 2. Halbjahr
+title: Programmheftparty in der Volkshochschule Sachsenwald
+description: Reinbek  – Am Donnerstag, 13. August, steigt auf dem VHS-Hof,
+  Klosterbergenstraße 2a,  die Programmheftparty.
 authorname: Leif Sandtner
-date: 2026-06-29T13:35:31.333Z
+date: 2026-06-29T13:38:25.676Z
 category: Panorama
 tags:
-  - Ferien
+  - VHS
 ---
-{% imageWithCaption "media/uploads/freizeitbad.jpg" "" "" %}
+Reinbek  – Am Donnerstag, 13. August, steigt auf dem VHS-Hof, Klosterbergenstraße 2a,  die Programmheftparty.
 
-Reinbek – Während der Schulferien in Schleswig-Holstein vom 4.7.– 15.8. gelten erweiterte Öffnungszeiten. Montag: geschlossen, Dienstag bis Freitag 6.30 - 21 Uhr, Sonnabend und Sonntag 10 - 19 Uhr.
+Los geht es um 15.30 Uhr mit der Präsentation des neuen Programmhefts und der Möglichkeit zur Anmeldung zu den brandneuen Kursen. Gleichzeitig stehen erfahrene Kursleiterinnen und Kursleiter sowie das VHS-Team zur Kursberatung bereit. So findet jeder aus den fast 300 Vorträgen, Seminaren und Kursen das passende Lernangebot.
 
-Jeden Donnerstag von 14 bis 16 Uhr in der Ferienzeit (9., 16., 23., 30.7., 6. und 13.8) ist der Wasserhindernisparcours im Schwimmerbecken aufgebaut. Die Hindernisbahn ist eine Art von Hindernisparcours, der im Wasser stattfindet und Elemente zum Klettern, Balancieren, Rutschen und Springen beinhaltet.
-
-Am Donnerstag, 6.8. von 14 bis 16 Uhr bietet das Freizeitbad einen Ferien-Spielenachmittag an. Es können alle Schulkinder von 6 bis 14 Jahren teilnehmen.
-
-Es werden animierte Spiele im Flach- und Tiefwasser angeboten. Eine Hindernisbahn wird im Schwimmerbecken aufgebaut sein. Alle Teilnehmer zahlen den regulären Eintrittspreis. Jeder Teilnehmer erhält kleine Preise. 
-
-Das Freizeitbad-Team freut sich über eine rege Teilnahme von Ferienkindern am Spielenachmittag!
+Ab 16 Uhr gibt es dann Eis. Alle sind auf zwei Kugeln eingeladen. So erfrischt macht der anschließende Klönschnack doppelt Spaß.

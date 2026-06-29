@@ -8,7 +8,7 @@ category: Panorama
 tags:
   - Ferien
 ---
-{% imageWithCaption "media/uploads/rsv_ferienprogrammjpg" "" "Die Jugendgruppe mit den Trainern Ariane Lehmann links und Thomas Kopittke rechts freuen sich auf das Ferienprogramm" %}
+{% imageWithCaption "media/uploads/rsv_ferienprogramm.jpg" "" "Die Jugendgruppe mit den Trainern Ariane Lehmann links und Thomas Kopittke rechts freuen sich auf das Ferienprogramm" %}
 
 Reinbek – Während der Sommerferien in Schleswig-Holstein vom 4. Juli bis zum 15. August veranstaltet der Reinbeker Schützenverein wieder ein Ferienprogramm. Interessierte Jugendliche im Alter zwischen 8 und 18 Jahren können jeden Mittwoch ohne Anmeldung um 17.30 Uhr zum Schützenverein in die Loddenallee 4 kommen.
 

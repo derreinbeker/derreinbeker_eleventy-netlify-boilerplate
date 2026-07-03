@@ -1,5 +1,5 @@
 ---
-titleintro: Reinbeker Schützenver- ein
+titleintro: Reinbeker Schützenverein
 title: Ferienprogramm im Reinbeker Schützenverein
 description: Jugendliche ab 8 Jahren können jeden Mittwoch mitmachen
 authorname: Leif Sandtner

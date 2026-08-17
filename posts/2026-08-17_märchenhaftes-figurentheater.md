@@ -8,9 +8,7 @@ category: Kultur
 tags:
   - Theater
 ---
-
-
-{% imageWithCaption "" "" "Bild: Mechthild Nienaber" %}
+{% imageWithCaption "media/uploads/mechthildnienaber.jpg" "" "Bild: Mechthild Nienaber" %}
 
 Wentorf – Am Mittwoch, 26. August, 16 Uhr, wird es märchenhaft in der Gemeindebücherei Wentorf: Das Tandera Theater ist zu Gast und nimmt Kinder und ihre Familien mit auf eine fantasievolle Reise voller Abenteuer, Überraschungen – und der Frage, was im Leben eigentlich »etwas Besseres« ist.
 

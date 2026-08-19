@@ -19,4 +19,4 @@ Beim Sommerfest dabei sind die Blaulicht-Minis der Freiwilligen Feuerwehr Aumüh
 
 Die DLRG nutzt das Fest in jedem Jahr, um weitere Mitglieder zu gewinnen. Es wird auch eine Spendenbox geben. »Wir benötigen noch 1.000 Euro für die Finanzierung der Ausbildung von Ansprechpartnern zur Gewaltprävention«, erklärt Bartsch.
 
-Wer bei der Fitnass-Challenge dabei sein will, findet alle Infos zur Anmeldung unter www.sachsenwald.dlrg.de
+Wer bei der Fitnass-Challenge dabei sein will, findet alle Infos zur Anmeldung unter https://sachsenwald.dlrg.de

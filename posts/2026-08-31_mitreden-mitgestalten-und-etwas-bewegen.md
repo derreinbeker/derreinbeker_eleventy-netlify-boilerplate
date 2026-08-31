@@ -4,7 +4,7 @@ title: Mitreden, mitgestalten und etwas bewegen
 description: Mitreden, mitgestalten und etwas bewegen
 authorname: Imke Kuhlmann
 date: 2026-08-31T13:40:07.426Z
-category: Panorama
+category: Politik
 tags:
   - Senioren
 ---

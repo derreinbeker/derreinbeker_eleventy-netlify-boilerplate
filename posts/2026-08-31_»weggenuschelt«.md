@@ -1,0 +1,27 @@
+---
+titleintro: re-view
+title: "»Weggenuschelt« "
+description: 36 Organisationen aus Zivilgesellschaft, Kirchen, dem Umweltschutz
+  –unter ihnen die Arbeiterwohlfahrt (AWO), der Bund für Umwelt und Naturschutz
+  (BUND), Greenpeace, der Deutsche Mieterbund und WWF Deutschland – verlangen
+  die Einberufung eines Hitzegipfels sowie die Verankerung des Schutzes vor
+  Gefährdungen durch die Klimakrise als Gemeinschaftsaufgabe im Grundgesetz.
+authorname: Hartmuth Sandtner
+date: 2026-08-31T13:42:25.937Z
+category: Meinung
+tags:
+  - re-view
+---
+36 Organisationen aus Zivilgesellschaft, Kirchen, dem Umweltschutz –unter ihnen die Arbeiterwohlfahrt (AWO), der Bund für Umwelt und Naturschutz (BUND), Greenpeace, der Deutsche Mieterbund und WWF Deutschland – verlangen die Einberufung eines Hitzegipfels sowie die Verankerung des Schutzes vor Gefährdungen durch die Klimakrise als Gemeinschaftsaufgabe im Grundgesetz. Am 6. August haben mehrere hundert Teilnehmer eines breiten Bündnisses, zu dem auch »Fridays for Future« gehört, vor dem Bundeskanzleramt in Berlin mehr Hitze- und Klimaschutz gefordert. Wie Die Zeit berichtet, verwiesen die Klimaschützer auch auf eine Erklärung des Forschungsnetzwerks Planetary Health Alliance, in der über 80 europäische Gesundheitsorganisationen einen stärkeren Einsatz der EU für Klima- und Hitzeschutz fordern. Klimaaktivistin Luisa Neubauer warf in ihrer Rede Bundeskanzler Friedrich Merz vor, nicht für die Menschen in Deutschland da zu sein. Hätte eine andere Katastrophe so viele Menschenleben gefordert, wären »Himmel und Hölle in Bewegung«, sagte Neubauer. Dass ihm fast 12.000 Hitzetote »kein einziges Wort wert sind, beschämt mich«, sagte Neubauer. 
+
+Mehrere überregionale Medien berichteten von der Veranstaltung, neben der Zeit am 8.8. auch die Süddeutsche Zeitung. Sonja Zekri notiert in tadelndem Ton unter der Überschrift Klimakrise – Stell dir vor, es ist Klima, und keiner geht hin: »Die Flüsse versiegen, die Wirtschaft leidet, Menschen sterben an der Hitze. Und niemand protestiert.« Alles in allem sind etwa 300 Menschen gekommen, errechnet Zekri, »ein Häuflein Aufrechter«. Sie zitiert Luisa Neubauer, die vor dem Kanzleramt gerade »eine wirklich mitreißende Rede« hält, in der es zunächst um das Versagen der Regierung, aber dann »auch sehr viel um die Solidarität der deutschen Gesellschaft geht«, mit den Worten: »Wir sind nicht einsam. Guckt euch um!« Aber Zekri findet: »Das hätte sie mal besser nicht gesagt«. Dass »nicht eine Million, nicht hunderttausend«, sondern nur dieses kleine »Häuflein Aufrechter« erschienen ist, ist für sie »eine Katastrophe, ein Grund zum Haareraufen. Vor allem aber: ein Rätsel.« Und sie fragt sich: »Haben sie Antworten auf die Krise und die Passivität der Massen? Warum ist dieser Protest so eine Pleite?«
+
+Und Zekri sucht nach Gründen. »Kann es sein, dass die Klimabewegung es sich selbst versaut hat mit dem Mainstream durch zu viel Festkleben im Berufsverkehr? War das Kartoffelpüree auf Claude Monets Getreideschober im Potsdamer Museum Barberini wirklich nötig? Hätte Greta Thunberg wie jeder kluge Kinderstar, nicht auf politische Äußerungen, beispielsweise zu den Verhungernden in Gaza, verzichten können?«
+
+Fragen hat auch Luisa Neubauer, nur andere. Auf der Plattform Instagram wendet sie sich mit einem furiosen Beitrag (t.ly/0zKTk) gegen die für sie »unterkomplexe« Form der Berichterstattung. 
+
+Neubauer: »Wo ist denn eigentlich gerade die Klimabewegung? Fragt sich gerade jedes zweite Medienhaus mit Blick auf die Hitzewelle. Ich kann nicht fassen, in welcher Reflexhaftigkeit überlegt wird, ob man vielleicht nochmal einen ökologisch motivierten Teenager finden kann, während doch die große erste Frage im Raum sein sollte, wo zum Henker ist der Kanzler? Es ist unfassbar, in welcher Selbstverständlichkeit in dieser Form der Berichterstattung weggenuschelt wird, dass es Menschen gibt, die hauptamtlich dafür verantwortlich sind, dass Menschen vor diesen Katastrophen gewarnt und geschützt werden. Bei aller Liebe, aber wenn man sich wirklich für die Klimabewegung interessieren würde, dann kommt man nicht bei so einer ökologischen Katastrophe um die Ecke, um dann einmal sich umzugucken und festzustellen, oh, da ist ja gerade niemand, und dann aufzuschreiben, schade, den gibt es leider gerade nicht. Sondern, da fragt man wirklich mal nach. Dann fragt man mal die Hebammen, die gerade ihre Patienten vor Klimafolgen schützen. Dann befragt man mal die Landwirte, die sich zusammentun, um auf mehr Klimaschutz aufmerksam zu machen. Dann befragt man mal die Architekten, die seit Jahren dafür kämpfen, dass man Gebäude nachhaltiger baut. Dann befragt man mal die jungen Leute, wie es ihnen eigentlich gerade geht und wie es sich dann gerade anfühlt, immer wieder gegen Katastrophen kämpfen zu müssen, für die eigentlich Regierungen verantwortlich wären, um sich dann von irgendwelchen Medienhäusern anhören zu müssen, dass man gerade ja nicht engagiert genug ist und ob man vielleicht gerade zu viel Urlaub macht.
+
+Aber es ist eine Beleidigung für alle Menschen in diesem Land, die sich ehrenamtlich engagieren. Es ist eine Beleidigung für alle Menschen, die seit Jahren und Jahrzehnten vor Klimafolgen warnen. Es ist eine Beleidigung für alle, die in diesem Augenblick betroffen sind und angewiesen wären auf echte Verantwortungsübernahme. 
+
+ I‘m so sorry.«

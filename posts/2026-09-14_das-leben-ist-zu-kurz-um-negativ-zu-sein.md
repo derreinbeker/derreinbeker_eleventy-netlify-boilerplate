@@ -8,8 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-{% imageWithCaption "media/uploads/ed_pelzers.jpg" "" "Für Ed Pelzers gehören Bücher zum Leben
-" %}
+{% imageWithCaption "media/uploads/ed_pelzers.jpg" "" "Für Ed Pelzers gehören Bücher zum Leben" %}
 
 Reinbek/Marschacht – Als Key Account Manager ist Ed Pelzers viel unterwegs. Ein Zwölfstundentag ist für ihn nicht die Ausnahme. Der 60-jährige ist gebürtiger Niederländer und lebt seit 1988 in Deutschland. Sein Weg führte ihn damals direkt nach Hamburg. Später wohnte er unter anderem in Escheburg und Wentorf, heute ist Marschacht sein Zuhause. Wenn er über sein Leben erzählt, klingt es nach einem vollen Kalender und viel Zufriedenheit. Auch, weil sein Job eines seiner Lieblingsbeschäftigungen sei. Genau wie Bücher und Lesen. Seit 20 Jahren ist er bei den Bücherfreunden in Reinbek aktiv, seit April hat er den Vorsitz.
 

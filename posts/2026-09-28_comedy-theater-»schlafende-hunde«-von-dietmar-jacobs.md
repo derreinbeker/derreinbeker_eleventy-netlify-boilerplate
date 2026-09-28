@@ -9,8 +9,6 @@ tags:
   - Comedy
   - Theater
 ---
-
-
 {% imageWithCaption "media/uploads/annaschaefer.jpg" "" "FOTO: Andreas Endermann" %}
 
 Neuschönningstedt – Was passiert nicht alles in einer verrückten schlaflosen Nacht? Marie, die Hauptfigur in Anna Schäfers neuem und fulminantem Solo, kennt das Problem. Wie viele Menschen schläft sie schlecht, weil sie ihre Gedanken nicht stoppen kann. In der Nacht ploppen deshalb regelmäßig alle ihre seltsamen und hochkomischen Ideen auf, die sie ihren Freunden, Gegnern und der ganzen Welt immer schon mal mitteilen wollte.

@@ -1,0 +1,29 @@
+---
+titleintro: Menschen bei uns
+title: Engagement für Kirche, Recht und Gesellschaft
+description: Bundesverdienstkreuz für Dr. Henning von Wedel
+authorname: Imke Kuhlmann
+date: 2026-09-28T11:12:13.766Z
+category: Panorama
+tags:
+  - Menschen
+---
+
+
+{% imageWithCaption "media/uploads/vonwedel.jpg" "" "Dr. Henning von Wedel wurde für sein ehrenamtliches Engagement ausgezeichnet " %}
+
+Reinbek/Aumühle – Dr. Henning von Wedel ist mit dem Verdienstorden der Bundesrepublik Deutschland am Bande ausgezeichnet worden. Der 81-jährige Jurist, Anwalt und Mediator erhielt das Bundesverdienstkreuz am 15. September von Ministerpräsident Daniel Günther. Gewürdigt wurde damit sein jahrzehntelanges ehrenamtliches Engagement für die evangelische Kirche und  den gesellschaftlichen Zusammenhalt. Hinzu kommt sein Einsatz für Migration, Integration, den interreligiösen Austausch und seine Tätigkeit als Vermittler bei Konflikten.
+
+Von Wedel ist in Aumühle aufgewachsen und der dortigen Kirche seit seiner Kindheit eng verbunden. Schon als Junge sang er im Kirchenchor, zunächst in Wohltorf, später in Aumühle. Dort lernte er auch seine spätere Frau Johanna kennen. Ihr Vater, Hans-Jochen Arp, war Pastor in Aumühle. Als Arp in den Ruhestand ging, fragte er von Wedel, ob er sich eine Mitarbeit im Kirchenvorstand vorstellen könne. Damit begann eine ehrenamtliche Tätigkeit, die ihn über Jahrzehnte begleiten sollte. Das Engagement liegt bei von Wedel auch in der Familie. Sein Bruder war Kommunalpolitiker in Aumühle, seine Mutter wurde 1974 Vorsitzende des Roten Kreuzes in Aumühle. Auch sein Vater war viele Jahre im Vorstand der Aumühler Kirchengemeinde tätig.
+
+1984 kam von Wedel in den Kirchenvorstand in Aumühle, 1988 in die Kirchenkreissynode des Herzogtums Lauenburg. 1997 übernahm er den Vorsitz der Kirchenkreissynode im Kirchenkreis Lübeck-Lauenburg und blieb bis 2008 in diesem Amt. Ebenfalls ab 1997 führte ihn sein kirchliches Engagement auf die landeskirchliche Ebene. In der Nordelbischen Landessynode wurde er Vorsitzender des Rechtsausschusses. Mit der Bildung der Nordkirche übernahm er 2012 Verantwortung in der Kirchenleitung und war dort ebenfalls mit zahlreichen rechtlichen Fragen befasst. Als Jurist brachte er seine berufliche Erfahrung in die Gestaltung der neuen Landeskirche ein. An der Erarbeitung der Verfassung der Nordkirche war er als Vorsitzender des Verfassungsausschusses der Verfassungebenden Versammlung maßgeblich beteiligt. Auch das kirchliche Arbeitsrecht gehörte zu seinen Aufgaben. Weitere Schwerpunkte waren der Schutz von Kindern, Jugendlichen und Frauen vor sexualisierter Gewalt, die Erarbeitung eines Jugendgesetzes, sowie Fragen der Gleichberechtigung und der Beteiligung von Frauen in kirchlichen Ämtern.
+
+Von 2016 bis 2022 gehörte von Wedel außerdem der zwölften Synode der Evangelischen Kirche in Deutschland an. Mit seinen Aufgaben für die Nordkirche war er regelmäßig in verschiedenen Regionen unterwegs, auch in Mecklenburg-Vorpommern. Aus einem zunächst überschaubaren Ehrenamt von etwa fünf Stunden pro Woche wurde im Laufe der Jahre ein zeitlicher Aufwand von rund eineinhalb Tagen. »Mit dem Engagement für und in der Nordkirche musste ich auch zu vielen Terminen bis nach Mecklenburg-Vorpommern fahren«, sagt von Wedel. Bis zu 20.000 Kilometer im Jahr kamen dabei nach seinen Angaben zusammen.
+
+Sein ehrenamtliches Wirken reichte zugleich weit über die Kirche hinaus. Über viele Jahre engagierte er sich in der Hanseatischen Rechtsanwaltskammer Hamburg. Insgesamt kommen rund 20 Jahre ehrenamtliche Tätigkeit in der Anwaltsorganisation hinzu. Darüber hinaus war von Wedel 24 Jahre in der Satzungsversammlung der Bundesrechtsanwaltskammer unter anderem als Vorsitzender des Ausschusses für Internationales tätig. Seit 1995 beschäftigt er sich außerdem mit Fragen der Migration und arbeitet mit Vertretern anderer Religionen zusammen. Als Mediator war er wiederholt mit Konflikten befasst, bei denen unterschiedliche religiöse und kulturelle Werte eine Rolle spielten. Integration und Diversität im kirchlichen Leben gehörten ebenfalls zu seinen Themen.
+
+Beruflich blickt von Wedel auf mehr als 50 Jahre als Anwalt zurück. Der Wirtschaftsanwalt spezialisierte sich später insbesondere auf Gesellschafts- und Wettbewerbsrecht. Ende 2025 gab er seine Kanzlei in Hamburg auf. Ganz aus dem Berufsleben verabschiedet hat er sich jedoch nicht. Inzwischen arbeitet er in Reinbek weiter als Anwalt. »Ich berate Unternehmer vom Start bis zur Auflösung oder Insolvenz des Unternehmens«, beschreibt er seine heutige Tätigkeit. Sein letztes kirchliches Amt legte von Wedel Ende 2024 aus Altersgründen nieder. Er hatte sich selbst eine Grenze gesetzt: »Mit 80 ist Schluss.«
+
+Neben Beruf und Ehrenamt spielen persönliche Interessen eine wichtige Rolle. Eine seiner großen Leidenschaften ist das Lesen. Rund 10.000 Bücher stehen in seiner Bibliothek. Die Themen reichen von Kirche und Geschichte über Biografien bis zur Belletristik. In einem Literaturkreis tauscht er sich regelmäßig mit anderen über Bücher aus. Außerdem spielt von Wedel Querflöte. Gemeinsam mit seiner Frau geht er jeden Morgen im Tonteich schwimmen, lediglich im Winter wird pausiert. Mehr als 30 Jahre lang spielte er zudem regelmäßig Tennis. Von Wedel hat zwei erwachsene Kinder und sieben Enkelkinder.
+
+Die Initiative für die Verleihung des Bundesverdienstkreuzes ging von einem guten Freund aus. Mit der Auszeichnung wird ein jahrzehntelanges Engagement gewürdigt, das von der Aumühler Kirchengemeinde über Kirchenkreis, Nordkirche bis zur EKD (Evangelische Kirche Deutschland) führt. Was einst mit dem Singen im Kirchenchor begann, brachte von Wedel in zahlreiche kirchliche Leitungs- und Rechtsgremien. Sein juristisches Fachwissen, seine Erfahrung als Mediator und sein Einsatz für den Dialog zwischen Menschen unterschiedlicher Herkunft und Religionen prägten dabei viele Jahre seines ehrenamtlichen Wirkens.

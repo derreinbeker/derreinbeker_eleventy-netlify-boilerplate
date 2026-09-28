@@ -8,8 +8,7 @@ category: Politik
 tags:
   - Gesundheit
 ---
-{% imageWithCaption "media/uploads/defibrillator.jpg" "" "Defibrillatoren können schnell Leben retten
-" %}
+{% imageWithCaption "media/uploads/defibrillator.jpg" "" "Defibrillatoren können schnell Leben retten" %}
 
 Reinbek – In Reinbeks Schulen soll die Ausstattung für medizinische Notfälle verbessert werden. Die SPD-Fraktion hat angeregt, fehlende automatisierte externe Defibrillatoren (AED) anzuschaffen und zugleich die Erste-Hilfe-Ausbildung von Schülerinnen und Schülern auszubauen. Der politische Vorstoß wurde im Hauptausschuss beraten und erweitert. Die Verwaltung soll nun prüfen, wie die Schulen mit weiteren Geräten ausgestattet werden können und welche Fördermöglichkeiten dafür bestehen.
 

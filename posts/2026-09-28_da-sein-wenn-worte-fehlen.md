@@ -8,8 +8,6 @@ category: Kultur
 tags:
   - Hospiz
 ---
-
-
 {% imageWithCaption "media/uploads/vorstandhospizdienst.jpg" "" "Sie kümmern sich um die Belange des Vereins Stephanie Steinert (v.l.), Roy Johanissen, Anne Schuchardt, Dr. Jens Christiansen, Anke Bahr" %}
 
 Reinbek – Es muss nicht immer ein großes Gespräch sein. Manchmal reicht ein Kaffee, ein Spaziergang oder die gemeinsame Stille. Und manchmal ist selbst das nicht mehr möglich. Dann sitzt ein Mensch einfach am Bett eines anderen, hält vielleicht eine Hand und ist da. Genau darin liegt die Aufgabe der ehrenamtlichen Sterbebegleiter des ambulanten Hospizdienstes: Menschen in einer schwierigen Lebensphase nicht allein zu lassen.

@@ -8,9 +8,7 @@ category: Panorama
 tags:
   - Menschen
 ---
-
-
-{% imageWithCaption "media/uploads/vonwedel.jpg" "" "Dr. Henning von Wedel wurde für sein ehrenamtliches Engagement ausgezeichnet " %}
+{% imageWithCaption "media/uploads/vonwedel.jpg" "" "Dr. Henning von Wedel wurde für sein ehrenamtliches Engagement ausgezeichnet" %}
 
 Reinbek/Aumühle – Dr. Henning von Wedel ist mit dem Verdienstorden der Bundesrepublik Deutschland am Bande ausgezeichnet worden. Der 81-jährige Jurist, Anwalt und Mediator erhielt das Bundesverdienstkreuz am 15. September von Ministerpräsident Daniel Günther. Gewürdigt wurde damit sein jahrzehntelanges ehrenamtliches Engagement für die evangelische Kirche und  den gesellschaftlichen Zusammenhalt. Hinzu kommt sein Einsatz für Migration, Integration, den interreligiösen Austausch und seine Tätigkeit als Vermittler bei Konflikten.
 

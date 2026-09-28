@@ -1,0 +1,26 @@
+---
+titleintro: re-view
+title: Menschsein und  der Sprung ins Unbekannte
+description: "Die Dokumenta 15 enttäuschte 2022 viele Kunstfans und ließ mit
+  vielen Misstönen die Kunstszene ratlos zurück. So etwa urteilte seinerzeit
+  Deutschlandfunk Kultur. Und fragte: »Wie führen wir in Zukunft Kunstdebatten?«
+  In Die Zeit v. 17.9.26, interviewt Hanno Rautenberg Naomi Beckwith. Sie ist
+  Chefkuratorin des Guggenheim Museums in New York und die neue Leiterin der
+  Documenta 16, die im Juni 2027 in Kassel eröffnet wird. "
+authorname: Hartmuth Sandtner
+date: 2026-09-28T12:17:36.990Z
+category: Meinung
+tags:
+  - re-view
+---
+Die Dokumenta 15 enttäuschte 2022 viele Kunstfans und ließ mit vielen Misstönen die Kunstszene ratlos zurück. So etwa urteilte seinerzeit Deutschlandfunk Kultur. Und fragte: »Wie führen wir in Zukunft Kunstdebatten?« In Die Zeit v. 17.9.26, interviewt Hanno Rautenberg Naomi Beckwith. Sie ist Chefkuratorin des Guggenheim Museums in New York und die neue Leiterin der Documenta 16, die im Juni 2027 in Kassel eröffnet wird. Und sie positioniert sich gleich am Anfang des Gesprächs: »Hier geht es um eine Mission, die weit über das hinausweist, was im Augenblick geopolitisch geschieht. Deshalb bin ich ja Kuratorin geworden und habe Kunstgeschichte studiert: weil mich der weite Horizont interessiert.« Heute ist für sie eine Zeit, in der niemand mehr weiß, »wo man den Stecker ziehen kann«. Naomi Beckwith: »Also fragen wir, was unser Menschsein eigentlich ausmacht. Und wie wir uns durch diese neue Zeit bewegen können.«
+
+Beckwith will dabei auf die Techniken zurückgreifen, die Künstler für sich entwickelt haben, Improvisation zum Beispiel. Beckwith: »Improvisation ist die Praxis, ohne ein Skript klarzukommen, ohne Regeln zu arbeiten. Dabei geht es mir vor allem um die Frage, wie wir uns durch die Welt bewegen und wie es uns gelingen kann, ein Gefühl von Zuversicht zurückzugewinnen, obwohl die Welt auf dem Kopf steht.« Und sie erklärt ihre Gedanken: Es geht »um den Sprung ins Unbekannte. Schauen Sie, Künstler stehen vor einer nackten Leinwand, sie fangen an, ohne zu wissen, wohin sie am Ende gelangen werden. Oder denken Sie an Jazz, an die freie Improvisation. Man fängt einfach an, nichts ist vorgegeben. Kein Takt. Kein Rhythmus, keine Melodie.« 
+
+Beckwith: »Der Sprung ins Offene kann nur mit einem Gefühl des Vertrauens in sich selbst gelingen und, wenn man in einem Ensemble spielt, mit Vertrauen in die anderen.« Das ist für sie das Modell, das sie auf der Documenta 16 in den Vordergrund stellen will. Dabei geht es um Fähigkeiten, die es braucht, um in einem Moment des Zerfalls zurechtzukommen, wenn plötzlich alles verschwunden ist, was das eigene Leben zusammenhielt. Sie hält nichts von provokativer Kunst, die nur darauf abzielt, »eine emotionale Reaktion aus den Menschen herauszukitzeln. Es ist im Moment nicht die Zeit dafür. Wir haben zu viele Politiker, die mit Provokationen arbeiten. Die Frage, die unsere Documenta stellen soll, lautet: Was ist sonst noch möglich in der Welt? Was belebt den Diskurs?« Dabei geht es ihr um neue, unvertraute Wege, nicht nur in der Kunst, sondern auch in der Vermittlung und Interaktion.
+
+Beckwith ist auf der South Side von Chicago aufgewachsen. »Da lag die Kunst einfach in der Luft. Überall war Musik, Theater, Tanz, all das.« Sie erzählt, sie spielte Flöte, Klavier, tanzte beim Ballett, aber keine ihrer Fähigkeiten war besonders ungewöhnlich. »Doch ich begriff damals: Selbst wenn die eigenen Fähigkeiten in der Mehrheitskultur nicht geschätzt werden, kann man immer noch etwas zu seiner Gemeinschaft beitragen. Ich habe American Football gespielt. Ziemlich aggressiv, das muss ich zugeben. Ich mochte es. Und unter den Mitspielern damals in New York waren sehr viele Künstler. Was natürlich aus diesem Football-Gefühl erwächst, ist Vertrauen, Vertrauen auch im Wettkampf.«
+
+Zum Menschsein gehört Malchin oder jede andere funktionierende Gemeinschaft anderswo. Uta Berghöfer erzählt im der Freitag v. 17.9. von ihren Erfahrungen in Malchin, einer Kleinstadt in Mecklenburg-Vorpommern. Sie habe dort Wurzeln geschlagen, sagt sie. Sie erlebe dort so viele Menschen, für die das Mitgestalten von Gesellschaft ein zentrales Anliegen sei, die anpacken wollen, die ihr Wissen, ihre Fähigkeiten und ihre Zeit einbringen für das Gemeinwohl, das jenseits liege von Familie und Staat. Wenn Menschen ihr dort von ihrer Heimat erzählen, dann gehe es um eine enge Verbundenheit mit dem, was unmittelbar da ist: »und da sind die Seen, die Dörfer, die Wälder, die Gärten, die Wiesen, die Flüsse, die Küste.« Berghöfer: »Ich träume von dezentralen und weniger hierarchischen Strukturen. Wir brauchen es nicht, dass uns jemand aus der Hauptstadt Kultur aufs Land bringt oder Förderprogramme geschrieben werden für innovative Pilotprojekte, in denen aber schon festgelegt wird, wie die Innovation auszusehen hat.«
+
+Da sind sie wieder, die »neuen, unvertrauten Wege«, um die es Naomi Beckwith geht. Sie schließt ihr Interview mit dem Satz: »Die Documenta 16 ist mein Sprung ins Unbekannte.« – Kann es uns heute helfen, sich daran zu erinnern, dass auch jedes Menschsein genau so beginnt – »ohne ein Skript«?

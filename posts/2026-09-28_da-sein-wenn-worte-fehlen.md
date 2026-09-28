@@ -1,0 +1,27 @@
+---
+titleintro: Verein seit 2001
+title: Da sein, wenn Worte fehlen
+description: 25 Jahre Hospizarbeit in Reinbek
+authorname: Imke Kuhlmann
+date: 2026-09-28T11:25:14.988Z
+category: Kultur
+tags:
+  - Hospiz
+---
+
+
+{% imageWithCaption "media/uploads/vorstandhospizdienst.jpg" "" "Sie kümmern sich um die Belange des Vereins Stephanie Steinert (v.l.), Roy Johanissen, Anne Schuchardt, Dr. Jens Christiansen, Anke Bahr" %}
+
+Reinbek – Es muss nicht immer ein großes Gespräch sein. Manchmal reicht ein Kaffee, ein Spaziergang oder die gemeinsame Stille. Und manchmal ist selbst das nicht mehr möglich. Dann sitzt ein Mensch einfach am Bett eines anderen, hält vielleicht eine Hand und ist da. Genau darin liegt die Aufgabe der ehrenamtlichen Sterbebegleiter des ambulanten Hospizdienstes: Menschen in einer schwierigen Lebensphase nicht allein zu lassen.
+
+Seit 25 Jahren gibt es den Verein. Seine Anfänge reichen bis etwa ins Jahr 2000 zurück. Ein wichtiger Impuls kam nach den Erinnerungen von Gründungsmitgliedern von Pastor Gerhard Gerding, der durch seine Jugendarbeit mit dem Hospizgedanken in Berührung gekommen war und ihn nach Reinbek brachte. Gemeinsam mit engagierten Menschen aus der Kirchengemeinde nahm die Idee Gestalt an. Zu den prägenden Persönlichkeiten der Anfangszeit gehörten unter anderem Helga Valentiner-Brandt und Schwester Gerlinde. 2001 wurde schließlich der Verein gegründet. Branth übernahm den Vorsitz und war zugleich die erste Koordinatorin. Gemeinsam mit drei weiteren Sterbebegleiterinnen begann die praktische Arbeit. Die Idee war von Anfang an, schwer kranke und sterbende Menschen ebenso wie ihre Angehörigen zu unterstützen, unabhängig davon, ob sie zu Hause oder in einer Einrichtung leben.
+
+Heute stehen 21 ehrenamtliche Sterbebegleiter zur Verfügung. Die Koordination der Einsätze übernimmt eine hauptamtliche Mitarbeiterin, die Koordinatorin Anne Schuchardt. Sie führt die ersten Gespräche, verschafft sich ein Bild von der Situation und sucht anschließend, den passenden Begleiter. Denn Sterbebegleitung ist auch eine Frage der Persönlichkeit. »Wir sind nicht alle gleich«, sagt Stephanie Steinert, Vorstandsmitglied. Entscheidend sei deshalb, dass die Chemie zwischen Begleiter und dem begleiteten Menschen stimme. Ein festes Programm gibt es nicht. Vielmehr beginnt jede Begleitung mit der Frage: Was braucht dieser Mensch jetzt? Vielleicht möchte jemand spazieren gehen, ein Eis essen oder einfach erzählen. Vielleicht geht es auch nur darum, gemeinsam am Tisch zu sitzen. Und in der letzten Lebensphase kann aus dem Gespräch ein stilles Dasein werden.
+
+Auch Angehörige geraten dabei in den Blick. Nicht selten sind sie es, die beim Hospizverein anrufen. Doch eine Begleitung gegen den Willen des Betroffenen gibt es nicht. Der Mensch entscheidet selbst, ob er Unterstützung möchte. Manchmal zeigt sich im Verlauf einer Begleitung auch, dass nicht nur der Erkrankte jemanden zum Reden braucht. Dann können zwei Ehrenamtliche gemeinsam begleiten, einer kümmert sich um den schwer kranken Menschen, während der andere Zeit für den Angehörigen hat. Wie lange eine solche Begleitung dauert, lässt sich nicht vorhersagen. Auch die Häufigkeit richtet sich nach der Situation. Einmal pro Woche ist üblich, in der letzten Phase kann eine Begleitung aber auch häufiger notwendig werden. Dann teilen sich gegebenenfalls mehrere Ehrenamtliche die Aufgabe.
+
+Auf diese Arbeit werden die Begleiter vorbereitet. Die Ausbildung vermittelt Wissen über den Sterbeprozess und mögliche körperliche und emotionale Veränderungen, aber auch praktische Möglichkeiten der Unterstützung. Hinzu kommen regelmäßige Fortbildungen und Supervision. Pflegeaufgaben gehören ausdrücklich nicht zum Tätigkeitsfeld. Was sich dagegen nicht einfach lernen lässt, ist die persönliche Haltung. Empathie, Geduld und die Fähigkeit, schwierige Situationen auszuhalten, gehören zu den Voraussetzungen. Wer einen sterbenden Menschen begleitet, begegnet schließlich immer auch der eigenen Vorstellung von Abschied und Tod. Das kann herausfordernd sein und ist nicht für jeden Menschen das Richtige.
+
+In 25 Jahren hat sich die Hospizarbeit zugleich weiterentwickelt. In den ersten zehn Jahren wurden nach Angaben des Vereins etwa 100 Menschen begleitet. Heute schwankt die Zahl der Anfragen deutlich. Es gibt Phasen mit vielen Anfragen und Zeiten, in denen weniger Begleitungen benötigt werden. Organisiert ist der Verein im Hospizverbund im Osten Hamburgs. Dahinter steht die langjährige Zusammenarbeit mit den Hospizstrukturen in Bergedorf. Ursprünglich gab es sogar die Überlegung, gemeinsam ein stationäres Hospiz aufzubauen. Das Vorhaben ließ sich letztlich nicht realisieren. Die ambulante Begleitung blieb jedoch bestehen. Finanziert wird die Arbeit vor allem durch Spenden und Mitgliedsbeiträge. Bis auf die Koordination arbeiten die Beteiligten ehrenamtlich. Gerade deshalb ist die Zukunft des Vereins auch eine Frage des Engagements. Im November steht eine Vorstandswahl an. Neue Kandidatinnen und Kandidaten werden gesucht.
+
+Das 25-jährige Bestehen wird im geschlossenen Kreis gefeiert. Zum Jubiläum spielen die vier Musiker des BlomenQuartetts, außerdem sind Grußworte und die Würdigung der noch lebenden Gründungsmitglieder vorgesehen. Auch die Bewohner des Augustinums sind eingeladen. Nach dem offiziellen Teil soll gemeinsam gegessen werden.

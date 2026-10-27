@@ -6,7 +6,7 @@ authorname: Imke Kuhlmann
 date: 2026-10-12T10:26:37.501Z
 category: Panorama
 tags:
-  - jugend
+  - Jugend
 ---
 
 

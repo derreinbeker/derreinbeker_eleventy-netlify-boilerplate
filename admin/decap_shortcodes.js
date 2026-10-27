@@ -81,11 +81,13 @@ CMS.registerEditorComponent({
         default: "",
     },
   ],
-  pattern: /^{% +imageWithCaption +"((?:[^\\"]+|\\.)*)" +"((?:[^\\"]+|\\.)*)" +"((?:[^\\"]+|\\.)*)" +%}/ms,
+  // Bildunterschrift (3. Parameter) ist optional. Die Form [^\\"]*(?:\\.[^\\"]*)* vermeidet
+  // das extreme Backtracking von ((?:[^\\"]+|\\.)*), das den Editor einfrieren ließ.
+  pattern: /^{% +imageWithCaption +"([^\\"]*(?:\\.[^\\"]*)*)" +"([^\\"]*(?:\\.[^\\"]*)*)"(?: +"([^\\"]*(?:\\.[^\\"]*)*)")? +%}/ms,
   fromBlock: function(match) {
       const matchOne = match[1];
       const matchTwo = match[2];
-      const matchThree = match[3];
+      const matchThree = match[3] || "";
       return {
           src: matchOne,
           alt: matchTwo,

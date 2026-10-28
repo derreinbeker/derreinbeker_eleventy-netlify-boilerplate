@@ -10,6 +10,9 @@ const imageWithCaption = async function (src, alt, figcaption, widths = [400, 80
         formats: [...formats],
         outputDir: '_site/media/generated',
         urlPath: '/media/generated',
+        // Netlify erzeugt bei jedem Deploy alle Bilder neu. Effort 2 statt 4 macht die
+        // AVIF-Kodierung rund sechsmal schneller, die Dateien werden nur ca. 1 % größer.
+        sharpAvifOptions: { effort: 2 },
     });
     let imageAttributes = {
         alt,

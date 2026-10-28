@@ -14,6 +14,10 @@ export const cleanupCharactersNotAllowedInXML = function (code) {
     var replacedCode = code.replace(replacementExpression, "");
     return replacedCode;
 };
+// Für den Feed: <style>-Blöcke aus Artikeln entfernen, Feedreader können damit nichts anfangen
+export const removeStyleTags = function (code) {
+    return code.replace(/<style\b[^>]*>[\s\S]*?<\/style>\s*/gi, "");
+};
 export const descriptionOfPrintEditionFilename = function (printeditionFileName) {
     var filenameWithoutExtension = path.parse(printeditionFileName).name;
     return DateTime.fromISO(filenameWithoutExtension).setLocale('de').toFormat("dd.LL.");
@@ -68,6 +72,7 @@ export const excerpt = function (content) {
 export default {
     head,
     cleanupCharactersNotAllowedInXML,
+    removeStyleTags,
     descriptionOfPrintEditionFilename,
     validDateStringOfPrintEditionFilename,
     startsWithString,

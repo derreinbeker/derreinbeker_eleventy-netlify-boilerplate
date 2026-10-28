@@ -25,7 +25,7 @@ eleventyExcludeFromCollections: true
     <author>
       <name>{{ post.data.authorname | escape }}</name>
     </author>
-    <content type="html">{{ post.templateContent | cleanupCharactersNotAllowedInXML | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+    <content type="html">{{ post.templateContent | cleanupCharactersNotAllowedInXML | removeStyleTags | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
   {%- endfor %}
 </feed>

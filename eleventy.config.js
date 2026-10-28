@@ -15,6 +15,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addFilter('head', filters.head);
     eleventyConfig.addFilter('validDateStringOfPrintEditionFilename', filters.validDateStringOfPrintEditionFilename);
     eleventyConfig.addFilter('cleanupCharactersNotAllowedInXML', filters.cleanupCharactersNotAllowedInXML);
+    eleventyConfig.addFilter('removeStyleTags', filters.removeStyleTags);
     eleventyConfig.addFilter('descriptionOfPrintEditionFilename', filters.descriptionOfPrintEditionFilename);
     eleventyConfig.addFilter('startsWithString', filters.startsWithString);
     eleventyConfig.addFilter('cssmin', filters.cssmin);

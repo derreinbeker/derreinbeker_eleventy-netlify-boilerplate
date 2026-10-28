@@ -17,13 +17,13 @@ eleventyExcludeFromCollections: true
   {%- for post in collections.posts | head(-20) %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
-    <title>{{ post.data.title }}</title>
-    <summary>{{ post.data.description }}</summary>
+    <title>{{ post.data.title | escape }}</title>
+    <summary>{{ post.data.description | escape }}</summary>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <author>
-      <name>{{ post.data.authorname }}</name>
+      <name>{{ post.data.authorname | escape }}</name>
     </author>
     <content type="html">{{ post.templateContent | cleanupCharactersNotAllowedInXML | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>

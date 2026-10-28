@@ -8,10 +8,13 @@ const imageWithCaption = async function (src, alt, figcaption, widths = [400, 80
     let metadata = await Image(src, {
         widths: [...widths],
         formats: [...formats],
-        outputDir: '_site/media/generated',
+        // Bilder landen in .cache, damit sie zwischen Netlify-Builds erhalten bleiben
+        // (siehe netlify/plugins/cache-eleventy). eleventy.config.js kopiert sie nach dem
+        // Build nach _site/media/generated.
+        outputDir: '.cache/media/generated',
         urlPath: '/media/generated',
-        // Netlify erzeugt bei jedem Deploy alle Bilder neu. Effort 2 statt 4 macht die
-        // AVIF-Kodierung rund sechsmal schneller, die Dateien werden nur ca. 1 % größer.
+        // Effort 2 statt 4 macht die AVIF-Kodierung rund sechsmal schneller,
+        // die Dateien werden nur ca. 1 % größer.
         sharpAvifOptions: { effort: 2 },
     });
     let imageAttributes = {

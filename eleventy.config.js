@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import htmlmin from "html-minifier-terser";
 import filters from "./_11ty/filters.js";
@@ -49,6 +51,15 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("_includes/assets/");
     eleventyConfig.addPassthroughCopy("_redirects");
+    // Von imageWithCaption erzeugte Bilder aus dem Cache in die Ausgabe kopieren
+    eleventyConfig.on("eleventy.after", () => {
+        const imageCache = ".cache/media/generated";
+        if (fs.existsSync(imageCache)) {
+            fs.cpSync(imageCache, path.join(eleventyConfig.directories.output, "media/generated"), {
+                recursive: true
+            });
+        }
+    });
     // eleventy-plugins-rss
     eleventyConfig.addPlugin(pluginRss);
     /* Markdown Plugins */

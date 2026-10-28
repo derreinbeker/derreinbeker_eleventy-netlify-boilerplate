@@ -7,6 +7,9 @@ backend:
 # npx decap-server
 # npx netlify-cms-proxy-server
 
+# Neuere decap-cms-Versionen bereinigen die Vorschau standardmäßig (sanitize_preview);
+# das entfernt u. a. <style>-Blöcke in Artikeln. Deshalb beim Feld "body" abgeschaltet.
+
 media_folder: "media/uploads"
 
 collections:
@@ -24,7 +27,7 @@ collections:
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: 'Kategorie', name: 'category', required: true, widget: 'select', options: ['Panorama', 'Kultur', 'Politik', 'Meinung'] }
       - { label: "Themen (durch Komma trennen)", name: "tags", widget: "list" }
-      - { label: "Inhalt", name: "body", widget: "markdown" }
+      - { label: "Inhalt", name: "body", widget: "markdown", sanitize_preview: false }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
